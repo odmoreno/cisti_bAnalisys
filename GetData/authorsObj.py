@@ -1,0 +1,46 @@
+# Definir la clase para los autores
+
+import uuid
+import hashlib
+
+class Author:
+    def __init__(self, name, prov, country, region):
+        self.name = name
+        self.prov = prov
+        self.country = country
+        self.region = region
+        self.key = self.generate_key(self.name)
+    def __repr__(self):
+        return f"Author(name={self.name}, prov={self.prov}, country={self.country})"
+    def generate_key(self, name):
+        #key = f"{name_cleaned}_{unique_id}"
+        # Convertir el nombre del autor a minúsculas y sin espacios
+        name_cleaned = name.lower().replace(' ', '')
+        # Crear un objeto de resumen de mensaje MD5
+        hasher = hashlib.md5()
+        # Actualizar el objeto de resumen con el nombre del autor
+        hasher.update(name_cleaned.encode())
+        # Obtener el valor hash hexadecimal
+        key = hasher.hexdigest()
+        return key
+
+    def create_aff_object(self, name, year):
+        code = self.generate_key(name)
+        codename = self.name.replace(" ", "")
+        affiliation = {
+            "id": code,
+            "code": codename,
+            "name": name,
+            "country": self.country,
+            "region": self.region,
+            "year": year
+        }
+        self.aff_object = affiliation
+
+    def to_dict(self):
+        return {
+            'id': self.key,
+            'name': self.name,
+            'affiliations': self.aff_object
+        }
+
