@@ -21,7 +21,7 @@ def loop_years_list():
     extractdata = ExtractData()
 
     for element in years:
-        filename = mainpath + element + '.csv'
+        filename = '../'+mainpath + element + '.csv'
         papers_in_this_year, min_papers = extractdata.leer_csv_y_crear_objetos_dict(filename, element)
         print('fin')
         filejson = 'GetData/Data/full' + element + '.json'

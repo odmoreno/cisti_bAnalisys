@@ -5,12 +5,13 @@ from common_functions import *
 
 import csv
 import uuid
+import re
 
 class ExtractData:
     def __init__(self):
         self.authorsDict = {}
         self.affiliationsDict = {}
-        self.paisesxregion = load_generic('Data/paises.json')
+        self.paisesxregion = load_generic('../Data/paises.json')
 
     # Función para leer el archivo CSV, crear objetos y almacenarlos en un diccionario
     def leer_csv_y_crear_objetos_dict(self, archivo_csv, year):
@@ -61,16 +62,40 @@ class ExtractData:
         # Crear una lista de objetos Author
         authors_objects = []
         for name, affiliation in zip(autores, affiliaciones):
-            # Dividir la afiliación en provincia (prov) y país
-            affiliation_parts = affiliation.split(', ')
-            nameAff = affiliation[0]
-            prov = affiliation_parts[1]
-            country = affiliation_parts[2]
-            paisObject = self.paisesxregion[country.lower()]
+            try:
+                # Dividir la afiliación en provincia (prov) y país
+                affiliation_parts = affiliation.split(', ')
+                affiliations = self.extract_universities(affiliation_parts)
 
-            author = Author(name, prov, paisObject['country'], paisObject['continent'])
-            author.create_aff_object(nameAff, year)
-            todict = author.to_dict()
-            authors_objects.append(todict)
+                country = affiliation_parts[-1]
+                paisObject = self.paisesxregion[country.lower()]
+
+                author = Author(name, paisObject['country'], paisObject['continent'])
+                author.create_aff_object(affiliations[0], year)
+                author.rawAff = affiliations
+                if len(affiliations) > 1:
+                    print("tiene mas de 1")
+                    author.hasMoreAff = True
+                    author.otherAff = affiliations[1]
+
+                todict = author.to_dict()
+                authors_objects.append(todict)
+            except Exception as e:
+                print(e)
+
 
         return authors_objects
+
+    def extract_universities(self, affiliation):
+        # Expresión regular para buscar palabras relacionadas con "universidad" en varios idiomas
+        regex = r"(?i)(\b(?:Universidad|University|Universidade|Universitat|Instituto|Polytechnic)\b[\w\s,']+)"
+        matches = []
+        for element in affiliation:
+            word = re.findall(regex, element)
+            match = re.search(regex, element)
+            if len(word)>0:
+                wordsito = match.group()
+                matches.append(word[0])
+        return matches
+
+

@@ -4,14 +4,18 @@ import uuid
 import hashlib
 
 class Author:
-    def __init__(self, name, prov, country, region):
+    def __init__(self, name, country, region):
         self.name = name
-        self.prov = prov
+        #self.prov = prov
         self.country = country
         self.region = region
         self.key = self.generate_key(self.name)
+        self.hasMoreAff = False
+        self.rawAff = []
+        self.otherAff = ''
+
     def __repr__(self):
-        return f"Author(name={self.name}, prov={self.prov}, country={self.country})"
+        return f"Author(name={self.name}, country={self.country}, region={self.region})"
     def generate_key(self, name):
         #key = f"{name_cleaned}_{unique_id}"
         # Convertir el nombre del autor a minúsculas y sin espacios
@@ -23,6 +27,7 @@ class Author:
         # Obtener el valor hash hexadecimal
         key = hasher.hexdigest()
         return key
+
 
     def create_aff_object(self, name, year):
         code = self.generate_key(name)
@@ -41,6 +46,9 @@ class Author:
         return {
             'id': self.key,
             'name': self.name,
-            'affiliations': self.aff_object
+            'affiliations': self.aff_object,
+            'hasMoreAff': self.hasMoreAff,
+            'otherAff': self.otherAff,
+            'rawAff': self.rawAff
         }
 
