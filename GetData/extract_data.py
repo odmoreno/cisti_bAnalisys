@@ -13,6 +13,24 @@ class ExtractData:
         self.affiliationsDict = {}
         self.paisesxregion = load_generic('../Data/paises.json')
 
+        self.prioridades = {
+            "Universidad": 1,
+            "University": 2,
+            "Universidade": 3,
+            "Universitat": 4,
+            "Polytechnic": 5,
+            "Politécnica": 5,
+            "Instituto": 6,
+            "Institute": 6,
+            "Center": 7,
+            "Centro": 7,
+            "School": 8,
+            "Escola": 9,
+            "Department": 10,
+            "Ministerio": 11,
+            "Campus": 11,
+        }
+
     # Función para leer el archivo CSV, crear objetos y almacenarlos en un diccionario
     def leer_csv_y_crear_objetos_dict(self, archivo_csv, year):
         # Diccionario para almacenar los objetos
@@ -67,12 +85,21 @@ class ExtractData:
                 affiliation_parts = affiliation.split(', ')
                 affiliations = self.extract_universities(affiliation_parts)
 
-                country = affiliation_parts[-1]
-                paisObject = self.paisesxregion[country.lower()]
+                if len(affiliations) == 0:
+                    print("OJO")
+                    affiliations = [affiliation_parts[0]]
 
-                author = Author(name, paisObject['country'], paisObject['continent'])
+                country = affiliation_parts[-1]
+                pais = ''
+                region = ''
+                if country.lower() in self.paisesxregion:
+                    paisObject = self.paisesxregion[country.lower()]
+                    pais = paisObject['country']
+                    region = paisObject['continent']
+
+                author = Author(name, pais, region)
                 author.create_aff_object(affiliations[0], year)
-                author.rawAff = affiliations
+                author.rawAff = affiliation
                 if len(affiliations) > 1:
                     print("tiene mas de 1")
                     author.hasMoreAff = True
@@ -82,20 +109,47 @@ class ExtractData:
                 authors_objects.append(todict)
             except Exception as e:
                 print(e)
-
+                author = Author(name, '', '')
+                author.rawAff = affiliation
 
         return authors_objects
 
     def extract_universities(self, affiliation):
         # Expresión regular para buscar palabras relacionadas con "universidad" en varios idiomas
-        regex = r"(?i)(\b(?:Universidad|University|Universidade|Universitat|Instituto|Polytechnic)\b[\w\s,']+)"
+        # regex = r"(?i)(\b(?:Universidad|University|Universidade|Universitat|Instituto|Polytechnic|Center|School|Escola)\b[\w\s,']+)"
+        regex = r"([^']*(?:Universidad|University|Universidade|Universitat|Instituto|Polytechnic|Politécnica|Institute|Center|Centro|School|Escola|Department|Ministerio|Campus)[^']*)"
+
         matches = []
+
         for element in affiliation:
-            word = re.findall(regex, element)
-            match = re.search(regex, element)
-            if len(word)>0:
-                wordsito = match.group()
-                matches.append(word[0])
-        return matches
+           try:
+               word = re.findall(regex, element)
+               match = re.search(regex, element)
+               if len(word) > 0:
+                   cleanWord = word[0].strip()
+                   wordsito = match.group()
+                   matches.append(cleanWord)
+           except Exception as e:
+               print(f'error {e}')
 
+        print("Matches sin ordenar:", matches)
+        # Ordenar los matches según la prioridad de las palabras clave
+        # matches.sort(key=lambda x: keyword_priority.get(re.findall(regex, x)[0], float('inf')))
+        # Ordenar los matches según la prioridad de las palabras clave
+        # matches.sort(key=lambda x: keyword_priority.get(x, float('inf')))
 
+        lista_ordenada = self.ordenar_segun_prioridad(matches)
+
+        print("Matches ordenados:", lista_ordenada)
+        return lista_ordenada
+
+    def ordenar_segun_prioridad(self, lista):
+        # Diccionario de prioridad de palabras clave
+        return sorted(lista, key=self.mi_criterio)
+
+    def mi_criterio(self, item):
+        for palabra, prioridad in self.prioridades.items():
+            if palabra in item:
+                return prioridad
+        # Si ninguna palabra clave está presente, se coloca al final
+        return len(self.prioridades) + 1

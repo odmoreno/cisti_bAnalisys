@@ -24,8 +24,8 @@ def loop_years_list():
         filename = '../'+mainpath + element + '.csv'
         papers_in_this_year, min_papers = extractdata.leer_csv_y_crear_objetos_dict(filename, element)
         print('fin')
-        filejson = 'GetData/Data/full' + element + '.json'
-        filejson2 = 'GetData/Data/min' + element + '.json'
+        filejson = 'Data/full/' + element + '.json'
+        filejson2 = 'Data/min/' + element + '.json'
         # Guardar el diccionario en el archivo JSON
         save_generic(filejson, papers_in_this_year)
         save_generic(filejson2, min_papers)
