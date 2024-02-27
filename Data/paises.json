@@ -123,6 +123,10 @@
     "country": "Brazil",
     "continent": "South America"
   },
+  "sp": {
+    "country": "Brazil",
+    "continent": "South America"
+  },
   "british indian ocean territory": {
     "country": "British Indian Ocean Territory",
     "continent": "Africa"
@@ -563,6 +567,10 @@
     "country": "Mexico",
     "continent": "North America"
   },
+  "méxico": {
+    "country": "Mexico",
+    "continent": "North America"
+  },
   "micronesia, federated states of": {
     "country": "Micronesia, Federated States of",
     "continent": "Oceania"
@@ -683,6 +691,10 @@
     "country": "Panama",
     "continent": "North America"
   },
+  "panamá": {
+    "country": "Panama",
+    "continent": "North America"
+  },
   "papua new guinea": {
     "country": "Papua New Guinea",
     "continent": "Oceania"
@@ -692,6 +704,10 @@
     "continent": "South America"
   },
   "peru": {
+    "country": "Peru",
+    "continent": "South America"
+  },
+  "perú": {
     "country": "Peru",
     "continent": "South America"
   },
@@ -732,6 +748,10 @@
     "continent": "Europe"
   },
   "russian": {
+    "country": "Russian",
+    "continent": "Europe"
+  },
+  "russia": {
     "country": "Russian",
     "continent": "Europe"
   },
@@ -947,6 +967,10 @@
     "country": "United States",
     "continent": "North America"
   },
+  "usa": {
+    "country": "United States",
+    "continent": "North America"
+  },
   "united states minor outlying islands": {
     "country": "United States Minor Outlying Islands",
     "continent": "Oceania"
@@ -1006,5 +1030,29 @@
   "zimbabwe": {
     "country": "Zimbabwe",
     "continent": "Africa"
+  },
+  "españa": {
+    "country": "España",
+    "continent": "Europe"
+  },
+  "espanha": {
+    "country": "España",
+    "continent": "Europe"
+  },
+  "bragança": {
+    "country": "Portugal",
+    "continent": "Europe"
+  },
+  "lisboa": {
+    "country": "Portugal",
+    "continent": "Europe"
+  },
+  "coimbra": {
+    "country": "Portugal",
+    "continent": "Europe"
+  },
+  "madrid": {
+    "country": "España",
+    "continent": "Europe"
   }
 }
