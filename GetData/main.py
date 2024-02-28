@@ -30,7 +30,6 @@ def loop_years_list():
         save_generic(filejson, papers_in_this_year)
         save_generic(filejson2, min_papers)
 
-
 if __name__ == '__main__':
     loop_years_list()
     
