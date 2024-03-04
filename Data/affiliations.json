@@ -7926,7 +7926,23 @@
     "code": "institutosuperiortecnológicoloja",
     "type": "affcode"
   },
-  "universidadregionalautónomadelosandes": {
+  "universidadregionalautónomadelos": {
+    "name": "universidad regional autónoma de los andes",
+    "fullname": "universidad regional autónoma de los andes",
+    "country": "Ecuador",
+    "region": "South America",
+    "code": "universidadregionalautónomadelosandes",
+    "type": "affcode"
+  },
+  "universidadregionalautonomadelosandesuniandes.decanodelafacultaddedirecciondeempresas": {
+    "name": "universidad regional autónoma de los andes",
+    "fullname": "universidad regional autónoma de los andes",
+    "country": "Ecuador",
+    "region": "South America",
+    "code": "universidadregionalautónomadelosandes",
+    "type": "affcode"
+  },
+  "carreradesistemasuniversidadregionalautonomadelosandes-uniandes-km.": {
     "name": "universidad regional autónoma de los andes",
     "fullname": "universidad regional autónoma de los andes",
     "country": "Ecuador",
@@ -18673,6 +18689,33 @@
     "country": "china",
     "region": "Asia",
     "code": "schoolofcomputerscienceandtechnology",
+    "new": true,
+    "id": ""
+  },
+  "grupodeinvestigacionensistemasinteligentes(wicom-energy)andadhocnetworksresearchcenter(cirad)": {
+    "name": "Grupo de Investigación en Sistemas Inteligentes (WiCOM-Energy)",
+    "fullname": "Grupo de Investigación en Sistemas Inteligentes (WiCOM-Energy) and Ad Hoc Networks Research Center (CIRAD)",
+    "country": "Ecuador",
+    "region": "South America",
+    "code": "grupodeinvestigacionensistemasinteligentes(wicom-energy)andadhocnetworksresearchcenter(cirad)",
+    "new": true,
+    "id": ""
+  },
+  "universityofmadridav.universidad": {
+    "name": "University of Madrid Av. Universidad",
+    "fullname": "University of Madrid Av. Universidad",
+    "country": "España",
+    "region": "Europe",
+    "code": "universityofmadridav.universidad",
+    "new": true,
+    "id": ""
+  },
+  "universidadtecnologicadepanama": {
+    "name": "Universidad Tecnológica de Panamá",
+    "fullname": "Universidad Tecnológica de Panamá",
+    "country": "Panama",
+    "region": "Central America",
+    "code": "universidadtecnologicadepanama",
     "new": true,
     "id": ""
   }

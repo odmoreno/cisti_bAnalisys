@@ -20,7 +20,8 @@ class Author:
     def generate_key(self, name):
         #key = f"{name_cleaned}_{unique_id}"
         # Convertir el nombre del autor a minúsculas y sin espacios
-        name_cleaned = unidecode(name.lower().replace(' ', ''))
+        sinacentoname = unidecode(name)
+        name_cleaned = sinacentoname.lower().replace(' ', '')
         # Crear un objeto de resumen de mensaje MD5
         hasher = hashlib.md5()
         # Actualizar el objeto de resumen con el nombre del autor
@@ -33,14 +34,15 @@ class Author:
     def create_aff_object(self, name, year):
         code = self.generate_key(name)
         codename = unidecode(name.replace(" ", "").lower())
-
+        codename = ''.join(e for e in codename if e.isalnum())
         affiliation = {
             "id": code,
             "code": codename,
             "name": name,
             "country": self.country,
             "region": self.region,
-            "year": year
+            "year": year,
+            "rawAff": self.rawAff
         }
         self.aff_object = affiliation
 

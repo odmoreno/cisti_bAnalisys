@@ -7,12 +7,22 @@ import csv
 import uuid
 import re
 
+# Obtén la ruta actual del script
+script_dir = os.path.dirname(os.path.realpath(__file__))
+# Cambia el directorio de trabajo al directorio del script
+os.chdir(script_dir)
+
+current_directory = os.getcwd()
+print("Directorio de trabajo actual:", os.getcwd())
+
 class ExtractData:
     def __init__(self):
         self.authorsDict = {}
         self.affiliationsDict = {}
         self.mainPapers = {}
-        self.paisesxregion = load_generic('Data/paises.json')
+        self.paisesxregion = load_generic('../Data/paises.json')
+        self.affiliations = load_generic('../Data/affiliations.json')
+        self.backUPAffs = load_generic('Data/affiliations.json')
 
         self.prioridades = {
             "Universidad": 1,
@@ -58,12 +68,6 @@ class ExtractData:
                                    row['Publisher'])
 
                 todict = objeto.to_dict()
-                '''
-                # Generar una clave aleatoria para el objeto basada en el DOI si está presente
-                clave = str(uuid.uuid4())
-                if 'DOI' in row:
-                    clave = str(uuid.uuid5(uuid.NAMESPACE_DNS, row['DOI']))
-                '''
                 # Almacenar el objeto en el diccionario usando la clave generada
                 objetos_dict[id] = todict
                 #Obtener papers min
@@ -91,22 +95,22 @@ class ExtractData:
                 if len(affiliations) == 0:
                     print("OJO")
                     affiliations = [affiliation_parts[0]]
+                if affiliations[0] == 'Universidad Nacional de Ingeniería':
+                    print("check")
 
-                country = affiliation_parts[-1]
-                pais = ''
-                region = ''
-                if country.lower() in self.paisesxregion:
-                    paisObject = self.paisesxregion[country.lower()]
-                    pais = paisObject['country']
-                    region = paisObject['continent']
+                country = self.check_country(affiliation) #affiliation_parts[-1]
+                pais, region = self.check_pais_y_region(country)
 
                 author = Author(name, pais, region)
+                author.rawAff = affiliation.strip()
                 author.create_aff_object(affiliations[0], year)
-                author.rawAff = affiliation
+
                 if len(affiliations) > 1:
                     print("tiene mas de 1")
                     author.hasMoreAff = True
                     author.otherAff = affiliations[1]
+
+                author = self.check_instutions_data(author)
 
                 todict = author.to_dict()
                 authors_objects.append(todict)
@@ -120,6 +124,15 @@ class ExtractData:
                 author.rawAff = affiliation
 
         return authors_objects
+
+    def check_pais_y_region(self, country):
+        pais = ''
+        region = ''
+        if country.lower() in self.paisesxregion:
+            paisObject = self.paisesxregion[country.lower()]
+            pais = paisObject['country']
+            region = paisObject['continent']
+        return pais, region
 
 
     def extract_universities(self, affiliation):
@@ -170,20 +183,70 @@ class ExtractData:
             print('Author existe, check affs')
             # Mantener el orden de las afiliaciones y eliminar duplicados
             author_in_dict = self.authorsDict[author.key]
-            current_author_aff = author.aff_object['id']
+            current_author_aff = author.aff_object['code']
             not_exist = True
             for aff in author_in_dict['affiliations']:
-                if current_author_aff == aff['id']:
+                if current_author_aff == aff['code']:
                     not_exist = False
 
             if not_exist:
                 self.authorsDict[author.key]['affiliations'].append(author.aff_object)
 
     def check_institutions(self, institution):
-        if institution['id'] not in self.affiliationsDict:
-            self.affiliationsDict[institution['id']] = institution
+        if institution['code'] not in self.affiliationsDict:
+            self.affiliationsDict[institution['code']] = institution
 
 
     def save_data(self):
-        save_generic('GetData/Data/authors.json', self.authorsDict)
-        save_generic('GetData/Data/affiliations.json', self.affiliationsDict)
+        save_generic('Data/authors.json', self.authorsDict)
+        save_generic('Data/affiliations2.json', self.affiliationsDict)
+
+
+    def check_instutions_data(self, autor):
+        institution = autor.aff_object
+        code = institution['code']
+        code2 = institution['name'].replace(" ", "").lower()
+        idAff = institution['id']
+        if institution['region'] == "":
+            print("check")
+            if idAff in self.backUPAffs:
+                affBackup = self.backUPAffs[idAff]
+                autor.aff_object['country'] = affBackup['country']
+                autor.aff_object['region'] = affBackup['region']
+            if code in self.affiliations:
+                affBackup = self.affiliations[code]
+                autor.aff_object['country'] = affBackup['country']
+                autor.aff_object['region'] = affBackup['region']
+            if code2 in self.affiliations:
+                affBackup = self.affiliations[code2]
+                autor.aff_object['country'] = affBackup['country']
+                autor.aff_object['region'] = affBackup['region']
+
+        if autor.aff_object['region'] == '':
+            pais, region = self.check_pais_y_region(autor.aff_object['country'])
+            autor.aff_object['country'] = pais
+            autor.aff_object['region'] = region
+
+        return autor
+
+    def check_country(self, texto_largo):
+        # Dividir el texto en palabras separadas
+        palabras = texto_largo.split()
+        paises_encontrados = []
+        # Recorrer cada palabra y verificar si es un país
+        for palabra in palabras:
+            # Comprobar si la palabra está en el diccionario de países
+            palabra = palabra.lower().strip()
+            if palabra in self.paisesxregion:
+                paises_encontrados.append(palabra)
+
+        value = ""
+        if len(paises_encontrados)>1:
+            value = paises_encontrados[0]
+
+        if len(paises_encontrados) == 1:
+            print('no problem')
+            value = paises_encontrados[0]
+
+
+        return value
