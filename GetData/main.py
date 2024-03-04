@@ -13,6 +13,7 @@ y link de descarga de pdf
 from common_functions import *
 from extract_data import ExtractData
 
+
 years = ['2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010']
 
 def loop_years_list():
@@ -21,14 +22,18 @@ def loop_years_list():
     extractdata = ExtractData()
 
     for element in years:
-        filename = '../'+mainpath + element + '.csv'
+        filename = mainpath + element + '.csv'
         papers_in_this_year, min_papers = extractdata.leer_csv_y_crear_objetos_dict(filename, element)
         print('fin')
-        filejson = 'Data/full/' + element + '.json'
-        filejson2 = 'Data/min/' + element + '.json'
+        filejson = 'GetData/Data/full/' + element + '.json'
+        filejson2 = 'GetData/Data/min/' + element + '.json'
         # Guardar el diccionario en el archivo JSON
         save_generic(filejson, papers_in_this_year)
         save_generic(filejson2, min_papers)
+
+    print('imprimir todos los datos')
+    save_generic('GetData/Data/papers.json', extractdata.mainPapers)
+    extractdata.save_data()
 
 if __name__ == '__main__':
     loop_years_list()

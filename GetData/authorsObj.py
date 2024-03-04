@@ -2,6 +2,7 @@
 
 import uuid
 import hashlib
+from unidecode import unidecode
 
 class Author:
     def __init__(self, name, country, region):
@@ -19,7 +20,7 @@ class Author:
     def generate_key(self, name):
         #key = f"{name_cleaned}_{unique_id}"
         # Convertir el nombre del autor a minúsculas y sin espacios
-        name_cleaned = name.lower().replace(' ', '')
+        name_cleaned = unidecode(name.lower().replace(' ', ''))
         # Crear un objeto de resumen de mensaje MD5
         hasher = hashlib.md5()
         # Actualizar el objeto de resumen con el nombre del autor
@@ -31,7 +32,8 @@ class Author:
 
     def create_aff_object(self, name, year):
         code = self.generate_key(name)
-        codename = self.name.replace(" ", "")
+        codename = unidecode(name.replace(" ", "").lower())
+
         affiliation = {
             "id": code,
             "code": codename,
@@ -52,3 +54,9 @@ class Author:
             'rawAff': self.rawAff
         }
 
+    def to_save(self):
+        return {
+            'id': self.key,
+            'name': self.name,
+            'affiliations': [self.aff_object]
+        }

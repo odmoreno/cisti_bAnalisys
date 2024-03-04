@@ -11,7 +11,8 @@ class ExtractData:
     def __init__(self):
         self.authorsDict = {}
         self.affiliationsDict = {}
-        self.paisesxregion = load_generic('../Data/paises.json')
+        self.mainPapers = {}
+        self.paisesxregion = load_generic('Data/paises.json')
 
         self.prioridades = {
             "Universidad": 1,
@@ -71,6 +72,8 @@ class ExtractData:
                 dictmin = objeto.dict_min()
                 #Almacenar en el dict min
                 objetos_min[id] = dictmin
+                #alamacenar en genearl
+                self.mainPapers[id] = todict
                 counterPaper += 1
 
         # Retornar el diccionario de objetos
@@ -107,12 +110,17 @@ class ExtractData:
 
                 todict = author.to_dict()
                 authors_objects.append(todict)
+
+                self.check_author(author)
+                self.check_institutions(author.aff_object)
+
             except Exception as e:
                 print(e)
                 author = Author(name, '', '')
                 author.rawAff = affiliation
 
         return authors_objects
+
 
     def extract_universities(self, affiliation):
         # Expresión regular para buscar palabras relacionadas con "universidad" en varios idiomas
@@ -153,3 +161,29 @@ class ExtractData:
                 return prioridad
         # Si ninguna palabra clave está presente, se coloca al final
         return len(self.prioridades) + 1
+
+    def check_author(self, author):
+        if author.key not in self.authorsDict:
+            newelement = author.to_save()
+            self.authorsDict[author.key] = newelement
+        else:
+            print('Author existe, check affs')
+            # Mantener el orden de las afiliaciones y eliminar duplicados
+            author_in_dict = self.authorsDict[author.key]
+            current_author_aff = author.aff_object['id']
+            not_exist = True
+            for aff in author_in_dict['affiliations']:
+                if current_author_aff == aff['id']:
+                    not_exist = False
+
+            if not_exist:
+                self.authorsDict[author.key]['affiliations'].append(author.aff_object)
+
+    def check_institutions(self, institution):
+        if institution['id'] not in self.affiliationsDict:
+            self.affiliationsDict[institution['id']] = institution
+
+
+    def save_data(self):
+        save_generic('GetData/Data/authors.json', self.authorsDict)
+        save_generic('GetData/Data/affiliations.json', self.affiliationsDict)
