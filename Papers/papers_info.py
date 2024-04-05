@@ -42,14 +42,29 @@ class PapersInfo:
             title = paper['title']
             doi = paper['doi']
             if doi not in self.papers_set:
-                info = search_papers_sch(doi)
+                info = {}  #search_papers_sch(doi)
                 info2 = {}  # search_in_crossref(doi)
                 info3 = search_in_pyalex(doi)
                 self.split_info_to_serve(doi, info, info2, info3)
-                save_generic(self.papers_set_path, self.papers_set)
-                save_generic(self.references_list_path, self.references_list)
+                print(f'Fin {doi}')
+                #save_generic(self.papers_set_path, self.papers_set)
+                #save_generic(self.references_list_path, self.references_list)
             else:
-                # pyalexInfo = search_in_pyalex(doi)
+                currentPaper = self.papers_set[doi]
+                if 'authorsPyAlex' not in self.papers_set[doi]:
+                    print("search")
+                    pyalexInfo = search_in_pyalex(doi)
+                    if 'authorships' in pyalexInfo:
+                        self.papers_set[doi]['authorsPyAlex'] = pyalexInfo['authorships']
+                else:
+                    pyalaexauthors = currentPaper['authorsPyAlex']
+                    '''
+                                        if len(pyalaexauthors) == 0:
+                        print(f"search again in {doi}")
+                        pyalexInfo = search_in_pyalex(doi)
+                        if 'authorships' in pyalexInfo:
+                            self.papers_set[doi]['authorsPyAlex'] = pyalexInfo['authorships']
+                    '''
                 # abstract = self.reconstruir_abstract(doi, pyalexInfo, pyalexInfo['abstract_inverted_index'])
                 # self.papers_set[doi]['abstract'] = abstract
                 # self.papers_set[doi]['abstract_inverted_index'] = pyalexInfo['abstract_inverted_index']
@@ -62,14 +77,12 @@ class PapersInfo:
         tempSch = schInfo
         data = {}
 
-        if schInfo['found']:
+        if 'found' in schInfo:
             data = tempSch
-            # del data['references']
+            # del Data['references']
         else:
             data = crossInfo
-            # del data['reference']
-
-
+            # del Data['reference']
 
         if 'author' in crossInfo:
             data['authorsCross'] = crossInfo['author']
@@ -79,12 +92,12 @@ class PapersInfo:
             abstract = self.reconstruir_abstract(
                 doi, pyalexInfo, pyalexInfo['abstract_inverted_index'])
             data['abstract'] = abstract
-            # data['abstract_inverted_index'] = pyalexInfo['abstract_inverted_index']
+            # Data['abstract_inverted_index'] = pyalexInfo['abstract_inverted_index']
 
         data = pyalexInfo | schInfo
 
-        self.check_references(doi, schInfo, crossInfo, pyalexInfo)
-        data = self.delete_refs(data)
+        #self.check_references(doi, schInfo, crossInfo, pyalexInfo)
+        #Data = self.delete_refs(Data)
         self.papers_set[doi] = data
         # print('fin')
 

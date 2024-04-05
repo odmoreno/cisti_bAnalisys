@@ -40,11 +40,78 @@ def loop_years_list():
         save_generic(filejson2, min_papers)
 
     print('imprimir todos los datos')
-    save_generic('Data/papers.json', extractdata.mainPapers)
     extractdata.save_data()
+    save_generic('Data/papers.json', extractdata.mainPapers)
+    save_generic('Data/papersmin.json', extractdata.mainPapersmin)
+
+
+def check_affs_map():
+    '''
+        1. revisar las afiliaciones en papersmin.json
+        2. revisar las afiliaciones en authors.json
+        3. revisar las afiliaciones en affiliations2.json
+        4. reemplazar con los valores de affmap.json
+    '''
+
+    loop_papersmin()
+    loop_authors()
+
+
+def loop_papersmin():
+
+    papersmin = load_generic('Data/papersmin.json')
+    for idpaper, paper in papersmin.items():
+        authors = paper['authors']
+        for author in authors:
+            aff = author['affiliations']
+            value = validate_aff(aff)
+            if value:
+                aff['name'] = value['name']
+                aff['code'] = value['code']
+                aff['id'] = value['code']
+                aff['country'] = value['country']
+                aff['region'] = value['region']
+
+    save_generic('Data/papersUpdate.json', papersmin)
+
+
+def loop_authors():
+    authorsDict = load_generic('Data/authors.json')
+    for idau, data in authorsDict.items():
+        affs = data['affiliations']
+        for aff in affs:
+            value = validate_aff(aff)
+            if value:
+                aff['name'] = value['name']
+                aff['code'] = value['code']
+                aff['id'] = value['code']
+                aff['country'] = value['country']
+                aff['region'] = value['region']
+
+    save_generic('Data/authorsU.json', authorsDict)
+
+
+def loop_affiliations():
+    affiliationsDict = load_generic('Data/affiliations2.json')
+    for id, data in affiliationsDict.items():
+        pass
+
+
+def validate_aff(aff):
+    # value = {}
+    code = aff['code']
+    affiliations = load_generic('../Data/affiliations.json')
+    affmap = load_generic('Data/affmap.json')
+    for key, value in affmap.items():
+        if key in code:
+            # value = affmap[key]
+            affback = affiliations[value]
+            return affback
+
 
 if __name__ == '__main__':
-    loop_years_list()
+    # loop_years_list()
+    check_affs_map()
     
 
 

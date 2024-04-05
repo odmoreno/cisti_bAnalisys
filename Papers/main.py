@@ -47,10 +47,10 @@ def clear_duplicated_authors():
 
 if __name__ == '__main__':
 
-    loop_proocedings(True, conference_path='../Mining/Data/conference_check.json',
+    loop_proocedings(False, conference_path='../Mining/Data/conference_check.json',
                      paper_path='Data/papers.json', ref_path='Data/ref_list.json')
 
-    #create_jsons_from_paper_data(_flag=False)
+    create_jsons_from_paper_data(_flag=True)
 
     #clear_duplicated_authors()
 

@@ -20,15 +20,19 @@ class ExtractData:
         self.authorsDict = {}
         self.affiliationsDict = {}
         self.mainPapers = {}
+        self.mainPapersmin = {}
         self.paisesxregion = load_generic('../Data/paises.json')
         self.affiliations = load_generic('../Data/affiliations.json')
         self.backUPAffs = load_generic('Data/affiliations.json')
+        self.ccodes = load_generic('../Data/country_codes.json')
+        self.ccodes = {k.lower(): v for k, v in self.ccodes.items()}
 
         self.prioridades = {
             "Universidad": 1,
             "University": 2,
             "Universidade": 3,
             "Universitat": 4,
+            "Univ.": 2,
             "Polytechnic": 5,
             "Politécnica": 5,
             "Instituto": 6,
@@ -56,7 +60,7 @@ class ExtractData:
             # Iterar sobre cada fila del archivo CSV
             for row in reader:
                 id = year + '_' + str(counterPaper)
-                # print(row['Document Title'])
+
                 autores = row['Authors'].split(';')
                 auAffs = row['Author Affiliations'].split(';')
                 ieeterms = row['IEEE Terms'].split(';')
@@ -78,7 +82,11 @@ class ExtractData:
                 objetos_min[id] = dictmin
                 #alamacenar en genearl
                 self.mainPapers[id] = todict
+                # min papaers
+                self.mainPapersmin[id] = dictmin
+
                 counterPaper += 1
+
 
         # Retornar el diccionario de objetos
         return objetos_dict, objetos_min
@@ -88,15 +96,16 @@ class ExtractData:
         authors_objects = []
         for name, affiliation in zip(autores, affiliaciones):
             try:
+                affiliation = affiliation.replace("-", " ")
                 # Dividir la afiliación en provincia (prov) y país
                 affiliation_parts = affiliation.split(', ')
                 affiliations = self.extract_universities(affiliation_parts)
 
                 if len(affiliations) == 0:
-                    print("OJO")
                     affiliations = [affiliation_parts[0]]
-                if affiliations[0] == 'Universidad Nacional de Ingeniería':
-                    print("check")
+
+                #if affiliation == 'Department of Information Systems, University of Cape Town, Rondebosch, South Africa':
+                #    print("check")
 
                 country = self.check_country(affiliation) #affiliation_parts[-1]
                 pais, region = self.check_pais_y_region(country)
@@ -106,11 +115,23 @@ class ExtractData:
                 author.create_aff_object(affiliations[0], year)
 
                 if len(affiliations) > 1:
-                    print("tiene mas de 1")
+                    #print("tiene mas de 1")
                     author.hasMoreAff = True
                     author.otherAff = affiliations[1]
 
                 author = self.check_instutions_data(author)
+
+                if author.aff_object['country'] == "":
+                    affback = self.search_in_old_data(affiliation)
+                    if affback != '':
+                        print(f"revisar {author.aff_object}")
+                        print(f'coincidencia {affback}')
+                        if affback['country'] != "":
+                            author.aff_object['country'] = affback['country']
+                        if affback['region'] != "":
+                            author.aff_object['region'] = affback['region']
+                        #author.aff_object['name'] = affback['name']
+
 
                 todict = author.to_dict()
                 authors_objects.append(todict)
@@ -138,7 +159,7 @@ class ExtractData:
     def extract_universities(self, affiliation):
         # Expresión regular para buscar palabras relacionadas con "universidad" en varios idiomas
         # regex = r"(?i)(\b(?:Universidad|University|Universidade|Universitat|Instituto|Polytechnic|Center|School|Escola)\b[\w\s,']+)"
-        regex = r"([^']*(?:Universidad|University|Universidade|Universitat|Instituto|Polytechnic|Politécnica|Institute|Center|Centro|School|Escola|Department|Ministerio|Campus)[^']*)"
+        regex = r"([^']*(?:Universidad|University|Universidade|Universitat|Instituto|Polytechnic|Politécnica|Institute|Center|Centro|School|Escola|Department|Ministerio|Campus|Univ.)[^']*)"
 
         matches = []
 
@@ -153,7 +174,7 @@ class ExtractData:
            except Exception as e:
                print(f'error {e}')
 
-        print("Matches sin ordenar:", matches)
+        #print("Matches sin ordenar:", matches)
         # Ordenar los matches según la prioridad de las palabras clave
         # matches.sort(key=lambda x: keyword_priority.get(re.findall(regex, x)[0], float('inf')))
         # Ordenar los matches según la prioridad de las palabras clave
@@ -161,7 +182,7 @@ class ExtractData:
 
         lista_ordenada = self.ordenar_segun_prioridad(matches)
 
-        print("Matches ordenados:", lista_ordenada)
+        #print("Matches ordenados:", lista_ordenada)
         return lista_ordenada
 
     def ordenar_segun_prioridad(self, lista):
@@ -176,11 +197,13 @@ class ExtractData:
         return len(self.prioridades) + 1
 
     def check_author(self, author):
+        if author.name == "":
+            return
         if author.key not in self.authorsDict:
             newelement = author.to_save()
             self.authorsDict[author.key] = newelement
         else:
-            print('Author existe, check affs')
+            #print('Author existe, check affs')
             # Mantener el orden de las afiliaciones y eliminar duplicados
             author_in_dict = self.authorsDict[author.key]
             current_author_aff = author.aff_object['code']
@@ -193,9 +216,10 @@ class ExtractData:
                 self.authorsDict[author.key]['affiliations'].append(author.aff_object)
 
     def check_institutions(self, institution):
-        if institution['code'] not in self.affiliationsDict:
-            self.affiliationsDict[institution['code']] = institution
-
+        code = institution['code']
+        if code != "" or code == 'na':
+            if code not in self.affiliationsDict:
+                self.affiliationsDict[code] = institution
 
     def save_data(self):
         save_generic('Data/authors.json', self.authorsDict)
@@ -208,16 +232,16 @@ class ExtractData:
         code2 = institution['name'].replace(" ", "").lower()
         idAff = institution['id']
         if institution['region'] == "":
-            print("check")
+            #print("check")
             if idAff in self.backUPAffs:
                 affBackup = self.backUPAffs[idAff]
                 autor.aff_object['country'] = affBackup['country']
                 autor.aff_object['region'] = affBackup['region']
-            if code in self.affiliations:
+            if code in self.affiliations and institution['region'] == "":
                 affBackup = self.affiliations[code]
                 autor.aff_object['country'] = affBackup['country']
                 autor.aff_object['region'] = affBackup['region']
-            if code2 in self.affiliations:
+            if code2 in self.affiliations and institution['region'] == "":
                 affBackup = self.affiliations[code2]
                 autor.aff_object['country'] = affBackup['country']
                 autor.aff_object['region'] = affBackup['region']
@@ -240,13 +264,71 @@ class ExtractData:
             if palabra in self.paisesxregion:
                 paises_encontrados.append(palabra)
 
+        words = texto_largo.split(',')
+        #paises_encontrados = []
+        for palabra in words:
+            palabra = palabra.lower().strip()
+            if palabra in self.paisesxregion:
+                paises_encontrados.append(palabra)
+
+        '''
+                for palabra in palabras:
+            # Comprobar si la palabra está en el diccionario de países
+            palabra = palabra.lower().strip()
+            if palabra in self.ccodes:
+                paises_encontrados.append(palabra)
+        '''
+
         value = ""
         if len(paises_encontrados)>1:
             value = paises_encontrados[0]
 
         if len(paises_encontrados) == 1:
-            print('no problem')
+            #print('no problem')
             value = paises_encontrados[0]
 
 
         return value
+
+
+
+    def validar_texto_referencia(self, texto, texto_referencia):
+        # Convertir ambos textos a minúsculas para hacer la comparación insensible a mayúsculas y minúsculas
+        texto = texto.lower()
+        texto_referencia = texto_referencia.lower()
+        # Eliminar caracteres especiales y espacios en blanco para hacer la comparación más precisa
+        #texto = ''.join(e for e in texto if e.isalnum())
+        #texto_referencia = ''.join(e for e in texto_referencia if e.isalnum())
+        validate = False
+        if texto_referencia in texto:
+            validate = True
+
+        return validate
+
+    def search_in_old_data(self, text):
+        text = text.lower()
+        coincidencias = []
+        coins = {}
+        for code, data in self.affiliations.items():
+            name = data['name'].lower().replace("-", " ")
+            #minname = #''.join(e for e in name if e.isalnum())
+            if name == 'grupo de investigación en sistemas inteligentes (wicom-energy)':
+                #print("check")
+                pass
+            valor = self.validar_texto_referencia(text, name)
+            if valor:
+                coincidencias.append(name)
+                coins[name] = data
+
+        resultado = ''
+        if len(coincidencias) != 0:
+            longitud_texto = len(text)
+            coincidencia_cercana = min(coincidencias, key=lambda x: abs(len(x) - longitud_texto))
+
+            resultado = coins[coincidencia_cercana]
+        else:
+            #print("checl")
+            pass
+
+        return resultado
+

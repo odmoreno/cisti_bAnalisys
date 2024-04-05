@@ -4,6 +4,7 @@
     "doi": "",
     "title": "Capture and maintenance of projects total cost minimization applications' results",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556720",
     "authors": [
       {
         "id": "c1e51207407f2239eb11acfc836e8fa9",
@@ -44,6 +45,7 @@
     "doi": "",
     "title": "Comparing gps traces in car sharing systems",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556721",
     "authors": [
       {
         "id": "0be71a3b37465c0638c2d28747731664",
@@ -100,6 +102,7 @@
     "doi": "",
     "title": "IT Governance in Uruguayan SMEs: Analysis of strategic alignment and decision-making processes",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556718",
     "authors": [
       {
         "id": "e7a23a02c8f6233e0d3f52935dcb6ed2",
@@ -140,6 +143,7 @@
     "doi": "",
     "title": "Sentiment analysis on a corpus of texts written by primary school children",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556719",
     "authors": [
       {
         "id": "167a87e71327e48ef37988bf65a96d69",
@@ -148,7 +152,7 @@
           "id": "566d76adb72a95f3d712d78076bf57fd",
           "code": "universityofjaen",
           "name": "University of Jaén",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "IDEO Group, University of Jaén, Jaén, Spain"
@@ -164,7 +168,7 @@
           "id": "566d76adb72a95f3d712d78076bf57fd",
           "code": "universityofjaen",
           "name": "University of Jaén",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Department of Computer Science, University of Jaén, Jaén, Spain"
@@ -180,7 +184,7 @@
           "id": "566d76adb72a95f3d712d78076bf57fd",
           "code": "universityofjaen",
           "name": "University of Jaén",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "IDEO Group, University of Jaén, Jaén, Spain"
@@ -196,7 +200,7 @@
           "id": "566d76adb72a95f3d712d78076bf57fd",
           "code": "universityofjaen",
           "name": "University of Jaén",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Department of Computer Science, University of Jaén, Jaén, Spain"
@@ -212,6 +216,7 @@
     "doi": "",
     "title": "Application of a neuro fuzzy network to forecast the behavior of the urban traffic of the city of São Paulo",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556716",
     "authors": [
       {
         "id": "96c500fcb8cd783f1ed8890a68e156c0",
@@ -268,6 +273,7 @@
     "doi": "",
     "title": "Inclusive learning environment for deaf people",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556717",
     "authors": [
       {
         "id": "65d50c80d516c376cade4776899563ca",
@@ -276,14 +282,14 @@
           "id": "cbb3ca1c0a550d18fc2833d68c6fe38e",
           "code": "departamentoingenieriadesistemasyautomatica",
           "name": "Departamento Ingeniería de Sistemas y Automática",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "Departamento Ingeniería de Sistemas y Automática, Escuela Técnica Superior de Ingeniería, UPV-EHU, Bilbao, Spain"
+          "rawAff": "Departamento Ingeniería de Sistemas y Automática, Escuela Técnica Superior de Ingeniería, UPV EHU, Bilbao, Spain"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "Departamento Ingeniería de Sistemas y Automática, Escuela Técnica Superior de Ingeniería, UPV-EHU, Bilbao, Spain"
+        "rawAff": "Departamento Ingeniería de Sistemas y Automática, Escuela Técnica Superior de Ingeniería, UPV EHU, Bilbao, Spain"
       },
       {
         "id": "e826c72bad99f5d92cb1b05df6a40ffd",
@@ -292,14 +298,14 @@
           "id": "cbb3ca1c0a550d18fc2833d68c6fe38e",
           "code": "departamentoingenieriadesistemasyautomatica",
           "name": " Departamento Ingeniería de Sistemas y Automática",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "Departamento Ingeniería de Sistemas y Automática, Escuela Técnica Superior de Ingeniería, UPV-EHU, Bilbao, Spain"
+          "rawAff": "Departamento Ingeniería de Sistemas y Automática, Escuela Técnica Superior de Ingeniería, UPV EHU, Bilbao, Spain"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "Departamento Ingeniería de Sistemas y Automática, Escuela Técnica Superior de Ingeniería, UPV-EHU, Bilbao, Spain"
+        "rawAff": "Departamento Ingeniería de Sistemas y Automática, Escuela Técnica Superior de Ingeniería, UPV EHU, Bilbao, Spain"
       },
       {
         "id": "7fabbca786bf63000b770269dd7edecc",
@@ -308,14 +314,14 @@
           "id": "cbb3ca1c0a550d18fc2833d68c6fe38e",
           "code": "departamentoingenieriadesistemasyautomatica",
           "name": " Departamento Ingeniería de Sistemas y Automática",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "Departamento Ingeniería de Sistemas y Automática, Escuela Técnica Superior de Ingeniería, UPV-EHU, Bilbao, Spain"
+          "rawAff": "Departamento Ingeniería de Sistemas y Automática, Escuela Técnica Superior de Ingeniería, UPV EHU, Bilbao, Spain"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "Departamento Ingeniería de Sistemas y Automática, Escuela Técnica Superior de Ingeniería, UPV-EHU, Bilbao, Spain"
+        "rawAff": "Departamento Ingeniería de Sistemas y Automática, Escuela Técnica Superior de Ingeniería, UPV EHU, Bilbao, Spain"
       },
       {
         "id": "179e3dbf103ee76b6aa781668398462d",
@@ -372,6 +378,7 @@
     "doi": "",
     "title": "Glaucoma detection by morphological analysis of multifocal ERG records",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556714",
     "authors": [
       {
         "id": "1dc5c7c388291b3bd186fe8ddf7cda63",
@@ -380,7 +387,7 @@
           "id": "657098bf3e98e3605c5a20226ead19a4",
           "code": "universityofalcala",
           "name": "University of Alcalá",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Department of Electronics, University of Alcalá, Alcalá de Henares, Spain"
@@ -396,7 +403,7 @@
           "id": "657098bf3e98e3605c5a20226ead19a4",
           "code": "universityofalcala",
           "name": "University of Alcalá",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Department of Electronics, University of Alcalá, Alcalá de Henares, Spain"
@@ -412,7 +419,7 @@
           "id": "2de88baa218b2bae3f7caa1ae3354602",
           "code": "universityofalcalaalcaladehenares",
           "name": "University of Alcalá Alcalá de Henares",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Department of Electronics, University of Alcalá Alcalá de Henares, Spain"
@@ -428,7 +435,7 @@
           "id": "657098bf3e98e3605c5a20226ead19a4",
           "code": "universityofalcala",
           "name": "University of Alcalá",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Department of Electronics, University of Alcalá, Alcalá de Henares, Spain"
@@ -444,7 +451,7 @@
           "id": "657098bf3e98e3605c5a20226ead19a4",
           "code": "universityofalcala",
           "name": "University of Alcalá",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Department of Surgery, University of Alcalá, Alcalá de Henares, Spain"
@@ -460,7 +467,7 @@
           "id": "657098bf3e98e3605c5a20226ead19a4",
           "code": "universityofalcala",
           "name": "University of Alcalá",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Department of Surgery, University of Alcalá, Alcala de Henares, Spain"
@@ -476,6 +483,7 @@
     "doi": "",
     "title": "Analysis of the potential for organizational interoperability improvement in local government",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556715",
     "authors": [
       {
         "id": "b62ce9bbe2c544975881b37a10e471e1",
@@ -516,6 +524,7 @@
     "doi": "",
     "title": "A new level set based segmentation method for the four cardiac chambers",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556712",
     "authors": [
       {
         "id": "8d9f8f12896a66b64796ffa50600b6ea",
@@ -572,6 +581,7 @@
     "doi": "",
     "title": "Multimodality segmentation and registration of 3D Pulmonary exams",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556713",
     "authors": [
       {
         "id": "ae1ad43061991e6a7efc3b1541635616",
@@ -612,6 +622,7 @@
     "doi": "",
     "title": "Evaluation of the response time for an ophthalmologic health records system using different XML databases",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556710",
     "authors": [
       {
         "id": "bffee4d1f7843ed272a5aae5b9f991c4",
@@ -620,7 +631,7 @@
           "id": "a16a0189c9b3059d4e33aca057891ad5",
           "code": "universidaddevalladolid",
           "name": "Universidad de Valladolid",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Departamento de Teoría de la Señal, Universidad de Valladolid, Valladolid, Spain"
@@ -636,7 +647,7 @@
           "id": "a16a0189c9b3059d4e33aca057891ad5",
           "code": "universidaddevalladolid",
           "name": "Universidad de Valladolid",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Departamento de Teoría de la Señal, Universidad de Valladolid, Valladolid, Spain"
@@ -652,7 +663,7 @@
           "id": "a16a0189c9b3059d4e33aca057891ad5",
           "code": "universidaddevalladolid",
           "name": "Universidad de Valladolid",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Departamento de Teoría de la Señal, Universidad de Valladolid, Valladolid, Spain"
@@ -668,7 +679,7 @@
           "id": "8abef10d6609e98745ee7dc7017a0665",
           "code": "universidaddevalladolid",
           "name": "Universidad de Valladolid.",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Departamento de Teoría de la Señal, Comunicaciones e, Ingeniería Telemática, Universidad de Valladolid., 47011 Valladolid. Spain"
@@ -684,7 +695,7 @@
           "id": "a16a0189c9b3059d4e33aca057891ad5",
           "code": "universidaddevalladolid",
           "name": "Universidad de Valladolid",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Departamento de Teoría de la Señal, Universidad de Valladolid, Valladolid, Spain"
@@ -700,7 +711,7 @@
           "id": "a16a0189c9b3059d4e33aca057891ad5",
           "code": "universidaddevalladolid",
           "name": "Universidad de Valladolid",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Departamento de Teoría de la Señal, Universidad de Valladolid, Valladolid, Spain"
@@ -716,7 +727,7 @@
           "id": "a16a0189c9b3059d4e33aca057891ad5",
           "code": "universidaddevalladolid",
           "name": "Universidad de Valladolid",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Departmento de Teoría de la Seňal Comunicaciones e Ingeniería Telemática, Universidad de Valladolid, Valladolid, Spain"
@@ -732,7 +743,7 @@
           "id": "a16a0189c9b3059d4e33aca057891ad5",
           "code": "universidaddevalladolid",
           "name": "Universidad de Valladolid",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Departamento de Teoría de la Señal, Universidad de Valladolid, Valladolid, Spain"
@@ -748,7 +759,7 @@
           "id": "a16a0189c9b3059d4e33aca057891ad5",
           "code": "universidaddevalladolid",
           "name": "Universidad de Valladolid",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Departamento de Teoría de la Señal, Universidad de Valladolid, Valladolid, Spain"
@@ -764,7 +775,7 @@
           "id": "a16a0189c9b3059d4e33aca057891ad5",
           "code": "universidaddevalladolid",
           "name": "Universidad de Valladolid",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Departamento de Teoría de la Señal, Universidad de Valladolid, Valladolid, Spain"
@@ -780,7 +791,7 @@
           "id": "a16a0189c9b3059d4e33aca057891ad5",
           "code": "universidaddevalladolid",
           "name": "Universidad de Valladolid",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Universidad de Valladolid, Valladolid, Spain"
@@ -796,6 +807,7 @@
     "doi": "",
     "title": "Architecting multimedia-rich collaborative learning services over Interactive Digital TV",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556711",
     "authors": [
       {
         "id": "ea42c63a5f645feba9fe955ef6548050",
@@ -804,7 +816,7 @@
           "id": "a581b08565033f7afc21838d02f40457",
           "code": "universityofvigo",
           "name": "University of Vigo",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Department of Telematics Engineering, University of Vigo, Vigo, Spain"
@@ -820,7 +832,7 @@
           "id": "a581b08565033f7afc21838d02f40457",
           "code": "universityofvigo",
           "name": "University of Vigo",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Department of Telematics Engineering, University of Vigo, Vigo, Spain"
@@ -836,7 +848,7 @@
           "id": "a581b08565033f7afc21838d02f40457",
           "code": "universityofvigo",
           "name": "University of Vigo",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Department of Telematics Engineering, University of Vigo, Vigo, Spain"
@@ -852,22 +864,23 @@
     "doi": "",
     "title": "“Digital projects”: A reflection and bridges to the future: Digital local agenda",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556708",
     "authors": [
       {
         "id": "145e339f35f034cbf271a1838086d0f9",
         "name": "R. Teixeira",
         "affiliations": {
-          "id": "095cd439eaac92db8f81071f4e5c6e58",
+          "id": "934af26d5c23789252d9b91c315f43f0",
           "code": "universidadedetrasosmontesealtodouro",
-          "name": "Universidade de Trás-os-Montes e Alto Douro",
+          "name": "Universidade de Trás os Montes e Alto Douro",
           "country": "Portugal",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "Escola de Ciência e Tecnologia, Universidade de Trás-os-Montes e Alto Douro, Portugal"
+          "rawAff": "Escola de Ciência e Tecnologia, Universidade de Trás os Montes e Alto Douro, Portugal"
         },
         "hasMoreAff": true,
         "otherAff": "Escola de Ciência e Tecnologia",
-        "rawAff": "Escola de Ciência e Tecnologia, Universidade de Trás-os-Montes e Alto Douro, Portugal"
+        "rawAff": "Escola de Ciência e Tecnologia, Universidade de Trás os Montes e Alto Douro, Portugal"
       },
       {
         "id": "5194777e3205869fc9d783573a6e0ed4",
@@ -889,33 +902,33 @@
         "id": "5112de19b21f6c01450cc52c7c2fad2c",
         "name": " M. Bessa",
         "affiliations": {
-          "id": "cdb3fa8b19ada2b4863a3e0de4e316a0",
+          "id": "6f07fbe7bf1b2425f5f2b99b08a90988",
           "code": "inescporto",
-          "name": " INESC-Porto",
+          "name": " INESC Porto",
           "country": "Portugal",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "INESC-Porto, Porto, Portugal"
+          "rawAff": "INESC Porto, Porto, Portugal"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "INESC-Porto, Porto, Portugal"
+        "rawAff": "INESC Porto, Porto, Portugal"
       },
       {
         "id": "286f48f364f5d2d49db2439f25bb52c4",
         "name": " E. Peres",
         "affiliations": {
-          "id": "095cd439eaac92db8f81071f4e5c6e58",
+          "id": "934af26d5c23789252d9b91c315f43f0",
           "code": "universidadedetrasosmontesealtodouro",
-          "name": "Universidade de Trás-os-Montes e Alto Douro",
+          "name": "Universidade de Trás os Montes e Alto Douro",
           "country": "Portugal",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "Escola de Ciência e Tecnologia, Universidade de Trás-os-Montes e Alto Douro, Portugal"
+          "rawAff": "Escola de Ciência e Tecnologia, Universidade de Trás os Montes e Alto Douro, Portugal"
         },
         "hasMoreAff": true,
         "otherAff": "Escola de Ciência e Tecnologia",
-        "rawAff": "Escola de Ciência e Tecnologia, Universidade de Trás-os-Montes e Alto Douro, Portugal"
+        "rawAff": "Escola de Ciência e Tecnologia, Universidade de Trás os Montes e Alto Douro, Portugal"
       }
     ]
   },
@@ -924,6 +937,7 @@
     "doi": "",
     "title": "Hybrid user centered development methodology: The practical case of courseware sere",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556709",
     "authors": [
       {
         "id": "90e303be7694c35ea935fe635aa7c5de",
@@ -935,11 +949,11 @@
           "country": "Portugal",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "CIDTFF-Centro de Investigaçào Didáctica Tecnologia na Formaçào de Formadores Departamento de Educaçào, Universidade de Aveiro, Aveiro, Portugal"
+          "rawAff": "CIDTFF Centro de Investigaçào Didáctica Tecnologia na Formaçào de Formadores Departamento de Educaçào, Universidade de Aveiro, Aveiro, Portugal"
         },
         "hasMoreAff": true,
-        "otherAff": "CIDTFF-Centro de Investigaçào Didáctica Tecnologia na Formaçào de Formadores Departamento de Educaçào",
-        "rawAff": "CIDTFF-Centro de Investigaçào Didáctica Tecnologia na Formaçào de Formadores Departamento de Educaçào, Universidade de Aveiro, Aveiro, Portugal"
+        "otherAff": "CIDTFF Centro de Investigaçào Didáctica Tecnologia na Formaçào de Formadores Departamento de Educaçào",
+        "rawAff": "CIDTFF Centro de Investigaçào Didáctica Tecnologia na Formaçào de Formadores Departamento de Educaçào, Universidade de Aveiro, Aveiro, Portugal"
       },
       {
         "id": "538208e71d8eee8dbb517ea634abbdb0",
@@ -951,11 +965,11 @@
           "country": "Portugal",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "CIDTFF-Centro de Investigaçào Didáctica Tecnologia na Formaçào de Formadores Departamento de Educaçào, Universidade de Aveiro, Aveiro, Portugal"
+          "rawAff": "CIDTFF Centro de Investigaçào Didáctica Tecnologia na Formaçào de Formadores Departamento de Educaçào, Universidade de Aveiro, Aveiro, Portugal"
         },
         "hasMoreAff": true,
-        "otherAff": "CIDTFF-Centro de Investigaçào Didáctica Tecnologia na Formaçào de Formadores Departamento de Educaçào",
-        "rawAff": "CIDTFF-Centro de Investigaçào Didáctica Tecnologia na Formaçào de Formadores Departamento de Educaçào, Universidade de Aveiro, Aveiro, Portugal"
+        "otherAff": "CIDTFF Centro de Investigaçào Didáctica Tecnologia na Formaçào de Formadores Departamento de Educaçào",
+        "rawAff": "CIDTFF Centro de Investigaçào Didáctica Tecnologia na Formaçào de Formadores Departamento de Educaçào, Universidade de Aveiro, Aveiro, Portugal"
       },
       {
         "id": "8c43b4f849801aed77795f8447ff8f70",
@@ -967,11 +981,11 @@
           "country": "Portugal",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "LIACC-Laboratoório de Inteligência Artificial e Ciência de Computadores, DEI/FEUP-Departamento de Engenharia Informática, Faculdade de Engenharia da, Universidade do Porto, Porto, Portugal"
+          "rawAff": "LIACC Laboratoório de Inteligência Artificial e Ciência de Computadores, DEI/FEUP Departamento de Engenharia Informática, Faculdade de Engenharia da, Universidade do Porto, Porto, Portugal"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "LIACC-Laboratoório de Inteligência Artificial e Ciência de Computadores, DEI/FEUP-Departamento de Engenharia Informática, Faculdade de Engenharia da, Universidade do Porto, Porto, Portugal"
+        "rawAff": "LIACC Laboratoório de Inteligência Artificial e Ciência de Computadores, DEI/FEUP Departamento de Engenharia Informática, Faculdade de Engenharia da, Universidade do Porto, Porto, Portugal"
       }
     ]
   },
@@ -980,6 +994,7 @@
     "doi": "",
     "title": "Courseware sere: Technical and didactic evaluation made by students",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556706",
     "authors": [
       {
         "id": "90e303be7694c35ea935fe635aa7c5de",
@@ -991,11 +1006,11 @@
           "country": "Portugal",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "CIDTFF-Centro de Investigação Didáctica e Tecnologia na Formação de Formadores, DE/UA-Departamento de Educação, Universidade de Aveiro, Aveiro, Portugal"
+          "rawAff": "CIDTFF Centro de Investigação Didáctica e Tecnologia na Formação de Formadores, DE/UA Departamento de Educação, Universidade de Aveiro, Aveiro, Portugal"
         },
         "hasMoreAff": true,
-        "otherAff": "CIDTFF-Centro de Investigação Didáctica e Tecnologia na Formação de Formadores",
-        "rawAff": "CIDTFF-Centro de Investigação Didáctica e Tecnologia na Formação de Formadores, DE/UA-Departamento de Educação, Universidade de Aveiro, Aveiro, Portugal"
+        "otherAff": "CIDTFF Centro de Investigação Didáctica e Tecnologia na Formação de Formadores",
+        "rawAff": "CIDTFF Centro de Investigação Didáctica e Tecnologia na Formação de Formadores, DE/UA Departamento de Educação, Universidade de Aveiro, Aveiro, Portugal"
       },
       {
         "id": "538208e71d8eee8dbb517ea634abbdb0",
@@ -1007,11 +1022,11 @@
           "country": "Portugal",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "CIDTFF-Centro de Investigação Didáctica e Tecnologia na Formação de Formadores, DE/UA-Departamento de Educação, Universidade de Aveiro, Aveiro, Portugal"
+          "rawAff": "CIDTFF Centro de Investigação Didáctica e Tecnologia na Formação de Formadores, DE/UA Departamento de Educação, Universidade de Aveiro, Aveiro, Portugal"
         },
         "hasMoreAff": true,
-        "otherAff": "CIDTFF-Centro de Investigação Didáctica e Tecnologia na Formação de Formadores",
-        "rawAff": "CIDTFF-Centro de Investigação Didáctica e Tecnologia na Formação de Formadores, DE/UA-Departamento de Educação, Universidade de Aveiro, Aveiro, Portugal"
+        "otherAff": "CIDTFF Centro de Investigação Didáctica e Tecnologia na Formação de Formadores",
+        "rawAff": "CIDTFF Centro de Investigação Didáctica e Tecnologia na Formação de Formadores, DE/UA Departamento de Educação, Universidade de Aveiro, Aveiro, Portugal"
       },
       {
         "id": "8c43b4f849801aed77795f8447ff8f70",
@@ -1023,11 +1038,11 @@
           "country": "Portugal",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "LIACC-Laboratório de Inteligência Artificial e Ciência de, DEI/FEUP-Departamento de Engenharia Informática, Universidade do Porto, Porto, Portugal"
+          "rawAff": "LIACC Laboratório de Inteligência Artificial e Ciência de, DEI/FEUP Departamento de Engenharia Informática, Universidade do Porto, Porto, Portugal"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "LIACC-Laboratório de Inteligência Artificial e Ciência de, DEI/FEUP-Departamento de Engenharia Informática, Universidade do Porto, Porto, Portugal"
+        "rawAff": "LIACC Laboratório de Inteligência Artificial e Ciência de, DEI/FEUP Departamento de Engenharia Informática, Universidade do Porto, Porto, Portugal"
       }
     ]
   },
@@ -1036,6 +1051,7 @@
     "doi": "",
     "title": "Potentiate business opportunities into network: Conceptual model for networks of inter-organizational cooperation",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556707",
     "authors": [
       {
         "id": "1b3f1b41c17095a3bee3f453289648af",
@@ -1057,33 +1073,33 @@
         "id": "6a819c48fae0955dcfc29d3dc7f999f9",
         "name": " J. E. Q. A. S. Varajão",
         "affiliations": {
-          "id": "095cd439eaac92db8f81071f4e5c6e58",
+          "id": "934af26d5c23789252d9b91c315f43f0",
           "code": "universidadedetrasosmontesealtodouro",
-          "name": "Universidade de Trás-os-Montes e Alto Douro",
+          "name": "Universidade de Trás os Montes e Alto Douro",
           "country": "Portugal",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "Centro ALGORITMI, Universidade de Trás-os-Montes e Alto Douro, Vila Real, Portugal"
+          "rawAff": "Centro ALGORITMI, Universidade de Trás os Montes e Alto Douro, Vila Real, Portugal"
         },
         "hasMoreAff": true,
         "otherAff": "Centro ALGORITMI",
-        "rawAff": "Centro ALGORITMI, Universidade de Trás-os-Montes e Alto Douro, Vila Real, Portugal"
+        "rawAff": "Centro ALGORITMI, Universidade de Trás os Montes e Alto Douro, Vila Real, Portugal"
       },
       {
         "id": "14df705d6fef42e629c3e6fc73ed02ea",
         "name": " P. C. R. C. Oliveira",
         "affiliations": {
-          "id": "095cd439eaac92db8f81071f4e5c6e58",
+          "id": "934af26d5c23789252d9b91c315f43f0",
           "code": "universidadedetrasosmontesealtodouro",
-          "name": "Universidade de Trás-os-Montes e Alto Douro",
+          "name": "Universidade de Trás os Montes e Alto Douro",
           "country": "Portugal",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "Departamento de Engenharias, Universidade de Trás-os-Montes e Alto Douro, Vila Real, Portugal"
+          "rawAff": "Departamento de Engenharias, Universidade de Trás os Montes e Alto Douro, Vila Real, Portugal"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "Departamento de Engenharias, Universidade de Trás-os-Montes e Alto Douro, Vila Real, Portugal"
+        "rawAff": "Departamento de Engenharias, Universidade de Trás os Montes e Alto Douro, Vila Real, Portugal"
       }
     ]
   },
@@ -1092,6 +1108,7 @@
     "doi": "",
     "title": "A note on democracy and group support systems concepts",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556704",
     "authors": [
       {
         "id": "df306a9bc48fef5f0160c866ba1978dd",
@@ -1103,11 +1120,11 @@
           "country": "Portugal",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "INESC-Coimbra, Universidade de Coimbra Polo II, Coimbra, Portugal"
+          "rawAff": "INESC Coimbra, Universidade de Coimbra Polo II, Coimbra, Portugal"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "INESC-Coimbra, Universidade de Coimbra Polo II, Coimbra, Portugal"
+        "rawAff": "INESC Coimbra, Universidade de Coimbra Polo II, Coimbra, Portugal"
       },
       {
         "id": "e4c59f5b451d9a0b5bb164a233a9a3de",
@@ -1119,11 +1136,11 @@
           "country": "Portugal",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "INESC-Coimbra, Universidade de Coimbra Polo II, Coimbra, Portugal"
+          "rawAff": "INESC Coimbra, Universidade de Coimbra Polo II, Coimbra, Portugal"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "INESC-Coimbra, Universidade de Coimbra Polo II, Coimbra, Portugal"
+        "rawAff": "INESC Coimbra, Universidade de Coimbra Polo II, Coimbra, Portugal"
       }
     ]
   },
@@ -1132,6 +1149,7 @@
     "doi": "",
     "title": "Systematic review and comparison of modeling ETL processes in data warehouse",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556705",
     "authors": [
       {
         "id": "0c63515181958ce35a0d9603c6488c5a",
@@ -1188,6 +1206,7 @@
     "doi": "",
     "title": "Business intelligence in higher education: Enhancing the teaching-learning process with a SRM system",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556702",
     "authors": [
       {
         "id": "4b42aed0ad07fe58abb2e3220f8dd9ea",
@@ -1228,6 +1247,7 @@
     "doi": "",
     "title": "Contributions to experimental performance studies of Wi-Fi and FSO links",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556703",
     "authors": [
       {
         "id": "8079b507ca46a04c84f730c5344f8950",
@@ -1260,6 +1280,54 @@
         "hasMoreAff": false,
         "otherAff": "",
         "rawAff": "Unidade de Detecção Remota, Universidade da Beira Interior, Covilhaa, Portugal"
+      },
+      {
+        "id": "c0b692178ab8a56349002b5e77ecdb4b",
+        "name": " A. D. Reis",
+        "affiliations": {
+          "id": "1517d4662f11fd17b6bf0074fa521457",
+          "code": "universidadedabeirainterior",
+          "name": "Universidade da Beira Interior",
+          "country": "Portugal",
+          "region": "Europe",
+          "year": "2010",
+          "rawAff": "Universidade da Beira Interior, Covilha, Castelo Branco, PT"
+        },
+        "hasMoreAff": false,
+        "otherAff": "",
+        "rawAff": "Universidade da Beira Interior, Covilha, Castelo Branco, PT"
+      },
+      {
+        "id": "594c591a754fa7b572cc60fd0e1724b2",
+        "name": " N. Marques",
+        "affiliations": {
+          "id": "1517d4662f11fd17b6bf0074fa521457",
+          "code": "universidadedabeirainterior",
+          "name": "Universidade da Beira Interior",
+          "country": "Portugal",
+          "region": "Europe",
+          "year": "2010",
+          "rawAff": "Universidade da Beira Interior, Covilha, Castelo Branco, PT"
+        },
+        "hasMoreAff": false,
+        "otherAff": "",
+        "rawAff": "Universidade da Beira Interior, Covilha, Castelo Branco, PT"
+      },
+      {
+        "id": "9f93053cd708a5cb0539ffbe5791f21d",
+        "name": " H. Veiga",
+        "affiliations": {
+          "id": "1517d4662f11fd17b6bf0074fa521457",
+          "code": "universidadedabeirainterior",
+          "name": "Universidade da Beira Interior",
+          "country": "Portugal",
+          "region": "Europe",
+          "year": "2010",
+          "rawAff": "Universidade da Beira Interior, Covilha, Castelo Branco, PT"
+        },
+        "hasMoreAff": false,
+        "otherAff": "",
+        "rawAff": "Universidade da Beira Interior, Covilha, Castelo Branco, PT"
       }
     ]
   },
@@ -1268,6 +1336,7 @@
     "doi": "",
     "title": "The trajectories of study and research as products of didactical engineering: REI en ingeniería didáctica",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556700",
     "authors": [
       {
         "id": "f081e111cfdd83d10fd61118c9c21208",
@@ -1276,7 +1345,7 @@
           "id": "31ff8b7c23b960c38f5520451a41a23c",
           "code": "universidaddevigo",
           "name": "Universidad de Vigo",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Departamento Matemática Aplicada 1, Universidad de Vigo, Vigo, Spain"
@@ -1292,7 +1361,7 @@
           "id": "4b3dc6b992335b7cd207a7792ecdd454",
           "code": "iesescolasproval",
           "name": "IES Escolas Proval",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Departamento Matemáticas, IES Escolas Proval, Pontevedra, Spain"
@@ -1308,7 +1377,7 @@
           "id": "8e6e6cd337070b259e9fa58b9846154d",
           "code": "universitydevigo",
           "name": "University de Vigo",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Departamento Matemática Aplicada 1, University de Vigo, Pontevedra, Spain"
@@ -1324,6 +1393,7 @@
     "doi": "",
     "title": "The forgotten practices of subcontracting",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556701",
     "authors": [
       {
         "id": "411053fada0e74720fde170f2abaae9b",
@@ -1332,7 +1402,7 @@
           "id": "466fbce29e48ed739b8896e15fa3c112",
           "code": "universidadpolitecnicademadrid",
           "name": "Universidad Politécnica de Madrid",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Department Lenguajes y Sistemas Informáticos e Ingeniería del Software, Facultad de Informática, Universidad Politécnica de Madrid, Madrid, Spain"
@@ -1348,7 +1418,7 @@
           "id": "466fbce29e48ed739b8896e15fa3c112",
           "code": "universidadpolitecnicademadrid",
           "name": "Universidad Politécnica de Madrid",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Department Lenguajes y Sistemas Informáticos e Ingeniería del Software, Facultad de Informática, Universidad Politécnica de Madrid, Madrid, Spain"
@@ -1369,8 +1439,8 @@
           "year": "2010",
           "rawAff": "Department of Computer Science, Technische Universität Dresden, Dresden, Germany"
         },
-        "hasMoreAff": false,
-        "otherAff": "",
+        "hasMoreAff": true,
+        "otherAff": "Technische Universität Dresden",
         "rawAff": "Department of Computer Science, Technische Universität Dresden, Dresden, Germany"
       }
     ]
@@ -1380,6 +1450,7 @@
     "doi": "",
     "title": "ITIL maturity model",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556698",
     "authors": [
       {
         "id": "ae63f4f601ec01c3ae69ef6d75f9461f",
@@ -1420,70 +1491,71 @@
     "doi": "",
     "title": "Portuguese web accessibility in electronic public procurement platforms",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556699",
     "authors": [
       {
         "id": "6d5a38aa7937b54eeee5dbc49dc9f948",
         "name": "R. Gonçalves",
         "affiliations": {
-          "id": "6dfec287a3ced4f213fc4891b3a867a2",
+          "id": "749d561a9f1b1e908fde87e6f9771e4d",
           "code": "universityoftrasosmontesandaltodouro",
-          "name": "University of Trás-os-Montes and Alto Douro",
+          "name": "University of Trás os Montes and Alto Douro",
           "country": "Portugal",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "GECAD, University of Trás-os-Montes and Alto Douro, Vila Real, Portugal"
+          "rawAff": "GECAD, University of Trás os Montes and Alto Douro, Vila Real, Portugal"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "GECAD, University of Trás-os-Montes and Alto Douro, Vila Real, Portugal"
+        "rawAff": "GECAD, University of Trás os Montes and Alto Douro, Vila Real, Portugal"
       },
       {
         "id": "a814986d62ce44d019915e70ed7752bb",
         "name": " J. Martins",
         "affiliations": {
-          "id": "6dfec287a3ced4f213fc4891b3a867a2",
+          "id": "749d561a9f1b1e908fde87e6f9771e4d",
           "code": "universityoftrasosmontesandaltodouro",
-          "name": "University of Trás-os-Montes and Alto Douro",
+          "name": "University of Trás os Montes and Alto Douro",
           "country": "Portugal",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "GECAD, University of Trás-os-Montes and Alto Douro, Vila Real, Portugal"
+          "rawAff": "GECAD, University of Trás os Montes and Alto Douro, Vila Real, Portugal"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "GECAD, University of Trás-os-Montes and Alto Douro, Vila Real, Portugal"
+        "rawAff": "GECAD, University of Trás os Montes and Alto Douro, Vila Real, Portugal"
       },
       {
         "id": "b7afd6cd03eccc6a5d6d8454c25e770b",
         "name": " J. Pereira",
         "affiliations": {
-          "id": "6dfec287a3ced4f213fc4891b3a867a2",
+          "id": "749d561a9f1b1e908fde87e6f9771e4d",
           "code": "universityoftrasosmontesandaltodouro",
-          "name": "University of Trás-os-Montes and Alto Douro",
+          "name": "University of Trás os Montes and Alto Douro",
           "country": "Portugal",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "GECAD, University of Trás-os-Montes and Alto Douro, Vila Real, Portugal"
+          "rawAff": "GECAD, University of Trás os Montes and Alto Douro, Vila Real, Portugal"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "GECAD, University of Trás-os-Montes and Alto Douro, Vila Real, Portugal"
+        "rawAff": "GECAD, University of Trás os Montes and Alto Douro, Vila Real, Portugal"
       },
       {
         "id": "4d53047a0065923f3be3f64e3db305ba",
         "name": " H. Mamede",
         "affiliations": {
-          "id": "6dfec287a3ced4f213fc4891b3a867a2",
+          "id": "749d561a9f1b1e908fde87e6f9771e4d",
           "code": "universityoftrasosmontesandaltodouro",
-          "name": "University of Trás-os-Montes and Alto Douro",
+          "name": "University of Trás os Montes and Alto Douro",
           "country": "Portugal",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "GECAD, University of Trás-os-Montes and Alto Douro, Vila Real, Portugal"
+          "rawAff": "GECAD, University of Trás os Montes and Alto Douro, Vila Real, Portugal"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "GECAD, University of Trás-os-Montes and Alto Douro, Vila Real, Portugal"
+        "rawAff": "GECAD, University of Trás os Montes and Alto Douro, Vila Real, Portugal"
       }
     ]
   },
@@ -1492,6 +1564,7 @@
     "doi": "",
     "title": "Intelligent transactional delivery platform of multimedia contents for mobile devices",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556696",
     "authors": [
       {
         "id": "32551d05c6b3966fbcd8330793e334ad",
@@ -1500,14 +1573,14 @@
           "id": "d237839751be30e4df42d474f24dd1f6",
           "code": "universidaddedeusto",
           "name": "Universidad de Deusto",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "Facultad de Ingeniería-Deusto Tech, Universidad de Deusto, Bilbao, Spain"
+          "rawAff": "Facultad de Ingeniería Deusto Tech, Universidad de Deusto, Bilbao, Spain"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "Facultad de Ingeniería-Deusto Tech, Universidad de Deusto, Bilbao, Spain"
+        "rawAff": "Facultad de Ingeniería Deusto Tech, Universidad de Deusto, Bilbao, Spain"
       },
       {
         "id": "1b12078b59212035418f7e8f498cb477",
@@ -1516,14 +1589,14 @@
           "id": "d237839751be30e4df42d474f24dd1f6",
           "code": "universidaddedeusto",
           "name": "Universidad de Deusto",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "Facultad de Ingeniería-Deusto Tech, Universidad de Deusto, Bilbao, Spain"
+          "rawAff": "Facultad de Ingeniería Deusto Tech, Universidad de Deusto, Bilbao, Spain"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "Facultad de Ingeniería-Deusto Tech, Universidad de Deusto, Bilbao, Spain"
+        "rawAff": "Facultad de Ingeniería Deusto Tech, Universidad de Deusto, Bilbao, Spain"
       },
       {
         "id": "6033014e77c62129d1ac55e1acc6c4eb",
@@ -1532,14 +1605,14 @@
           "id": "d237839751be30e4df42d474f24dd1f6",
           "code": "universidaddedeusto",
           "name": "Universidad de Deusto",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "Facultad de Ingeniería-Deusto Tech, Universidad de Deusto, Bilbao, Spain"
+          "rawAff": "Facultad de Ingeniería Deusto Tech, Universidad de Deusto, Bilbao, Spain"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "Facultad de Ingeniería-Deusto Tech, Universidad de Deusto, Bilbao, Spain"
+        "rawAff": "Facultad de Ingeniería Deusto Tech, Universidad de Deusto, Bilbao, Spain"
       },
       {
         "id": "69e9946e03c4e045f1327228129770f1",
@@ -1548,14 +1621,14 @@
           "id": "d237839751be30e4df42d474f24dd1f6",
           "code": "universidaddedeusto",
           "name": "Universidad de Deusto",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "Facultad de Ingeniería-Deusto Tech, Universidad de Deusto, Bilbao, Spain"
+          "rawAff": "Facultad de Ingeniería Deusto Tech, Universidad de Deusto, Bilbao, Spain"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "Facultad de Ingeniería-Deusto Tech, Universidad de Deusto, Bilbao, Spain"
+        "rawAff": "Facultad de Ingeniería Deusto Tech, Universidad de Deusto, Bilbao, Spain"
       }
     ]
   },
@@ -1564,6 +1637,7 @@
     "doi": "",
     "title": "Replicación de sistemas virtualizados para la ampliación de servicios en un entorno virtual multiusuario en la UNED",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556697",
     "authors": [
       {
         "id": "94f2c1ef4d1781379bdc33335d7c7d88",
@@ -1572,7 +1646,7 @@
           "id": "d70466856e54b0e89d07180e7f3868d5",
           "code": "universidadnacionaldeeducacionadistancia",
           "name": "Universidad Nacional de Educacion a Distancia",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Universidad Nacional de Educacion a Distancia, Madrid, Spain"
@@ -1585,65 +1659,65 @@
         "id": "fa9a9820a1b3f1c12df360a2b2c8005b",
         "name": " D. Martínez",
         "affiliations": {
-          "id": "0a42cb80faebbe42a1ca5861a3818a29",
+          "id": "fc75da23e69bdd80aa71bfb3287e7cf9",
           "code": "inteccainnovacionydesarrollotecnologicodeloscentrosasociados",
-          "name": "INTECCA-Innovación y Desarrollo Tecnológico de los Centros Asociados",
-          "country": "Spain",
+          "name": "INTECCA Innovación y Desarrollo Tecnológico de los Centros Asociados",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "INTECCA-Innovación y Desarrollo Tecnológico de los Centros Asociados, Ponferrada, Spain"
+          "rawAff": "INTECCA Innovación y Desarrollo Tecnológico de los Centros Asociados, Ponferrada, Spain"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "INTECCA-Innovación y Desarrollo Tecnológico de los Centros Asociados, Ponferrada, Spain"
+        "rawAff": "INTECCA Innovación y Desarrollo Tecnológico de los Centros Asociados, Ponferrada, Spain"
       },
       {
         "id": "8b24ff84a46806f8209c7eb9e8c0049a",
         "name": " M. Santos",
         "affiliations": {
-          "id": "0a42cb80faebbe42a1ca5861a3818a29",
+          "id": "fc75da23e69bdd80aa71bfb3287e7cf9",
           "code": "inteccainnovacionydesarrollotecnologicodeloscentrosasociados",
-          "name": "INTECCA-Innovación y Desarrollo Tecnológico de los Centros Asociados",
-          "country": "Spain",
+          "name": "INTECCA Innovación y Desarrollo Tecnológico de los Centros Asociados",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "INTECCA-Innovación y Desarrollo Tecnológico de los Centros Asociados, Ponferrada, Spain"
+          "rawAff": "INTECCA Innovación y Desarrollo Tecnológico de los Centros Asociados, Ponferrada, Spain"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "INTECCA-Innovación y Desarrollo Tecnológico de los Centros Asociados, Ponferrada, Spain"
+        "rawAff": "INTECCA Innovación y Desarrollo Tecnológico de los Centros Asociados, Ponferrada, Spain"
       },
       {
         "id": "ab3b28ba1213ef3b9962be20b72fe782",
         "name": " V. Alonso",
         "affiliations": {
-          "id": "0a42cb80faebbe42a1ca5861a3818a29",
+          "id": "fc75da23e69bdd80aa71bfb3287e7cf9",
           "code": "inteccainnovacionydesarrollotecnologicodeloscentrosasociados",
-          "name": "INTECCA-Innovación y Desarrollo Tecnológico de los Centros Asociados",
-          "country": "Spain",
+          "name": "INTECCA Innovación y Desarrollo Tecnológico de los Centros Asociados",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "INTECCA-Innovación y Desarrollo Tecnológico de los Centros Asociados, Ponferrada, Spain"
+          "rawAff": "INTECCA Innovación y Desarrollo Tecnológico de los Centros Asociados, Ponferrada, Spain"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "INTECCA-Innovación y Desarrollo Tecnológico de los Centros Asociados, Ponferrada, Spain"
+        "rawAff": "INTECCA Innovación y Desarrollo Tecnológico de los Centros Asociados, Ponferrada, Spain"
       },
       {
         "id": "b48d2edf2232b38afcfa9c31e16964d6",
         "name": " N. Vázquez",
         "affiliations": {
-          "id": "0a42cb80faebbe42a1ca5861a3818a29",
+          "id": "fc75da23e69bdd80aa71bfb3287e7cf9",
           "code": "inteccainnovacionydesarrollotecnologicodeloscentrosasociados",
-          "name": "INTECCA-Innovación y Desarrollo Tecnológico de los Centros Asociados",
-          "country": "Spain",
+          "name": "INTECCA Innovación y Desarrollo Tecnológico de los Centros Asociados",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "INTECCA-Innovación y Desarrollo Tecnológico de los Centros Asociados, Ponferrada, Spain"
+          "rawAff": "INTECCA Innovación y Desarrollo Tecnológico de los Centros Asociados, Ponferrada, Spain"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "INTECCA-Innovación y Desarrollo Tecnológico de los Centros Asociados, Ponferrada, Spain"
+        "rawAff": "INTECCA Innovación y Desarrollo Tecnológico de los Centros Asociados, Ponferrada, Spain"
       }
     ]
   },
@@ -1652,6 +1726,7 @@
     "doi": "",
     "title": "GlobaliD: Federated identity provider associated with national citizen's card",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556694",
     "authors": [
       {
         "id": "88cfaed6b55feee86b2c223b307981d7",
@@ -1708,6 +1783,7 @@
     "doi": "",
     "title": "E-commerce experiences",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556695",
     "authors": [
       {
         "id": "63eea7496c5f866ac0118b28f39ad2e2",
@@ -1780,6 +1856,7 @@
     "doi": "",
     "title": "Testing aspect-oriented programs",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556692",
     "authors": [
       {
         "id": "c0b9c932a0626a7fd799303d80f2a2d7",
@@ -1836,6 +1913,7 @@
     "doi": "",
     "title": "Ontology-based system for content management in Digital Television: System with media content extraction and ontology-based storage functionalities",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556693",
     "authors": [
       {
         "id": "41c7bc49ae88ab304c0ffd858cd5c1a5",
@@ -1844,7 +1922,7 @@
           "id": "4e3ae360b3cdbee6c8e34bcd788ecc16",
           "code": "universidaddeextremadura",
           "name": "Universidad de Extremadura",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Quercus Software Engineering Group, Escuela Politécnica, Universidad de Extremadura, Caceres, Spain"
@@ -1860,7 +1938,7 @@
           "id": "4e3ae360b3cdbee6c8e34bcd788ecc16",
           "code": "universidaddeextremadura",
           "name": "Universidad de Extremadura",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Quercus Software Engineering Group, Escuela Politécnica, Universidad de Extremadura, Caceres, Spain"
@@ -1876,7 +1954,7 @@
           "id": "4e3ae360b3cdbee6c8e34bcd788ecc16",
           "code": "universidaddeextremadura",
           "name": "Universidad de Extremadura",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Quercus Software Engineering Group, Escuela Politécnica, Universidad de Extremadura, Caceres, Spain"
@@ -1892,6 +1970,7 @@
     "doi": "",
     "title": "Reverse engineering of GUI models for testing",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556690",
     "authors": [
       {
         "id": "2a4ed06ff372e33ba35f1ff2e3961ec6",
@@ -1948,6 +2027,7 @@
     "doi": "",
     "title": "Integration of university information systems using Web Services",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556691",
     "authors": [
       {
         "id": "98f3e2a77e4ee2650404e61867f674e4",
@@ -2036,6 +2116,7 @@
     "doi": "",
     "title": "Displacement estimation of a RC beam test based on TSS algorithm",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556688",
     "authors": [
       {
         "id": "606eb011e0cf33b46a90a97cfb31cf13",
@@ -2124,6 +2205,7 @@
     "doi": "",
     "title": "Ambient intelligence system for controlling home automation installations",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556689",
     "authors": [
       {
         "id": "9556f969429495813514d0c4dabc1dca",
@@ -2132,7 +2214,7 @@
           "id": "4e3ae360b3cdbee6c8e34bcd788ecc16",
           "code": "universidaddeextremadura",
           "name": "Universidad de Extremadura",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Quercus Software Engineering Group, Escuela Politécnica, Universidad de Extremadura, Caceres, Spain"
@@ -2148,7 +2230,7 @@
           "id": "4e3ae360b3cdbee6c8e34bcd788ecc16",
           "code": "universidaddeextremadura",
           "name": "Universidad de Extremadura",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Quercus Software Engineering Group, Escuela Politécnica, Universidad de Extremadura, Caceres, Spain"
@@ -2164,7 +2246,7 @@
           "id": "4e3ae360b3cdbee6c8e34bcd788ecc16",
           "code": "universidaddeextremadura",
           "name": "Universidad de Extremadura",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Quercus Software Engineering Group, Escuela Politécnica, Universidad de Extremadura, Caceres, Spain"
@@ -2180,6 +2262,7 @@
     "doi": "",
     "title": "A case study related to the control of IT services in a small enterprise",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556686",
     "authors": [
       {
         "id": "651f6d5306dcda0c55bf8919764a5a6b",
@@ -2188,7 +2271,7 @@
           "id": "466fbce29e48ed739b8896e15fa3c112",
           "code": "universidadpolitecnicademadrid",
           "name": "Universidad Politécnica de Madrid",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Departamento Lenguajes y Sistemas Informáticos e Ingeniería del Software, Facultad de Informática, Universidad Politécnica de Madrid, Madrid, Spain"
@@ -2204,7 +2287,7 @@
           "id": "466fbce29e48ed739b8896e15fa3c112",
           "code": "universidadpolitecnicademadrid",
           "name": "Universidad Politécnica de Madrid",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Departamento Lenguajes y Sistemas Informáticos e Ingeniería del Software, Facultad de Informática, Universidad Politécnica de Madrid, Madrid, Spain"
@@ -2220,7 +2303,7 @@
           "id": "d70466856e54b0e89d07180e7f3868d5",
           "code": "universidadnacionaldeeducacionadistancia",
           "name": "Universidad Nacional de Educación a Distancia",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Departamento Ingeniería de Software y Sistemas Informáticos, ETSI Informática, Universidad Nacional de Educación a Distancia, Madrid, Spain"
@@ -2236,6 +2319,7 @@
     "doi": "",
     "title": "Quality in the development of applications through the team software process TSPi methodology",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556687",
     "authors": [
       {
         "id": "411053fada0e74720fde170f2abaae9b",
@@ -2244,7 +2328,7 @@
           "id": "466fbce29e48ed739b8896e15fa3c112",
           "code": "universidadpolitecnicademadrid",
           "name": "Universidad Politécnica de Madrid",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Departamento Lenguajes y Sistemas Informáticos e Ingenieríe del Software., Facultad de Informática, Universidad Politécnica de Madrid, Madrid, Spain"
@@ -2260,7 +2344,7 @@
           "id": "466fbce29e48ed739b8896e15fa3c112",
           "code": "universidadpolitecnicademadrid",
           "name": "Universidad Politécnica de Madrid",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Departamento Lenguajes y Sistemas Informáticos e Ingenieríe del Software., Facultad de Informática, Universidad Politécnica de Madrid, Madrid, Spain"
@@ -2276,7 +2360,7 @@
           "id": "466fbce29e48ed739b8896e15fa3c112",
           "code": "universidadpolitecnicademadrid",
           "name": "Universidad Politécnica de Madrid",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Departamento Lenguajes y Sistemas Informáticos e Ingenieríe del Software., Facultad de Informática, Universidad Politécnica de Madrid, Madrid, Spain"
@@ -2292,7 +2376,7 @@
           "id": "466fbce29e48ed739b8896e15fa3c112",
           "code": "universidadpolitecnicademadrid",
           "name": "Universidad Politécnica de Madrid",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Departamento Lenguajes y Sistemas Informáticos e Ingenieríe del Software., Facultad de Informática, Universidad Politécnica de Madrid, Madrid, Spain"
@@ -2308,6 +2392,7 @@
     "doi": "",
     "title": "Spatiotemporal database models and languages for moving objects: A review",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556684",
     "authors": [
       {
         "id": "6f8dc4f3e675e512b2401a0d69e96345",
@@ -2348,70 +2433,71 @@
     "doi": "",
     "title": "Simulation of computational grids scheduling politics",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556685",
     "authors": [
       {
         "id": "3d14e27714b37cf908057331b218fe6b",
         "name": "L. F. de Oliveira",
         "affiliations": {
-          "id": "4abcf3333ab3ae1c5ac764879b13597d",
+          "id": "a2796ebd6fffaec16959c195a4d29db4",
           "code": "unespuniversidadeestadualpaulista",
-          "name": "UNESP-Universidade Estadual Paulista",
+          "name": "UNESP Universidade Estadual Paulista",
           "country": "Brazil",
           "region": "South America",
           "year": "2010",
-          "rawAff": "Departamento de Ciências de Computação e Estatística, IBILCE, UNESP-Universidade Estadual Paulista, Sao Paulo, Brazil"
+          "rawAff": "Departamento de Ciências de Computação e Estatística, IBILCE, UNESP Universidade Estadual Paulista, Sao Paulo, Brazil"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "Departamento de Ciências de Computação e Estatística, IBILCE, UNESP-Universidade Estadual Paulista, Sao Paulo, Brazil"
+        "rawAff": "Departamento de Ciências de Computação e Estatística, IBILCE, UNESP Universidade Estadual Paulista, Sao Paulo, Brazil"
       },
       {
         "id": "f88608875bc9664b5ddd27fe30363219",
         "name": " R. S. Lobato",
         "affiliations": {
-          "id": "4abcf3333ab3ae1c5ac764879b13597d",
+          "id": "a2796ebd6fffaec16959c195a4d29db4",
           "code": "unespuniversidadeestadualpaulista",
-          "name": "UNESP-Universidade Estadual Paulista",
+          "name": "UNESP Universidade Estadual Paulista",
           "country": "Brazil",
           "region": "South America",
           "year": "2010",
-          "rawAff": "Departamento de Ciências de Computação e Estatística, IBILCE, UNESP-Universidade Estadual Paulista, Sao Paulo, Brazil"
+          "rawAff": "Departamento de Ciências de Computação e Estatística, IBILCE, UNESP Universidade Estadual Paulista, Sao Paulo, Brazil"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "Departamento de Ciências de Computação e Estatística, IBILCE, UNESP-Universidade Estadual Paulista, Sao Paulo, Brazil"
+        "rawAff": "Departamento de Ciências de Computação e Estatística, IBILCE, UNESP Universidade Estadual Paulista, Sao Paulo, Brazil"
       },
       {
         "id": "9396051c83d94dfb2b8453d44a7719e6",
         "name": " R. Spolon",
         "affiliations": {
-          "id": "4abcf3333ab3ae1c5ac764879b13597d",
+          "id": "a2796ebd6fffaec16959c195a4d29db4",
           "code": "unespuniversidadeestadualpaulista",
-          "name": "UNESP-Universidade Estadual Paulista",
+          "name": "UNESP Universidade Estadual Paulista",
           "country": "Brazil",
           "region": "South America",
           "year": "2010",
-          "rawAff": "Departamento de Computação, Faculdade de Ciências, UNESP-Universidade Estadual Paulista, Sao Paulo, Brazil"
+          "rawAff": "Departamento de Computação, Faculdade de Ciências, UNESP Universidade Estadual Paulista, Sao Paulo, Brazil"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "Departamento de Computação, Faculdade de Ciências, UNESP-Universidade Estadual Paulista, Sao Paulo, Brazil"
+        "rawAff": "Departamento de Computação, Faculdade de Ciências, UNESP Universidade Estadual Paulista, Sao Paulo, Brazil"
       },
       {
         "id": "9e5cabd00913012fdce085099ec9c688",
         "name": " M. A. Cavenaghi",
         "affiliations": {
-          "id": "4abcf3333ab3ae1c5ac764879b13597d",
+          "id": "a2796ebd6fffaec16959c195a4d29db4",
           "code": "unespuniversidadeestadualpaulista",
-          "name": "UNESP-Universidade Estadual Paulista",
+          "name": "UNESP Universidade Estadual Paulista",
           "country": "Brazil",
           "region": "South America",
           "year": "2010",
-          "rawAff": "Departamento de Computação, Faculdade de Ciências, UNESP-Universidade Estadual Paulista, Sao Paulo, Brazil"
+          "rawAff": "Departamento de Computação, Faculdade de Ciências, UNESP Universidade Estadual Paulista, Sao Paulo, Brazil"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "Departamento de Computação, Faculdade de Ciências, UNESP-Universidade Estadual Paulista, Sao Paulo, Brazil"
+        "rawAff": "Departamento de Computação, Faculdade de Ciências, UNESP Universidade Estadual Paulista, Sao Paulo, Brazil"
       }
     ]
   },
@@ -2420,6 +2506,7 @@
     "doi": "",
     "title": "Real-time prediction of organ failure and outcome in intensive medicine",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556682",
     "authors": [
       {
         "id": "4cdb5d6c79b3431c23acb31565ffd3e0",
@@ -2508,54 +2595,55 @@
     "doi": "",
     "title": "Categorization of user behaviour: Digital imaging architectural visualization in immersive media",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556683",
     "authors": [
       {
         "id": "637aa023b5c7743560a1d59d93b8da37",
         "name": "D. Fonseca",
         "affiliations": {
-          "id": "0188ddfd1032940a719029856c2b808b",
+          "id": "71e6a2e35222fec7dd11c2c51e65285c",
           "code": "gtmgrupderecercaentecnologiesmedia",
-          "name": "GTM-Grup de Recerca en Tecnologies Media",
-          "country": "Spain",
+          "name": "GTM Grup de Recerca en Tecnologies Media",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "GTM-Grup de Recerca en Tecnologies Media, URL, Barcelona, Spain"
+          "rawAff": "GTM Grup de Recerca en Tecnologies Media, URL, Barcelona, Spain"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "GTM-Grup de Recerca en Tecnologies Media, URL, Barcelona, Spain"
+        "rawAff": "GTM Grup de Recerca en Tecnologies Media, URL, Barcelona, Spain"
       },
       {
         "id": "5ded5acf23605c7b4731820765acab0a",
         "name": " P. Moreno",
         "affiliations": {
-          "id": "0188ddfd1032940a719029856c2b808b",
+          "id": "71e6a2e35222fec7dd11c2c51e65285c",
           "code": "gtmgrupderecercaentecnologiesmedia",
-          "name": " GTM-Grup de Recerca en Tecnologies Media",
-          "country": "Spain",
+          "name": " GTM Grup de Recerca en Tecnologies Media",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "GTM-Grup de Recerca en Tecnologies Media, URL, Barcelona, Spain"
+          "rawAff": "GTM Grup de Recerca en Tecnologies Media, URL, Barcelona, Spain"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "GTM-Grup de Recerca en Tecnologies Media, URL, Barcelona, Spain"
+        "rawAff": "GTM Grup de Recerca en Tecnologies Media, URL, Barcelona, Spain"
       },
       {
         "id": "88de8184117e537c6283d1b5f7e49e44",
         "name": " O. García",
         "affiliations": {
-          "id": "0188ddfd1032940a719029856c2b808b",
+          "id": "71e6a2e35222fec7dd11c2c51e65285c",
           "code": "gtmgrupderecercaentecnologiesmedia",
-          "name": " GTM-Grup de Recerca en Tecnologies Media",
-          "country": "Spain",
+          "name": " GTM Grup de Recerca en Tecnologies Media",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "GTM-Grup de Recerca en Tecnologies Media, URL, Barcelona, Spain"
+          "rawAff": "GTM Grup de Recerca en Tecnologies Media, URL, Barcelona, Spain"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "GTM-Grup de Recerca en Tecnologies Media, URL, Barcelona, Spain"
+        "rawAff": "GTM Grup de Recerca en Tecnologies Media, URL, Barcelona, Spain"
       },
       {
         "id": "0d87763965a3296d034ee025024e659b",
@@ -2564,7 +2652,7 @@
           "id": "2ac324443ace54df00034f336a242f1d",
           "code": "universidadcarlosiiidemadrid",
           "name": "Universidad Carlos III de Madrid",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Universidad Carlos III de Madrid, Madrid, Spain"
@@ -2580,6 +2668,7 @@
     "doi": "",
     "title": "FEUP fuzzy tool II: Improved tool for education and embedded control",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556680",
     "authors": [
       {
         "id": "555b71b3ccf7c450592d7dc3678509ac",
@@ -2620,6 +2709,7 @@
     "doi": "",
     "title": "Contracts evaluation of software and services acquisition in outsourcing",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556681",
     "authors": [
       {
         "id": "28e78eb7c35cb6d8cc4eb2893715130d",
@@ -2708,6 +2798,7 @@
     "doi": "",
     "title": "E-sharing: Development and use of learning objects repository",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556678",
     "authors": [
       {
         "id": "69d35060d07a74efe40e677a924b1436",
@@ -2732,7 +2823,7 @@
           "id": "31ff8b7c23b960c38f5520451a41a23c",
           "code": "universidaddevigo",
           "name": "Universidad de Vigo",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Universidad de Vigo, Vigo, Spain"
@@ -2764,6 +2855,7 @@
     "doi": "",
     "title": "Identifying best practices for a software development organization through knowledge management",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556679",
     "authors": [
       {
         "id": "b347b205bdb6bedefb34704def7af5f6",
@@ -2782,6 +2874,22 @@
         "rawAff": "Departamento Lenguajes y Sistemas informáticos e Ingeniería del Software, Universidad Politécnica de Madrid, Madrid, España"
       },
       {
+        "id": "0d8348d5fe362ec6bb138798770f2f6a",
+        "name": " G. Cuevas",
+        "affiliations": {
+          "id": "466fbce29e48ed739b8896e15fa3c112",
+          "code": "universidadpolitecnicademadrid",
+          "name": "Universidad Politecnica de Madrid",
+          "country": "España",
+          "region": "Europe",
+          "year": "2010",
+          "rawAff": "Universidad Politecnica de Madrid, Madrid, Comunidad de Madrid, ES"
+        },
+        "hasMoreAff": false,
+        "otherAff": "",
+        "rawAff": "Universidad Politecnica de Madrid, Madrid, Comunidad de Madrid, ES"
+      },
+      {
         "id": "727eddd5c6e67e038b6d9c3c4023793a",
         "name": " M. A. Muñoz",
         "affiliations": {
@@ -2796,6 +2904,38 @@
         "hasMoreAff": false,
         "otherAff": "",
         "rawAff": "Departamento Lenguajes y Sistemas informáticos e Ingeniería del Software, Universidad Politécnica de Madrid, Madrid, España"
+      },
+      {
+        "id": "cc53ff0fb2377101391c1afcaf8982ce",
+        "name": " T. S. Feliu",
+        "affiliations": {
+          "id": "466fbce29e48ed739b8896e15fa3c112",
+          "code": "universidadpolitecnicademadrid",
+          "name": "Universidad Politecnica de Madrid",
+          "country": "España",
+          "region": "Europe",
+          "year": "2010",
+          "rawAff": "Universidad Politecnica de Madrid, Madrid, Comunidad de Madrid, ES"
+        },
+        "hasMoreAff": false,
+        "otherAff": "",
+        "rawAff": "Universidad Politecnica de Madrid, Madrid, Comunidad de Madrid, ES"
+      },
+      {
+        "id": "e4552c7e54a7fa1d38c9d9358facf170",
+        "name": " R. Álvaro",
+        "affiliations": {
+          "id": "061b9e02d238f133f6d8b510f4a7266a",
+          "code": "universidadefernandopessoa",
+          "name": "Universidade Fernando Pessoa",
+          "country": "Portugal",
+          "region": "Europe",
+          "year": "2010",
+          "rawAff": "Universidade Fernando Pessoa, Porto, Porto, PT"
+        },
+        "hasMoreAff": false,
+        "otherAff": "",
+        "rawAff": "Universidade Fernando Pessoa, Porto, Porto, PT"
       },
       {
         "id": "24e6cec78f2fcc607fc8a4e17a58f1c1",
@@ -2820,6 +2960,7 @@
     "doi": "",
     "title": "Epidemiological proactive surveillance based on Asterisk and Php",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556676",
     "authors": [
       {
         "id": "65d50c80d516c376cade4776899563ca",
@@ -2828,14 +2969,14 @@
           "id": "3c64ec39564e92c5ebac15048ad40ea7",
           "code": "dptoingenicriadesistemasyautomaticaescuelatecnicasuperiordeingenieria",
           "name": "Dpto. Ingenicría de Sistemas y Automática Escuela Técnica Superior de Ingeniería",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "Dpto. Ingenicría de Sistemas y Automática Escuela Técnica Superior de Ingeniería, UPV-EHU, Bilbao, Spain"
+          "rawAff": "Dpto. Ingenicría de Sistemas y Automática Escuela Técnica Superior de Ingeniería, UPV EHU, Bilbao, Spain"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "Dpto. Ingenicría de Sistemas y Automática Escuela Técnica Superior de Ingeniería, UPV-EHU, Bilbao, Spain"
+        "rawAff": "Dpto. Ingenicría de Sistemas y Automática Escuela Técnica Superior de Ingeniería, UPV EHU, Bilbao, Spain"
       },
       {
         "id": "e826c72bad99f5d92cb1b05df6a40ffd",
@@ -2844,14 +2985,14 @@
           "id": "3c64ec39564e92c5ebac15048ad40ea7",
           "code": "dptoingenicriadesistemasyautomaticaescuelatecnicasuperiordeingenieria",
           "name": " Dpto. Ingenicría de Sistemas y Automática Escuela Técnica Superior de Ingeniería",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "Dpto. Ingenicría de Sistemas y Automática Escuela Técnica Superior de Ingeniería, UPV-EHU, Bilbao, Spain"
+          "rawAff": "Dpto. Ingenicría de Sistemas y Automática Escuela Técnica Superior de Ingeniería, UPV EHU, Bilbao, Spain"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "Dpto. Ingenicría de Sistemas y Automática Escuela Técnica Superior de Ingeniería, UPV-EHU, Bilbao, Spain"
+        "rawAff": "Dpto. Ingenicría de Sistemas y Automática Escuela Técnica Superior de Ingeniería, UPV EHU, Bilbao, Spain"
       },
       {
         "id": "7fabbca786bf63000b770269dd7edecc",
@@ -2860,14 +3001,14 @@
           "id": "3c64ec39564e92c5ebac15048ad40ea7",
           "code": "dptoingenicriadesistemasyautomaticaescuelatecnicasuperiordeingenieria",
           "name": " Dpto. Ingenicría de Sistemas y Automática Escuela Técnica Superior de Ingeniería",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "Dpto. Ingenicría de Sistemas y Automática Escuela Técnica Superior de Ingeniería, UPV-EHU, Bilbao, Spain"
+          "rawAff": "Dpto. Ingenicría de Sistemas y Automática Escuela Técnica Superior de Ingeniería, UPV EHU, Bilbao, Spain"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "Dpto. Ingenicría de Sistemas y Automática Escuela Técnica Superior de Ingeniería, UPV-EHU, Bilbao, Spain"
+        "rawAff": "Dpto. Ingenicría de Sistemas y Automática Escuela Técnica Superior de Ingeniería, UPV EHU, Bilbao, Spain"
       },
       {
         "id": "cb12fc3cdd5e6ef44a875747e76771af",
@@ -2876,14 +3017,14 @@
           "id": "3c64ec39564e92c5ebac15048ad40ea7",
           "code": "dptoingenicriadesistemasyautomaticaescuelatecnicasuperiordeingenieria",
           "name": " Dpto. Ingenicría de Sistemas y Automática Escuela Técnica Superior de Ingeniería",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "Dpto. Ingenicría de Sistemas y Automática Escuela Técnica Superior de Ingeniería, UPV-EHU, Bilbao, Spain"
+          "rawAff": "Dpto. Ingenicría de Sistemas y Automática Escuela Técnica Superior de Ingeniería, UPV EHU, Bilbao, Spain"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "Dpto. Ingenicría de Sistemas y Automática Escuela Técnica Superior de Ingeniería, UPV-EHU, Bilbao, Spain"
+        "rawAff": "Dpto. Ingenicría de Sistemas y Automática Escuela Técnica Superior de Ingeniería, UPV EHU, Bilbao, Spain"
       },
       {
         "id": "7a7d920990a2aba14cbe47cadad090bb",
@@ -2892,14 +3033,14 @@
           "id": "3c64ec39564e92c5ebac15048ad40ea7",
           "code": "dptoingenicriadesistemasyautomaticaescuelatecnicasuperiordeingenieria",
           "name": " Dpto. Ingenicría de Sistemas y Automática Escuela Técnica Superior de Ingeniería",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "Dpto. Ingenicría de Sistemas y Automática Escuela Técnica Superior de Ingeniería, UPV-EHU, Bilbao, Spain"
+          "rawAff": "Dpto. Ingenicría de Sistemas y Automática Escuela Técnica Superior de Ingeniería, UPV EHU, Bilbao, Spain"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "Dpto. Ingenicría de Sistemas y Automática Escuela Técnica Superior de Ingeniería, UPV-EHU, Bilbao, Spain"
+        "rawAff": "Dpto. Ingenicría de Sistemas y Automática Escuela Técnica Superior de Ingeniería, UPV EHU, Bilbao, Spain"
       },
       {
         "id": "e4ad6a903607392d670c91085e134217",
@@ -2956,6 +3097,7 @@
     "doi": "",
     "title": "Looking for efective ways of achieving and sustaining Business-IT alignment",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556677",
     "authors": [
       {
         "id": "2bd6653484de6750b42f2f9a49232e43",
@@ -2996,38 +3138,39 @@
     "doi": "",
     "title": "Serious games for rehabilitation: A survey and a classification towards a taxonomy",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556674",
     "authors": [
       {
         "id": "fb11711ca4bd392cb1dd1b5aff407b38",
         "name": "P. Rego",
         "affiliations": {
-          "id": "62cdaa5ee355a6f328505cc139a8ea76",
+          "id": "767248c2d1eb480f6a14db8dfc470198",
           "code": "ipvcinstitutopolitecnicodevianadocastelo",
-          "name": "IPVC-Instituto Politécnico de Viana do Castelo",
+          "name": "IPVC Instituto Politécnico de Viana do Castelo",
           "country": "Portugal",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "IPVC-Instituto Politécnico de Viana do Castelo, ESTG-Escola Superior de Tecnologia e Gestão, Viana do Castelo, Portugal"
+          "rawAff": "IPVC Instituto Politécnico de Viana do Castelo, ESTG Escola Superior de Tecnologia e Gestão, Viana do Castelo, Portugal"
         },
         "hasMoreAff": true,
-        "otherAff": "ESTG-Escola Superior de Tecnologia e Gestão",
-        "rawAff": "IPVC-Instituto Politécnico de Viana do Castelo, ESTG-Escola Superior de Tecnologia e Gestão, Viana do Castelo, Portugal"
+        "otherAff": "ESTG Escola Superior de Tecnologia e Gestão",
+        "rawAff": "IPVC Instituto Politécnico de Viana do Castelo, ESTG Escola Superior de Tecnologia e Gestão, Viana do Castelo, Portugal"
       },
       {
         "id": "aa8baf302801691422645ebb052be228",
         "name": " P. M. Moreira",
         "affiliations": {
-          "id": "62cdaa5ee355a6f328505cc139a8ea76",
+          "id": "767248c2d1eb480f6a14db8dfc470198",
           "code": "ipvcinstitutopolitecnicodevianadocastelo",
-          "name": "IPVC-Instituto Politécnico de Viana do Castelo",
+          "name": "IPVC Instituto Politécnico de Viana do Castelo",
           "country": "Portugal",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "IPVC-Instituto Politécnico de Viana do Castelo, ESTG-Escola Superior de Tecnologia e Gestão, Viana do Castelo, Portugal"
+          "rawAff": "IPVC Instituto Politécnico de Viana do Castelo, ESTG Escola Superior de Tecnologia e Gestão, Viana do Castelo, Portugal"
         },
         "hasMoreAff": true,
-        "otherAff": "ESTG-Escola Superior de Tecnologia e Gestão",
-        "rawAff": "IPVC-Instituto Politécnico de Viana do Castelo, ESTG-Escola Superior de Tecnologia e Gestão, Viana do Castelo, Portugal"
+        "otherAff": "ESTG Escola Superior de Tecnologia e Gestão",
+        "rawAff": "IPVC Instituto Politécnico de Viana do Castelo, ESTG Escola Superior de Tecnologia e Gestão, Viana do Castelo, Portugal"
       },
       {
         "id": "8c43b4f849801aed77795f8447ff8f70",
@@ -3039,11 +3182,11 @@
           "country": "Portugal",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "LIACC-Laboratório de Inteligência Artificial e Ciência, Universidade do Porto, Porto, Portugal"
+          "rawAff": "LIACC Laboratório de Inteligência Artificial e Ciência, Universidade do Porto, Porto, Portugal"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "LIACC-Laboratório de Inteligência Artificial e Ciência, Universidade do Porto, Porto, Portugal"
+        "rawAff": "LIACC Laboratório de Inteligência Artificial e Ciência, Universidade do Porto, Porto, Portugal"
       }
     ]
   },
@@ -3052,6 +3195,7 @@
     "doi": "",
     "title": "Incorporation web in secondary education in Galicia",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556675",
     "authors": [
       {
         "id": "17b9d74ec3d9cd628ab10244f260db97",
@@ -3060,7 +3204,7 @@
           "id": "31ff8b7c23b960c38f5520451a41a23c",
           "code": "universidaddevigo",
           "name": "Universidad de Vigo",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Departamento de Informática, Universidad de Vigo, Vigo (España), Spain"
@@ -3076,7 +3220,7 @@
           "id": "31ff8b7c23b960c38f5520451a41a23c",
           "code": "universidaddevigo",
           "name": "Universidad de Vigo",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Departamento de Informática, Universidad de Vigo, Vigo (España), Spain"
@@ -3092,7 +3236,7 @@
           "id": "31ff8b7c23b960c38f5520451a41a23c",
           "code": "universidaddevigo",
           "name": "Universidad de Vigo",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Departamento de Informática, Universidad de Vigo, Vigo (España), Spain"
@@ -3108,7 +3252,7 @@
           "id": "31ff8b7c23b960c38f5520451a41a23c",
           "code": "universidaddevigo",
           "name": "Universidad de Vigo",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Departamento de Informática, Universidad de Vigo, Vigo (España), Spain"
@@ -3124,6 +3268,7 @@
     "doi": "",
     "title": "An open software architecture for learning support processes for people with intellectual disabilities",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556672",
     "authors": [
       {
         "id": "661c3382a3eccc93f8a4c9bff5f2f515",
@@ -3132,7 +3277,7 @@
           "id": "2ac324443ace54df00034f336a242f1d",
           "code": "universidadcarlosiiidemadrid",
           "name": "Universidad Carlos III de Madrid",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Departamento de Informática, Universidad Carlos III de Madrid, Leganes, Spain"
@@ -3148,7 +3293,7 @@
           "id": "2ac324443ace54df00034f336a242f1d",
           "code": "universidadcarlosiiidemadrid",
           "name": "Universidad Carlos III de Madrid",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Departamento de Informática, Universidad Carlos III de Madrid, Leganes, Spain"
@@ -3164,7 +3309,7 @@
           "id": "2ac324443ace54df00034f336a242f1d",
           "code": "universidadcarlosiiidemadrid",
           "name": "Universidad Carlos III de Madrid",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Departamento de Informática, Universidad Carlos III de Madrid, Leganes, Spain"
@@ -3177,17 +3322,17 @@
         "id": "637aa023b5c7743560a1d59d93b8da37",
         "name": " D. Fonseca",
         "affiliations": {
-          "id": "4ac5a240546dcb13145c2e07e1fea04d",
+          "id": "8a075441b5d62077f74ec700891eb531",
           "code": "gtmgrupderecercaentechnologiesmedia",
-          "name": " GTM-Grup de Recerca en Technologies Mèdia",
-          "country": "Spain",
+          "name": " GTM Grup de Recerca en Technologies Mèdia",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "GTM-Grup de Recerca en Technologies Mèdia, Enginyeria I Arquitectura La Salle, URL, Barcelona, Spain"
+          "rawAff": "GTM Grup de Recerca en Technologies Mèdia, Enginyeria I Arquitectura La Salle, URL, Barcelona, Spain"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "GTM-Grup de Recerca en Technologies Mèdia, Enginyeria I Arquitectura La Salle, URL, Barcelona, Spain"
+        "rawAff": "GTM Grup de Recerca en Technologies Mèdia, Enginyeria I Arquitectura La Salle, URL, Barcelona, Spain"
       }
     ]
   },
@@ -3196,6 +3341,7 @@
     "doi": "",
     "title": "Applying usability principles to the design of a web interface for the “iLab - inventory manager for electronics laboratory”",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556673",
     "authors": [
       {
         "id": "16aaca5238edf305fed1d458561332d5",
@@ -3223,11 +3369,11 @@
           "country": "Portugal",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "INESC-Porto, Faculty of Engineering, University of Porta, Porto, Portugal"
+          "rawAff": "INESC Porto, Faculty of Engineering, University of Porta, Porto, Portugal"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "INESC-Porto, Faculty of Engineering, University of Porta, Porto, Portugal"
+        "rawAff": "INESC Porto, Faculty of Engineering, University of Porta, Porto, Portugal"
       },
       {
         "id": "54bebb9b80c2f4ce6401c6bbfcf4aaf0",
@@ -3252,6 +3398,7 @@
     "doi": "",
     "title": "Ranking alternatives on the basis of a dominance intensity measure and fuzzy logic",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556670",
     "authors": [
       {
         "id": "07dfbb64b1b4885ab7eb55e2b7d3d360",
@@ -3260,7 +3407,7 @@
           "id": "966f3f0d036f0257f47f8007f3b3d2d3",
           "code": "departamentodeeconomiaaplicadai",
           "name": "Departamento de Economía Aplicada I",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Departamento de Economía Aplicada I, URJC, Madrid, Spain"
@@ -3276,7 +3423,7 @@
           "id": "466fbce29e48ed739b8896e15fa3c112",
           "code": "universidadpolitecnicademadrid",
           "name": "Universidad Politécnica de Madrid",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Departamento de Inteligencia Artificial, Facultad de Informática, Universidad Politécnica de Madrid, Boadilla del Monte, Spain"
@@ -3292,7 +3439,7 @@
           "id": "466fbce29e48ed739b8896e15fa3c112",
           "code": "universidadpolitecnicademadrid",
           "name": "Universidad Politécnica de Madrid",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Departamento de Inteligencia Artificial, Facultad de Informática, Universidad Politécnica de Madrid, Boadilla del Monte, Spain"
@@ -3308,6 +3455,7 @@
     "doi": "",
     "title": "Quality in use of service evaluation framework for mobile services",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556671",
     "authors": [
       {
         "id": "f07b129751e5ceac850334d472f329fb",
@@ -3316,7 +3464,7 @@
           "id": "f72ae2a71ded71dace176524a6dd2927",
           "code": "deustotech",
           "name": "DeustoTech",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "DeustoTech, Fundación Deusto, Bilbao, Spain"
@@ -3332,7 +3480,7 @@
           "id": "f72ae2a71ded71dace176524a6dd2927",
           "code": "deustotech",
           "name": " DeustoTech",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "DeustoTech, Fundación Deusto, Bilbao, Spain"
@@ -3348,6 +3496,7 @@
     "doi": "",
     "title": "Thematic repository as alternative model for science communication",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556668",
     "authors": [
       {
         "id": "e716df8af8e0a5ba0b7d4c587220bd75",
@@ -3404,6 +3553,7 @@
     "doi": "",
     "title": "Air traffic control with Microsoft Flight Simulator X",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556669",
     "authors": [
       {
         "id": "6590a8fb23a087ff3eac1ce7c8a81c6d",
@@ -3460,6 +3610,7 @@
     "doi": "",
     "title": "Smart telecare video monitoring for anomalous event detection",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556666",
     "authors": [
       {
         "id": "0e2bb01ebd4cbdae3c648d3d0a090cba",
@@ -3468,7 +3619,7 @@
           "id": "a581b08565033f7afc21838d02f40457",
           "code": "universityofvigo",
           "name": "University of Vigo",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Department of Computer Science ESEI, University of Vigo, España, Spain"
@@ -3484,7 +3635,7 @@
           "id": "a581b08565033f7afc21838d02f40457",
           "code": "universityofvigo",
           "name": "University of Vigo",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Department of Computer Science ESEI, University of Vigo, España, Spain"
@@ -3500,7 +3651,7 @@
           "id": "a581b08565033f7afc21838d02f40457",
           "code": "universityofvigo",
           "name": "University of Vigo",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Department of Computer Science ESEI, University of Vigo, España, Spain"
@@ -3516,7 +3667,7 @@
           "id": "a581b08565033f7afc21838d02f40457",
           "code": "universityofvigo",
           "name": "University of Vigo",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Department of Computer Science ESEI, University of Vigo, España, Spain"
@@ -3532,6 +3683,7 @@
     "doi": "",
     "title": "Assessing the quality of scientific publications as educational content on digital libraries",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556667",
     "authors": [
       {
         "id": "fbe4c8db8a6436a55c3a4330d0d5d35b",
@@ -3556,7 +3708,7 @@
           "id": "c0c5b6baf46d4ce4b9e026154a59ea88",
           "code": "universityofalicante",
           "name": "University of Alicante",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Department of Software and Computing Systems, University of Alicante, Spain"
@@ -3572,7 +3724,7 @@
           "id": "c0c5b6baf46d4ce4b9e026154a59ea88",
           "code": "universityofalicante",
           "name": "University of Alicante",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Department of Software and Computing Systems, University of Alicante, Spain"
@@ -3604,6 +3756,7 @@
     "doi": "",
     "title": "Gathering and managing diagnostic tests",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556664",
     "authors": [
       {
         "id": "04f864daa36b1218dab32ad7449aad14",
@@ -3692,6 +3845,7 @@
     "doi": "",
     "title": "Evaluation of websites: The websites of portuguese higher education institutions",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556665",
     "authors": [
       {
         "id": "b97238a8c380bc48c8610e950bd26695",
@@ -3732,6 +3886,7 @@
     "doi": "",
     "title": "Comparative analysis between the techniques used in the requirements engineering, evaluating such techniques forehead to the characteristics of software projects",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556662",
     "authors": [
       {
         "id": "84657b1eb871400f92fd30107cf52889",
@@ -3772,6 +3927,7 @@
     "doi": "",
     "title": "Knowledge representation in soccer domain: An ontology development",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556663",
     "authors": [
       {
         "id": "63d1dfd3c745d99b7adab35f28a144cb",
@@ -3844,6 +4000,7 @@
     "doi": "",
     "title": "An ontology for semantic definition of learning objects",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556660",
     "authors": [
       {
         "id": "78e37f421fee5921b47df76955794091",
@@ -3884,6 +4041,7 @@
     "doi": "",
     "title": "Architecture for multilingual information retrieval using the Dublin Core (ISO 15836) standard",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556661",
     "authors": [
       {
         "id": "acb35ebaff9052a97c16677d9f9c8f05",
@@ -3940,22 +4098,23 @@
     "doi": "",
     "title": "Web typography: New and old challenges",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556658",
     "authors": [
       {
         "id": "2917830fa960212cdfbc2f642f1e5185",
         "name": "J. d. C. Pinto",
         "affiliations": {
-          "id": "a3c9e5dd152d9e303cc3d22555be894e",
+          "id": "ce2c3c32cc5aecda0f8ae939cb57fd7a",
           "code": "escolasuperiorartisticadoportoguimaraes",
-          "name": "Escola Superior Artística do Porto-Guimarães",
+          "name": "Escola Superior Artística do Porto Guimarães",
           "country": "Portugal",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "Escola Superior Artística do Porto-Guimarães, Guimaraes, Portugal"
+          "rawAff": "Escola Superior Artística do Porto Guimarães, Guimaraes, Portugal"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "Escola Superior Artística do Porto-Guimarães, Guimaraes, Portugal"
+        "rawAff": "Escola Superior Artística do Porto Guimarães, Guimaraes, Portugal"
       }
     ]
   },
@@ -3964,6 +4123,7 @@
     "doi": "",
     "title": "Easing the use of network knowledge: Aiding in class registration with timetable selector",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556659",
     "authors": [
       {
         "id": "3bdf914629172ce07e68bc7c9c129911",
@@ -4004,6 +4164,7 @@
     "doi": "",
     "title": "Ontology search centered in concepts",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556656",
     "authors": [
       {
         "id": "614f63e6930bdfb0b62ba6a84cca55e4",
@@ -4028,7 +4189,7 @@
           "id": "4e3ae360b3cdbee6c8e34bcd788ecc16",
           "code": "universidaddeextremadura",
           "name": "Universidad de Extremadura",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Universidad de Extremadura, Caceres, Spain"
@@ -4044,7 +4205,7 @@
           "id": "4e3ae360b3cdbee6c8e34bcd788ecc16",
           "code": "universidaddeextremadura",
           "name": "Universidad de Extremadura",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Universidad de Extremadura, Caceres, Spain"
@@ -4060,6 +4221,7 @@
     "doi": "",
     "title": "Automatic extraction and representation of geographic entities in eGovernment",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556657",
     "authors": [
       {
         "id": "37d6ec9ef8a02467450d87c470bde4cf",
@@ -4116,6 +4278,7 @@
     "doi": "",
     "title": "Shape based image retrieval and classification",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556654",
     "authors": [
       {
         "id": "988d5257facc111cb6de3b27e63b22fd",
@@ -4172,6 +4335,7 @@
     "doi": "",
     "title": "Security and privacy analysis in social network services",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556655",
     "authors": [
       {
         "id": "5f58dc64aedd82c1eaade28fb1e871c3",
@@ -4212,6 +4376,7 @@
     "doi": "",
     "title": "Design challenges in application-aware Wireless Sensor Networks",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556652",
     "authors": [
       {
         "id": "2bb0ac6f487b707cb3ec2e6cb69b82a6",
@@ -4268,54 +4433,55 @@
     "doi": "",
     "title": "Business intelligence applied to Homogeneous Diagnostic Groups",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556653",
     "authors": [
       {
         "id": "a5d7c7b3be51c27b756c122f470d4cf5",
         "name": "M. P. A. Barrento",
         "affiliations": {
-          "id": "652406951e55b12dda1f294e30c4d3cb",
+          "id": "f270033134acae7dad0b3dc02f585fee",
           "code": "isegiunl",
-          "name": "ISEGI-UNL",
+          "name": "ISEGI UNL",
           "country": "Portugal",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "ISEGI-UNL, Lisboa, Portugal"
+          "rawAff": "ISEGI UNL, Lisboa, Portugal"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "ISEGI-UNL, Lisboa, Portugal"
+        "rawAff": "ISEGI UNL, Lisboa, Portugal"
       },
       {
         "id": "9e21487c29508f0f99c9f9c82a9aae61",
         "name": " M. de Castro Neto",
         "affiliations": {
-          "id": "652406951e55b12dda1f294e30c4d3cb",
+          "id": "f270033134acae7dad0b3dc02f585fee",
           "code": "isegiunl",
-          "name": " ISEGI-UNL",
+          "name": " ISEGI UNL",
           "country": "Portugal",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "ISEGI-UNL, Lisboa, Portugal"
+          "rawAff": "ISEGI UNL, Lisboa, Portugal"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "ISEGI-UNL, Lisboa, Portugal"
+        "rawAff": "ISEGI UNL, Lisboa, Portugal"
       },
       {
         "id": "acb0d345fd23ebb22ee3d1e019aac04f",
         "name": " M. d. R. O. do Rosário Oliveira Martins",
         "affiliations": {
-          "id": "652406951e55b12dda1f294e30c4d3cb",
+          "id": "f270033134acae7dad0b3dc02f585fee",
           "code": "isegiunl",
-          "name": " ISEGI-UNL",
+          "name": " ISEGI UNL",
           "country": "Portugal",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "ISEGI-UNL, Lisboa, Portugal"
+          "rawAff": "ISEGI UNL, Lisboa, Portugal"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "ISEGI-UNL, Lisboa, Portugal"
+        "rawAff": "ISEGI UNL, Lisboa, Portugal"
       },
       {
         "id": "367e96eadf9174a8518dc4ded799d933",
@@ -4323,7 +4489,7 @@
         "affiliations": {
           "id": "8d1181d0816c5250a43d8cb6434910b6",
           "code": "departamentouniversitariodesaudepublica",
-          "name": " Departamento Universitário de Saúde Pública",
+          "name": "Departamento Universitário de Saúde Pública",
           "country": "Portugal",
           "region": "Europe",
           "year": "2010",
@@ -4340,6 +4506,7 @@
     "doi": "",
     "title": "Strategic analysis for the inclusion of information technology and communications (ICT) in the Colombian business environment",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556650",
     "authors": [
       {
         "id": "a3e4630140bda203214dbb8bdd606e2e",
@@ -4364,6 +4531,7 @@
     "doi": "",
     "title": "Description of a public administration case on the management of IS service suppliers",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556651",
     "authors": [
       {
         "id": "174cfbec702c4d373fc289246a459550",
@@ -4372,7 +4540,7 @@
           "id": "674e1b9778f1e6327c285c3701b65a10",
           "code": "universitatobertadecatalunyauoc",
           "name": "Universitat Oberta de Catalunya (UOC)",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Estudis d'Informatica, Multimedia i Telecomunicacio, Universitat Oberta de Catalunya (UOC), Barcelona, Spain"
@@ -4388,7 +4556,7 @@
           "id": "674e1b9778f1e6327c285c3701b65a10",
           "code": "universitatobertadecatalunyauoc",
           "name": "Universitat Oberta de Catalunya (UOC)",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Estudis d'Informatica, Multimedia i Telecomunicacio, Universitat Oberta de Catalunya (UOC), Barcelona, Spain"
@@ -4404,7 +4572,7 @@
           "id": "674e1b9778f1e6327c285c3701b65a10",
           "code": "universitatobertadecatalunyauoc",
           "name": "Universitat Oberta de Catalunya (UOC)",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Estudis d'Informatica, Multimedia i Telecomunicacio, Universitat Oberta de Catalunya (UOC), Barcelona, Spain"
@@ -4420,6 +4588,7 @@
     "doi": "",
     "title": "Liberopinion: A web platform for elections 2.0",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556648",
     "authors": [
       {
         "id": "134f21fab22b46bf137d99482160139c",
@@ -4460,6 +4629,7 @@
     "doi": "",
     "title": "Quantitative evaluation of Azores municipalities websites",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556649",
     "authors": [
       {
         "id": "40e0d2786655de65f45dd55b24f9b9cb",
@@ -4484,6 +4654,7 @@
     "doi": "",
     "title": "Comparative analysis of accessibility for blind digital environments for learning management for distance education",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556646",
     "authors": [
       {
         "id": "ed99b48ce71eecb175d0adde179494f3",
@@ -4495,11 +4666,11 @@
           "country": "Brazil",
           "region": "South America",
           "year": "2010",
-          "rawAff": "Coordenadoria de Informática, Instituto Federal de Educação, Ciência e Tecnologia de São Paulo-IFSP, Sao Paulo, Brazil"
+          "rawAff": "Coordenadoria de Informática, Instituto Federal de Educação, Ciência e Tecnologia de São Paulo IFSP, Sao Paulo, Brazil"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "Coordenadoria de Informática, Instituto Federal de Educação, Ciência e Tecnologia de São Paulo-IFSP, Sao Paulo, Brazil"
+        "rawAff": "Coordenadoria de Informática, Instituto Federal de Educação, Ciência e Tecnologia de São Paulo IFSP, Sao Paulo, Brazil"
       }
     ]
   },
@@ -4508,6 +4679,7 @@
     "doi": "",
     "title": "Discovering patterns on medication prescriptions",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556647",
     "authors": [
       {
         "id": "3b6ca9d61ba960abb9a74bce3a368441",
@@ -4548,6 +4720,7 @@
     "doi": "",
     "title": "i-om: Intelligent optimization: For computer graphics and visualization",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556644",
     "authors": [
       {
         "id": "aa8baf302801691422645ebb052be228",
@@ -4575,11 +4748,11 @@
           "country": "Portugal",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "DEI-FEUP, LIACC, Universidade do Porto, Porto, Portugal"
+          "rawAff": "DEI FEUP, LIACC, Universidade do Porto, Porto, Portugal"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "DEI-FEUP, LIACC, Universidade do Porto, Porto, Portugal"
+        "rawAff": "DEI FEUP, LIACC, Universidade do Porto, Porto, Portugal"
       },
       {
         "id": "89224683441e2b6895b5dd4f49604265",
@@ -4591,11 +4764,11 @@
           "country": "Portugal",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "DEI-FEUP, INESC Porto, Universidade do Porto, Porto, Portugal"
+          "rawAff": "DEI FEUP, INESC Porto, Universidade do Porto, Porto, Portugal"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "DEI-FEUP, INESC Porto, Universidade do Porto, Porto, Portugal"
+        "rawAff": "DEI FEUP, INESC Porto, Universidade do Porto, Porto, Portugal"
       }
     ]
   },
@@ -4604,6 +4777,7 @@
     "doi": "",
     "title": "Challenges on real-time monitoring of patients through the Internet",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556645",
     "authors": [
       {
         "id": "cff033565dfda7962cb2fbf5db54ef51",
@@ -4660,6 +4834,7 @@
     "doi": "",
     "title": "SmartVest: Integrating clothing with domotics, health care and information technologies",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556642",
     "authors": [
       {
         "id": "8032a4701f57df77ffe931b480dec99f",
@@ -4700,6 +4875,7 @@
     "doi": "",
     "title": "Statistical textural features for classification of lung emphysema in CT images: A comparative study",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556643",
     "authors": [
       {
         "id": "0ccd4d5c3f83c1e641265cd0ae11d9af",
@@ -4753,17 +4929,17 @@
         "id": "428ba2059b967d446a38007f8b5ea147",
         "name": " J. Barroso",
         "affiliations": {
-          "id": "095cd439eaac92db8f81071f4e5c6e58",
+          "id": "934af26d5c23789252d9b91c315f43f0",
           "code": "universidadedetrasosmontesealtodouro",
-          "name": "Universidade de Trás-os-Montes e Alto Douro",
+          "name": "Universidade de Trás os Montes e Alto Douro",
           "country": "Portugal",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "Universidade de Trás-os-Montes e Alto Douro, Vila Real, Portugal"
+          "rawAff": "Universidade de Trás os Montes e Alto Douro, Vila Real, Portugal"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "Universidade de Trás-os-Montes e Alto Douro, Vila Real, Portugal"
+        "rawAff": "Universidade de Trás os Montes e Alto Douro, Vila Real, Portugal"
       }
     ]
   },
@@ -4772,6 +4948,7 @@
     "doi": "",
     "title": "A knowledge management system for study of quality of life in head and neck cancer patients",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556640",
     "authors": [
       {
         "id": "3ecee43b463d315457e2b8944a84ea46",
@@ -4828,6 +5005,7 @@
     "doi": "",
     "title": "Analysis of the domain of applicability of an algorithm for a resources system selection problem for Distributed/Agile/Virtual Enterprises integration",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556641",
     "authors": [
       {
         "id": "d1b94915c352c4c5a22aa6ddf42b45a1",
@@ -4916,6 +5094,7 @@
     "doi": "",
     "title": "Towards a model for information technology governance applicable to the banking sector",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556638",
     "authors": [
       {
         "id": "d9d50cbb759cfb6ed14f869e4c57e17e",
@@ -4956,7 +5135,7 @@
           "id": "5ca237163f1f099c957b4a646bec5e8c",
           "code": "universidaddecastillalamancha",
           "name": "Universidad de Castilla La Mancha",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Grupo Alarcos. Instituto de Tecnologías y Sistemas de Información, Departamento de Tecnologías y Sistemas de Información, Escuela Superior de Informática, Universidad de Castilla La Mancha, Ciudad Real, Spain"
@@ -4972,6 +5151,7 @@
     "doi": "",
     "title": "A b-learning experience in higher education",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556639",
     "authors": [
       {
         "id": "e7f9f1be82c5b5585aac8da3b5f5beb7",
@@ -4983,11 +5163,11 @@
           "country": "Argentina",
           "region": "South America",
           "year": "2010",
-          "rawAff": "Escuela de Ingeniería Civil, Facultad Ciencias Exactas, Ingeniería y Agrimensura-UNR, Rosario, Argentina"
+          "rawAff": "Escuela de Ingeniería Civil, Facultad Ciencias Exactas, Ingeniería y Agrimensura UNR, Rosario, Argentina"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "Escuela de Ingeniería Civil, Facultad Ciencias Exactas, Ingeniería y Agrimensura-UNR, Rosario, Argentina"
+        "rawAff": "Escuela de Ingeniería Civil, Facultad Ciencias Exactas, Ingeniería y Agrimensura UNR, Rosario, Argentina"
       },
       {
         "id": "d1333f9ee9361045c9e0d1652f0778e2",
@@ -4999,11 +5179,11 @@
           "country": "Argentina",
           "region": "South America",
           "year": "2010",
-          "rawAff": "Escuela de Ingeniería Civil, Facultad Ciencias Exactas, Ingeniería y Agrimensura-UNR, Rosario, Argentina"
+          "rawAff": "Escuela de Ingeniería Civil, Facultad Ciencias Exactas, Ingeniería y Agrimensura UNR, Rosario, Argentina"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "Escuela de Ingeniería Civil, Facultad Ciencias Exactas, Ingeniería y Agrimensura-UNR, Rosario, Argentina"
+        "rawAff": "Escuela de Ingeniería Civil, Facultad Ciencias Exactas, Ingeniería y Agrimensura UNR, Rosario, Argentina"
       }
     ]
   },
@@ -5012,6 +5192,7 @@
     "doi": "",
     "title": "An information management web system for developing the Galician rural milieu: The commercialization of agricultural products from family farms",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556636",
     "authors": [
       {
         "id": "55e84c1515ec1e35cdd5af8a4265ace9",
@@ -5020,7 +5201,7 @@
           "id": "ae51a5208a6dd2fb6891aaef5ad9eab9",
           "code": "universityofsantiagodecompostela",
           "name": "University of Santiago de Compostela",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Research Group GIST. Idega, University of Santiago de Compostela, Spain"
@@ -5036,7 +5217,7 @@
           "id": "ae51a5208a6dd2fb6891aaef5ad9eab9",
           "code": "universityofsantiagodecompostela",
           "name": "University of Santiago de Compostela",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Research Group GIST. Idega, University of Santiago de Compostela, Spain"
@@ -5052,7 +5233,7 @@
           "id": "ae51a5208a6dd2fb6891aaef5ad9eab9",
           "code": "universityofsantiagodecompostela",
           "name": "University of Santiago de Compostela",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Research Group GIST. Idega, University of Santiago de Compostela, Spain"
@@ -5068,86 +5249,87 @@
     "doi": "",
     "title": "A practical approach for biometric authentication based on smartcards",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556637",
     "authors": [
       {
         "id": "fa7941fb2604bef4ecc5b15405d4d475",
         "name": "D. B. S. Netto",
         "affiliations": {
-          "id": "4abcf3333ab3ae1c5ac764879b13597d",
+          "id": "a2796ebd6fffaec16959c195a4d29db4",
           "code": "unespuniversidadeestadualpaulista",
-          "name": "UNESP-Universidade Estadual Paulista",
+          "name": "UNESP Universidade Estadual Paulista",
           "country": "Brazil",
           "region": "South America",
           "year": "2010",
-          "rawAff": "Departamento de Computação, Faculdade de Ciências, UNESP-Universidade Estadual Paulista, Sao Paulo, Brazil"
+          "rawAff": "Departamento de Computação, Faculdade de Ciências, UNESP Universidade Estadual Paulista, Sao Paulo, Brazil"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "Departamento de Computação, Faculdade de Ciências, UNESP-Universidade Estadual Paulista, Sao Paulo, Brazil"
+        "rawAff": "Departamento de Computação, Faculdade de Ciências, UNESP Universidade Estadual Paulista, Sao Paulo, Brazil"
       },
       {
         "id": "cf8ea7caaeb9b3913f86af96b7e8bc2f",
         "name": " M. Fornazin",
         "affiliations": {
-          "id": "4abcf3333ab3ae1c5ac764879b13597d",
+          "id": "a2796ebd6fffaec16959c195a4d29db4",
           "code": "unespuniversidadeestadualpaulista",
-          "name": "UNESP-Universidade Estadual Paulista",
+          "name": "UNESP Universidade Estadual Paulista",
           "country": "Brazil",
           "region": "South America",
           "year": "2010",
-          "rawAff": "Departamento de Computação, Faculdade de Ciências, UNESP-Universidade Estadual Paulista, Sao Paulo, Brazil"
+          "rawAff": "Departamento de Computação, Faculdade de Ciências, UNESP Universidade Estadual Paulista, Sao Paulo, Brazil"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "Departamento de Computação, Faculdade de Ciências, UNESP-Universidade Estadual Paulista, Sao Paulo, Brazil"
+        "rawAff": "Departamento de Computação, Faculdade de Ciências, UNESP Universidade Estadual Paulista, Sao Paulo, Brazil"
       },
       {
         "id": "9e5cabd00913012fdce085099ec9c688",
         "name": " M. A. Cavenaghi",
         "affiliations": {
-          "id": "4abcf3333ab3ae1c5ac764879b13597d",
+          "id": "a2796ebd6fffaec16959c195a4d29db4",
           "code": "unespuniversidadeestadualpaulista",
-          "name": "UNESP-Universidade Estadual Paulista",
+          "name": "UNESP Universidade Estadual Paulista",
           "country": "Brazil",
           "region": "South America",
           "year": "2010",
-          "rawAff": "Departamento de Computação, Faculdade de Ciências, UNESP-Universidade Estadual Paulista, Sao Paulo, Brazil"
+          "rawAff": "Departamento de Computação, Faculdade de Ciências, UNESP Universidade Estadual Paulista, Sao Paulo, Brazil"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "Departamento de Computação, Faculdade de Ciências, UNESP-Universidade Estadual Paulista, Sao Paulo, Brazil"
+        "rawAff": "Departamento de Computação, Faculdade de Ciências, UNESP Universidade Estadual Paulista, Sao Paulo, Brazil"
       },
       {
         "id": "9396051c83d94dfb2b8453d44a7719e6",
         "name": " R. Spolon",
         "affiliations": {
-          "id": "4abcf3333ab3ae1c5ac764879b13597d",
+          "id": "a2796ebd6fffaec16959c195a4d29db4",
           "code": "unespuniversidadeestadualpaulista",
-          "name": "UNESP-Universidade Estadual Paulista",
+          "name": "UNESP Universidade Estadual Paulista",
           "country": "Brazil",
           "region": "South America",
           "year": "2010",
-          "rawAff": "Departamento de Computação, Faculdade de Ciências, UNESP-Universidade Estadual Paulista, Sao Paulo, Brazil"
+          "rawAff": "Departamento de Computação, Faculdade de Ciências, UNESP Universidade Estadual Paulista, Sao Paulo, Brazil"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "Departamento de Computação, Faculdade de Ciências, UNESP-Universidade Estadual Paulista, Sao Paulo, Brazil"
+        "rawAff": "Departamento de Computação, Faculdade de Ciências, UNESP Universidade Estadual Paulista, Sao Paulo, Brazil"
       },
       {
         "id": "f88608875bc9664b5ddd27fe30363219",
         "name": " R. S. Lobato",
         "affiliations": {
-          "id": "4abcf3333ab3ae1c5ac764879b13597d",
+          "id": "a2796ebd6fffaec16959c195a4d29db4",
           "code": "unespuniversidadeestadualpaulista",
-          "name": "UNESP-Universidade Estadual Paulista",
+          "name": "UNESP Universidade Estadual Paulista",
           "country": "Brazil",
           "region": "South America",
           "year": "2010",
-          "rawAff": "Departamento de Computação, e Estatística, IBILCE, UNESP-Universidade Estadual Paulista, Sao Paulo, Brazil"
+          "rawAff": "Departamento de Computação, e Estatística, IBILCE, UNESP Universidade Estadual Paulista, Sao Paulo, Brazil"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "Departamento de Computação, e Estatística, IBILCE, UNESP-Universidade Estadual Paulista, Sao Paulo, Brazil"
+        "rawAff": "Departamento de Computação, e Estatística, IBILCE, UNESP Universidade Estadual Paulista, Sao Paulo, Brazil"
       }
     ]
   },
@@ -5156,6 +5338,7 @@
     "doi": "",
     "title": "Compositor: A tool for connectors generation",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556634",
     "authors": [
       {
         "id": "de404fe7aa574ef83c3371cd8093411e",
@@ -5164,7 +5347,7 @@
           "id": "757a79234fb6e45527e4761ff325d40c",
           "code": "universidaddemalaga",
           "name": "Universidad de Málaga",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Departamento de Lenguajes y Ciencias de la Computación, ETSI Informática, Universidad de Málaga, Malaga, Spain"
@@ -5180,7 +5363,7 @@
           "id": "757a79234fb6e45527e4761ff325d40c",
           "code": "universidaddemalaga",
           "name": "Universidad de Málaga",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Departamento de Lenguajes y Ciencias de la Computación, ETSI Informática, Universidad de Málaga, Malaga, Spain"
@@ -5212,6 +5395,7 @@
     "doi": "",
     "title": "Methodological design of user experience applied to, the field of accessibility",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556635",
     "authors": [
       {
         "id": "348d6b891babb267a195994968715652",
@@ -5220,14 +5404,14 @@
           "id": "71e6a2e35222fec7dd11c2c51e65285c",
           "code": "gtmgrupderecercaentecnologiesmedia",
           "name": "GTM Grup de Recerca en Tecnologies Media",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "GTM Grup de Recerca en Tecnologies Media, LA SALLE - UNIVERSITAT RAMON LLULL, Barcelona, Spain"
+          "rawAff": "GTM Grup de Recerca en Tecnologies Media, LA SALLE   UNIVERSITAT RAMON LLULL, Barcelona, Spain"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "GTM Grup de Recerca en Tecnologies Media, LA SALLE - UNIVERSITAT RAMON LLULL, Barcelona, Spain"
+        "rawAff": "GTM Grup de Recerca en Tecnologies Media, LA SALLE   UNIVERSITAT RAMON LLULL, Barcelona, Spain"
       },
       {
         "id": "0288659490e8c4303ad0979f1591ed72",
@@ -5236,14 +5420,14 @@
           "id": "71e6a2e35222fec7dd11c2c51e65285c",
           "code": "gtmgrupderecercaentecnologiesmedia",
           "name": " GTM Grup de Recerca en Tecnologies Media",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "GTM Grup de Recerca en Tecnologies Media, LA SALLE - UNIVERSITAT RAMON LLULL, Barcelona, Spain"
+          "rawAff": "GTM Grup de Recerca en Tecnologies Media, LA SALLE   UNIVERSITAT RAMON LLULL, Barcelona, Spain"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "GTM Grup de Recerca en Tecnologies Media, LA SALLE - UNIVERSITAT RAMON LLULL, Barcelona, Spain"
+        "rawAff": "GTM Grup de Recerca en Tecnologies Media, LA SALLE   UNIVERSITAT RAMON LLULL, Barcelona, Spain"
       },
       {
         "id": "637aa023b5c7743560a1d59d93b8da37",
@@ -5252,14 +5436,14 @@
           "id": "71e6a2e35222fec7dd11c2c51e65285c",
           "code": "gtmgrupderecercaentecnologiesmedia",
           "name": " GTM Grup de Recerca en Tecnologies Media",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "GTM Grup de Recerca en Tecnologies Media, LA SALLE - UNIVERSITAT RAMON LLULL, Barcelona, Spain"
+          "rawAff": "GTM Grup de Recerca en Tecnologies Media, LA SALLE   UNIVERSITAT RAMON LLULL, Barcelona, Spain"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "GTM Grup de Recerca en Tecnologies Media, LA SALLE - UNIVERSITAT RAMON LLULL, Barcelona, Spain"
+        "rawAff": "GTM Grup de Recerca en Tecnologies Media, LA SALLE   UNIVERSITAT RAMON LLULL, Barcelona, Spain"
       }
     ]
   },
@@ -5268,6 +5452,7 @@
     "doi": "",
     "title": "Benefits of ERP systems implementation in business in Brazil: Case studies",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556632",
     "authors": [
       {
         "id": "ba2b2e318e78f868086034e7b0298173",
@@ -5324,6 +5509,7 @@
     "doi": "",
     "title": "An aspect-oriented framework for orthogonal persistence",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556633",
     "authors": [
       {
         "id": "84041c1a6445723a46ab4ccd32528a1e",
@@ -5348,7 +5534,7 @@
           "id": "31ff8b7c23b960c38f5520451a41a23c",
           "code": "universidaddevigo",
           "name": "Universidad de Vigo",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Departamento de Informática, Universidad de Vigo, Vigo, Spain"
@@ -5364,6 +5550,7 @@
     "doi": "",
     "title": "Euronet Lab: Euronet LAB, A cloud V-lab enviroment",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556630",
     "authors": [
       {
         "id": "e3ecec1b60a86bde07ad0ffef011f9c6",
@@ -5404,6 +5591,7 @@
     "doi": "",
     "title": "A multi-agent framework for coordination of intelligent assistive technologies",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556631",
     "authors": [
       {
         "id": "7b2148592a1bd0e0e2ddb03fc9708fbe",
@@ -5438,6 +5626,22 @@
         "rawAff": "Maersk McKinney Moeller Institute, University of Southern Denmark, Odense, Denmark"
       },
       {
+        "id": "a3a25388d3e7c832de5551dc954fd28c",
+        "name": " B. Grønbæk",
+        "affiliations": {
+          "id": "2e7fea6440ad5406a37a665fa1c4a6e2",
+          "code": "syddanskuniversitet",
+          "name": "Syddansk Universitet",
+          "country": "Denmark",
+          "region": "Europe",
+          "year": "2010",
+          "rawAff": "Syddansk Universitet, Odense, Syddanmark, DK"
+        },
+        "hasMoreAff": false,
+        "otherAff": "",
+        "rawAff": "Syddansk Universitet, Odense, Syddanmark, DK"
+      },
+      {
         "id": "2b2f5d0dff16245efebbd2dad7b4b4cf",
         "name": " K. Hallenborg",
         "affiliations": {
@@ -5452,6 +5656,22 @@
         "hasMoreAff": true,
         "otherAff": "Maersk McKinney Moeller Institute",
         "rawAff": "Maersk McKinney Moeller Institute, University of Southern Denmark, Odense, Denmark"
+      },
+      {
+        "id": "8c43b4f849801aed77795f8447ff8f70",
+        "name": " L. P. Reis",
+        "affiliations": {
+          "id": "bef429e1136cc441573e3ce012144fc4",
+          "code": "universidadedoporto",
+          "name": "Universidade do Porto",
+          "country": "Portugal",
+          "region": "Europe",
+          "year": "2010",
+          "rawAff": "Universidade do Porto, Porto, Porto, PT"
+        },
+        "hasMoreAff": false,
+        "otherAff": "",
+        "rawAff": "Universidade do Porto, Porto, Porto, PT"
       }
     ]
   },
@@ -5460,6 +5680,7 @@
     "doi": "",
     "title": "ITVT: An image testing and visualization tool for image processing tasks",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556628",
     "authors": [
       {
         "id": "9404351737846dabb18caf1e8315328c",
@@ -5484,7 +5705,7 @@
           "id": "b8d9f33d341cd96abbbd17d5dbe3f894",
           "code": "universityofvigo",
           "name": "University of Vigo.",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Department of Computer Science, University of Vigo., Ourense, Spain"
@@ -5500,7 +5721,7 @@
           "id": "b8d9f33d341cd96abbbd17d5dbe3f894",
           "code": "universityofvigo",
           "name": "University of Vigo.",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Department of Computer Science, University of Vigo., Ourense, Spain"
@@ -5516,7 +5737,7 @@
           "id": "b8d9f33d341cd96abbbd17d5dbe3f894",
           "code": "universityofvigo",
           "name": "University of Vigo.",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Department of Computer Science, University of Vigo., Ourense, Spain"
@@ -5532,6 +5753,7 @@
     "doi": "",
     "title": "A system for fall detection: An approach based on cheap sensors",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556629",
     "authors": [
       {
         "id": "60e1bd6d099382db3c0ef9824470e629",
@@ -5540,7 +5762,7 @@
           "id": "a16a0189c9b3059d4e33aca057891ad5",
           "code": "universidaddevalladolid",
           "name": "Universidad de Valladolid",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Grupo GIRO, Universidad de Valladolid, Valladolid, Spain"
@@ -5556,7 +5778,7 @@
           "id": "a16a0189c9b3059d4e33aca057891ad5",
           "code": "universidaddevalladolid",
           "name": "Universidad de Valladolid",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Grupo GIRO, Universidad de Valladolid, Valladolid, Spain"
@@ -5572,7 +5794,7 @@
           "id": "a16a0189c9b3059d4e33aca057891ad5",
           "code": "universidaddevalladolid",
           "name": "Universidad de Valladolid",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Grupo MoBiVAP, Universidad de Valladolid, Valladolid, Spain"
@@ -5588,7 +5810,7 @@
           "id": "a16a0189c9b3059d4e33aca057891ad5",
           "code": "universidaddevalladolid",
           "name": "Universidad de Valladolid",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Grupo GIRO, Universidad de Valladolid, Valladolid, Spain"
@@ -5604,6 +5826,7 @@
     "doi": "",
     "title": "Integrating podcasts, vodcasts, screencasts and emerging casting technologies in the teaching/learning context higher education: Potentialities, practices and expectations of students and teachers",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556626",
     "authors": [
       {
         "id": "600541522531e7cb439c77643094c4a6",
@@ -5644,6 +5867,7 @@
     "doi": "",
     "title": "Integration of Web 2.0 applications and content management systems on personal learning, environments",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556627",
     "authors": [
       {
         "id": "9595957788f5a38c3b9441ffe0d6d20c",
@@ -5684,6 +5908,7 @@
     "doi": "",
     "title": "A wiki based system to produce high quality teaching materials",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556624",
     "authors": [
       {
         "id": "d59676a7ee660b3e31f3f8209a93e96f",
@@ -5692,7 +5917,7 @@
           "id": "bbf1ea5bb27cd218f2041e4d18a80b64",
           "code": "universidaddevalencia",
           "name": "Universidad de Valencia",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Departamento de Informática, Universidad de Valencia, Valencia, Valencia, Spain"
@@ -5708,7 +5933,7 @@
           "id": "bbf1ea5bb27cd218f2041e4d18a80b64",
           "code": "universidaddevalencia",
           "name": "Universidad de Valencia",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Departamento de Informática, Universidad de Valencia, Valencia, Valencia, Spain"
@@ -5724,7 +5949,7 @@
           "id": "bbf1ea5bb27cd218f2041e4d18a80b64",
           "code": "universidaddevalencia",
           "name": "Universidad de Valencia",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Departamento de Informática, Universidad de Valencia, Valencia, Valencia, Spain"
@@ -5740,6 +5965,7 @@
     "doi": "",
     "title": "Maturity model for IT enterprise architecture",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556625",
     "authors": [
       {
         "id": "1dea0c774dff3ef4aa3853e1d8e31002",
@@ -5812,6 +6038,7 @@
     "doi": "",
     "title": "A support system for classification of students approved/disapproved in virtual environments for distance learning",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556622",
     "authors": [
       {
         "id": "bb1f8d4e8885393c7a93c6b7400c9039",
@@ -5852,6 +6079,7 @@
     "doi": "",
     "title": "Quality attributes for SaaS's products",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556623",
     "authors": [
       {
         "id": "bb1f8d4e8885393c7a93c6b7400c9039",
@@ -5924,54 +6152,55 @@
     "doi": "",
     "title": "A genetic algorithm for solving the two-dimensional cutting in glass sheets problem",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556620",
     "authors": [
       {
         "id": "106e885520ff50ba3e80d338b2ca15d8",
         "name": "N. C. F. Canto",
         "affiliations": {
-          "id": "18527c79c5c7d1134177d81d6cd573ac",
+          "id": "68851c62ea4b6fe47b1a59f00a5d11b6",
           "code": "universidadenovedejulhouninove",
-          "name": "Universidade Nove de Julho-Uninove",
+          "name": "Universidade Nove de Julho Uninove",
           "country": "Brazil",
           "region": "South America",
           "year": "2010",
-          "rawAff": "Diretoria dos Cursos de Informática, Universidade Nove de Julho-Uninove, Sao Paulo, Brazil"
+          "rawAff": "Diretoria dos Cursos de Informática, Universidade Nove de Julho Uninove, Sao Paulo, Brazil"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "Diretoria dos Cursos de Informática, Universidade Nove de Julho-Uninove, Sao Paulo, Brazil"
+        "rawAff": "Diretoria dos Cursos de Informática, Universidade Nove de Julho Uninove, Sao Paulo, Brazil"
       },
       {
         "id": "cba26574149e9e7678ac0df5c2e28f3c",
         "name": " F. Costa",
         "affiliations": {
-          "id": "18527c79c5c7d1134177d81d6cd573ac",
+          "id": "68851c62ea4b6fe47b1a59f00a5d11b6",
           "code": "universidadenovedejulhouninove",
-          "name": "Universidade Nove de Julho-Uninove",
+          "name": "Universidade Nove de Julho Uninove",
           "country": "Brazil",
           "region": "South America",
           "year": "2010",
-          "rawAff": "Diretoria dos Cursos de Informática, Universidade Nove de Julho-Uninove, Sao Paulo, Brazil"
+          "rawAff": "Diretoria dos Cursos de Informática, Universidade Nove de Julho Uninove, Sao Paulo, Brazil"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "Diretoria dos Cursos de Informática, Universidade Nove de Julho-Uninove, Sao Paulo, Brazil"
+        "rawAff": "Diretoria dos Cursos de Informática, Universidade Nove de Julho Uninove, Sao Paulo, Brazil"
       },
       {
         "id": "53c188a7da7cf42a9230a79310c3a5a3",
         "name": " R. J. Sassi",
         "affiliations": {
-          "id": "18527c79c5c7d1134177d81d6cd573ac",
+          "id": "68851c62ea4b6fe47b1a59f00a5d11b6",
           "code": "universidadenovedejulhouninove",
-          "name": "Universidade Nove de Julho-Uninove",
+          "name": "Universidade Nove de Julho Uninove",
           "country": "Brazil",
           "region": "South America",
           "year": "2010",
-          "rawAff": "Pós-graduação em Engenharia de Produção, Universidade Nove de Julho-Uninove, Sao Paulo, Brazil"
+          "rawAff": "Pós graduação em Engenharia de Produção, Universidade Nove de Julho Uninove, Sao Paulo, Brazil"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "Pós-graduação em Engenharia de Produção, Universidade Nove de Julho-Uninove, Sao Paulo, Brazil"
+        "rawAff": "Pós graduação em Engenharia de Produção, Universidade Nove de Julho Uninove, Sao Paulo, Brazil"
       }
     ]
   },
@@ -5980,6 +6209,7 @@
     "doi": "",
     "title": "Ethics and IT: Module suggestion for a future degree qualification in computing engineering",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556621",
     "authors": [
       {
         "id": "ef654253074897ca48243c4677bfbe2d",
@@ -5988,7 +6218,7 @@
           "id": "0a78e8c5bb46c46829734f4ddeddf727",
           "code": "universityofmalaga",
           "name": "University of Màlaga",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Department of Computer Science, University of Màlaga, Malaga, Spain"
@@ -6004,7 +6234,7 @@
           "id": "0a78e8c5bb46c46829734f4ddeddf727",
           "code": "universityofmalaga",
           "name": "University of Màlaga",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Department of Computer Science, University of Màlaga, Malaga, Spain"
@@ -6020,7 +6250,7 @@
           "id": "0a78e8c5bb46c46829734f4ddeddf727",
           "code": "universityofmalaga",
           "name": "University of Màlaga",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Department of Computer Science, University of Màlaga, Malaga, Spain"
@@ -6036,6 +6266,7 @@
     "doi": "",
     "title": "Avalore: A system for evaluation of R&D projects",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556618",
     "authors": [
       {
         "id": "1c7f3387645f67e55259a048170af401",
@@ -6057,17 +6288,17 @@
         "id": "e4c59f5b451d9a0b5bb164a233a9a3de",
         "name": " J. P. Costa",
         "affiliations": {
-          "id": "f18ee7ed26bcedfcf7ac757de4f5940d",
+          "id": "994981de3182e0e35209de44fcdc9df4",
           "code": "inesccoimbra",
-          "name": " INESC-Coimbra",
+          "name": " INESC Coimbra",
           "country": "Portugal",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "INESC-Coimbra, Coimbra, Portugal"
+          "rawAff": "INESC Coimbra, Coimbra, Portugal"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "INESC-Coimbra, Coimbra, Portugal"
+        "rawAff": "INESC Coimbra, Coimbra, Portugal"
       },
       {
         "id": "be55fb4c1b33401d8c8369a458e13b23",
@@ -6108,7 +6339,24 @@
     "doi": "",
     "title": "A conceptual model of E-local government",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556619",
     "authors": [
+      {
+        "id": "5758b385714952a37cb6139484469269",
+        "name": "A. C. Sanz",
+        "affiliations": {
+          "id": "b4fc210f040efe6b6b73188608b99b12",
+          "code": "facultaddeinformx00e1",
+          "name": "Facultad de Inform#x00E1",
+          "country": "",
+          "region": "",
+          "year": "2010",
+          "rawAff": "Facultad de Inform#x00E1"
+        },
+        "hasMoreAff": false,
+        "otherAff": "",
+        "rawAff": "Facultad de Inform#x00E1"
+      },
       {
         "id": "0d6a2b69f3ada0390f21041c6d3f69b8",
         "name": " J. C. Neves",
@@ -6116,7 +6364,7 @@
           "id": "d64e23c642c8df882d55ee9bf85c9189",
           "code": "universidadpontificiadesalamanca",
           "name": "Universidad Pontifícia de Salamanca",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "tica, Universidad Pontifícia de Salamanca, Madrid, Spain"
@@ -6148,22 +6396,23 @@
     "doi": "",
     "title": "Conceptual framework for the construction and evaluation of data warehouses",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556616",
     "authors": [
       {
         "id": "8129606618dfea174623fe3bf1bc61f8",
         "name": "D. Simões",
         "affiliations": {
-          "id": "aa89c6bac4c12c8cb9aba40f106e5d69",
+          "id": "5586e4ca087ff47816a3af62d147aeb9",
           "code": "iscaua",
-          "name": "ISCA-UA",
+          "name": "ISCA UA",
           "country": "Portugal",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "ISCA-UA, Aveiro, Portugal"
+          "rawAff": "ISCA UA, Aveiro, Portugal"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "ISCA-UA, Aveiro, Portugal"
+        "rawAff": "ISCA UA, Aveiro, Portugal"
       }
     ]
   },
@@ -6172,6 +6421,7 @@
     "doi": "",
     "title": "How to obtain knowledge evidences in a student model based on Bayesian Network",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556617",
     "authors": [
       {
         "id": "a0cd918fdf2be349dda82a067d5fd2f2",
@@ -6212,6 +6462,7 @@
     "doi": "",
     "title": "An embedded system and an architecture for access control and access management: An application to the educational environment",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556614",
     "authors": [
       {
         "id": "e1828942fe93f8007e295538624aa5be",
@@ -6252,6 +6503,7 @@
     "doi": "",
     "title": "VSFC - virtual shop floor control: Approach to the problem of programming and control of production through intelligent agents and Breeding Environments",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556615",
     "authors": [
       {
         "id": "7e1fd38d8d31112c995a2433263cdca6",
@@ -6260,7 +6512,7 @@
           "id": "a16a0189c9b3059d4e33aca057891ad5",
           "code": "universidaddevalladolid",
           "name": "Universidad de Valladolid",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Departmento de Organización de Empresas y CIM, Universidad de Valladolid, Valladolid, Spain"
@@ -6276,7 +6528,7 @@
           "id": "a16a0189c9b3059d4e33aca057891ad5",
           "code": "universidaddevalladolid",
           "name": "Universidad de Valladolid",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Departmento de Organización de Empresas y CIM, Universidad de Valladolid, Valladolid, Spain"
@@ -6292,20 +6544,57 @@
     "doi": "",
     "title": "Committee",
     "year": "2010",
-    "authors": []
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556612",
+    "authors": [
+      {
+        "id": "d41d8cd98f00b204e9800998ecf8427e",
+        "name": "",
+        "affiliations": {
+          "id": "d41d8cd98f00b204e9800998ecf8427e",
+          "code": "",
+          "name": "",
+          "country": "",
+          "region": "",
+          "year": "2010",
+          "rawAff": ""
+        },
+        "hasMoreAff": false,
+        "otherAff": "",
+        "rawAff": ""
+      }
+    ]
   },
   "2010_109": {
     "id": "2010_109",
     "doi": "",
     "title": "[Copyright notice]",
     "year": "2010",
-    "authors": []
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556613",
+    "authors": [
+      {
+        "id": "d41d8cd98f00b204e9800998ecf8427e",
+        "name": "",
+        "affiliations": {
+          "id": "d41d8cd98f00b204e9800998ecf8427e",
+          "code": "",
+          "name": "",
+          "country": "",
+          "region": "",
+          "year": "2010",
+          "rawAff": ""
+        },
+        "hasMoreAff": false,
+        "otherAff": "",
+        "rawAff": ""
+      }
+    ]
   },
   "2010_110": {
     "id": "2010_110",
     "doi": "",
     "title": "IP3 – building a global ICT profession",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556610",
     "authors": [
       {
         "id": "047fa1041749c98b420aeb12f9e91bee",
@@ -6322,6 +6611,22 @@
         "hasMoreAff": true,
         "otherAff": "Department of Computer Science",
         "rawAff": "Department of Computer Science, Birkbeck College, London University, London, UK"
+      },
+      {
+        "id": "3f07ffb0501ebcd7ff4fbb485e92f380",
+        "name": " M. de Roche",
+        "affiliations": {
+          "id": "8b04f4091aa625f56b3f7da315a1e231",
+          "code": "cape",
+          "name": " Cape",
+          "country": "South Africa",
+          "region": "Africa",
+          "year": "2010",
+          "rawAff": "Cape, South Africa"
+        },
+        "hasMoreAff": false,
+        "otherAff": "",
+        "rawAff": "Cape, South Africa"
       }
     ]
   },
@@ -6330,6 +6635,7 @@
     "doi": "",
     "title": "Integrating business change: A strategic role for informatics professionals",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556611",
     "authors": [
       {
         "id": "c6fe65993e9821616f8246d2ad5d13ce",
@@ -6354,6 +6660,7 @@
     "doi": "",
     "title": "Analysis of non technical skills for ICT profiles",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556608",
     "authors": [
       {
         "id": "7ad99d3c735b17d2a0942ef83512b3c4",
@@ -6362,7 +6669,7 @@
           "id": "85723b65af6ef6b87524a83005e5a4d4",
           "code": "universidaddealcala",
           "name": "Universidad de Alcalá",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Universidad de Alcalá, Spain"
@@ -6378,6 +6685,7 @@
     "doi": "",
     "title": "Data quality problems in administrative inpatient databases",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556609",
     "authors": [
       {
         "id": "d9dacdc337d4578af5577714262841be",
@@ -6389,11 +6697,43 @@
           "country": "Portugal",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "CINTESIS-Center of Research in Health Technologies and Information Systems, University of Porta, Porto, Portugal"
+          "rawAff": "CINTESIS Center of Research in Health Technologies and Information Systems, University of Porta, Porto, Portugal"
         },
         "hasMoreAff": true,
-        "otherAff": "CINTESIS-Center of Research in Health Technologies and Information Systems",
-        "rawAff": "CINTESIS-Center of Research in Health Technologies and Information Systems, University of Porta, Porto, Portugal"
+        "otherAff": "CINTESIS Center of Research in Health Technologies and Information Systems",
+        "rawAff": "CINTESIS Center of Research in Health Technologies and Information Systems, University of Porta, Porto, Portugal"
+      },
+      {
+        "id": "812cc03d390432e4c00435f130a05256",
+        "name": " B. Marques",
+        "affiliations": {
+          "id": "bef429e1136cc441573e3ce012144fc4",
+          "code": "universidadedoporto",
+          "name": "Universidade do Porto",
+          "country": "Portugal",
+          "region": "Europe",
+          "year": "2010",
+          "rawAff": "Universidade do Porto, Porto, Porto, PT"
+        },
+        "hasMoreAff": false,
+        "otherAff": "",
+        "rawAff": "Universidade do Porto, Porto, Porto, PT"
+      },
+      {
+        "id": "f08d0e6163ed14595bfe7c8e4e9c92e1",
+        "name": " A. Freitas",
+        "affiliations": {
+          "id": "bef429e1136cc441573e3ce012144fc4",
+          "code": "universidadedoporto",
+          "name": "Universidade do Porto",
+          "country": "Portugal",
+          "region": "Europe",
+          "year": "2010",
+          "rawAff": "Universidade do Porto, Porto, Porto, PT"
+        },
+        "hasMoreAff": false,
+        "otherAff": "",
+        "rawAff": "Universidade do Porto, Porto, Porto, PT"
       }
     ]
   },
@@ -6402,6 +6742,7 @@
     "doi": "",
     "title": "Corporate data quality management: From theory to practice",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556606",
     "authors": [
       {
         "id": "8ebde356fe1b0ab7864924d862f6e1a5",
@@ -6426,6 +6767,7 @@
     "doi": "",
     "title": "Understanding quality in data from hospital diagnosis and procedures: A statistical characterization",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556607",
     "authors": [
       {
         "id": "32fdda629b6755ba22f07137cf3c636a",
@@ -6453,11 +6795,11 @@
           "country": "Portugal",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "CINTESIS-Centro de Investigacao em Tecnologias e Sistemas de Informacao em Saude, Universidade do Porto, Portugal"
+          "rawAff": "CINTESIS Centro de Investigacao em Tecnologias e Sistemas de Informacao em Saude, Universidade do Porto, Portugal"
         },
         "hasMoreAff": true,
-        "otherAff": "CINTESIS-Centro de Investigacao em Tecnologias e Sistemas de Informacao em Saude",
-        "rawAff": "CINTESIS-Centro de Investigacao em Tecnologias e Sistemas de Informacao em Saude, Universidade do Porto, Portugal"
+        "otherAff": "CINTESIS Centro de Investigacao em Tecnologias e Sistemas de Informacao em Saude",
+        "rawAff": "CINTESIS Centro de Investigacao em Tecnologias e Sistemas de Informacao em Saude, Universidade do Porto, Portugal"
       }
     ]
   },
@@ -6466,6 +6808,7 @@
     "doi": "",
     "title": "Managing data quality requirements for web portals development: An example of application",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556604",
     "authors": [
       {
         "id": "44f4179f513df9822048f765ae056c9e",
@@ -6474,7 +6817,7 @@
           "id": "bf3880d76c43ee4a3113d16a6c22d8ec",
           "code": "departmentofinformationtechnologiesandsystems",
           "name": "Department of Information Technologies and Systems",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Department of Information Technologies and Systems, UCLM, Spain"
@@ -6490,7 +6833,7 @@
           "id": "bf3880d76c43ee4a3113d16a6c22d8ec",
           "code": "departmentofinformationtechnologiesandsystems",
           "name": "Department of Information Technologies and Systems",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Department of Information Technologies and Systems, UCLM, Spain"
@@ -6506,7 +6849,7 @@
           "id": "bf3880d76c43ee4a3113d16a6c22d8ec",
           "code": "departmentofinformationtechnologiesandsystems",
           "name": "Department of Information Technologies and Systems",
-          "country": "Spain",
+          "country": "España",
           "region": "Europe",
           "year": "2010",
           "rawAff": "Department of Information Technologies and Systems, UCLM, Spain"
@@ -6522,6 +6865,7 @@
     "doi": "",
     "title": "Data quality assessment in Genome Wide Association Studies (GWAS)",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556605",
     "authors": [
       {
         "id": "7246f4fa5cc6ec41d362fd6a0f91be61",
@@ -6578,20 +6922,57 @@
     "doi": "",
     "title": "Prefacio [Spanish language preface]",
     "year": "2010",
-    "authors": []
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556602",
+    "authors": [
+      {
+        "id": "d41d8cd98f00b204e9800998ecf8427e",
+        "name": "",
+        "affiliations": {
+          "id": "d41d8cd98f00b204e9800998ecf8427e",
+          "code": "",
+          "name": "",
+          "country": "",
+          "region": "",
+          "year": "2010",
+          "rawAff": ""
+        },
+        "hasMoreAff": false,
+        "otherAff": "",
+        "rawAff": ""
+      }
+    ]
   },
   "2010_119": {
     "id": "2010_119",
     "doi": "",
     "title": "[Title page]",
     "year": "2010",
-    "authors": []
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556603",
+    "authors": [
+      {
+        "id": "d41d8cd98f00b204e9800998ecf8427e",
+        "name": "",
+        "affiliations": {
+          "id": "d41d8cd98f00b204e9800998ecf8427e",
+          "code": "",
+          "name": "",
+          "country": "",
+          "region": "",
+          "year": "2010",
+          "rawAff": ""
+        },
+        "hasMoreAff": false,
+        "otherAff": "",
+        "rawAff": ""
+      }
+    ]
   },
   "2010_120": {
     "id": "2010_120",
     "doi": "",
     "title": "Dynamic scripting applied to a First-Person Shooter",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556600",
     "authors": [
       {
         "id": "b821580b9adb305f7ad21e873e74d51e",
@@ -6648,6 +7029,7 @@
     "doi": "",
     "title": "An authentication approach based on behavioral profiles",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556601",
     "authors": [
       {
         "id": "9491d7582352271bc9639811c4ae22c6",
@@ -6659,11 +7041,11 @@
           "country": "Brazil",
           "region": "South America",
           "year": "2010",
-          "rawAff": "Pos-Graduação em Engenharia e Gestão do Conhecimento, Universidade Federal de Santa Catarina, Florianopolis, Brazil"
+          "rawAff": "Pos Graduação em Engenharia e Gestão do Conhecimento, Universidade Federal de Santa Catarina, Florianopolis, Brazil"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "Pos-Graduação em Engenharia e Gestão do Conhecimento, Universidade Federal de Santa Catarina, Florianopolis, Brazil"
+        "rawAff": "Pos Graduação em Engenharia e Gestão do Conhecimento, Universidade Federal de Santa Catarina, Florianopolis, Brazil"
       },
       {
         "id": "601b87a131e6ad5669087105d4a83ae5",
@@ -6704,6 +7086,7 @@
     "doi": "",
     "title": "Playmaker: Graphical definition of formations and setplays",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556598",
     "authors": [
       {
         "id": "8c43b4f849801aed77795f8447ff8f70",
@@ -6715,11 +7098,11 @@
           "country": "Portugal",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "LIACC-Laboratório de Inteligência Artificial e Ciência de Computadores da, Universidade do Porto, Portugal"
+          "rawAff": "LIACC Laboratório de Inteligência Artificial e Ciência de Computadores da, Universidade do Porto, Portugal"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "LIACC-Laboratório de Inteligência Artificial e Ciência de Computadores da, Universidade do Porto, Portugal"
+        "rawAff": "LIACC Laboratório de Inteligência Artificial e Ciência de Computadores da, Universidade do Porto, Portugal"
       },
       {
         "id": "4442b12a64956f41fef5ee0cbb53348c",
@@ -6731,11 +7114,27 @@
           "country": "Portugal",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "DEI/FEUP-Departamento de Engenharia Informática, Universidade do Porto, Porto, Portugal"
+          "rawAff": "DEI/FEUP Departamento de Engenharia Informática, Universidade do Porto, Porto, Portugal"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "DEI/FEUP-Departamento de Engenharia Informática, Universidade do Porto, Porto, Portugal"
+        "rawAff": "DEI/FEUP Departamento de Engenharia Informática, Universidade do Porto, Porto, Portugal"
+      },
+      {
+        "id": "ce8a99de5ff491b2949f37e2379b0c5d",
+        "name": " L. Mota",
+        "affiliations": {
+          "id": "bef429e1136cc441573e3ce012144fc4",
+          "code": "universidadedoporto",
+          "name": "Universidade do Porto",
+          "country": "Portugal",
+          "region": "Europe",
+          "year": "2010",
+          "rawAff": "Universidade do Porto, Porto, Porto, PT"
+        },
+        "hasMoreAff": false,
+        "otherAff": "",
+        "rawAff": "Universidade do Porto, Porto, Porto, PT"
       },
       {
         "id": "db4c2d0ca39c7b695b3a085b4f0d8b97",
@@ -6747,11 +7146,11 @@
           "country": "Portugal",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "IEETA-Instituto de Engenharia Electrónica e Telemática de Aveiro, Universidade de Aveiro, Portugal"
+          "rawAff": "IEETA Instituto de Engenharia Electrónica e Telemática de Aveiro, Universidade de Aveiro, Portugal"
         },
         "hasMoreAff": true,
-        "otherAff": "IEETA-Instituto de Engenharia Electrónica e Telemática de Aveiro",
-        "rawAff": "IEETA-Instituto de Engenharia Electrónica e Telemática de Aveiro, Universidade de Aveiro, Portugal"
+        "otherAff": "IEETA Instituto de Engenharia Electrónica e Telemática de Aveiro",
+        "rawAff": "IEETA Instituto de Engenharia Electrónica e Telemática de Aveiro, Universidade de Aveiro, Portugal"
       }
     ]
   },
@@ -6760,6 +7159,7 @@
     "doi": "",
     "title": "The first steps of robotic cancan",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556599",
     "authors": [
       {
         "id": "acca24037a7f1f5cebb3f6d664a4de43",
@@ -6771,11 +7171,11 @@
           "country": "Portugal",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "LabMag-Departamento de Informática, Universidade de Lisboa, Lisboa, Portugal"
+          "rawAff": "LabMag Departamento de Informática, Universidade de Lisboa, Lisboa, Portugal"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "LabMag-Departamento de Informática, Universidade de Lisboa, Lisboa, Portugal"
+        "rawAff": "LabMag Departamento de Informática, Universidade de Lisboa, Lisboa, Portugal"
       },
       {
         "id": "0007bb8886c21ec6867792b0112d7e92",
@@ -6787,11 +7187,11 @@
           "country": "Portugal",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "LabMag-Departamento de Informática, Universidade de Lisboa, Lisboa, Portugal"
+          "rawAff": "LabMag Departamento de Informática, Universidade de Lisboa, Lisboa, Portugal"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "LabMag-Departamento de Informática, Universidade de Lisboa, Lisboa, Portugal"
+        "rawAff": "LabMag Departamento de Informática, Universidade de Lisboa, Lisboa, Portugal"
       },
       {
         "id": "f408a02abc0300733ed5caf7e999e5c3",
@@ -6803,11 +7203,11 @@
           "country": "Portugal",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "LASIGE-Departamento de Informática, Universidade de Lisboa, Lisboa, Portugal"
+          "rawAff": "LASIGE Departamento de Informática, Universidade de Lisboa, Lisboa, Portugal"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "LASIGE-Departamento de Informática, Universidade de Lisboa, Lisboa, Portugal"
+        "rawAff": "LASIGE Departamento de Informática, Universidade de Lisboa, Lisboa, Portugal"
       }
     ]
   },
@@ -6816,6 +7216,7 @@
     "doi": "",
     "title": "CyberRescue: A pheromone approach to multi-agent rescue simulations",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556596",
     "authors": [
       {
         "id": "bdff7b8ec51e559db8533f37eebee8dd",
@@ -6827,11 +7228,11 @@
           "country": "Portugal",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "DEI/FEUP-Departamento de Engenharia Informática, Universidade do Porto, Porto, Portugal"
+          "rawAff": "DEI/FEUP Departamento de Engenharia Informática, Universidade do Porto, Porto, Portugal"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "DEI/FEUP-Departamento de Engenharia Informática, Universidade do Porto, Porto, Portugal"
+        "rawAff": "DEI/FEUP Departamento de Engenharia Informática, Universidade do Porto, Porto, Portugal"
       },
       {
         "id": "e6b01ffe99b833bf4b0a5ae4dbfdb523",
@@ -6843,11 +7244,11 @@
           "country": "Portugal",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "DEI/FEUP-Departamento de Engenharia Informática, Universidade do Porto, Porto, Portugal"
+          "rawAff": "DEI/FEUP Departamento de Engenharia Informática, Universidade do Porto, Porto, Portugal"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "DEI/FEUP-Departamento de Engenharia Informática, Universidade do Porto, Porto, Portugal"
+        "rawAff": "DEI/FEUP Departamento de Engenharia Informática, Universidade do Porto, Porto, Portugal"
       },
       {
         "id": "5460384b41eba9b577f7dbb61ceb0457",
@@ -6859,11 +7260,11 @@
           "country": "Portugal",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "DEI/FEUP-Departamento de Engenharia Informática, Universidade do Porto, Porto, Portugal"
+          "rawAff": "DEI/FEUP Departamento de Engenharia Informática, Universidade do Porto, Porto, Portugal"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "DEI/FEUP-Departamento de Engenharia Informática, Universidade do Porto, Porto, Portugal"
+        "rawAff": "DEI/FEUP Departamento de Engenharia Informática, Universidade do Porto, Porto, Portugal"
       },
       {
         "id": "8c43b4f849801aed77795f8447ff8f70",
@@ -6875,11 +7276,11 @@
           "country": "Portugal",
           "region": "Europe",
           "year": "2010",
-          "rawAff": "DEI/FEUP-Departamento de Engenharia Informática, Universidade do Porto, Porto, Portugal"
+          "rawAff": "DEI/FEUP Departamento de Engenharia Informática, Universidade do Porto, Porto, Portugal"
         },
         "hasMoreAff": false,
         "otherAff": "",
-        "rawAff": "DEI/FEUP-Departamento de Engenharia Informática, Universidade do Porto, Porto, Portugal"
+        "rawAff": "DEI/FEUP Departamento de Engenharia Informática, Universidade do Porto, Porto, Portugal"
       }
     ]
   },
@@ -6888,6 +7289,7 @@
     "doi": "",
     "title": "Traffic light control using reactive agents",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556597",
     "authors": [
       {
         "id": "4c4138402b61c0fc5fb393aec43b6438",
@@ -6928,6 +7330,7 @@
     "doi": "",
     "title": "AllCall: An automated call for paper information extractor",
     "year": "2010",
+    "pdflink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5556595",
     "authors": [
       {
         "id": "2c583f472c07235eac97d0fd4bf432ff",

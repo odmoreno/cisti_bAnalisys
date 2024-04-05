@@ -44,6 +44,7 @@ class PaperInfo:
             'doi': self.doi,
             'title': self.title,
             'year': self.pubYear,
+            'pdflink': self.pdflink,
             'authors': self.newAuthors,
         }
 

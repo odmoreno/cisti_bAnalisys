@@ -1,0 +1,6527 @@
+{
+  "4210118937": {
+    "id": "4210118937",
+    "code": "universidadisrael",
+    "name": "Universidad Israel",
+    "country": "Ecuador",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "60858718": {
+    "id": "60858718",
+    "code": "universityofaveiro",
+    "name": "University of Aveiro",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210092303": {
+    "id": "4210092303",
+    "code": "polytechnicinstituteofbragança",
+    "name": "Polytechnic Institute of Bragança",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210141329": {
+    "id": "4210141329",
+    "code": "universidadtecnicademachala",
+    "name": "Universidad Tecnica de Machala",
+    "country": "Ecuador",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "110026055": {
+    "id": "110026055",
+    "code": "iscte–institutouniversitáriodelisboa",
+    "name": "Iscte – Instituto Universitário de Lisboa",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "56125125": {
+    "id": "56125125",
+    "code": "polytechnicinstituteofviseu",
+    "name": "Polytechnic Institute of Viseu",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210152403": {
+    "id": "4210152403",
+    "code": "universidadcooperativadecolombia",
+    "name": "Universidad Cooperativa de Colombia",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "83863532": {
+    "id": "83863532",
+    "code": "polytechnicinstituteofporto",
+    "name": "Polytechnic Institute of Porto",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "99682543": {
+    "id": "99682543",
+    "code": "universityofminho",
+    "name": "University of Minho",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "201025148": {
+    "id": "201025148",
+    "code": "universidadeaberta",
+    "name": "Universidade Aberta",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "157614274": {
+    "id": "157614274",
+    "code": "universityofcapetown",
+    "name": "University of Cape Town",
+    "country": "South Africa",
+    "region": "Africa",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "156655148": {
+    "id": "156655148",
+    "code": "universidademunicipaldesãocaetanodosul",
+    "name": "Universidade Municipal de São Caetano do Sul",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "36243813": {
+    "id": "36243813",
+    "code": "universidadnacionaldecolombia",
+    "name": "Universidad Nacional de Colombia",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210103026": {
+    "id": "4210103026",
+    "code": "institutopolitécnicodaguarda",
+    "name": "Instituto Politécnico da Guarda",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "293362453": {
+    "id": "293362453",
+    "code": "polytechnicinstituteofcoimbra",
+    "name": "Polytechnic Institute of Coimbra",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210125590": {
+    "id": "4210125590",
+    "code": "instituteforsystemsengineeringandcomputers",
+    "name": "Institute for Systems Engineering and Computers",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210114793": {
+    "id": "4210114793",
+    "code": "polytechnicinstituteofsantarém",
+    "name": "Polytechnic Institute of Santarém",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "25112270": {
+    "id": "25112270",
+    "code": "universidadefederaldepernambuco",
+    "name": "Universidade de Pernambuco",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210147594": {
+    "id": "4210147594",
+    "code": "universidadedoestadodoamazonas",
+    "name": "Universidade do Estado do Amazonas",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210149165": {
+    "id": "4210149165",
+    "code": "universitateadinpetrosani",
+    "name": "Universitatea Din Petrosani",
+    "country": "Romania",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "78880903": {
+    "id": "78880903",
+    "code": "universidaddehuelva",
+    "name": "Universidad de Huelva",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "185808892": {
+    "id": "185808892",
+    "code": "polytechnicinstituteofcávadoandave",
+    "name": "Polytechnic Institute of Cávado and Ave",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "100205273": {
+    "id": "100205273",
+    "code": "universidadtécnicaparticulardeloja",
+    "name": "Universidad Técnica Particular de Loja",
+    "country": "Ecuador",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210086657": {
+    "id": "4210086657",
+    "code": "fundaçãodemedicinatropical",
+    "name": "Fundação de Medicina Tropical",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "18167132": {
+    "id": "18167132",
+    "code": "universidadepresbiterianamackenzie",
+    "name": "Universidade Presbiteriana Mackenzie",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "169427155": {
+    "id": "169427155",
+    "code": "institutopolitécnicodeleiria",
+    "name": "Instituto Politécnico de Leiria",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210144729": {
+    "id": "4210144729",
+    "code": "universidadedovaledoitajaí",
+    "name": "Universidade do Vale do Itajaí",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4104125": {
+    "id": "4104125",
+    "code": "universidadefederaldesantacatarina",
+    "name": "Universidade Federal de Santa Catarina",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "59986765": {
+    "id": "59986765",
+    "code": "universidadexternadodecolombia",
+    "name": "Universidad Externado de Colombia",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210121629": {
+    "id": "4210121629",
+    "code": "departamentonacionaldeplaneación",
+    "name": "Departamento Nacional de Planeación",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "161127581": {
+    "id": "161127581",
+    "code": "universidadefederalfluminense",
+    "name": "Universidade Federal Fluminense",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "8379220": {
+    "id": "8379220",
+    "code": "universidadnacionaldeasunción",
+    "name": "Universidad Nacional de Asunción",
+    "country": "Paraguay",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210127033": {
+    "id": "4210127033",
+    "code": "siemens(austria)",
+    "name": "Siemens (Austria)",
+    "country": "Austria",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "115253235": {
+    "id": "115253235",
+    "code": "federicovillarrealnationaluniversity",
+    "name": "Federico Villarreal National University",
+    "country": "Peru",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "62520931": {
+    "id": "62520931",
+    "code": "nationaluniversityofengineering",
+    "name": "National University of Engineering",
+    "country": "Peru",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "189268942": {
+    "id": "189268942",
+    "code": "universityofalcalá",
+    "name": "University of Alcalá",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "184999862": {
+    "id": "184999862",
+    "code": "universidaddesalamanca",
+    "name": "Universidad de Salamanca",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210116615": {
+    "id": "4210116615",
+    "code": "universidadinternacionaldelarioja",
+    "name": "Universidad Internacional De La Rioja",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "182083151": {
+    "id": "182083151",
+    "code": "kingjuancarlosuniversity",
+    "name": "King Juan Carlos University",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "141596103": {
+    "id": "141596103",
+    "code": "universityoflisbon",
+    "name": "University of Lisbon",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "121883995": {
+    "id": "121883995",
+    "code": "johanneskepleruniversityoflinz",
+    "name": "Johannes Kepler University of Linz",
+    "country": "Austria",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210136249": {
+    "id": "4210136249",
+    "code": "universityofappliedsciencesupperaustria",
+    "name": "University of Applied Sciences Upper Austria",
+    "country": "Austria",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210115111": {
+    "id": "4210115111",
+    "code": "universityofartsandindustrialdesignlinz",
+    "name": "University of Arts and Industrial Design Linz",
+    "country": "Austria",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210127378": {
+    "id": "4210127378",
+    "code": "universidadtecnológicaindoamérica",
+    "name": "Universidad Tecnológica Indoamérica",
+    "country": "Ecuador",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "169108374": {
+    "id": "169108374",
+    "code": "universityofthebasquecountry",
+    "name": "University of the Basque Country",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "44504214": {
+    "id": "44504214",
+    "code": "czechtechnicaluniversityinprague",
+    "name": "Czech Technical University in Prague",
+    "country": "Czech Republic",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "158509141": {
+    "id": "158509141",
+    "code": "federalcenterfortechnologicaleducationcelsosuckowdafonseca",
+    "name": "Federal Center for Technological Education Celso Suckow da Fonseca",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "118946981": {
+    "id": "118946981",
+    "code": "escuelapolitécnicadelejército",
+    "name": "Escuela Politécnica del Ejército",
+    "country": "Ecuador",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "203238179": {
+    "id": "203238179",
+    "code": "rhodesuniversity",
+    "name": "Rhodes University",
+    "country": "South Africa",
+    "region": "Africa",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "144926016": {
+    "id": "144926016",
+    "code": "polytechnicinstituteofcastelobranco",
+    "name": "Polytechnic Institute of Castelo Branco",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "2135383": {
+    "id": "2135383",
+    "code": "escuelasuperiorpolitecnicadellitoral",
+    "name": "Escuela Superior Politecnica del Litoral",
+    "country": "Ecuador",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210093628": {
+    "id": "4210093628",
+    "code": "institutomaimónidesdeinvestigaciónbiomédicadecórdoba",
+    "name": "Instituto Maimónides de Investigación Biomédica de Córdoba",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210087059": {
+    "id": "4210087059",
+    "code": "technologyinnovationinstitute",
+    "name": "Technology Innovation Institute",
+    "country": "United Arab Emirates",
+    "region": "Middle East",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "35440088": {
+    "id": "35440088",
+    "code": "ethzurich",
+    "name": "ETH Zurich",
+    "country": "Switzerland",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "121345201": {
+    "id": "121345201",
+    "code": "institutodeengenhariadesistemasecomputadoresinvestigaçãoedesenvolvimento",
+    "name": "Instituto de Engenharia de Sistemas e Computadores Investigação e Desenvolvimento",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "203847022": {
+    "id": "203847022",
+    "code": "institutopolitécnicodelisboa",
+    "name": "Instituto Politécnico de Lisboa",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210165014": {
+    "id": "4210165014",
+    "code": "polytechnicinstituteofportalegre",
+    "name": "Polytechnic Institute of Portalegre",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "140744787": {
+    "id": "140744787",
+    "code": "universityofpardubice",
+    "name": "University of Pardubice",
+    "country": "Czech Republic",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "192341844": {
+    "id": "192341844",
+    "code": "polytechnicinstituteofvianadocastelo",
+    "name": "Polytechnic Institute of Viana do Castelo",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "184840846": {
+    "id": "184840846",
+    "code": "virginiacommonwealthuniversity",
+    "name": "Virginia Commonwealth University",
+    "country": "United States",
+    "region": "North America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "90767664": {
+    "id": "90767664",
+    "code": "persiangulfuniversity",
+    "name": "Persian Gulf University",
+    "country": "Iran",
+    "region": "Middle East",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "58028834": {
+    "id": "58028834",
+    "code": "universidadedamadeira",
+    "name": "Universidade da Madeira",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "879563668": {
+    "id": "879563668",
+    "code": "universidadeestadualpaulista(unesp)",
+    "name": "Universidade Estadual Paulista (Unesp)",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "28022161": {
+    "id": "28022161",
+    "code": "kingsauduniversity",
+    "name": "King Saud University",
+    "country": "Saudi Arabia",
+    "region": "Middle East",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "173212132": {
+    "id": "173212132",
+    "code": "vilniusuniversity",
+    "name": "Vilnius University",
+    "country": "Lithuania",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210118451": {
+    "id": "4210118451",
+    "code": "institutofederalcatarinense",
+    "name": "Instituto Federal Catarinense",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "130442723": {
+    "id": "130442723",
+    "code": "universidadefederaldoriograndedosul",
+    "name": "Universidade Federal do Rio Grande do Sul",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210092444": {
+    "id": "4210092444",
+    "code": "institutofederaldeeducação",
+    "name": "Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "6289922": {
+    "id": "6289922",
+    "code": "universidadedevigo",
+    "name": "Universidade de Vigo",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210138422": {
+    "id": "4210138422",
+    "code": "ministeriodesaludpúblicaybienestarsocial",
+    "name": "Ministerio de Salud Pública y Bienestar Social",
+    "country": "Paraguay",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "2800794739": {
+    "id": "2800794739",
+    "code": "universidadeeuropeia",
+    "name": "Universidade Europeia",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "86613570": {
+    "id": "86613570",
+    "code": "universidadpanamericana",
+    "name": "Universidad Panamericana",
+    "country": "Mexico",
+    "region": "North America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210166615": {
+    "id": "4210166615",
+    "code": "instituteforsystemsandcomputerengineeringofporto",
+    "name": "Institute for Systems and Computer Engineering of Porto",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "172574986": {
+    "id": "172574986",
+    "code": "kaunasuniversityoftechnology",
+    "name": "Kaunas University of Technology",
+    "country": "Lithuania",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210164588": {
+    "id": "4210164588",
+    "code": "institutosuperiordecontabilidadeeadministraçãodecoimbra",
+    "name": "Instituto Superior de Contabilidade e Administração de Coimbra",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "76903346": {
+    "id": "76903346",
+    "code": "universityofcoimbra",
+    "name": "University of Coimbra",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210156583": {
+    "id": "4210156583",
+    "code": "laboratoired'informatiquedeparis-nord",
+    "name": "Laboratoire d'Informatique de Paris-Nord",
+    "country": "France",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "2802229882": {
+    "id": "2802229882",
+    "code": "universityhospitaloflausanne",
+    "name": "University Hospital of Lausanne",
+    "country": "Switzerland",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "161371597": {
+    "id": "161371597",
+    "code": "universitiofmalaysiasabah",
+    "name": "Universiti of Malaysia Sabah",
+    "country": "Malaysia",
+    "region": "Asia",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210099277": {
+    "id": "4210099277",
+    "code": "universitassarimutiaraindonesia",
+    "name": "Universitas Sari Mutiara Indonesia",
+    "country": "Indonesia",
+    "region": "Asia",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "141467249": {
+    "id": "141467249",
+    "code": "universidadpopularautónomadelestadodepuebla",
+    "name": "Universidad Popular Autónoma del Estado de Puebla",
+    "country": "Mexico",
+    "region": "North America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "44314228": {
+    "id": "44314228",
+    "code": "universidadesalvador",
+    "name": "Universidade Salvador",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "3133160195": {
+    "id": "3133160195",
+    "code": "institutosuperiordegestão",
+    "name": "Instituto Superior de Gestão",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "340238431": {
+    "id": "340238431",
+    "code": "universidadamericana",
+    "name": "Universidad Americana",
+    "country": "Paraguay",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "95013407": {
+    "id": "95013407",
+    "code": "universidadpablodeolavide",
+    "name": "Universidad Pablo de Olavide",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "31944674": {
+    "id": "31944674",
+    "code": "universidaddecostarica",
+    "name": "Universidad de Costa Rica",
+    "country": "Costa Rica",
+    "region": "North America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210155795": {
+    "id": "4210155795",
+    "code": "universidadnacionaldecaaguazú",
+    "name": "Universidad Nacional De Caaguazú",
+    "country": "Paraguay",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210120932": {
+    "id": "4210120932",
+    "code": "universidaddelnorte",
+    "name": "Universidad del Norte",
+    "country": "Paraguay",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "3130590570": {
+    "id": "3130590570",
+    "code": "nationaluniversityofsaintaugustine",
+    "name": "National University of Saint Augustine",
+    "country": "Peru",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "145372079": {
+    "id": "145372079",
+    "code": "institutotecnológicodecostarica",
+    "name": "Instituto Tecnológico de Costa Rica",
+    "country": "Costa Rica",
+    "region": "Central America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "134635517": {
+    "id": "134635517",
+    "code": "bandunginstituteoftechnology",
+    "name": "Bandung Institute of Technology",
+    "country": "Indonesia",
+    "region": "Asia",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210150309": {
+    "id": "4210150309",
+    "code": "researchcenterfornaturalresources",
+    "name": "Research Center for Natural Resources, Environment and Society",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "107371206": {
+    "id": "107371206",
+    "code": "federalinstituteofsãopaulo",
+    "name": "Federal Institute of São Paulo",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "177909021": {
+    "id": "177909021",
+    "code": "universidadefederaldesãocarlos",
+    "name": "Universidade Federal de São Carlos",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "41458283": {
+    "id": "41458283",
+    "code": "universidadefederaldotocantins",
+    "name": "Universidade Federal do Tocantins",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "2277624104": {
+    "id": "2277624104",
+    "code": "fondazionebrunokessler",
+    "name": "Fondazione Bruno Kessler",
+    "country": "Italy",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "183935753": {
+    "id": "183935753",
+    "code": "king'scollegelondon",
+    "name": "King's College London",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "90425591": {
+    "id": "90425591",
+    "code": "universidadlibredecolombia",
+    "name": "Universidad Libre de Colombia",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210106404": {
+    "id": "4210106404",
+    "code": "universidadlaicaeloyalfarodemanabí",
+    "name": "Universidad Laica Eloy Alfaro de Manabí",
+    "country": "Ecuador",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "71715416": {
+    "id": "71715416",
+    "code": "universidadefederaldoabc",
+    "name": "Universidade Federal do ABC",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "155381812": {
+    "id": "155381812",
+    "code": "universityoftrás-os-montesandaltodouro",
+    "name": "University of Trás-os-Montes and Alto Douro",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "182534213": {
+    "id": "182534213",
+    "code": "universityofporto",
+    "name": "University of Porto",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210102653": {
+    "id": "4210102653",
+    "code": "institutopolitecnicodesetubal",
+    "name": "Instituto Politecnico de Setubal",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "83558840": {
+    "id": "83558840",
+    "code": "universidadenovadelisboa",
+    "name": "Universidade Nova de Lisboa",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "1311157440": {
+    "id": "1311157440",
+    "code": "peruvianuniversityofappliedsciences",
+    "name": "Peruvian University of Applied Sciences",
+    "country": "Peru",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "233745408": {
+    "id": "233745408",
+    "code": "pontificiauniversidadjaveriana",
+    "name": "Pontificia Universidad Javeriana",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "91732220": {
+    "id": "91732220",
+    "code": "universityofvalle",
+    "name": "University of Valle",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210145466": {
+    "id": "4210145466",
+    "code": "universidadnacionalabiertayadistancia",
+    "name": "Universidad Nacional Abierta y a Distancia",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "2802390120": {
+    "id": "2802390120",
+    "code": "institutopolitécnicodebeja",
+    "name": "Instituto Politécnico de Beja",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210108695": {
+    "id": "4210108695",
+    "code": "gheorgheasachitechnicaluniversityofiași",
+    "name": "Gheorghe Asachi Technical University of Iași",
+    "country": "Romania",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210104854": {
+    "id": "4210104854",
+    "code": "nationalpolytechnicschool",
+    "name": "National Polytechnic School",
+    "country": "Ecuador",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "3121987637": {
+    "id": "3121987637",
+    "code": "nationaluniversityofthelittoral",
+    "name": "National University of the Littoral",
+    "country": "Argentina",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210144088": {
+    "id": "4210144088",
+    "code": "universidadtécnicadeambato",
+    "name": "Universidad Técnica de Ambato",
+    "country": "Ecuador",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210126619": {
+    "id": "4210126619",
+    "code": "institutopolitécnicodetomar",
+    "name": "Instituto Politécnico de Tomar",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "271702661": {
+    "id": "271702661",
+    "code": "universityofnariño",
+    "name": "University of Nariño",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210143330": {
+    "id": "4210143330",
+    "code": "faculdadedemedicinadoabc",
+    "name": "Faculdade de Medicina do ABC",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "42934936": {
+    "id": "42934936",
+    "code": "dublincityuniversity",
+    "name": "Dublin City University",
+    "country": "Ireland",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "150729083": {
+    "id": "150729083",
+    "code": "universidadedebrasília",
+    "name": "Universidade de Brasília",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "28407311": {
+    "id": "28407311",
+    "code": "universityofmanchester",
+    "name": "University of Manchester",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "186803428": {
+    "id": "186803428",
+    "code": "brockuniversity",
+    "name": "Brock University",
+    "country": "Canada",
+    "region": "North America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "17974374": {
+    "id": "17974374",
+    "code": "universidadedesãopaulo",
+    "name": "Universidade de São Paulo",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "59606676": {
+    "id": "59606676",
+    "code": "universidadefederaldopará",
+    "name": "Universidade Federal do Pará",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "190085865": {
+    "id": "190085865",
+    "code": "universidadefederaldesergipe",
+    "name": "Universidade Federal de Sergipe",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "181942792": {
+    "id": "181942792",
+    "code": "humbercollege",
+    "name": "Humber College",
+    "country": "Canada",
+    "region": "North America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210129361": {
+    "id": "4210129361",
+    "code": "agêncianacionaldeenergiaelétrica",
+    "name": "Agência Nacional de Energia Elétrica",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "181391015": {
+    "id": "181391015",
+    "code": "universidadeestadualdecampinas(unicamp)",
+    "name": "Universidade Estadual de Campinas (UNICAMP)",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210090750": {
+    "id": "4210090750",
+    "code": "universidadefederaldocariri",
+    "name": "Universidade Federal do Cariri",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "2800363144": {
+    "id": "2800363144",
+    "code": "institutofederaldeeducação",
+    "name": "Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "75357094": {
+    "id": "75357094",
+    "code": "nationalyunlinuniversityofscienceandtechnology",
+    "name": "National Yunlin University of Science and Technology",
+    "country": "Taiwan",
+    "region": "Asia",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210138808": {
+    "id": "4210138808",
+    "code": "graduateschoolofcomputerscienceandadvancedtechnologies",
+    "name": "Graduate School of Computer Science and Advanced Technologies",
+    "country": "France",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "80850581": {
+    "id": "80850581",
+    "code": "universidadefederaldeuberlândia",
+    "name": "Universidade Federal de Uberlândia",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "84554738": {
+    "id": "84554738",
+    "code": "universidadefederalruraldosemi-árido",
+    "name": "Universidade Federal Rural do Semi-Árido",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "62921916": {
+    "id": "62921916",
+    "code": "universidadefederalruraldepernambuco",
+    "name": "Universidade Federal Rural de Pernambuco",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "3121799822": {
+    "id": "3121799822",
+    "code": "universidadefederaldopiauí",
+    "name": "Universidade Federal do Piauí",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "79889768": {
+    "id": "79889768",
+    "code": "universidadefederaldealagoas",
+    "name": "Universidade Federal de Alagoas",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "41455075": {
+    "id": "41455075",
+    "code": "universidadefederaldecampinagrande",
+    "name": "Universidade Federal de Campina Grande",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210123235": {
+    "id": "4210123235",
+    "code": "centrodeestudosesistemasavançadosdorecife",
+    "name": "Centro de Estudos e Sistemas Avançados do Recife",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "35046152": {
+    "id": "35046152",
+    "code": "universidadefederaldoriograndedonorte",
+    "name": "Universidade Federal do Rio Grande do Norte",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210153385": {
+    "id": "4210153385",
+    "code": "institutofederaldoacre",
+    "name": "Instituto Federal do Acre",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "3018325552": {
+    "id": "3018325552",
+    "code": "institutofederaldoceará",
+    "name": "Instituto Federal do Ceará",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "192513696": {
+    "id": "192513696",
+    "code": "nationaluniversityofsanmarcos",
+    "name": "National University of San Marcos",
+    "country": "Peru",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "3125581668": {
+    "id": "3125581668",
+    "code": "universidadedefortaleza",
+    "name": "Universidade de Fortaleza",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "94951947": {
+    "id": "94951947",
+    "code": "universityofwestminster",
+    "name": "University of Westminster",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "6358929": {
+    "id": "6358929",
+    "code": "informaticsinstituteoftechnology",
+    "name": "Informatics Institute of Technology",
+    "country": "Sri Lanka",
+    "region": "Asia",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "11944219": {
+    "id": "11944219",
+    "code": "universidaddelafrontera",
+    "name": "Universidad de La Frontera",
+    "country": "Chile",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210159176": {
+    "id": "4210159176",
+    "code": "centrouniversitárioderiopreto",
+    "name": "Centro Universitário de Rio Preto",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "88596544": {
+    "id": "88596544",
+    "code": "universidadelusófona",
+    "name": "Universidade Lusófona",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "161321875": {
+    "id": "161321875",
+    "code": "universityofbeirainterior",
+    "name": "University of Beira Interior",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210140740": {
+    "id": "4210140740",
+    "code": "universidadinternacionaldelecuador",
+    "name": "Universidad Internacional del Ecuador",
+    "country": "Ecuador",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210108037": {
+    "id": "4210108037",
+    "code": "institutosuperiortecnológicoloja",
+    "name": "Instituto Superior Tecnológico Loja",
+    "country": "Ecuador",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "332011152": {
+    "id": "332011152",
+    "code": "districtuniversityofbogotá",
+    "name": "District University of Bogotá",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "79576946": {
+    "id": "79576946",
+    "code": "universityofpennsylvania",
+    "name": "University of Pennsylvania",
+    "country": "United States",
+    "region": "North America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "2405095": {
+    "id": "2405095",
+    "code": "universityofguayaquil",
+    "name": "University of Guayaquil",
+    "country": "Ecuador",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210141686": {
+    "id": "4210141686",
+    "code": "centrohospitalardevilanovadegaia",
+    "name": "Centro Hospitalar de Vila Nova de Gaia",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "183437572": {
+    "id": "183437572",
+    "code": "universityofwisconsin–parkside",
+    "name": "University of Wisconsin–Parkside",
+    "country": "United States",
+    "region": "North America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "921990950": {
+    "id": "921990950",
+    "code": "universityofcoloradodenver",
+    "name": "University of Colorado Denver",
+    "country": "United States",
+    "region": "North America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "181028852": {
+    "id": "181028852",
+    "code": "pontificalbolivarianuniversity",
+    "name": "Pontifical Bolivarian University",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210136482": {
+    "id": "4210136482",
+    "code": "federalcenterfortechnologicaleducationofminasgerais",
+    "name": "Federal Center for Technological Education of Minas Gerais",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210091249": {
+    "id": "4210091249",
+    "code": "centrohospitalardeentreodouroevougae.p.e.",
+    "name": "Centro Hospitalar de Entre o Douro e Vouga E.P.E.",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "1292114621": {
+    "id": "1292114621",
+    "code": "universidadefundaçãomineiradeeducaçãoecultura",
+    "name": "Universidade Fundação Mineira de Educação e Cultura",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210155484": {
+    "id": "4210155484",
+    "code": "federalinstituteofeducation",
+    "name": "Federal Institute of Education, Science and Technology Alagoas",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "145019703": {
+    "id": "145019703",
+    "code": "al-zaytoonahuniversityofjordan",
+    "name": "Al-Zaytoonah University of Jordan",
+    "country": "Jordan",
+    "region": "Asia",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "153265617": {
+    "id": "153265617",
+    "code": "sebhauniversity",
+    "name": "Sebha University",
+    "country": "Libyan Arab Jamahiriya",
+    "region": "Africa",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "3133194271": {
+    "id": "3133194271",
+    "code": "universidadestatalpenínsuladesantaelena",
+    "name": "Universidad Estatal Península de Santa Elena",
+    "country": "Ecuador",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210133958": {
+    "id": "4210133958",
+    "code": "universidadtécnicademanabí",
+    "name": "Universidad Técnica de Manabí",
+    "country": "Ecuador",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210108690": {
+    "id": "4210108690",
+    "code": "universidadprivadadetacna",
+    "name": "Universidad Privada de Tacna",
+    "country": "Peru",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210089536": {
+    "id": "4210089536",
+    "code": "universidadregionalautónomadelosandes",
+    "name": "Universidad Regional Autónoma de Los Andes",
+    "country": "Ecuador",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "84724731": {
+    "id": "84724731",
+    "code": "universityoflasalle",
+    "name": "University of La Salle",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210102980": {
+    "id": "4210102980",
+    "code": "escolasuperiordetecnologiadasaúdedecoimbra",
+    "name": "Escola Superior de Tecnologia da Saúde de Coimbra",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "1283613182": {
+    "id": "1283613182",
+    "code": "universidadetecnológicafederaldoparaná",
+    "name": "Universidade Tecnológica Federal do Paraná",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "33434090": {
+    "id": "33434090",
+    "code": "universityofmassachusettsboston",
+    "name": "University of Massachusetts Boston",
+    "country": "United States",
+    "region": "North America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "111088046": {
+    "id": "111088046",
+    "code": "bostonuniversity",
+    "name": "Boston University",
+    "country": "United States",
+    "region": "North America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "5459901": {
+    "id": "5459901",
+    "code": "universidadinternacionalsek",
+    "name": "Universidad Internacional SEK",
+    "country": "Ecuador",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210157032": {
+    "id": "4210157032",
+    "code": "instituteofmathematicalsciences",
+    "name": "Institute of Mathematical Sciences",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210142376": {
+    "id": "4210142376",
+    "code": "universidadnacionalpedroruízgallo",
+    "name": "Universidad Nacional Pedro Ruíz Gallo",
+    "country": "Peru",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "3133295647": {
+    "id": "3133295647",
+    "code": "nationaluniversitytoribiorodríguezdemendoza",
+    "name": "National University Toribio Rodríguez de Mendoza",
+    "country": "Peru",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210145045": {
+    "id": "4210145045",
+    "code": "universidadpolitécnicaestataldelcarchi",
+    "name": "Universidad Politécnica Estatal del Carchi",
+    "country": "Ecuador",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "88155538": {
+    "id": "88155538",
+    "code": "universityofnavarra",
+    "name": "University of Navarra",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "2801049591": {
+    "id": "2801049591",
+    "code": "institutofederaldeeducação",
+    "name": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "158438070": {
+    "id": "158438070",
+    "code": "universityoflalaguna",
+    "name": "University of La Laguna",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210153204": {
+    "id": "4210153204",
+    "code": "universidadeportucalense",
+    "name": "Universidade Portucalense",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "162096671": {
+    "id": "162096671",
+    "code": "universidaddelosandes",
+    "name": "Universidad de Los Andes",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210135982": {
+    "id": "4210135982",
+    "code": "universidadcatólicasedessapientiae",
+    "name": "Universidad Católica Sedes Sapientiae",
+    "country": "Peru",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "104854061": {
+    "id": "104854061",
+    "code": "universidadautónomadelestadodehidalgo",
+    "name": "Universidad Autónoma del Estado de Hidalgo",
+    "country": "Mexico",
+    "region": "North America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210127128": {
+    "id": "4210127128",
+    "code": "institutofederaldopiauí",
+    "name": "Instituto Federal do Piauí",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210137384": {
+    "id": "4210137384",
+    "code": "centreforhealthtechnologyandservicesresearch",
+    "name": "Centre for Health Technology and Services Research",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "85591668": {
+    "id": "85591668",
+    "code": "universityofturabo",
+    "name": "University of Turabo",
+    "country": "Puerto Rico",
+    "region": "Central America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "79510175": {
+    "id": "79510175",
+    "code": "cardiffuniversity",
+    "name": "Cardiff University",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "65285256": {
+    "id": "65285256",
+    "code": "pontificalcatholicuniversityofperu",
+    "name": "Pontifical Catholic University of Peru",
+    "country": "Peru",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210162039": {
+    "id": "4210162039",
+    "code": "braziliannetworkinformationcenter",
+    "name": "Brazilian Network Information Center",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "102322142": {
+    "id": "102322142",
+    "code": "rutgers",
+    "name": "Rutgers, The State University of New Jersey",
+    "country": "United States",
+    "region": "North America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "126231945": {
+    "id": "126231945",
+    "code": "queen'suniversitybelfast",
+    "name": "Queen's University Belfast",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "190082696": {
+    "id": "190082696",
+    "code": "durhamuniversity",
+    "name": "Durham University",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "232005693": {
+    "id": "232005693",
+    "code": "universidadfranciscodevitoria",
+    "name": "Universidad Francisco de Vitoria",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "79238269": {
+    "id": "79238269",
+    "code": "universidaddesevilla",
+    "name": "Universidad de Sevilla",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "15766328": {
+    "id": "15766328",
+    "code": "universityoflleida",
+    "name": "University of Lleida",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "63634437": {
+    "id": "63634437",
+    "code": "autonomousuniversityofmadrid",
+    "name": "Autonomous University of Madrid",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "152650591": {
+    "id": "152650591",
+    "code": "universityofcauca",
+    "name": "University of Cauca",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "88273585": {
+    "id": "88273585",
+    "code": "universidadefederaldesãopaulo",
+    "name": "Universidade Federal de São Paulo",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "98466806": {
+    "id": "98466806",
+    "code": "pontifíciauniversidadecatólicadesãopaulo",
+    "name": "Pontifícia Universidade Católica de São Paulo",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "36258959": {
+    "id": "36258959",
+    "code": "universityofcalifornia",
+    "name": "University of California, San Diego",
+    "country": "United States",
+    "region": "North America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "169045520": {
+    "id": "169045520",
+    "code": "universidadefederaldaparaíba",
+    "name": "Universidade Federal da Paraíba",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "3020668385": {
+    "id": "3020668385",
+    "code": "institutofederalgoiano",
+    "name": "Instituto Federal Goiano",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "205649185": {
+    "id": "205649185",
+    "code": "eletrobras(brazil)",
+    "name": "Eletrobras (Brazil)",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "28941729": {
+    "id": "28941729",
+    "code": "ismuniversityofmanagementandeconomics",
+    "name": "ISM University of Management and Economics",
+    "country": "Lithuania",
+    "region": "Europe",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "63966007": {
+    "id": "63966007",
+    "code": "massachusettsinstituteoftechnology",
+    "name": "Massachusetts Institute of Technology",
+    "country": "United States",
+    "region": "North America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210106570": {
+    "id": "4210106570",
+    "code": "universidadefederaldotriângulomineiro",
+    "name": "Universidade Federal do Triângulo Mineiro",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "4210160503": {
+    "id": "4210160503",
+    "code": "universidadecruzeirodosul",
+    "name": "Universidade Cruzeiro do Sul",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2023,
+    "in_pyAlex": true
+  },
+  "39398033": {
+    "id": "39398033",
+    "code": "pontificiauniversidadcatólicadelecuador",
+    "name": "Pontificia Universidad Católica del Ecuador",
+    "country": "Ecuador",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "141930428": {
+    "id": "141930428",
+    "code": "centraluniversityofecuador",
+    "name": "Central University of Ecuador",
+    "country": "Ecuador",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "4210159610": {
+    "id": "4210159610",
+    "code": "institutoecuatorianodeenfermedadesdigestivas",
+    "name": "Instituto Ecuatoriano de Enfermedades Digestivas",
+    "country": "Ecuador",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "4210102282": {
+    "id": "4210102282",
+    "code": "universidaddelasaméricas",
+    "name": "Universidad de Las Américas",
+    "country": "Ecuador",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "4210121451": {
+    "id": "4210121451",
+    "code": "facultadlatinoamericanadecienciassociales",
+    "name": "Facultad Latinoamericana de Ciencias Sociales",
+    "country": "Ecuador",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "4210154254": {
+    "id": "4210154254",
+    "code": "institutosuperiordetecnologiasavançadas",
+    "name": "Instituto Superior de Tecnologias Avançadas",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "4210097234": {
+    "id": "4210097234",
+    "code": "universidadinternacional",
+    "name": "Universidad Internacional",
+    "country": "Mexico",
+    "region": "North America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "108103353": {
+    "id": "108103353",
+    "code": "universityofvalladolid",
+    "name": "University of Valladolid",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "80606768": {
+    "id": "80606768",
+    "code": "universidaddeextremadura",
+    "name": "Universidad de Extremadura",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "82951845": {
+    "id": "82951845",
+    "code": "rmituniversity",
+    "name": "RMIT University",
+    "country": "Australia",
+    "region": "Oceania",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "68728177": {
+    "id": "68728177",
+    "code": "universityofnewyorktirana",
+    "name": "University of New York Tirana",
+    "country": "Albania",
+    "region": "Europe",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "79189158": {
+    "id": "79189158",
+    "code": "universityofcastilla-lamancha",
+    "name": "University of Castilla-La Mancha",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "188529364": {
+    "id": "188529364",
+    "code": "russian-armenianuniversity",
+    "name": "Russian-Armenian University",
+    "country": "Armenia",
+    "region": "Asia",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "110200422": {
+    "id": "110200422",
+    "code": "universidadefederaldeminasgerais",
+    "name": "Universidade Federal de Minas Gerais",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "97750245": {
+    "id": "97750245",
+    "code": "software(spain)",
+    "name": "Software (Spain)",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "29770179": {
+    "id": "29770179",
+    "code": "budapestuniversityoftechnologyandeconomics",
+    "name": "Budapest University of Technology and Economics",
+    "country": "Hungary",
+    "region": "Europe",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "96294087": {
+    "id": "96294087",
+    "code": "companhiaenergéticademinasgerais(brazil)",
+    "name": "Companhia Energética de Minas Gerais (Brazil)",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "198243066": {
+    "id": "198243066",
+    "code": "universidadnacional",
+    "name": "Universidad Nacional",
+    "country": "Costa Rica",
+    "region": "Central America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "1282105669": {
+    "id": "1282105669",
+    "code": "argonnenationallaboratory",
+    "name": "Argonne National Laboratory",
+    "country": "United States",
+    "region": "North America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "2802634152": {
+    "id": "2802634152",
+    "code": "autonomousuniversityofcampeche",
+    "name": "Autonomous University of Campeche",
+    "country": "Mexico",
+    "region": "North America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "193629610": {
+    "id": "193629610",
+    "code": "tallinnuniversity",
+    "name": "Tallinn University",
+    "country": "Estonia",
+    "region": "Europe",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "4210120471": {
+    "id": "4210120471",
+    "code": "institutodetelecomunicações",
+    "name": "Instituto de Telecomunicações",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "45643870": {
+    "id": "45643870",
+    "code": "pontifíciauniversidadecatólicadoriograndedosul",
+    "name": "Pontifícia Universidade Católica do Rio Grande do Sul",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "83816512": {
+    "id": "83816512",
+    "code": "universityofgenoa",
+    "name": "University of Genoa",
+    "country": "Italy",
+    "region": "Europe",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "4210127437": {
+    "id": "4210127437",
+    "code": "universidaddelvalle",
+    "name": "Universidad del Valle",
+    "country": "Nicaragua",
+    "region": "Central America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "4210126780": {
+    "id": "4210126780",
+    "code": "universityofsaintfrancisxavier",
+    "name": "University of Saint Francis Xavier",
+    "country": "Bolivia",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "4210088118": {
+    "id": "4210088118",
+    "code": "instituciónuniversitariacolegiomayordelcauca",
+    "name": "Institución Universitaria Colegio Mayor del Cauca",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "4210154195": {
+    "id": "4210154195",
+    "code": "universityofloslagos",
+    "name": "University of Los Lagos",
+    "country": "Chile",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "2799535320": {
+    "id": "2799535320",
+    "code": "catholicuniversityofthemaule",
+    "name": "Catholic University of the Maule",
+    "country": "Chile",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "4210117061": {
+    "id": "4210117061",
+    "code": "universidadnacionaldeloja",
+    "name": "Universidad Nacional de Loja",
+    "country": "Ecuador",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "4210151225": {
+    "id": "4210151225",
+    "code": "universidaddeespecialidadesturísticas",
+    "name": "Universidad de Especialidades Turísticas",
+    "country": "Ecuador",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "4210091861": {
+    "id": "4210091861",
+    "code": "universidadtecnológicaequinoccial",
+    "name": "Universidad Tecnológica Equinoccial",
+    "country": "Ecuador",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "4141589": {
+    "id": "4141589",
+    "code": "nationaluniversityofrosario",
+    "name": "National University of Rosario",
+    "country": "Argentina",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "192703252": {
+    "id": "192703252",
+    "code": "universityoflima",
+    "name": "University of Lima",
+    "country": "Peru",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "4829542": {
+    "id": "4829542",
+    "code": "rheinmainuniversityofappliedsciences",
+    "name": "RheinMain University of Applied Sciences",
+    "country": "Germany",
+    "region": "Europe",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "4210115991": {
+    "id": "4210115991",
+    "code": "universidadyacambú",
+    "name": "Universidad Yacambú",
+    "country": "Venezuela",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "4210109172": {
+    "id": "4210109172",
+    "code": "nuffieldhealth",
+    "name": "Nuffield Health",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "874386039": {
+    "id": "874386039",
+    "code": "universidadnacionaldelaplata",
+    "name": "Universidad Nacional de La Plata",
+    "country": "Argentina",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "243754102": {
+    "id": "243754102",
+    "code": "universidadefederaldoceará",
+    "name": "Universidade Federal do Ceará",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "50357001": {
+    "id": "50357001",
+    "code": "carlosiiiuniversityofmadrid",
+    "name": "Carlos III University of Madrid",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "4210160189": {
+    "id": "4210160189",
+    "code": "institutpolytechniquedebordeaux",
+    "name": "Institut Polytechnique de Bordeaux",
+    "country": "France",
+    "region": "Europe",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "39555362": {
+    "id": "39555362",
+    "code": "universityofwarwick",
+    "name": "University of Warwick",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "107428990": {
+    "id": "107428990",
+    "code": "institutotecnológicodeaeronáutica",
+    "name": "Instituto Tecnológico de Aeronáutica",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "4210090927": {
+    "id": "4210090927",
+    "code": "universidadestataldemilagro",
+    "name": "Universidad Estatal de Milagro",
+    "country": "Ecuador",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "122274158": {
+    "id": "122274158",
+    "code": "dalarnauniversity",
+    "name": "Dalarna University",
+    "country": "Sweden",
+    "region": "Europe",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "151201029": {
+    "id": "151201029",
+    "code": "consejonacionaldeinvestigacionescientíficasytécnicas",
+    "name": "Consejo Nacional de Investigaciones Científicas y Técnicas",
+    "country": "Argentina",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "127110123": {
+    "id": "127110123",
+    "code": "universidadeestadualdelondrina",
+    "name": "Universidade Estadual de Londrina",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "2802166871": {
+    "id": "2802166871",
+    "code": "universidadcatólicadelnorte",
+    "name": "Universidad Católica del Norte",
+    "country": "Chile",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "16465266": {
+    "id": "16465266",
+    "code": "australuniversityofchile",
+    "name": "Austral University of Chile",
+    "country": "Chile",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "40034438": {
+    "id": "40034438",
+    "code": "riodejaneirostateuniversity",
+    "name": "Rio de Janeiro State University",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "59897056": {
+    "id": "59897056",
+    "code": "californiastateuniversity",
+    "name": "California State University, Long Beach",
+    "country": "United States",
+    "region": "North America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "4210159733": {
+    "id": "4210159733",
+    "code": "universidadnacionaldeconcepción",
+    "name": "Universidad Nacional de Concepción",
+    "country": "Paraguay",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "1343180700": {
+    "id": "1343180700",
+    "code": "intel(unitedstates)",
+    "name": "Intel (United States)",
+    "country": "United States",
+    "region": "North America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "79793008": {
+    "id": "79793008",
+    "code": "universitédethiès",
+    "name": "Université de Thiès",
+    "country": "Senegal",
+    "region": "Africa",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "96840727": {
+    "id": "96840727",
+    "code": "cheikhantadiopuniversity",
+    "name": "Cheikh Anta Diop University",
+    "country": "Senegal",
+    "region": "Africa",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "3133343326": {
+    "id": "3133343326",
+    "code": "ziguinchoruniversity",
+    "name": "Ziguinchor University",
+    "country": "Senegal",
+    "region": "Africa",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "4210152222": {
+    "id": "4210152222",
+    "code": "nationaleducationandresearchnetwork",
+    "name": "National Education and Research Network",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "4210116357": {
+    "id": "4210116357",
+    "code": "catholicuniversityofsantamaría",
+    "name": "Catholic University of Santa María",
+    "country": "Peru",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "129902397": {
+    "id": "129902397",
+    "code": "dalhousieuniversity",
+    "name": "Dalhousie University",
+    "country": "Canada",
+    "region": "North America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "121748325": {
+    "id": "121748325",
+    "code": "universidadcomplutensedemadrid",
+    "name": "Universidad Complutense de Madrid",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "4210090690": {
+    "id": "4210090690",
+    "code": "centrodeinvestigaçãoemartesecomunicação",
+    "name": "Centro de Investigação em Artes e Comunicação",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "121760703": {
+    "id": "121760703",
+    "code": "universityofappliedsciencestechnikumwien",
+    "name": "University of Applied Sciences Technikum Wien",
+    "country": "Austria",
+    "region": "Europe",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "4210138879": {
+    "id": "4210138879",
+    "code": "hospitaldasclínicasdauniversidadefederaldepernambuco",
+    "name": "Hospital das Clínicas da Universidade Federal de Pernambuco",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "4210120064": {
+    "id": "4210120064",
+    "code": "centromediconacionalsigloxxi",
+    "name": "Centro Medico Nacional Siglo XXI",
+    "country": "Mexico",
+    "region": "North America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "4210102163": {
+    "id": "4210102163",
+    "code": "institutofederaldosuldeminas",
+    "name": "Instituto Federal do Sul de Minas",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "4210153780": {
+    "id": "4210153780",
+    "code": "universidadnacionaldechimborazo",
+    "name": "Universidad Nacional de Chimborazo",
+    "country": "Ecuador",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "4210152313": {
+    "id": "4210152313",
+    "code": "politécnicocolombianojaimeisazacadavid",
+    "name": "Politécnico Colombiano Jaime Isaza Cadavid",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "196375840": {
+    "id": "196375840",
+    "code": "autonomousuniversityofsinaloa",
+    "name": "Autonomous University of Sinaloa",
+    "country": "Mexico",
+    "region": "North America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "4210104225": {
+    "id": "4210104225",
+    "code": "centrocientíficotecnológico-tandil",
+    "name": "Centro Científico Tecnológico - Tandil",
+    "country": "Argentina",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "3130805194": {
+    "id": "3130805194",
+    "code": "universidadnacionaldelcentrodelaprovinciadebuenosaires",
+    "name": "Universidad Nacional del Centro de la Provincia de Buenos Aires",
+    "country": "Argentina",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "88060688": {
+    "id": "88060688",
+    "code": "universidadpolitécnicademadrid",
+    "name": "Universidad Politécnica de Madrid",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "87806610": {
+    "id": "87806610",
+    "code": "ibero-americanuniversitypuebla",
+    "name": "Ibero-American University Puebla",
+    "country": "Mexico",
+    "region": "North America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "205571821": {
+    "id": "205571821",
+    "code": "iberoamericanuniversity",
+    "name": "Ibero American University",
+    "country": "Mexico",
+    "region": "North America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "85695875": {
+    "id": "85695875",
+    "code": "universidaddelistmo",
+    "name": "Universidad del Istmo",
+    "country": "Guatemala",
+    "region": "Central America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "3084848766": {
+    "id": "3084848766",
+    "code": "tuxtlagutierrezinstituteoftechnology",
+    "name": "Tuxtla Gutierrez Institute of Technology",
+    "country": "Mexico",
+    "region": "North America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "4210133585": {
+    "id": "4210133585",
+    "code": "universidaddemedellín",
+    "name": "Universidad de Medellín",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "152456871": {
+    "id": "152456871",
+    "code": "universityofcaldas",
+    "name": "University of Caldas",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "4210167105": {
+    "id": "4210167105",
+    "code": "universidadnacionalhermiliovaldizán",
+    "name": "Universidad Nacional Hermilio Valdizán",
+    "country": "Peru",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "130474213": {
+    "id": "130474213",
+    "code": "pontificiauniversidadcatólicadevalparaíso",
+    "name": "Pontificia Universidad Católica de Valparaíso",
+    "country": "Chile",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "116419501": {
+    "id": "116419501",
+    "code": "universidadmayor",
+    "name": "Universidad Mayor",
+    "country": "Chile",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "62801748": {
+    "id": "62801748",
+    "code": "alticeportugal(portugal)",
+    "name": "Altice Portugal (Portugal)",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "4210094645": {
+    "id": "4210094645",
+    "code": "nokia(spain)",
+    "name": "Nokia (Spain)",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "62885914": {
+    "id": "62885914",
+    "code": "universidadefederaldoamazonas",
+    "name": "Universidade Federal do Amazonas",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "4210141827": {
+    "id": "4210141827",
+    "code": "universidadtecnológicaecotec",
+    "name": "Universidad Tecnológica Ecotec",
+    "country": "Ecuador",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "11019714": {
+    "id": "11019714",
+    "code": "universityofacoruña",
+    "name": "University of A Coruña",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "201787326": {
+    "id": "201787326",
+    "code": "rigatechnicaluniversity",
+    "name": "Riga Technical University",
+    "country": "Latvia",
+    "region": "Europe",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "4210155777": {
+    "id": "4210155777",
+    "code": "institutofederalsul-rio-grandense",
+    "name": "Instituto Federal Sul-rio-grandense",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "4210122333": {
+    "id": "4210122333",
+    "code": "universidadnacionalagrariadelaselva",
+    "name": "Universidad Nacional Agraria de la Selva",
+    "country": "Peru",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "126596746": {
+    "id": "126596746",
+    "code": "jagiellonianuniversity",
+    "name": "Jagiellonian University",
+    "country": "Poland",
+    "region": "Europe",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "185163786": {
+    "id": "185163786",
+    "code": "kingabdulazizuniversity",
+    "name": "King Abdulaziz University",
+    "country": "Saudi Arabia",
+    "region": "Middle East",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "170726198": {
+    "id": "170726198",
+    "code": "universityofnovisad",
+    "name": "University of Novi Sad",
+    "country": "Serbia",
+    "region": "Europe",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "4210115480": {
+    "id": "4210115480",
+    "code": "escuelacolombianadeingenieriajuliogaravito",
+    "name": "Escuela Colombiana de Ingenieria Julio Garavito",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "164790352": {
+    "id": "164790352",
+    "code": "universidadedoestadodesantacatarina",
+    "name": "Universidade do Estado de Santa Catarina",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2022,
+    "in_pyAlex": true
+  },
+  "146165071": {
+    "id": "146165071",
+    "code": "universidadefederaldeviçosa",
+    "name": "Universidade Federal de Viçosa",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "4210151606": {
+    "id": "4210151606",
+    "code": "águasdeportugal(portugal)",
+    "name": "Águas de Portugal (Portugal)",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "13897259": {
+    "id": "13897259",
+    "code": "universidadandrésbello",
+    "name": "Universidad Andrés Bello",
+    "country": "Chile",
+    "region": "South America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "4210144223": {
+    "id": "4210144223",
+    "code": "metropolitanuniversityoftechnology",
+    "name": "Metropolitan University of Technology",
+    "country": "Chile",
+    "region": "South America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "142340749": {
+    "id": "142340749",
+    "code": "universidadedetaubaté",
+    "name": "Universidade de Taubaté",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "46090414": {
+    "id": "46090414",
+    "code": "universidadecatólicadepetrópolis",
+    "name": "Universidade Católica de Petrópolis",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "122492136": {
+    "id": "122492136",
+    "code": "newbulgarianuniversity",
+    "name": "New Bulgarian University",
+    "country": "Bulgaria",
+    "region": "Europe",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "4210086410": {
+    "id": "4210086410",
+    "code": "universidadbernardoo'higgins",
+    "name": "Universidad Bernardo O'Higgins",
+    "country": "Chile",
+    "region": "South America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "4210120426": {
+    "id": "4210120426",
+    "code": "universidadricardopalma",
+    "name": "Universidad Ricardo Palma",
+    "country": "Peru",
+    "region": "South America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "4210160041": {
+    "id": "4210160041",
+    "code": "corporacióninternacionalparaeldesarrolloeducativo",
+    "name": "Corporación Internacional para el Desarrollo Educativo",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "193876067": {
+    "id": "193876067",
+    "code": "universidadeestadualdooestedoparaná",
+    "name": "Universidade Estadual do Oeste do Paraná",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "165339363": {
+    "id": "165339363",
+    "code": "universidaddeoviedo",
+    "name": "Universidad de Oviedo",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "200284239": {
+    "id": "200284239",
+    "code": "universidadedesantiagodecompostela",
+    "name": "Universidade de Santiago de Compostela",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "4210091481": {
+    "id": "4210091481",
+    "code": "atlânticainstitutouniversitário",
+    "name": "Atlântica Instituto Universitário",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "51235708": {
+    "id": "51235708",
+    "code": "universidadefederaldoespíritosanto",
+    "name": "Universidade Federal do Espírito Santo",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "3132302805": {
+    "id": "3132302805",
+    "code": "nationaluniversityofsaintanthonytheabbotincuzco",
+    "name": "National University of Saint Anthony the Abbot in Cuzco",
+    "country": "Peru",
+    "region": "South America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "172685059": {
+    "id": "172685059",
+    "code": "uniwersytetkomisjiedukacjinarodowejwkrakowie",
+    "name": "Uniwersytet Komisji Edukacji Narodowej w Krakowie",
+    "country": "Poland",
+    "region": "Europe",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "4210159856": {
+    "id": "4210159856",
+    "code": "universidaddeaysén",
+    "name": "Universidad de Aysén",
+    "country": "Chile",
+    "region": "South America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "3132601863": {
+    "id": "3132601863",
+    "code": "franciscodepaulasantanderuniversity",
+    "name": "Francisco de Paula Santander University",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "192928004": {
+    "id": "192928004",
+    "code": "autonomousuniversityofbucaramanga",
+    "name": "Autonomous University of Bucaramanga",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "3020002803": {
+    "id": "3020002803",
+    "code": "institutofederaldoriograndedonorte",
+    "name": "Instituto Federal do Rio Grande do Norte",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "59361560": {
+    "id": "59361560",
+    "code": "institutopolitécniconacional",
+    "name": "Instituto Politécnico Nacional",
+    "country": "Mexico",
+    "region": "North America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "178450904": {
+    "id": "178450904",
+    "code": "nationaluniversityofdistanceeducation",
+    "name": "National University of Distance Education",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "4210119892": {
+    "id": "4210119892",
+    "code": "institutosuperiordeciênciasdainformaçãoedaadministração",
+    "name": "Instituto Superior de Ciências da Informação e da Administração",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "3018006580": {
+    "id": "3018006580",
+    "code": "institutofederaldeeducaçãociênciaetecnologiadaparaíba",
+    "name": "Instituto Federal de Educação Ciência e Tecnologia da Paraíba",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "3130695932": {
+    "id": "3130695932",
+    "code": "universityforinternationalintegrationoftheafro-brazilianlusophony",
+    "name": "University for International Integration of the Afro-Brazilian Lusophony",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "128590013": {
+    "id": "128590013",
+    "code": "nationaltechnologicaluniversity",
+    "name": "National Technological University",
+    "country": "Argentina",
+    "region": "South America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "3129593361": {
+    "id": "3129593361",
+    "code": "jorgebasadregrohmannnationaluniversity",
+    "name": "Jorge Basadre Grohmann National University",
+    "country": "Peru",
+    "region": "South America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "166595947": {
+    "id": "166595947",
+    "code": "federaluniversityofsãojoãodel-rei",
+    "name": "Federal University of São João del-Rei",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "4210144446": {
+    "id": "4210144446",
+    "code": "brazilianinstituteofneuroscienceandneurotechnology",
+    "name": "Brazilian Institute of Neuroscience and Neurotechnology",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "4210111188": {
+    "id": "4210111188",
+    "code": "universidadepaulista",
+    "name": "Universidade Paulista",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "4210112416": {
+    "id": "4210112416",
+    "code": "institutofederaldeeducação",
+    "name": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "4210137344": {
+    "id": "4210137344",
+    "code": "escuelasuperiorpolitécnicadelchimborazo",
+    "name": "Escuela Superior Politécnica del Chimborazo",
+    "country": "Ecuador",
+    "region": "South America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "330528248": {
+    "id": "330528248",
+    "code": "stateuniversityofvaledoacaraú",
+    "name": "State University of Vale do Acaraú",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "79274474": {
+    "id": "79274474",
+    "code": "universityofvalparaíso",
+    "name": "University of Valparaíso",
+    "country": "Chile",
+    "region": "South America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "921685582": {
+    "id": "921685582",
+    "code": "portuguesenavalschool",
+    "name": "Portuguese Naval School",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "3131918342": {
+    "id": "3131918342",
+    "code": "naziboniuniversity",
+    "name": "Nazi Boni University",
+    "country": "Burkina Faso",
+    "region": "Africa",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "4210105079": {
+    "id": "4210105079",
+    "code": "universidaddonbosco",
+    "name": "Universidad Don Bosco",
+    "country": "El Salvador",
+    "region": "Central America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "175051016": {
+    "id": "175051016",
+    "code": "universidadpublicadenavarra",
+    "name": "Universidad Publica de Navarra",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "115891769": {
+    "id": "115891769",
+    "code": "universityoftheazores",
+    "name": "University of the Azores",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "11701301": {
+    "id": "11701301",
+    "code": "griffithuniversity",
+    "name": "Griffith University",
+    "country": "Australia",
+    "region": "Oceania",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "52066220": {
+    "id": "52066220",
+    "code": "institutosuperiordamaia",
+    "name": "Instituto Superior da Maia",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "161374704": {
+    "id": "161374704",
+    "code": "universityofjos",
+    "name": "University of Jos",
+    "country": "Nigeria",
+    "region": "Africa",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "285663978": {
+    "id": "285663978",
+    "code": "weatherfordcollege",
+    "name": "Weatherford College",
+    "country": "United States",
+    "region": "North America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "1294671590": {
+    "id": "1294671590",
+    "code": "frenchnationalcentreforscientificresearch",
+    "name": "French National Centre for Scientific Research",
+    "country": "France",
+    "region": "Europe",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "44563897": {
+    "id": "44563897",
+    "code": "artoisuniversity",
+    "name": "Artois University",
+    "country": "France",
+    "region": "Europe",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "200267027": {
+    "id": "200267027",
+    "code": "universidadjuárezdelestadodedurango",
+    "name": "Universidad Juárez del Estado de Durango",
+    "country": "Mexico",
+    "region": "North America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "25169866": {
+    "id": "25169866",
+    "code": "universidadecatólicaportuguesa",
+    "name": "Universidade Católica Portuguesa",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "173664879": {
+    "id": "173664879",
+    "code": "autonomousuniversityofbajacalifornia",
+    "name": "Autonomous University of Baja California",
+    "country": "Mexico",
+    "region": "North America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "47400469": {
+    "id": "47400469",
+    "code": "autonomousuniversityofzacatecas",
+    "name": "Autonomous University of Zacatecas",
+    "country": "Mexico",
+    "region": "North America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "71503853": {
+    "id": "71503853",
+    "code": "universityofalgarve",
+    "name": "University of Algarve",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "4210161437": {
+    "id": "4210161437",
+    "code": "institutosuperiordeadministraçãoegestão",
+    "name": "Instituto Superior de Administração e Gestão",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "9617848": {
+    "id": "9617848",
+    "code": "universitatpolitècnicadecatalunya",
+    "name": "Universitat Politècnica de Catalunya",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "4210158949": {
+    "id": "4210158949",
+    "code": "escolasuperiordeartesedesign",
+    "name": "Escola Superior de Artes e Design",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "3018704611": {
+    "id": "3018704611",
+    "code": "eiauniversity",
+    "name": "EIA University",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "136040515": {
+    "id": "136040515",
+    "code": "universidaddedeusto",
+    "name": "Universidad de Deusto",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "4210127211": {
+    "id": "4210127211",
+    "code": "universidaddemanizales",
+    "name": "Universidad de Manizales",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "4210143597": {
+    "id": "4210143597",
+    "code": "institutosuperiordeeducaçãoeciências",
+    "name": "Instituto Superior de Educação e Ciências",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "4576418": {
+    "id": "4576418",
+    "code": "universityoftechnologymalaysia",
+    "name": "University of Technology Malaysia",
+    "country": "Malaysia",
+    "region": "Asia",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "4210108271": {
+    "id": "4210108271",
+    "code": "institutosuperiordegestãoeadministraçãodesantarém",
+    "name": "Instituto Superior de Gestão e Administração de Santarém",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "71999127": {
+    "id": "71999127",
+    "code": "universitatdebarcelona",
+    "name": "Universitat de Barcelona",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "39147953": {
+    "id": "39147953",
+    "code": "universidaddecádiz",
+    "name": "Universidad de Cádiz",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "173304897": {
+    "id": "173304897",
+    "code": "universidaddegranada",
+    "name": "Universidad de Granada",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "4210164218": {
+    "id": "4210164218",
+    "code": "fundaciónuniversitarialoslibertadores",
+    "name": "Fundación Universitaria Los Libertadores",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "255234318": {
+    "id": "255234318",
+    "code": "universidaddezaragoza",
+    "name": "Universidad de Zaragoza",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "9927081": {
+    "id": "9927081",
+    "code": "aaltouniversity",
+    "name": "Aalto University",
+    "country": "Finland",
+    "region": "Europe",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "37446213": {
+    "id": "37446213",
+    "code": "indra(spain)",
+    "name": "Indra (Spain)",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "4210142721": {
+    "id": "4210142721",
+    "code": "hospitaluniversitáriodauniversidadedesãopaulo",
+    "name": "Hospital Universitário da Universidade de São Paulo",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "4210112072": {
+    "id": "4210112072",
+    "code": "associaçãodeassistênciaàcriançadeficiente",
+    "name": "Associação de Assistência à Criança Deficiente",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "221450849": {
+    "id": "221450849",
+    "code": "universityofbío-bío",
+    "name": "University of Bío-Bío",
+    "country": "Chile",
+    "region": "South America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "4210158107": {
+    "id": "4210158107",
+    "code": "hospitaluniversitarioríohortega",
+    "name": "Hospital Universitario Río Hortega",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "4210132036": {
+    "id": "4210132036",
+    "code": "universidadsimónbolívar",
+    "name": "Universidad Simón Bolívar",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "4210100945": {
+    "id": "4210100945",
+    "code": "playaanchauniversityofeducationalsciences",
+    "name": "Playa Ancha University of Educational Sciences",
+    "country": "Chile",
+    "region": "South America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "21067949": {
+    "id": "21067949",
+    "code": "adolfoibáñezuniversity",
+    "name": "Adolfo Ibáñez University",
+    "country": "Chile",
+    "region": "South America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "3121512035": {
+    "id": "3121512035",
+    "code": "universidadautónomadechile",
+    "name": "Universidad Autónoma de Chile",
+    "country": "Chile",
+    "region": "South America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "8961855": {
+    "id": "8961855",
+    "code": "universidadnacionalautónomademéxico",
+    "name": "Universidad Nacional Autónoma de México",
+    "country": "Mexico",
+    "region": "North America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "231847692": {
+    "id": "231847692",
+    "code": "universidaddebogotájorgetadeolozano",
+    "name": "Universidad de Bogotá Jorge Tadeo Lozano",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "721619": {
+    "id": "721619",
+    "code": "beneméritauniversidadautónomadepuebla",
+    "name": "Benemérita Universidad Autónoma de Puebla",
+    "country": "Mexico",
+    "region": "North America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "197097402": {
+    "id": "197097402",
+    "code": "universidadperuanacayetanoheredia",
+    "name": "Universidad Peruana Cayetano Heredia",
+    "country": "Peru",
+    "region": "South America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "138006243": {
+    "id": "138006243",
+    "code": "universityofarizona",
+    "name": "University of Arizona",
+    "country": "United States",
+    "region": "North America",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "181343428": {
+    "id": "181343428",
+    "code": "universityofzagreb",
+    "name": "University of Zagreb",
+    "country": "Croatia",
+    "region": "Europe",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "4210103466": {
+    "id": "4210103466",
+    "code": "universityofappliedhealthsciences",
+    "name": "University of Applied Health Sciences",
+    "country": "Croatia",
+    "region": "Europe",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "190632392": {
+    "id": "190632392",
+    "code": "luleåuniversityoftechnology",
+    "name": "Luleå University of Technology",
+    "country": "Sweden",
+    "region": "Europe",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "175532246": {
+    "id": "175532246",
+    "code": "universityofeasternfinland",
+    "name": "University of Eastern Finland",
+    "country": "Finland",
+    "region": "Europe",
+    "year": 2021,
+    "in_pyAlex": true
+  },
+  "4210152294": {
+    "id": "4210152294",
+    "code": "ministériodasaúde",
+    "name": "Ministério da Saúde",
+    "country": "Sao Tome and Principe",
+    "region": "Africa",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "69094615": {
+    "id": "69094615",
+    "code": "universidadsanfranciscodequito",
+    "name": "Universidad San Francisco de Quito",
+    "country": "Ecuador",
+    "region": "South America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "139322472": {
+    "id": "139322472",
+    "code": "universitisainsmalaysia",
+    "name": "Universiti Sains Malaysia",
+    "country": "Malaysia",
+    "region": "Asia",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "5593406": {
+    "id": "5593406",
+    "code": "universitatramonllull",
+    "name": "Universitat Ramon Llull",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "140062455": {
+    "id": "140062455",
+    "code": "institutofederaldeeducação",
+    "name": "Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "44202434": {
+    "id": "44202434",
+    "code": "fundaçãogetuliovargas",
+    "name": "Fundação Getulio Vargas",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "3017888287": {
+    "id": "3017888287",
+    "code": "universidadenovedejulho",
+    "name": "Universidade Nove de Julho",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "1282368058": {
+    "id": "1282368058",
+    "code": "internationalfoundationforelectoralsystems",
+    "name": "International Foundation for Electoral Systems",
+    "country": "United States",
+    "region": "North America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "3039010084": {
+    "id": "3039010084",
+    "code": "tamedia(switzerland)",
+    "name": "Tamedia (Switzerland)",
+    "country": "Switzerland",
+    "region": "Europe",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "3018999404": {
+    "id": "3018999404",
+    "code": "centrouniversitáriodebelohorizonte",
+    "name": "Centro Universitário de Belo Horizonte",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "76842071": {
+    "id": "76842071",
+    "code": "icesiuniversity",
+    "name": "Icesi University",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "157071867": {
+    "id": "157071867",
+    "code": "fernandopessoauniversity",
+    "name": "Fernando Pessoa University",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "4210107352": {
+    "id": "4210107352",
+    "code": "agrupamentodeescolasnunoálvares",
+    "name": "Agrupamento de Escolas Nuno Álvares",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "201799495": {
+    "id": "201799495",
+    "code": "middleeasttechnicaluniversity",
+    "name": "Middle East Technical University",
+    "country": "Turkey",
+    "region": "Asia",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "170935008": {
+    "id": "170935008",
+    "code": "pontifíciauniversidadecatólicademinasgerais",
+    "name": "Pontifícia Universidade Católica de Minas Gerais",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "4210144647": {
+    "id": "4210144647",
+    "code": "câmaramunicipaldealmada",
+    "name": "Câmara Municipal de Almada",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "1292404956": {
+    "id": "1292404956",
+    "code": "europeanunionofmedicalspecialists",
+    "name": "European Union of Medical Specialists",
+    "country": "Belgium",
+    "region": "Europe",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "50441567": {
+    "id": "50441567",
+    "code": "universitatdelesillesbalears",
+    "name": "Universitat de les Illes Balears",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "221977067": {
+    "id": "221977067",
+    "code": "universidadecatólicadepernambuco",
+    "name": "Universidade Católica de Pernambuco",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "315613935": {
+    "id": "315613935",
+    "code": "universisdadcatólicadesantiagodeguayaquil",
+    "name": "Universisdad Católica de Santiago de Guayaquil",
+    "country": "Ecuador",
+    "region": "South America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "4210088940": {
+    "id": "4210088940",
+    "code": "institutofederaldosertãopernambucano",
+    "name": "Instituto Federal do Sertão Pernambucano",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "4210147939": {
+    "id": "4210147939",
+    "code": "universidadorturuguay",
+    "name": "Universidad Ort Uruguay",
+    "country": "Uruguay",
+    "region": "South America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "4210136663": {
+    "id": "4210136663",
+    "code": "corporaciónuniversitariaamericana",
+    "name": "Corporación Universitaria Americana",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "198251651": {
+    "id": "198251651",
+    "code": "nationaltrainingservice",
+    "name": "National Training Service",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "4210118534": {
+    "id": "4210118534",
+    "code": "regionaldevelopmentagency",
+    "name": "Regional Development Agency",
+    "country": "Czech Republic",
+    "region": "Europe",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "24871856": {
+    "id": "24871856",
+    "code": "universidadecatólicadebrasília",
+    "name": "Universidade Católica de Brasília",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "3131263933": {
+    "id": "3131263933",
+    "code": "sãopaulostatetechnologicalcollege",
+    "name": "São Paulo State Technological College",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "82767444": {
+    "id": "82767444",
+    "code": "universidaddemálaga",
+    "name": "Universidad de Málaga",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "4210155252": {
+    "id": "4210155252",
+    "code": "institutonacionaldecapacitaciónprofesional",
+    "name": "Instituto Nacional de Capacitación Profesional",
+    "country": "Chile",
+    "region": "South America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "3132284232": {
+    "id": "3132284232",
+    "code": "universidaddeespecialidadesespíritusanto",
+    "name": "Universidad de Especialidades Espíritu Santo",
+    "country": "Ecuador",
+    "region": "South America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "4210139293": {
+    "id": "4210139293",
+    "code": "comunidaddemadrid",
+    "name": "Comunidad de Madrid",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "4210160027": {
+    "id": "4210160027",
+    "code": "departamentodeeducación",
+    "name": "Departamento de Educación",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "16097986": {
+    "id": "16097986",
+    "code": "universitatdevalència",
+    "name": "Universitat de València",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "4210096578": {
+    "id": "4210096578",
+    "code": "universidadefederaldosuldabahia",
+    "name": "Universidade Federal do Sul da Bahia",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "130194489": {
+    "id": "130194489",
+    "code": "universityofalicante",
+    "name": "University of Alicante",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "4210087226": {
+    "id": "4210087226",
+    "code": "universidadtécnicadecotopaxi",
+    "name": "Universidad Técnica de Cotopaxi",
+    "country": "Ecuador",
+    "region": "South America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "4210119015": {
+    "id": "4210119015",
+    "code": "institutonacionaldecancerología",
+    "name": "Instituto Nacional de Cancerología",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "122558511": {
+    "id": "122558511",
+    "code": "universidadefederaldematogrossodosul",
+    "name": "Universidade Federal de Mato Grosso do Sul",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "1315085146": {
+    "id": "1315085146",
+    "code": "universidadefederaldelavras",
+    "name": "Universidade Federal de Lavras",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "919958821": {
+    "id": "919958821",
+    "code": "bayerouniversitykano",
+    "name": "Bayero University Kano",
+    "country": "Nigeria",
+    "region": "Africa",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "4210166250": {
+    "id": "4210166250",
+    "code": "universidadedesantoamaro",
+    "name": "Universidade de Santo Amaro",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "3129743071": {
+    "id": "3129743071",
+    "code": "institutofederaldeeducação",
+    "name": "Instituto Federal de Educação, Ciência e Tecnologia de Brasília",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "198089087": {
+    "id": "198089087",
+    "code": "ballstateuniversity",
+    "name": "Ball State University",
+    "country": "United States",
+    "region": "North America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "3018305852": {
+    "id": "3018305852",
+    "code": "institutofederaldeeducação",
+    "name": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "4210087694": {
+    "id": "4210087694",
+    "code": "centrocientíficotecnológico-santafe",
+    "name": "Centro Científico Tecnológico - Santa Fe",
+    "country": "Argentina",
+    "region": "South America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "145689991": {
+    "id": "145689991",
+    "code": "universidadefeevale",
+    "name": "Universidade Feevale",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "1314665148": {
+    "id": "1314665148",
+    "code": "universidadefederaldooestedopará",
+    "name": "Universidade Federal do Oeste do Pará",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "120753068": {
+    "id": "120753068",
+    "code": "universidadlasalle",
+    "name": "Universidad La Salle",
+    "country": "Bolivia",
+    "region": "South America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "110357561": {
+    "id": "110357561",
+    "code": "universityofthesciences",
+    "name": "University of the Sciences",
+    "country": "United States",
+    "region": "North America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "929597975": {
+    "id": "929597975",
+    "code": "nationaluniversityofsciencesandtechnology",
+    "name": "National University of Sciences and Technology",
+    "country": "Pakistan",
+    "region": "Asia",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "4210147816": {
+    "id": "4210147816",
+    "code": "institutofederaldomaranhão",
+    "name": "Instituto Federal do Maranhão",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "124618812": {
+    "id": "124618812",
+    "code": "mathematicsresearchcenter",
+    "name": "Mathematics Research Center",
+    "country": "Mexico",
+    "region": "North America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "4210141572": {
+    "id": "4210141572",
+    "code": "institutotecnológicometropolitano",
+    "name": "Instituto Tecnológico Metropolitano",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "180910786": {
+    "id": "180910786",
+    "code": "universidaddelarepública",
+    "name": "Universidad de la República",
+    "country": "Uruguay",
+    "region": "South America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "224954996": {
+    "id": "224954996",
+    "code": "universidaddesanmartíndeporres",
+    "name": "Universidad de San Martín de Porres",
+    "country": "Peru",
+    "region": "South America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "80804394": {
+    "id": "80804394",
+    "code": "southwestbaptistuniversity",
+    "name": "Southwest Baptist University",
+    "country": "United States",
+    "region": "North America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "4210092168": {
+    "id": "4210092168",
+    "code": "nationalarchivesofecuador",
+    "name": "National Archives of Ecuador",
+    "country": "Ecuador",
+    "region": "South America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "4210087824": {
+    "id": "4210087824",
+    "code": "universidadestataldebolívar",
+    "name": "Universidad Estatal de Bolívar",
+    "country": "Ecuador",
+    "region": "South America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "1290206253": {
+    "id": "1290206253",
+    "code": "microsoft(unitedstates)",
+    "name": "Microsoft (United States)",
+    "country": "United States",
+    "region": "North America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "3133389274": {
+    "id": "3133389274",
+    "code": "universityofsansimón",
+    "name": "University of San Simón",
+    "country": "Bolivia",
+    "region": "South America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "3132841018": {
+    "id": "3132841018",
+    "code": "universidadfedericohenríquezycarvajal",
+    "name": "Universidad Federico Henríquez y Carvajal",
+    "country": "Dominican Republic",
+    "region": "North America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "238302431": {
+    "id": "238302431",
+    "code": "galileouniversity",
+    "name": "Galileo University",
+    "country": "Guatemala",
+    "region": "North America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "120379545": {
+    "id": "120379545",
+    "code": "innermongoliaagriculturaluniversity",
+    "name": "Inner Mongolia Agricultural University",
+    "country": "China",
+    "region": "Asia",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "87673952": {
+    "id": "87673952",
+    "code": "erciyesuniversity",
+    "name": "Erciyes University",
+    "country": "Turkey",
+    "region": "Asia",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "4210141583": {
+    "id": "4210141583",
+    "code": "kayser(italy)",
+    "name": "Kayser (Italy)",
+    "country": "Italy",
+    "region": "Europe",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "1281109512": {
+    "id": "1281109512",
+    "code": "nevşehirhacıbektaşveliuniversity",
+    "name": "Nevşehir Hacı Bektaş Veli University",
+    "country": "Turkey",
+    "region": "Asia",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "13134134": {
+    "id": "13134134",
+    "code": "universidaddecantabria",
+    "name": "Universidad de Cantabria",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "145722265": {
+    "id": "145722265",
+    "code": "universityofthessaly",
+    "name": "University of Thessaly",
+    "country": "Greece",
+    "region": "Europe",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "133837150": {
+    "id": "133837150",
+    "code": "universityofhuddersfield",
+    "name": "University of Huddersfield",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "4210139291": {
+    "id": "4210139291",
+    "code": "universidaddeleón",
+    "name": "Universidad de León",
+    "country": "Mexico",
+    "region": "North America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "3017690349": {
+    "id": "3017690349",
+    "code": "nationaluniversityofthenortheast",
+    "name": "National University of the Northeast",
+    "country": "Argentina",
+    "region": "South America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "66943878": {
+    "id": "66943878",
+    "code": "demontfortuniversity",
+    "name": "De Montfort University",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "4210157425": {
+    "id": "4210157425",
+    "code": "fraunhoferportugalresearch",
+    "name": "Fraunhofer Portugal Research",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "73417466": {
+    "id": "73417466",
+    "code": "coventryuniversity",
+    "name": "Coventry University",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "255141171": {
+    "id": "255141171",
+    "code": "universityofmatanzas",
+    "name": "University of Matanzas",
+    "country": "Cuba",
+    "region": "North America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "4210156146": {
+    "id": "4210156146",
+    "code": "fundaciónparalainvestigaciónygestiónenserviciosdesalud",
+    "name": "Fundación Para La Investigación Y Gestión En Servicios de Salud",
+    "country": "Ecuador",
+    "region": "South America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "137616099": {
+    "id": "137616099",
+    "code": "tshwaneuniversityoftechnology",
+    "name": "Tshwane University of Technology",
+    "country": "South Africa",
+    "region": "Africa",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "110603874": {
+    "id": "110603874",
+    "code": "centraluniversityoftechnology",
+    "name": "Central University of Technology",
+    "country": "South Africa",
+    "region": "Africa",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "26999989": {
+    "id": "26999989",
+    "code": "universityofthefreestate",
+    "name": "University of the Free State",
+    "country": "South Africa",
+    "region": "Africa",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "94625822": {
+    "id": "94625822",
+    "code": "northernuniversityofmalaysia",
+    "name": "Northern University of Malaysia",
+    "country": "Malaysia",
+    "region": "Asia",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "3130342779": {
+    "id": "3130342779",
+    "code": "universidadnacionalmicaelabastidasdeapurimac",
+    "name": "Universidad Nacional Micaela Bastidas de Apurimac",
+    "country": "Peru",
+    "region": "South America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "165779595": {
+    "id": "165779595",
+    "code": "universityofmelbourne",
+    "name": "University of Melbourne",
+    "country": "Australia",
+    "region": "Oceania",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "115304662": {
+    "id": "115304662",
+    "code": "universitatdevic-universitatcentraldecatalunya",
+    "name": "Universitat de Vic - Universitat Central de Catalunya",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "189914110": {
+    "id": "189914110",
+    "code": "universityofcuenca",
+    "name": "University of Cuenca",
+    "country": "Ecuador",
+    "region": "South America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "126460647": {
+    "id": "126460647",
+    "code": "universidadefederaldoriogrande",
+    "name": "Universidade Federal do Rio Grande",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "16371252": {
+    "id": "16371252",
+    "code": "universidadedepassofundo",
+    "name": "Universidade de Passo Fundo",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "4210132904": {
+    "id": "4210132904",
+    "code": "centrodemedicinadereabilitacaodoalcoitão",
+    "name": "Centro de Medicina de Reabilitacao do Alcoitão",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "4210090392": {
+    "id": "4210090392",
+    "code": "universidadefederaldejataí",
+    "name": "Universidade Federal de Jataí",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "4210121509": {
+    "id": "4210121509",
+    "code": "instituteofmechanicalengineeringandindustrialmangement",
+    "name": "Institute of Mechanical Engineering and Industrial Mangement",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2019,
+    "in_pyAlex": true
+  },
+  "4210149833": {
+    "id": "4210149833",
+    "code": "universitébretagneloire",
+    "name": "Université Bretagne Loire",
+    "country": "France",
+    "region": "Europe",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "86831216": {
+    "id": "86831216",
+    "code": "universidadtecnológicadepanamá",
+    "name": "Universidad Tecnológica de Panamá",
+    "country": "Panama",
+    "region": "Central America",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "4210086797": {
+    "id": "4210086797",
+    "code": "faculdadebrasil",
+    "name": "Faculdade Brasil",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "98496276": {
+    "id": "98496276",
+    "code": "universidadedemogidascruzes",
+    "name": "Universidade de Mogi das Cruzes",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "67327644": {
+    "id": "67327644",
+    "code": "cordobauniversity",
+    "name": "Cordoba University",
+    "country": "United States",
+    "region": "North America",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "4210101082": {
+    "id": "4210101082",
+    "code": "municipalityofmedellín",
+    "name": "Municipality of Medellín",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "4210164961": {
+    "id": "4210164961",
+    "code": "faculdadesintegradasteresad'ávila",
+    "name": "Faculdades Integradas Teresa D'Ávila",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "4210149677": {
+    "id": "4210149677",
+    "code": "universitariofranciscodeasís",
+    "name": "Universitario Francisco de Asís",
+    "country": "Uruguay",
+    "region": "South America",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "4210086706": {
+    "id": "4210086706",
+    "code": "institutodeestudosdomaralmirantepaulomoreira",
+    "name": "Instituto de Estudos do Mar Almirante Paulo Moreira",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "72961355": {
+    "id": "72961355",
+    "code": "bankofbrazil",
+    "name": "Bank of Brazil",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "16076960": {
+    "id": "16076960",
+    "code": "comsatsuniversityislamabad",
+    "name": "COMSATS University Islamabad",
+    "country": "Pakistan",
+    "region": "Asia",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "21803372": {
+    "id": "21803372",
+    "code": "universityofévora",
+    "name": "University of Évora",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "98461037": {
+    "id": "98461037",
+    "code": "tecnológicodemonterrey",
+    "name": "Tecnológico de Monterrey",
+    "country": "Mexico",
+    "region": "North America",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "4210163111": {
+    "id": "4210163111",
+    "code": "consejonacionaldehumanidades",
+    "name": "Consejo Nacional de Humanidades, Ciencias y Tecnologías",
+    "country": "Mexico",
+    "region": "North America",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "4210098917": {
+    "id": "4210098917",
+    "code": "institutodeinvestigacionesencienciasdelasalud",
+    "name": "Instituto de Investigaciones en Ciencias de la Salud",
+    "country": "Argentina",
+    "region": "South America",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "146399215": {
+    "id": "146399215",
+    "code": "universityoftsukuba",
+    "name": "University of Tsukuba",
+    "country": "Japan",
+    "region": "Asia",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "4210160371": {
+    "id": "4210160371",
+    "code": "institutofederaldoespíritosanto",
+    "name": "Instituto Federal do Espírito Santo",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "8165072": {
+    "id": "8165072",
+    "code": "federaluniversityofitajubá",
+    "name": "Federal University of Itajubá",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "122140584": {
+    "id": "122140584",
+    "code": "universidadefederaldoriodejaneiro",
+    "name": "Universidade Federal do Rio de Janeiro",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "47327664": {
+    "id": "47327664",
+    "code": "universidadefederaldomaranhão",
+    "name": "Universidade Federal do Maranhão",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "34391226": {
+    "id": "34391226",
+    "code": "companhiaenergéticadesãopaulo",
+    "name": "Companhia Energética de São Paulo",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "162185876": {
+    "id": "162185876",
+    "code": "universidadedaamazônia",
+    "name": "Universidade da Amazônia",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "83648350": {
+    "id": "83648350",
+    "code": "universidadefederaldoestadodoriodejaneiro",
+    "name": "Universidade Federal do Estado do Rio de Janeiro",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "32725510": {
+    "id": "32725510",
+    "code": "universidadefederaldematogrosso",
+    "name": "Universidade Federal de Mato Grosso",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "149744451": {
+    "id": "149744451",
+    "code": "valparaisouniversity",
+    "name": "Valparaiso University",
+    "country": "United States",
+    "region": "North America",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "4210135762": {
+    "id": "4210135762",
+    "code": "câmaramunicipaldelisboa",
+    "name": "Câmara Municipal de Lisboa",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "4061448": {
+    "id": "4061448",
+    "code": "universidaddesonora",
+    "name": "Universidad de Sonora",
+    "country": "Mexico",
+    "region": "North America",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "4210134596": {
+    "id": "4210134596",
+    "code": "universidaddetijuana",
+    "name": "Universidad de Tijuana",
+    "country": "Mexico",
+    "region": "North America",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "1332873766": {
+    "id": "1332873766",
+    "code": "bancodelarepúblicacolombia",
+    "name": "Banco de la República Colombia",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "36020712": {
+    "id": "36020712",
+    "code": "sonorainstituteoftechnology",
+    "name": "Sonora Institute of Technology",
+    "country": "Mexico",
+    "region": "North America",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "174004417": {
+    "id": "174004417",
+    "code": "hochschulemünchenuniversityofappliedsciences",
+    "name": "Hochschule München University of Applied Sciences",
+    "country": "Germany",
+    "region": "Europe",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "4210095853": {
+    "id": "4210095853",
+    "code": "antioquiainstituteoftechnology",
+    "name": "Antioquia Institute of Technology",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "4210135412": {
+    "id": "4210135412",
+    "code": "universidadefederaldoamapá",
+    "name": "Universidade Federal do Amapá",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "201487725": {
+    "id": "201487725",
+    "code": "universityofatacama",
+    "name": "University of Atacama",
+    "country": "Chile",
+    "region": "South America",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "4210087785": {
+    "id": "4210087785",
+    "code": "universidadcatólicadecuenca",
+    "name": "Universidad Católica de Cuenca",
+    "country": "Ecuador",
+    "region": "South America",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "4210144918": {
+    "id": "4210144918",
+    "code": "centroregionaldederechoshumanosyjusticiadegénero",
+    "name": "Centro Regional de Derechos Humanos y Justicia de Género, Corporación Humanas",
+    "country": "Chile",
+    "region": "South America",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "4210130315": {
+    "id": "4210130315",
+    "code": "universidadtécnicadelnorte",
+    "name": "Universidad Técnica del Norte",
+    "country": "Ecuador",
+    "region": "South America",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "4210100360": {
+    "id": "4210100360",
+    "code": "centrouniversitáriodonorte",
+    "name": "Centro Universitário do Norte",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "94256465": {
+    "id": "94256465",
+    "code": "arturopratuniversity",
+    "name": "Arturo Prat University",
+    "country": "Chile",
+    "region": "South America",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "4210130178": {
+    "id": "4210130178",
+    "code": "institutovalencianodelaedificación",
+    "name": "Instituto Valenciano de la Edificación",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "60053951": {
+    "id": "60053951",
+    "code": "universitatpolitècnicadevalència",
+    "name": "Universitat Politècnica de València",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "4210133946": {
+    "id": "4210133946",
+    "code": "centrefortrainingandintegratedresearchinasaldevelopment",
+    "name": "Centre for Training and Integrated Research In ASAL Development",
+    "country": "Kenya",
+    "region": "Africa",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "4210108168": {
+    "id": "4210108168",
+    "code": "universidadadistanciademadrid",
+    "name": "Universidad a Distancia de Madrid",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "203303854": {
+    "id": "203303854",
+    "code": "universityoftheandes",
+    "name": "University of the Andes",
+    "country": "Venezuela",
+    "region": "South America",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "250481426": {
+    "id": "250481426",
+    "code": "universityofcapeverde",
+    "name": "University of Cape Verde",
+    "country": "Cape Verde",
+    "region": "Africa",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "2799680125": {
+    "id": "2799680125",
+    "code": "sligouniversityhospital",
+    "name": "Sligo University Hospital",
+    "country": "Ireland",
+    "region": "Europe",
+    "year": 2018,
+    "in_pyAlex": true
+  },
+  "4210093685": {
+    "id": "4210093685",
+    "code": "institutonacionaldeinvestigacionesnucleares",
+    "name": "Instituto Nacional de Investigaciones Nucleares",
+    "country": "Mexico",
+    "region": "North America",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "4210136187": {
+    "id": "4210136187",
+    "code": "autonomousuniversityofchiapas",
+    "name": "Autonomous University of Chiapas",
+    "country": "Mexico",
+    "region": "North America",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "3122011922": {
+    "id": "3122011922",
+    "code": "universityofžilina",
+    "name": "University of Žilina",
+    "country": "Slovakia",
+    "region": "Europe",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "1329807341": {
+    "id": "1329807341",
+    "code": "serviçonacionaldeaprendizagemindustrial",
+    "name": "Serviço Nacional de Aprendizagem Industrial",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "1316675753": {
+    "id": "1316675753",
+    "code": "universidadedoestadodabahia",
+    "name": "Universidade do Estado da Bahia",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "4210131693": {
+    "id": "4210131693",
+    "code": "estácio(brazil)",
+    "name": "Estácio (Brazil)",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "200845125": {
+    "id": "200845125",
+    "code": "nanjinguniversityofinformationscienceandtechnology",
+    "name": "Nanjing University of Information Science and Technology",
+    "country": "China",
+    "region": "Asia",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "130828816": {
+    "id": "130828816",
+    "code": "universityofleeds",
+    "name": "University of Leeds",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "4210153120": {
+    "id": "4210153120",
+    "code": "universidaddesanbuenaventura",
+    "name": "Universidad de San Buenaventura, Bogota",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "4210132153": {
+    "id": "4210132153",
+    "code": "institutofederaldegoiás",
+    "name": "Instituto Federal de Goiás",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "41870": {
+    "id": "41870",
+    "code": "militaryinstituteofengineering",
+    "name": "Military Institute of Engineering",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "4210152658": {
+    "id": "4210152658",
+    "code": "activetechnologies(italy)",
+    "name": "Active Technologies (Italy)",
+    "country": "Italy",
+    "region": "Europe",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "174458059": {
+    "id": "174458059",
+    "code": "nationaltechnicaluniversityofathens",
+    "name": "National Technical University of Athens",
+    "country": "Greece",
+    "region": "Europe",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "142879360": {
+    "id": "142879360",
+    "code": "universidaddelnorte",
+    "name": "Universidad del Norte",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "4210131147": {
+    "id": "4210131147",
+    "code": "srmuniversity",
+    "name": "SRM University",
+    "country": "India",
+    "region": "Asia",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "4210101808": {
+    "id": "4210101808",
+    "code": "universidaddelsinú",
+    "name": "Universidad del Sinú",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "4210164264": {
+    "id": "4210164264",
+    "code": "universidadautónomadelcaribe",
+    "name": "Universidad Autónoma del Caribe",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "4210117942": {
+    "id": "4210117942",
+    "code": "keepsolutions(portugal)",
+    "name": "Keep Solutions (Portugal)",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "629287": {
+    "id": "629287",
+    "code": "simónbolívaruniversity",
+    "name": "Simón Bolívar University",
+    "country": "Venezuela",
+    "region": "South America",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "4210122720": {
+    "id": "4210122720",
+    "code": "institutodetecnologiaepesquisa",
+    "name": "Instituto de Tecnologia e Pesquisa",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "3130401523": {
+    "id": "3130401523",
+    "code": "universidadyachaytech",
+    "name": "Universidad Yachay Tech",
+    "country": "Ecuador",
+    "region": "South America",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "111575329": {
+    "id": "111575329",
+    "code": "bharathiaruniversity",
+    "name": "Bharathiar University",
+    "country": "India",
+    "region": "Asia",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "4210119063": {
+    "id": "4210119063",
+    "code": "autonomousuniversityoflisbon",
+    "name": "Autonomous University of Lisbon",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "4210111164": {
+    "id": "4210111164",
+    "code": "ipoporto",
+    "name": "IPO Porto",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "4210103180": {
+    "id": "4210103180",
+    "code": "institutoportuguêsdeoncologiafranciscogentil",
+    "name": "Instituto Português de Oncologia Francisco Gentil",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "17994240": {
+    "id": "17994240",
+    "code": "nationaluniversityofmisiones",
+    "name": "National University of Misiones",
+    "country": "Argentina",
+    "region": "South America",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "130913789": {
+    "id": "130913789",
+    "code": "institutofederaldabahia",
+    "name": "Instituto Federal da Bahia",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "4210096775": {
+    "id": "4210096775",
+    "code": "faculdaderuybarbosa",
+    "name": "Faculdade Ruy Barbosa",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "4210090193": {
+    "id": "4210090193",
+    "code": "centrodecomputaçãográfica",
+    "name": "Centro de Computação Gráfica",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "4210142765": {
+    "id": "4210142765",
+    "code": "institutodepesquisastecnológicas",
+    "name": "Instituto de Pesquisas Tecnológicas",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "4210140447": {
+    "id": "4210140447",
+    "code": "intel(brazil)",
+    "name": "Intel (Brazil)",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "249163148": {
+    "id": "249163148",
+    "code": "centrouniversitárioeurípedesdemarilia",
+    "name": "Centro Universitário Eurípedes de Marilia",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "4210088975": {
+    "id": "4210088975",
+    "code": "institutobrasileirodeinformaçãoemciênciaetecnologia",
+    "name": "Instituto Brasileiro de Informação em Ciência e Tecnologia",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "3130004620": {
+    "id": "3130004620",
+    "code": "universidadefederaldafronteirasul",
+    "name": "Universidade Federal da Fronteira Sul",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "4210137933": {
+    "id": "4210137933",
+    "code": "universidaderegionaldonoroestedoestadodoriograndedosul",
+    "name": "Universidade Regional do Noroeste do Estado do Rio Grande do Sul",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "4210155391": {
+    "id": "4210155391",
+    "code": "departamentodeciênciaetecnologia",
+    "name": "Departamento de Ciência e Tecnologia",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "4210118133": {
+    "id": "4210118133",
+    "code": "universidadefederaldosvalesdojequitinhonhaemucuri",
+    "name": "Universidade Federal dos Vales do Jequitinhonha e Mucuri",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "4210093059": {
+    "id": "4210093059",
+    "code": "centrouniversitáriobarãodemauá",
+    "name": "Centro Universitário Barão de Mauá",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "26840924": {
+    "id": "26840924",
+    "code": "mediterraneanuniversity",
+    "name": "Mediterranean University",
+    "country": "Montenegro",
+    "region": "Europe",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "165737746": {
+    "id": "165737746",
+    "code": "tomasbatauniversityinzlín",
+    "name": "Tomas Bata University in Zlín",
+    "country": "Czech Republic",
+    "region": "Europe",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "4210153961": {
+    "id": "4210153961",
+    "code": "institutosuperiormigueltorga",
+    "name": "Instituto Superior Miguel Torga",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "2799601376": {
+    "id": "2799601376",
+    "code": "madeiratecnopolo",
+    "name": "Madeira Tecnopolo",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "4210122566": {
+    "id": "4210122566",
+    "code": "institutodearqueología-mérida",
+    "name": "Instituto de Arqueología-Mérida",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "173439891": {
+    "id": "173439891",
+    "code": "universityofappliedsciencesandartswesternswitzerland",
+    "name": "University of Applied Sciences and Arts Western Switzerland",
+    "country": "Switzerland",
+    "region": "Europe",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "193181351": {
+    "id": "193181351",
+    "code": "universityofguadalajara",
+    "name": "University of Guadalajara",
+    "country": "Mexico",
+    "region": "North America",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "4210088726": {
+    "id": "4210088726",
+    "code": "faculdadefrassinettidorecife",
+    "name": "Faculdade Frassinetti do Recife",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "191420491": {
+    "id": "191420491",
+    "code": "universidaddejaén",
+    "name": "Universidad de Jaén",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "4210103604": {
+    "id": "4210103604",
+    "code": "institutodenovastecnologias",
+    "name": "Instituto de Novas Tecnologias",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "82002896": {
+    "id": "82002896",
+    "code": "centraluniversityofvenezuela",
+    "name": "Central University of Venezuela",
+    "country": "Venezuela",
+    "region": "South America",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "98251732": {
+    "id": "98251732",
+    "code": "mcmasteruniversity",
+    "name": "McMaster University",
+    "country": "Canada",
+    "region": "North America",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "4210098711": {
+    "id": "4210098711",
+    "code": "ministériodaciênciaetecnologia",
+    "name": "Ministério da Ciência e Tecnologia",
+    "country": "Angola",
+    "region": "Africa",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "95457486": {
+    "id": "95457486",
+    "code": "universityofcalifornia,berkeley",
+    "name": "University of California, Berkeley",
+    "country": "United States",
+    "region": "North America",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "4210141274": {
+    "id": "4210141274",
+    "code": "centrouniversitárioherminioomettodeararas",
+    "name": "Centro Universitário Herminio Ometto de Araras",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "1331278255": {
+    "id": "1331278255",
+    "code": "universidadederibeirãopreto",
+    "name": "Universidade de Ribeirão Preto",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "4210145102": {
+    "id": "4210145102",
+    "code": "institutpolytechniquedeparis",
+    "name": "Institut Polytechnique de Paris",
+    "country": "France",
+    "region": "Europe",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "4210091872": {
+    "id": "4210091872",
+    "code": "ministryofplanning",
+    "name": "Ministry of Planning, Budget and Management",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "4210111494": {
+    "id": "4210111494",
+    "code": "centrohospitalardetrásosmontesealtodouro",
+    "name": "Centro Hospitalar de Trás os Montes e Alto Douro",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "4210148988": {
+    "id": "4210148988",
+    "code": "escolasuperiordesaúdedoalcoitão",
+    "name": "Escola Superior de Saúde do Alcoitão",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "4210116999": {
+    "id": "4210116999",
+    "code": "alanyahamdullaheminpasauniversity",
+    "name": "Alanya Hamdullah Emin Pasa University",
+    "country": "Turkey",
+    "region": "Asia",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "59493104": {
+    "id": "59493104",
+    "code": "institutd'estudiscatalans",
+    "name": "Institut d'Estudis Catalans",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "4210123834": {
+    "id": "4210123834",
+    "code": "permstateagriculturalacademy",
+    "name": "Perm State Agricultural Academy",
+    "country": "Russian Federation",
+    "region": "Europe",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "105056648": {
+    "id": "105056648",
+    "code": "permstateuniversity",
+    "name": "Perm State University",
+    "country": "Russian Federation",
+    "region": "Europe",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "46176106": {
+    "id": "46176106",
+    "code": "universidaddeburgos",
+    "name": "Universidad de Burgos",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "92894754": {
+    "id": "92894754",
+    "code": "innovationsforhighperformancemicroelectronics",
+    "name": "Innovations for High Performance Microelectronics",
+    "country": "Germany",
+    "region": "Europe",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "51783024": {
+    "id": "51783024",
+    "code": "brandenburguniversityoftechnologycottbus-senftenberg",
+    "name": "Brandenburg University of Technology Cottbus-Senftenberg",
+    "country": "Germany",
+    "region": "Europe",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "39343248": {
+    "id": "39343248",
+    "code": "humboldt-universitätzuberlin",
+    "name": "Humboldt-Universität zu Berlin",
+    "country": "Germany",
+    "region": "Europe",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "62318514": {
+    "id": "62318514",
+    "code": "universityofduisburg-essen",
+    "name": "University of Duisburg-Essen",
+    "country": "Germany",
+    "region": "Europe",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "4210114508": {
+    "id": "4210114508",
+    "code": "federalresearchinstituteforhealthorganizationandinformatics",
+    "name": "Federal Research Institute for Health Organization and Informatics",
+    "country": "Russian Federation",
+    "region": "Europe",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "4210106113": {
+    "id": "4210106113",
+    "code": "centralstatemedicalacademy",
+    "name": "Central State Medical Academy",
+    "country": "Russian Federation",
+    "region": "Europe",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "4210117042": {
+    "id": "4210117042",
+    "code": "ministryofhealthoftherussianfederation",
+    "name": "Ministry of Health of the Russian Federation",
+    "country": "Russian Federation",
+    "region": "Europe",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "345918524": {
+    "id": "345918524",
+    "code": "southwestbahiastateuniversity",
+    "name": "Southwest Bahia State University",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "150744194": {
+    "id": "150744194",
+    "code": "wasedauniversity",
+    "name": "Waseda University",
+    "country": "Japan",
+    "region": "Asia",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "4210135619": {
+    "id": "4210135619",
+    "code": "institutodetecnologíaquímica",
+    "name": "Instituto de Tecnología Química",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "48912391": {
+    "id": "48912391",
+    "code": "istanbultechnicaluniversity",
+    "name": "Istanbul Technical University",
+    "country": "Turkey",
+    "region": "Asia",
+    "year": 2017,
+    "in_pyAlex": true
+  },
+  "876193797": {
+    "id": "876193797",
+    "code": "velloreinstituteoftechnologyuniversity",
+    "name": "Vellore Institute of Technology University",
+    "country": "India",
+    "region": "Asia",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "4210163994": {
+    "id": "4210163994",
+    "code": "ericsson(finland)",
+    "name": "Ericsson (Finland)",
+    "country": "Finland",
+    "region": "Europe",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "47652572": {
+    "id": "47652572",
+    "code": "lasalleuniversity",
+    "name": "La Salle University",
+    "country": "United States",
+    "region": "North America",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "3124150290": {
+    "id": "3124150290",
+    "code": "sansebastiánuniversity",
+    "name": "San Sebastián University",
+    "country": "Chile",
+    "region": "South America",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "4210134240": {
+    "id": "4210134240",
+    "code": "fundacióntecnológicaautónomadebogotá",
+    "name": "Fundación Tecnológica Autónoma de Bogotá",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "10902133": {
+    "id": "10902133",
+    "code": "universitatjaumei",
+    "name": "Universitat Jaume I",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "204337017": {
+    "id": "204337017",
+    "code": "aarhusuniversity",
+    "name": "Aarhus University",
+    "country": "Denmark",
+    "region": "Europe",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "119635470": {
+    "id": "119635470",
+    "code": "universidaddelaspalmasdegrancanaria",
+    "name": "Universidad de Las Palmas de Gran Canaria",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "4210117542": {
+    "id": "4210117542",
+    "code": "universidadempresarialsiglo21",
+    "name": "Universidad Empresarial Siglo 21",
+    "country": "Argentina",
+    "region": "South America",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "182980787": {
+    "id": "182980787",
+    "code": "universityofdallas",
+    "name": "University of Dallas",
+    "country": "United States",
+    "region": "North America",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "4210097731": {
+    "id": "4210097731",
+    "code": "institutosuperiordeentredouroevouga",
+    "name": "Instituto Superior de Entre Douro e Vouga",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "126158947": {
+    "id": "126158947",
+    "code": "universidadefederaldabahia",
+    "name": "Universidade Federal da Bahia",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "52325": {
+    "id": "52325",
+    "code": "fundaçãooswaldocruz",
+    "name": "Fundação Oswaldo Cruz",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "32971472": {
+    "id": "32971472",
+    "code": "yaleuniversity",
+    "name": "Yale University",
+    "country": "United States",
+    "region": "North America",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "106845459": {
+    "id": "106845459",
+    "code": "universidaddepanamá",
+    "name": "Universidad de Panamá",
+    "country": "Panama",
+    "region": "Central America",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "4210136149": {
+    "id": "4210136149",
+    "code": "virtualwaregroup(spain)",
+    "name": "Virtualware Group (Spain)",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "131564278": {
+    "id": "131564278",
+    "code": "concordiauniversityofedmonton",
+    "name": "Concordia University of Edmonton",
+    "country": "Canada",
+    "region": "North America",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "4210091745": {
+    "id": "4210091745",
+    "code": "eskişehircityhospital",
+    "name": "Eskişehir City Hospital",
+    "country": "Turkey",
+    "region": "Asia",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "36399199": {
+    "id": "36399199",
+    "code": "nanjinguniversityofscienceandtechnology",
+    "name": "Nanjing University of Science and Technology",
+    "country": "China",
+    "region": "Asia",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "170201317": {
+    "id": "170201317",
+    "code": "universityofpittsburgh",
+    "name": "University of Pittsburgh",
+    "country": "United States",
+    "region": "North America",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "169173203": {
+    "id": "169173203",
+    "code": "délégationparis7",
+    "name": "Délégation Paris 7",
+    "country": "France",
+    "region": "Europe",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "204730241": {
+    "id": "204730241",
+    "code": "universitépariscité",
+    "name": "Université Paris Cité",
+    "country": "France",
+    "region": "Europe",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "4210114476": {
+    "id": "4210114476",
+    "code": "universidadeestadualdonortedoparaná",
+    "name": "Universidade Estadual do Norte do Paraná",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "123443094": {
+    "id": "123443094",
+    "code": "universidadeestadualdemaringá",
+    "name": "Universidade Estadual de Maringá",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "36234482": {
+    "id": "36234482",
+    "code": "universityofbristol",
+    "name": "University of Bristol",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "4210118791": {
+    "id": "4210118791",
+    "code": "institutotecnológicodecanarias",
+    "name": "Instituto Tecnológico de Canarias",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "4210121249": {
+    "id": "4210121249",
+    "code": "agènciadequalitatiavaluaciósanitàriesdecatalunya",
+    "name": "Agència de Qualitat i Avaluació Sanitàries de Catalunya",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "95793202": {
+    "id": "95793202",
+    "code": "otto-von-guerickeuniversitymagdeburg",
+    "name": "Otto-von-Guericke University Magdeburg",
+    "country": "Germany",
+    "region": "Europe",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "4210139350": {
+    "id": "4210139350",
+    "code": "fraunhoferinstituteforfactoryoperationandautomation",
+    "name": "Fraunhofer Institute for Factory Operation and Automation",
+    "country": "Germany",
+    "region": "Europe",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "4210124408": {
+    "id": "4210124408",
+    "code": "cosmocode(germany)",
+    "name": "CosmoCode (Germany)",
+    "country": "Germany",
+    "region": "Europe",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "1337250831": {
+    "id": "1337250831",
+    "code": "federalemergencymanagementagency",
+    "name": "Federal Emergency Management Agency",
+    "country": "United States",
+    "region": "North America",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "131249849": {
+    "id": "131249849",
+    "code": "oregonstateuniversity",
+    "name": "Oregon State University",
+    "country": "United States",
+    "region": "North America",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "4210113952": {
+    "id": "4210113952",
+    "code": "universidadestatalamazónica",
+    "name": "Universidad Estatal Amazónica",
+    "country": "Ecuador",
+    "region": "South America",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "3018710136": {
+    "id": "3018710136",
+    "code": "dumlupinaruniversity",
+    "name": "Dumlupinar University",
+    "country": "Turkey",
+    "region": "Asia",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "33501960": {
+    "id": "33501960",
+    "code": "universidadefederaldesantamaria",
+    "name": "Universidade Federal de Santa Maria",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "104362916": {
+    "id": "104362916",
+    "code": "gabrielrenémorenoautonomousuniversity",
+    "name": "Gabriel René Moreno Autonomous University",
+    "country": "Bolivia",
+    "region": "South America",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "164950643": {
+    "id": "164950643",
+    "code": "openuniversityofisrael",
+    "name": "Open University of Israel",
+    "country": "Israel",
+    "region": "Middle East",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "31882830": {
+    "id": "31882830",
+    "code": "pázmánypétercatholicuniversity",
+    "name": "Pázmány Péter Catholic University",
+    "country": "Hungary",
+    "region": "Europe",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "4210156023": {
+    "id": "4210156023",
+    "code": "universidadcentraldechile",
+    "name": "Universidad Central de Chile",
+    "country": "Chile",
+    "region": "South America",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "211738395": {
+    "id": "211738395",
+    "code": "financialuniversity",
+    "name": "Financial University",
+    "country": "Russian Federation",
+    "region": "Europe",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "118501908": {
+    "id": "118501908",
+    "code": "nationalresearchuniversityhigherschoolofeconomics",
+    "name": "National Research University Higher School of Economics",
+    "country": "Russian Federation",
+    "region": "Europe",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "83467386": {
+    "id": "83467386",
+    "code": "ituniversityofcopenhagen",
+    "name": "IT University of Copenhagen",
+    "country": "Denmark",
+    "region": "Europe",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "4210097232": {
+    "id": "4210097232",
+    "code": "progress(ireland)",
+    "name": "Progress (Ireland)",
+    "country": "Ireland",
+    "region": "Europe",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "4210130719": {
+    "id": "4210130719",
+    "code": "administraçãoregionaldesaudedocentro",
+    "name": "Administração Regional De Saude Do Centro",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "4210165840": {
+    "id": "4210165840",
+    "code": "institutodosvinhosdodouroeporto",
+    "name": "Instituto dos Vinhos do Douro e Porto",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2016,
+    "in_pyAlex": true
+  },
+  "4210113179": {
+    "id": "4210113179",
+    "code": "finisterraeuniversity",
+    "name": "Finis Terrae University",
+    "country": "Chile",
+    "region": "South America",
+    "year": 2015,
+    "in_pyAlex": true
+  },
+  "911713783": {
+    "id": "911713783",
+    "code": "diegoportalesuniversity",
+    "name": "Diego Portales University",
+    "country": "Chile",
+    "region": "South America",
+    "year": 2015,
+    "in_pyAlex": true
+  },
+  "4210147442": {
+    "id": "4210147442",
+    "code": "universidadalfonsoxelsabio",
+    "name": "Universidad Alfonso X el Sabio",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2015,
+    "in_pyAlex": true
+  },
+  "263512288": {
+    "id": "263512288",
+    "code": "universidadcientíficadelsur",
+    "name": "Universidad Científica del Sur",
+    "country": "Peru",
+    "region": "South America",
+    "year": 2015,
+    "in_pyAlex": true
+  },
+  "4210096432": {
+    "id": "4210096432",
+    "code": "institutosuperiorbissayabarreto",
+    "name": "Instituto Superior Bissaya Barreto",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2015,
+    "in_pyAlex": true
+  },
+  "46597724": {
+    "id": "46597724",
+    "code": "poznańuniversityoftechnology",
+    "name": "Poznań University of Technology",
+    "country": "Poland",
+    "region": "Europe",
+    "year": 2015,
+    "in_pyAlex": true
+  },
+  "32393484": {
+    "id": "32393484",
+    "code": "petrobras(brazil)",
+    "name": "Petrobras (Brazil)",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2015,
+    "in_pyAlex": true
+  },
+  "916541031": {
+    "id": "916541031",
+    "code": "universityofcolima",
+    "name": "University of Colima",
+    "country": "Mexico",
+    "region": "North America",
+    "year": 2015,
+    "in_pyAlex": true
+  },
+  "4210134438": {
+    "id": "4210134438",
+    "code": "faculdadesumaré",
+    "name": "Faculdade Sumaré",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2015,
+    "in_pyAlex": true
+  },
+  "74656192": {
+    "id": "74656192",
+    "code": "universityofgöttingen",
+    "name": "University of Göttingen",
+    "country": "Germany",
+    "region": "Europe",
+    "year": 2015,
+    "in_pyAlex": true
+  },
+  "101100930": {
+    "id": "101100930",
+    "code": "universidadefederaldejuizdefora",
+    "name": "Universidade Federal de Juiz de Fora",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2015,
+    "in_pyAlex": true
+  },
+  "194184283": {
+    "id": "194184283",
+    "code": "universityofeastsarajevo",
+    "name": "University of East Sarajevo",
+    "country": "Bosnia and Herzegovina",
+    "region": "Europe",
+    "year": 2015,
+    "in_pyAlex": true
+  },
+  "3133219032": {
+    "id": "3133219032",
+    "code": "nationaluniversityofcatamarca",
+    "name": "National University of Catamarca",
+    "country": "Argentina",
+    "region": "South America",
+    "year": 2015,
+    "in_pyAlex": true
+  },
+  "4210117802": {
+    "id": "4210117802",
+    "code": "instituteofelectronics",
+    "name": "Institute of Electronics",
+    "country": "Bulgaria",
+    "region": "Europe",
+    "year": 2015,
+    "in_pyAlex": true
+  },
+  "64663401": {
+    "id": "64663401",
+    "code": "centerforscientificresearchandhighereducationatensenada",
+    "name": "Center for Scientific Research and Higher Education at Ensenada",
+    "country": "Mexico",
+    "region": "North America",
+    "year": 2015,
+    "in_pyAlex": true
+  },
+  "56475706": {
+    "id": "56475706",
+    "code": "midswedenuniversity",
+    "name": "Mid Sweden University",
+    "country": "Sweden",
+    "region": "Europe",
+    "year": 2015,
+    "in_pyAlex": true
+  },
+  "4210106629": {
+    "id": "4210106629",
+    "code": "centrodeestudosparaaintervencaosocial",
+    "name": "Centro de Estudos para a Intervencao Social",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2015,
+    "in_pyAlex": true
+  },
+  "121595252": {
+    "id": "121595252",
+    "code": "polytechnicuniversityofpuertorico",
+    "name": "Polytechnic University of Puerto Rico",
+    "country": "Puerto Rico",
+    "region": "Central America",
+    "year": 2015,
+    "in_pyAlex": true
+  },
+  "3019322962": {
+    "id": "3019322962",
+    "code": "universidadebrasil",
+    "name": "Universidade Brasil",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2015,
+    "in_pyAlex": true
+  },
+  "126477371": {
+    "id": "126477371",
+    "code": "mohammedvuniversity",
+    "name": "Mohammed V University",
+    "country": "Morocco",
+    "region": "Africa",
+    "year": 2015,
+    "in_pyAlex": true
+  },
+  "4210154840": {
+    "id": "4210154840",
+    "code": "centrohospitalardoporto",
+    "name": "Centro Hospitalar do Porto",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2015,
+    "in_pyAlex": true
+  },
+  "72872986": {
+    "id": "72872986",
+    "code": "universidadefederaldopampa",
+    "name": "Universidade Federal do Pampa",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2015,
+    "in_pyAlex": true
+  },
+  "35961687": {
+    "id": "35961687",
+    "code": "universityofantioquia",
+    "name": "University of Antioquia",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2015,
+    "in_pyAlex": true
+  },
+  "862322245": {
+    "id": "862322245",
+    "code": "universidadeafit",
+    "name": "Universidad EAFIT",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2015,
+    "in_pyAlex": true
+  },
+  "51314090": {
+    "id": "51314090",
+    "code": "universityofosijek",
+    "name": "University of Osijek",
+    "country": "Croatia",
+    "region": "Europe",
+    "year": 2015,
+    "in_pyAlex": true
+  },
+  "4210142934": {
+    "id": "4210142934",
+    "code": "fundobrasil",
+    "name": "Fundo Brasil",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2015,
+    "in_pyAlex": true
+  },
+  "4210142208": {
+    "id": "4210142208",
+    "code": "centreofexcellencefordevelopmentimpactandlearning",
+    "name": "Centre of Excellence for Development Impact and Learning",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "year": 2015,
+    "in_pyAlex": true
+  },
+  "3130395211": {
+    "id": "3130395211",
+    "code": "institutotecnológicosuperiordexalapa",
+    "name": "Instituto Tecnológico Superior de Xalapa",
+    "country": "Mexico",
+    "region": "North America",
+    "year": 2015,
+    "in_pyAlex": true
+  },
+  "2802353815": {
+    "id": "2802353815",
+    "code": "universityhospitalcomplexofvigo",
+    "name": "University Hospital Complex Of Vigo",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2015,
+    "in_pyAlex": true
+  },
+  "4164984": {
+    "id": "4164984",
+    "code": "internationalislamicuniversitymalaysia",
+    "name": "International Islamic University Malaysia",
+    "country": "Malaysia",
+    "region": "Asia",
+    "year": 2015,
+    "in_pyAlex": true
+  },
+  "119449181": {
+    "id": "119449181",
+    "code": "technischeuniversitätilmenau",
+    "name": "Technische Universität Ilmenau",
+    "country": "Germany",
+    "region": "Europe",
+    "year": 2015,
+    "in_pyAlex": true
+  },
+  "51882195": {
+    "id": "51882195",
+    "code": "universidadeluteranadobrasil",
+    "name": "Universidade Luterana do Brasil",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2015,
+    "in_pyAlex": true
+  },
+  "68618741": {
+    "id": "68618741",
+    "code": "polytechnicuniversityofbari",
+    "name": "Polytechnic University of Bari",
+    "country": "Italy",
+    "region": "Europe",
+    "year": 2015,
+    "in_pyAlex": true
+  },
+  "5561750": {
+    "id": "5561750",
+    "code": "universityofbarialdomoro",
+    "name": "University of Bari Aldo Moro",
+    "country": "Italy",
+    "region": "Europe",
+    "year": 2015,
+    "in_pyAlex": true
+  },
+  "59946547": {
+    "id": "59946547",
+    "code": "camilojosécelauniversity",
+    "name": "Camilo José Cela University",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2015,
+    "in_pyAlex": true
+  },
+  "125839683": {
+    "id": "125839683",
+    "code": "beijinginstituteoftechnology",
+    "name": "Beijing Institute of Technology",
+    "country": "China",
+    "region": "Asia",
+    "year": 2015,
+    "in_pyAlex": true
+  },
+  "4210090769": {
+    "id": "4210090769",
+    "code": "virtualpowersolutions(portugal)",
+    "name": "Virtual Power Solutions (Portugal)",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2015,
+    "in_pyAlex": true
+  },
+  "123044942": {
+    "id": "123044942",
+    "code": "universitatautònomadebarcelona",
+    "name": "Universitat Autònoma de Barcelona",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "4210123620": {
+    "id": "4210123620",
+    "code": "juntadecastillayleón",
+    "name": "Junta de Castilla y León",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "4210164720": {
+    "id": "4210164720",
+    "code": "complejoasistencialuniversitariodepalencia",
+    "name": "Complejo Asistencial Universitario de Palencia",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "4210095560": {
+    "id": "4210095560",
+    "code": "sensing&controlsystems(spain)",
+    "name": "Sensing & Control Systems (Spain)",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "4210114815": {
+    "id": "4210114815",
+    "code": "vitrociset(italy)",
+    "name": "Vitrociset (Italy)",
+    "country": "Italy",
+    "region": "Europe",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "4210136471": {
+    "id": "4210136471",
+    "code": "fcbarcelona",
+    "name": "FC Barcelona",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "4210147794": {
+    "id": "4210147794",
+    "code": "universidadpolitécnicadechiapas",
+    "name": "Universidad Politécnica de Chiapas",
+    "country": "Mexico",
+    "region": "North America",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "4210110056": {
+    "id": "4210110056",
+    "code": "administraçãoregionaldesaúdedelisboaevaledotejo",
+    "name": "Administração Regional de Saúde de Lisboa e Vale do Tejo",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "102335020": {
+    "id": "102335020",
+    "code": "karlsruheinstituteoftechnology",
+    "name": "Karlsruhe Institute of Technology",
+    "country": "Germany",
+    "region": "Europe",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "4210131030": {
+    "id": "4210131030",
+    "code": "jeanpiagetuniversityofcapeverde",
+    "name": "Jean Piaget University of Cape Verde",
+    "country": "Cape Verde",
+    "region": "Africa",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "11385950": {
+    "id": "11385950",
+    "code": "nationalcouncilforscientificandtechnologicaldevelopment",
+    "name": "National Council for Scientific and Technological Development",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "3129508524": {
+    "id": "3129508524",
+    "code": "universidadefederaldosulesudestedopará",
+    "name": "Universidade Federal do Sul e Sudeste do Pará",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "147280213": {
+    "id": "147280213",
+    "code": "universidadveracruzana",
+    "name": "Universidad Veracruzana",
+    "country": "Mexico",
+    "region": "North America",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "138847295": {
+    "id": "138847295",
+    "code": "universitatobertadecatalunya",
+    "name": "Universitat Oberta de Catalunya",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "61641377": {
+    "id": "61641377",
+    "code": "polytechnicuniversityofbucharest",
+    "name": "Polytechnic University of Bucharest",
+    "country": "Romania",
+    "region": "Europe",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "141595442": {
+    "id": "141595442",
+    "code": "universityofbucharest",
+    "name": "University of Bucharest",
+    "country": "Romania",
+    "region": "Europe",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "66947310": {
+    "id": "66947310",
+    "code": "nationallaboratoryforcivilengineering",
+    "name": "National Laboratory for Civil Engineering",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "4210133114": {
+    "id": "4210133114",
+    "code": "institutodeestudossuperioresdefafelda",
+    "name": "Instituto de Estudos Superiores de Fafe LDA",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "82515739": {
+    "id": "82515739",
+    "code": "catholicuniversityofcolombia",
+    "name": "Catholic University of Colombia",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "168974976": {
+    "id": "168974976",
+    "code": "universidaddelarioja",
+    "name": "Universidad de La Rioja",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "4210096134": {
+    "id": "4210096134",
+    "code": "universidadepolitecnica",
+    "name": "Universidade Politecnica",
+    "country": "Mozambique",
+    "region": "Africa",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "274899335": {
+    "id": "274899335",
+    "code": "universityofatlántico",
+    "name": "University of Atlántico",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "189460059": {
+    "id": "189460059",
+    "code": "universidadelbosque",
+    "name": "Universidad El Bosque",
+    "country": "Colombia",
+    "region": "South America",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "180629606": {
+    "id": "180629606",
+    "code": "universityofdubrovnik",
+    "name": "University of Dubrovnik",
+    "country": "Croatia",
+    "region": "Europe",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "59530521": {
+    "id": "59530521",
+    "code": "universidadefederaldovaledosãofrancisco",
+    "name": "Universidade Federal do Vale do São Francisco",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "35427347": {
+    "id": "35427347",
+    "code": "islamicuniversityofindonesia",
+    "name": "Islamic University of Indonesia",
+    "country": "Indonesia",
+    "region": "Asia",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "199691007": {
+    "id": "199691007",
+    "code": "brazilianagriculturalresearchcorporation",
+    "name": "Brazilian Agricultural Research Corporation",
+    "country": "Brazil",
+    "region": "South America",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "62916508": {
+    "id": "62916508",
+    "code": "technicaluniversityofmunich",
+    "name": "Technical University of Munich",
+    "country": "Germany",
+    "region": "Europe",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "4210127031": {
+    "id": "4210127031",
+    "code": "uninova",
+    "name": "Uninova",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "170486558": {
+    "id": "170486558",
+    "code": "pompeufabrauniversity",
+    "name": "Pompeu Fabra University",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "4210094943": {
+    "id": "4210094943",
+    "code": "universidaddelosaltosdechiapas",
+    "name": "Universidad de Los Altos de Chiapas",
+    "country": "Mexico",
+    "region": "North America",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "4626487": {
+    "id": "4626487",
+    "code": "kingfaisaluniversity",
+    "name": "King Faisal University",
+    "country": "Saudi Arabia",
+    "region": "Middle East",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "2801355762": {
+    "id": "2801355762",
+    "code": "agriculturaluniversityofhavana",
+    "name": "Agricultural University of Havana",
+    "country": "Cuba",
+    "region": "North America",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "98962006": {
+    "id": "98962006",
+    "code": "universityofskikda",
+    "name": "University of Skikda",
+    "country": "Algeria",
+    "region": "Africa",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "199702508": {
+    "id": "199702508",
+    "code": "aljoufuniversity",
+    "name": "Al Jouf University",
+    "country": "Saudi Arabia",
+    "region": "Middle East",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "4210101769": {
+    "id": "4210101769",
+    "code": "citeforma",
+    "name": "Citeforma",
+    "country": "Portugal",
+    "region": "Europe",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "4210096752": {
+    "id": "4210096752",
+    "code": "universityofandorra",
+    "name": "University of Andorra",
+    "country": "AndorrA",
+    "region": "Europe",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "4210148705": {
+    "id": "4210148705",
+    "code": "instituteofsystems",
+    "name": "Institute of Systems, Information Technologies and Nanotechnologies",
+    "country": "Japan",
+    "region": "Asia",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "98677209": {
+    "id": "98677209",
+    "code": "universityofedinburgh",
+    "name": "University of Edinburgh",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "4210149577": {
+    "id": "4210149577",
+    "code": "escpbusinessschool",
+    "name": "ESCP Business School",
+    "country": "France",
+    "region": "Europe",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "33213144": {
+    "id": "33213144",
+    "code": "universityofflorida",
+    "name": "University of Florida",
+    "country": "United States",
+    "region": "North America",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "96580804": {
+    "id": "96580804",
+    "code": "comillaspontificaluniversity",
+    "name": "Comillas Pontifical University",
+    "country": "Spain",
+    "region": "Europe",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "66514158": {
+    "id": "66514158",
+    "code": "hacettepeuniversity",
+    "name": "Hacettepe University",
+    "country": "Turkey",
+    "region": "Asia",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "51209816": {
+    "id": "51209816",
+    "code": "eskişehirosmangaziuniversity",
+    "name": "Eskişehir Osmangazi University",
+    "country": "Turkey",
+    "region": "Asia",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "133743585": {
+    "id": "133743585",
+    "code": "anadoluuniversity",
+    "name": "Anadolu University",
+    "country": "Turkey",
+    "region": "Asia",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "4210131288": {
+    "id": "4210131288",
+    "code": "nationalengineeringschooloftunis",
+    "name": "National Engineering School of Tunis",
+    "country": "Tunisia",
+    "region": "Africa",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "4210140729": {
+    "id": "4210140729",
+    "code": "institutsupérieurdegestiondetunis",
+    "name": "Institut Supérieur de Gestion de Tunis",
+    "country": "Tunisia",
+    "region": "Africa",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "57664883": {
+    "id": "57664883",
+    "code": "ajouuniversity",
+    "name": "Ajou University",
+    "country": "South Korea",
+    "region": "Asia",
+    "year": 2014,
+    "in_pyAlex": true
+  },
+  "8833935": {
+    "id": "8833935",
+    "code": "universidaddeleón",
+    "name": "Universidad de León",
+    "country": "Spain",
+    "region": "North America",
+    "year": 2014,
+    "in_pyAlex": true
+  }
+}

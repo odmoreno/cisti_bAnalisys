@@ -1,0 +1,616 @@
+source,target,year,weight,total
+Ecuador,Ecuador,2023,50,50
+Brazil,Portugal,2023,34,34
+Portugal,Portugal,2023,163,163
+Colombia,Colombia,2023,9,9
+South Africa,South Africa,2023,2,2
+Brazil,Brazil,2023,90,90
+Peru,Peru,2023,18,18
+Panama,Panama,2023,5,5
+Romania,Romania,2023,6,6
+España,España,2023,15,15
+Paraguay,Paraguay,2023,4,4
+Peru,España,2023,8,8
+Colombia,España,2023,3,3
+España,Portugal,2023,5,5
+Austria,Austria,2023,2,2
+Czech Republic,Czech Republic,2023,5,5
+Norway,Norway,2023,1,1
+Norway,Brazil,2023,2,2
+Mexico,Mexico,2023,6,6
+España,United Arab Emirates,2023,1,1
+España,Switzerland,2023,1,1
+United Arab Emirates,Switzerland,2023,1,1
+Portugal,United States,2023,7,7
+Portugal,Iran,2023,6,6
+United States,Iran,2023,2,2
+Iran,Iran,2023,1,1
+Turkey,Turkey,2023,1,1
+Saudi Arabia,Saudi Arabia,2023,1,1
+Lithuania,Lithuania,2023,7,7
+Brazil,Spain,2023,1,1
+Portugal,Spain,2023,1,1
+Switzerland,Switzerland,2023,1,1
+Malaysia,Malaysia,2023,2,2
+Malaysia,Indonesia,2023,13,13
+Panama,Portugal,2023,4,4
+Mexico,Brazil,2023,4,4
+Paraguay,España,2023,6,6
+Costa Rica,Costa Rica,2023,2,2
+Austria,Costa Rica,2023,12,12
+Austria,Indonesia,2023,6,6
+Costa Rica,Indonesia,2023,2,2
+Italy,España,2023,4,4
+Italy,Italy,2023,1,1
+Italy,United Kingdom,2023,4,4
+España,United Kingdom,2023,1,1
+Peru,Colombia,2023,6,6
+Costa Rica,Colombia,2023,8,8
+France,France,2023,1,1
+France,Brazil,2023,8,8
+Argentina,Argentina,2023,1,1
+Brazil,Ireland,2023,16,16
+Brazil,United Kingdom,2023,4,4
+Brazil,Canada,2023,8,8
+United Kingdom,Canada,2023,1,1
+Spain,Spain,2023,1,1
+United Kingdom,Sri Lanka,2023,1,1
+Chile,Chile,2023,1,1
+Ecuador,España,2023,1,1
+Peru,United States,2023,1,1
+Peru,Chile,2023,1,1
+United States,Chile,2023,1,1
+Brazil,España,2023,3,3
+United States,United States,2023,2,2
+Jordan,Jordan,2023,1,1
+Jordan,Libia,2023,3,3
+Germany,Germany,2023,1,1
+Mexico,United States,2023,4,4
+Puerto Rico,Puerto Rico,2023,1,1
+Ecuador,United Kingdom,2023,3,3
+Northern Ireland,United Kingdom,2023,1,1
+Brazil,United States,2023,5,5
+Lithuania,Portugal,2023,2,2
+Ecuador,Ecuador,2022,71,121
+Colombia,Colombia,2022,9,18
+Portugal,Portugal,2022,129,292
+Brazil,Brazil,2022,55,145
+Peru,Peru,2022,25,43
+España,España,2022,26,41
+Spain,Spain,2022,2,3
+United States,Albania,2022,1,1
+Ecuador,Brazil,2022,4,4
+Russian,Portugal,2022,1,1
+Hungary,Hungary,2022,1,1
+Costa Rica,Costa Rica,2022,2,4
+Panama,United States,2022,2,2
+Panama,España,2022,3,3
+United States,United States,2022,1,3
+United States,España,2022,6,6
+Mexico,Mexico,2022,7,13
+Estonia,Estonia,2022,1,1
+Portugal,Brazil,2022,31,65
+Portugal,Italy,2022,3,3
+Brazil,Italy,2022,1,1
+Brazil,España,2022,5,8
+España,Ecuador,2022,13,14
+España,Spain,2022,2,2
+Ecuador,Spain,2022,8,8
+Chile,Chile,2022,3,4
+Argentina,Peru,2022,1,1
+Argentina,Germany,2022,1,1
+Peru,Germany,2022,1,1
+Ecuador,Venezuela,2022,1,1
+Portugal,United Kingdom,2022,3,3
+Brazil,United Kingdom,2022,4,8
+Ecuador,Argentina,2022,6,6
+Ecuador,Sweden,2022,3,3
+Argentina,Sweden,2022,2,2
+Argentina,Argentina,2022,6,7
+Puerto Rico,Puerto Rico,2022,1,2
+Paraguay,Paraguay,2022,3,7
+Brazil,Ireland,2022,5,21
+Senegal,Senegal,2022,1,1
+Bolivia,Bolivia,2022,1,1
+Panama,Panama,2022,2,7
+Ecuador,Peru,2022,3,3
+Peru,Brazil,2022,1,1
+Peru,Canada,2022,3,3
+Portugal,Austria,2022,2,2
+Ecuador,Mexico,2022,1,1
+France,France,2022,1,2
+Peru,Chile,2022,1,2
+Colombia,Spain,2022,2,2
+Colombia,España,2022,4,7
+Colombia,Portugal,2022,7,7
+España,Portugal,2022,1,6
+Ecuador,Colombia,2022,2,2
+Ecuador,Portugal,2022,2,2
+Colombia,Chile,2022,4,4
+Chile,Portugal,2022,2,2
+España,United Arab Emirates,2022,2,3
+España,Switzerland,2022,2,3
+United Arab Emirates,Switzerland,2022,1,2
+Latvia,Latvia,2022,1,1
+Portugal,Peru,2022,1,1
+Portugal,Mexico,2022,1,1
+Portugal,Saudi Arabia,2022,1,1
+Mexico,Colombia,2022,1,1
+Mexico,Saudi Arabia,2022,1,1
+Colombia,Saudi Arabia,2022,1,1
+Portugal,Serbia,2022,7,7
+Slovakia,Slovakia,2022,1,1
+Slovakia,Portugal,2022,4,4
+Portugal,Portugal,2021,163,455
+Brazil,Brazil,2021,61,206
+Colombia,Colombia,2021,10,28
+Colombia,Portugal,2021,2,9
+Colombia,España,2021,4,11
+Portugal,España,2021,4,10
+Chile,Chile,2021,5,9
+Mexico,Mexico,2021,8,21
+Bulgaria,Chile,2021,3,3
+Peru,Peru,2021,25,68
+Peru,Colombia,2021,3,9
+Ecuador,Ecuador,2021,38,159
+Brazil,Canada,2021,17,25
+España,España,2021,20,61
+Portugal,Brazil,2021,21,86
+Portugal,Canada,2021,2,2
+Portugal,Spain,2021,3,4
+Brazil,Poland,2021,3,3
+Peru,Ecuador,2021,4,7
+Colombia,Chile,2021,3,7
+Peru,España,2021,2,10
+Panama,Panama,2021,2,9
+Argentina,Argentina,2021,2,9
+Colombia,Mexico,2021,3,4
+Chile,Mexico,2021,1,1
+Chile,Peru,2021,1,3
+Mexico,Peru,2021,1,1
+Costa Rica,Costa Rica,2021,1,5
+United States,United States,2021,1,4
+Portugal,Ecuador,2021,3,5
+España,Ecuador,2021,12,26
+Russian,Russian,2021,1,1
+Burkina Faso,Burkina Faso,2021,2,2
+El Salvador,España,2021,2,2
+Portugal,Australia,2021,4,4
+Hungary,Hungary,2021,1,2
+Brazil,Ecuador,2021,1,5
+Brazil,France,2021,3,11
+Ecuador,Mexico,2021,6,7
+Malaysia,Malaysia,2021,1,3
+Panama,España,2021,6,9
+Burkina Faso,Finland,2021,4,4
+Finland,Finland,2021,1,1
+Austria,Austria,2021,1,3
+España,Costa Rica,2021,4,4
+Spain,Spain,2021,2,5
+España,Spain,2021,2,4
+Poland,Poland,2021,1,1
+Ecuador,Colombia,2021,1,3
+Peru,United States,2021,2,3
+Croatia,Croatia,2021,1,1
+Brazil,Sweden,2021,4,4
+España,Chile,2021,5,5
+Ecuador,Peru,2020,2,9
+Peru,Peru,2020,14,82
+España,España,2020,31,92
+Portugal,Portugal,2020,104,559
+Portugal,España,2020,16,26
+Ecuador,Ecuador,2020,62,221
+Croatia,Croatia,2020,1,2
+Argentina,Argentina,2020,5,14
+Argentina,Ecuador,2020,23,29
+Mexico,Mexico,2020,4,25
+Colombia,Colombia,2020,42,70
+Colombia,Mexico,2020,14,18
+Colombia,Chile,2020,5,12
+Chile,Mexico,2020,1,2
+Brazil,Brazil,2020,45,251
+Brazil,Canada,2020,9,34
+España,Finland,2020,8,8
+Finland,Finland,2020,1,2
+Brazil,Portugal,2020,47,133
+Italy,Italy,2020,1,2
+Italy,Brazil,2020,3,4
+Italy,Canada,2020,3,3
+Chile,Chile,2020,7,16
+Peru,España,2020,3,13
+Senegal,Senegal,2020,1,2
+Senegal,France,2020,8,8
+Peru,Canada,2020,9,12
+Peru,Mexico,2020,3,4
+Peru,Colombia,2020,6,15
+Chile,España,2020,4,9
+Costa Rica,Costa Rica,2020,4,9
+Costa Rica,España,2020,1,5
+España,Spain,2020,4,8
+Chile,Georgia,2020,2,2
+Georgia,Colombia,2020,1,1
+Colombia,Portugal,2020,2,11
+Paraguay,Paraguay,2020,2,9
+Czech Republic,Czech Republic,2020,6,11
+Argentina,Colombia,2020,11,11
+Iraq,Czech Republic,2020,1,1
+Ecuador,Venezuela,2020,3,4
+España,Colombia,2020,16,27
+España,Argentina,2020,2,2
+Colombia,Australia,2020,2,2
+Ecuador,España,2020,22,48
+Peru,Chile,2020,3,6
+Burkina Faso,Senegal,2020,1,1
+United Kingdom,United Kingdom,2020,2,2
+Ecuador,Cuba,2020,2,2
+Ecuador,Colombia,2020,5,8
+Austria,Austria,2020,2,5
+Portugal,Spain,2020,2,6
+Spain,Spain,2020,2,7
+Cabo Verde,Portugal,2020,3,3
+Turkey,Turkey,2020,1,2
+Brazil,Chile,2020,7,7
+Malaysia,Malaysia,2020,1,4
+Germany,España,2020,3,3
+Germany,Germany,2020,3,4
+Brazil,España,2020,6,14
+Panama,Panama,2020,1,10
+Brazil,Finland,2020,6,6
+Brazil,Poland,2020,6,9
+Brazil,Turkey,2020,6,6
+Finland,Poland,2020,1,1
+Finland,Turkey,2020,1,1
+Poland,Turkey,2020,1,1
+Uruguay,Uruguay,2020,1,1
+Uruguay,Brazil,2020,2,2
+portugal,portugal,2019,166,725
+Brazil,Brazil,2019,48,299
+Ecuador,Ecuador,2019,69,290
+Portugal,Malaysia,2019,4,4
+Peru,Peru,2019,4,86
+Peru,Ecuador,2019,4,13
+España,España,2019,24,116
+Colombia,Colombia,2019,30,100
+Ecuador,Argentina,2019,19,48
+Portugal,Brazil,2019,33,166
+Colombia,España,2019,3,30
+Chile,Chile,2019,12,28
+Costa Rica,Costa Rica,2019,3,12
+Ecuador,España,2019,29,77
+Mexico,Mexico,2019,3,28
+Senegal,Senegal,2019,1,3
+Portugal,Spain,2019,9,15
+Spain,Spain,2019,2,9
+United States,United States,2019,1,5
+Argentina,Argentina,2019,2,16
+Ecuador,Portugal,2019,9,14
+España,Portugal,2019,2,28
+Brazil,Bolivia,2019,2,2
+Brazil,Dominican Republic,2019,2,2
+Brazil,Ecuador,2019,2,7
+Brazil,Guatemala,2019,2,2
+Bolivia,Dominican Republic,2019,1,1
+Bolivia,Ecuador,2019,1,1
+Bolivia,Guatemala,2019,1,1
+Dominican Republic,Ecuador,2019,1,1
+Dominican Republic,Guatemala,2019,1,1
+Ecuador,Guatemala,2019,1,1
+Portugal,Mongolia,2019,3,3
+United Kingdom,España,2019,4,5
+Colombia,England,2019,6,6
+England,England,2019,1,1
+Portugal,United Kingdom,2019,8,11
+United Kingdom,United Kingdom,2019,1,3
+Argentina,España,2019,2,4
+United States,España,2019,3,9
+South Africa,South Africa,2019,1,3
+Spain,España,2019,3,11
+Ecuador,Spain,2019,7,15
+France,Panama,2018,4,4
+France,France,2018,1,3
+Portugal,Portugal,2018,114,839
+Spain,Spain,2018,6,15
+Ecuador,Ecuador,2018,82,372
+Colombia,Colombia,2018,24,124
+Portugal,Ecuador,2018,17,31
+Colombia,England,2018,3,9
+Ecuador,España,2018,20,97
+Brazil,Brazil,2018,37,336
+España,España,2018,17,133
+Brazil,Portugal,2018,14,180
+Chile,Chile,2018,12,40
+Argentina,Argentina,2018,6,22
+Portugal,Spain,2018,32,47
+Ecuador,Argentina,2018,14,62
+Peru,Peru,2018,2,88
+Peru,Canada,2018,3,15
+Colombia,Portugal,2018,4,15
+Portugal,España,2018,51,79
+Pakistan,Pakistan,2018,1,1
+Colombia,Chile,2018,2,14
+Colombia,España,2018,5,35
+Colombia,Mexico,2018,1,19
+España,Mexico,2018,2,2
+Mexico,Mexico,2018,7,35
+Japan,Japan,2018,1,1
+Latvia,Latvia,2018,1,2
+Portugal,Germany,2018,1,1
+Ecuador,Germany,2018,1,1
+Panama,Panama,2018,1,11
+Ecuador,Colombia,2018,7,15
+Peru,España,2018,3,16
+Cabo Verde,Portugal,2018,1,4
+portugal,portugal,2017,121,960
+Mexico,Mexico,2017,11,46
+Brazil,Brazil,2017,99,435
+Ecuador,Ecuador,2017,70,442
+Colombia,Colombia,2017,21,145
+Slovakia,Slovakia,2017,1,2
+Brazil,El Salvador,2017,2,2
+España,España,2017,24,157
+Colombia,Mexico,2017,5,24
+España,Portugal,2017,9,88
+China,United Kingdom,2017,2,2
+United Kingdom,United Kingdom,2017,1,4
+Spain,Spain,2017,6,21
+Spain,Portugal,2017,3,50
+Panama,Panama,2017,1,12
+Portugal,Colombia,2017,4,19
+Brazil,Portugal,2017,19,199
+Portugal,Greece,2017,5,5
+India,India,2017,1,1
+Ecuador,España,2017,31,128
+Ecuador,Portugal,2017,40,71
+Venezuela,Ecuador,2017,2,6
+Argentina,Argentina,2017,2,24
+Brazil,Canada,2017,4,38
+Brazil,India,2017,3,3
+Chile,Chile,2017,2,42
+Chile,España,2017,2,11
+Mexico,España,2017,13,15
+Ecuador,United Kingdom,2017,2,5
+Portugal,United Kingdom,2017,2,13
+Latvia,Latvia,2017,1,3
+Montenegro,Montenegro,2017,1,1
+Brazil,Ireland,2017,4,25
+Czech Republic,Czech Republic,2017,2,13
+Switzerland,Switzerland,2017,1,2
+Peru,Peru,2017,3,91
+Venezuela,Venezuela,2017,1,1
+Canada,Canada,2017,1,1
+España,United States,2017,2,11
+United States,Portugal,2017,1,8
+Portugal,France,2017,2,2
+Colombia,England,2017,3,12
+Romania,Romania,2017,2,8
+Ecuador,Spain,2017,2,17
+España,Spain,2017,3,14
+Ecuador,Argentina,2017,4,66
+Ecuador,Mexico,2017,4,11
+Germany,Germany,2017,1,5
+Russian,Russian,2017,1,2
+Brazil,España,2017,1,15
+Ecuador,Japan,2017,2,2
+España,Japan,2017,1,1
+Turkey,Turkey,2017,1,3
+España,Argentina,2017,2,6
+portugal,portugal,2016,95,1055
+España,España,2016,30,187
+Brazil,Brazil,2016,44,479
+Portugal,India,2016,12,12
+India,India,2016,1,2
+Brazil,Finland,2016,15,21
+Finland,Finland,2016,1,3
+Colombia,Colombia,2016,14,159
+España,Ecuador,2016,18,146
+Ecuador,Ecuador,2016,31,473
+Czech Republic,Czech Republic,2016,2,15
+Spain,Spain,2016,3,24
+Chile,Chile,2016,15,57
+Argentina,Argentina,2016,6,30
+Mexico,Mexico,2016,3,49
+Chile,Brazil,2016,4,11
+Peru,Peru,2016,6,97
+Brazil,Portugal,2016,8,207
+Portugal,España,2016,10,98
+Brazil,Denmark,2016,2,2
+Portugal,Spain,2016,4,54
+Argentina,Spain,2016,4,4
+United States,United States,2016,1,6
+Brazil,United States,2016,2,7
+España,Panama,2016,3,12
+Canada,Canada,2016,1,2
+Turkey,Turkey,2016,1,4
+China,United States,2016,2,2
+China,China,2016,1,1
+Colombia,France,2016,1,1
+United States,Ecuador,2016,2,2
+Slovakia,Slovakia,2016,1,3
+Brazil,United Kingdom,2016,1,9
+Germany,Germany,2016,1,6
+España,Colombia,2016,4,39
+Portugal,Ecuador,2016,9,80
+Hungary,Hungary,2016,1,3
+Peru,Chile,2016,3,9
+Russian,Russian,2016,1,3
+Denmark,Denmark,2016,1,1
+Chile,Mexico,2016,1,3
+Portugal,Portugal,2015,113,1168
+Chile,Chile,2015,11,68
+España,España,2015,24,211
+Peru,Peru,2015,2,99
+Brazil,Brazil,2015,49,528
+Ecuador,Ecuador,2015,13,486
+Colombia,Colombia,2015,18,177
+Poland,Poland,2015,1,2
+Poland,Portugal,2015,4,4
+España,Portugal,2015,1,99
+Mexico,Mexico,2015,4,53
+Panama,Panama,2015,1,13
+Argentina,Argentina,2015,3,33
+Ecuador,España,2015,16,162
+Brazil,Portugal,2015,33,240
+Spain,Spain,2015,9,33
+Bosnia and Herzegovina,Bosnia and Herzegovina,2015,1,1
+Argentina,Spain,2015,4,8
+Saudi Arabia,Saudi Arabia,2015,1,2
+Portugal,Sweden,2015,4,4
+Morocco,Morocco,2015,1,1
+Peru,España,2015,1,17
+Portugal,Croatia,2015,2,2
+Croatia,Brazil,2015,3,3
+Portugal,Spain,2015,7,61
+Portugal,Malaysia,2015,15,19
+Malaysia,Malaysia,2015,2,6
+Germany,Malaysia,2015,2,2
+Germany,Germany,2015,1,7
+España,Panama,2015,3,15
+España,Brazil,2015,3,18
+Italy,Italy,2015,1,3
+Spain,España,2015,2,16
+China,China,2015,1,2
+Portugal,Portugal,2014,79,1247
+Portugal,España,2014,9,108
+Brazil,Brazil,2014,40,568
+Ireland,Ireland,2014,2,2
+España,España,2014,42,253
+España,Italy,2014,2,6
+Portugal,Italy,2014,2,5
+Colombia,Colombia,2014,19,196
+Colombia,España,2014,5,44
+Argentina,Argentina,2014,2,35
+Brazil,Portugal,2014,9,249
+Colombia,Chile,2014,8,22
+Chile,Chile,2014,4,72
+Mexico,Mexico,2014,10,63
+Portugal,Spain,2014,12,73
+Ecuador,Ecuador,2014,3,489
+Ecuador,España,2014,3,165
+Portugal,Germany,2014,3,4
+Portugal,Estonia,2014,2,2
+Mexico,España,2014,11,26
+Romania,Romania,2014,2,10
+Spain,Spain,2014,2,35
+Croatia,Croatia,2014,2,4
+Slovakia,Slovakia,2014,1,4
+Brazil,España,2014,6,24
+Germany,Germany,2014,1,8
+Saudi Arabia,Australia,2014,1,1
+Estonia,Estonia,2014,1,2
+Cuba,Cuba,2014,1,1
+Cuba,España,2014,2,2
+Algeria,Algeria,2014,1,1
+Algeria,Saudi Arabia,2014,2,2
+España,Andorra,2014,4,4
+Japan,Japan,2014,1,2
+Spain,España,2014,1,17
+España,Scotland,2014,5,5
+France,United States,2014,1,1
+Turkey,Turkey,2014,3,7
+South Africa,South Africa,2014,1,4
+Tunisia,Tunisia,2014,1,1
+Hungary,Hungary,2014,1,4
+Portugal,Portugal,2013,107,1354
+España,España,2013,26,279
+Brazil,Brazil,2013,29,597
+Portugal,Brazil,2013,10,259
+Mexico,Mexico,2013,7,70
+Colombia,Colombia,2013,7,203
+Portugal,Spain,2013,9,82
+Taiwan,Taiwan,2013,1,1
+Spain,Spain,2013,4,39
+Spain,España,2013,9,26
+España,Colombia,2013,4,48
+Argentina,Argentina,2013,1,36
+United States,United States,2013,2,8
+Portugal,France,2013,3,5
+Romania,Romania,2013,1,11
+Turkey,Turkey,2013,1,8
+Venezuela,Venezuela,2013,1,2
+Germany,Germany,2013,1,9
+Malaysia,Malaysia,2013,1,7
+Brazil,Brazil,2012,25,622
+Portugal,Portugal,2012,71,1425
+Algeria,Algeria,2012,1,2
+España,España,2012,39,318
+Germany,Germany,2012,2,11
+Portugal,Spain,2012,8,90
+Chile,Colombia,2012,3,25
+Chile,España,2012,8,19
+Colombia,España,2012,9,57
+Germany,Spain,2012,4,4
+Colombia,Colombia,2012,5,208
+Spain,Spain,2012,4,43
+Spain,España,2012,5,31
+Uruguay,Uruguay,2012,2,3
+Uruguay,España,2012,5,5
+Argentina,Argentina,2012,1,37
+Costa Rica,Costa Rica,2012,1,13
+Australia,Australia,2012,1,1
+United Arab Emirates,United Arab Emirates,2012,1,1
+United States,United States,2012,1,9
+Mexico,Mexico,2012,2,72
+Mexico,España,2012,7,33
+Chile,Chile,2012,4,76
+España,Brazil,2012,1,25
+India,India,2012,1,3
+Estonia,Estonia,2012,2,4
+Brazil,Portugal,2012,11,270
+South Korea,South Korea,2012,1,1
+Italy,Belgium,2012,3,3
+Belgium,Belgium,2012,1,1
+Ireland,Ireland,2012,1,3
+España,Turkey,2012,2,2
+Portugal,España,2012,2,110
+España,United Kingdom,2012,4,9
+Portugal,Portugal,2011,120,1545
+Brazil,Brazil,2011,13,635
+Cabo Verde,Cabo Verde,2011,1,1
+Cabo Verde,Portugal,2011,2,6
+Colombia,Colombia,2011,1,209
+Mexico,Mexico,2011,2,74
+Mexico,España,2011,12,45
+España,España,2011,32,350
+España,Portugal,2011,2,112
+España,Spain,2011,3,34
+Spain,Colombia,2011,2,4
+Spain,Spain,2011,4,47
+Portugal,Brazil,2011,8,278
+Denmark,Denmark,2011,1,2
+Denmark,France,2011,3,3
+United Kingdom,Portugal,2011,1,14
+Portugal,Spain,2011,3,93
+Portugal,Germany,2011,2,6
+Germany,Germany,2011,2,13
+Cuba,Cuba,2011,1,2
+Cuba,Belgium,2011,4,4
+Belgium,Belgium,2011,1,2
+España,Uruguay,2011,2,7
+Uruguay,Uruguay,2011,1,4
+Netherlands,Netherlands,2011,1,1
+Netherlands,España,2011,4,4
+Portugal,Portugal,2010,57,1602
+Uruguay,España,2010,1,8
+España,España,2010,29,379
+Brazil,Brazil,2010,11,646
+España,Portugal,2010,23,135
+Spain,Spain,2010,5,52
+Panama,España,2010,2,17
+Spain,España,2010,2,36
+España,Germany,2010,2,5
+Portugal,Spain,2010,3,96
+España,Paraguay,2010,15,21
+Paraguay,Paraguay,2010,1,10
+Cuba,España,2010,6,8
+Cuba,Cuba,2010,1,3
+Ecuador,Ecuador,2010,2,491
+Argentina,Argentina,2010,2,39
+United Kingdom,United Kingdom,2010,1,5
+Guatemala,Colombia,2010,1,1
+Guatemala,España,2010,1,1
+Colombia,España,2010,1,58
+Denmark,Denmark,2010,1,3
+Denmark,Portugal,2010,4,4
+Bolivia,Spain,2010,3,3
+United Kingdom,South Africa,2010,1,1
+Uruguay,Uruguay,2010,1,5
