@@ -1,0 +1,3 @@
+Open source for public administration: J2Gov — Joomla to government
+ABSTRACT
+This project is the development of a component for the Content Management System Joomla, titled J2Gov (Joomla to government), which can cater for the requirements of public administration bodies, which relate directly to the public. In a single platform, a tool to provide an interface for online services, presential services, document management and control and measurement times and performances. In this context, this project was developed as a way to meet the needs of public administration, regardless of their size, financial capacity or technical expertise of its human resources in the field of information technology.

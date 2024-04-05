@@ -1,0 +1,3 @@
+Binary bat algorithms for the set covering problem
+ABSTRACT
+In the present paper, we resolve the Set Covering Problem using the recently presented meta-heuristic named Binary Bat Algorithm. We use two variations of this algorithm. The Binary Bat Algorithm algorithm was created observing how the bats evade obstacles and find preys to eat, the use of echo-localization is how they do it. We made some changes using two different transfer and two discretization techniques to solve the problem.

@@ -1,0 +1,3 @@
+Decision support social network
+ABSTRACT
+Based on the concepts of Web 2.0 technology, we describe a model for developing systems to support group decision processes and reconstruction of these processes (the decision support social network). The decision groups are considered as cooperative and it is assumed that there are many other actors that may or may not belong to the decision group. The characteristics of the components that are deemed relevant, and different from traditional models, are also listed. Finally, we present some potential problems when adopting social networks for decision support within an organization. Identifying and understanding these problems, allows management plans for bypassing or overcoming them.

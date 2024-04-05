@@ -1,0 +1,3 @@
+The Impact of Leadership and Rewards on Project Management Success, mediated by the cohesion of work teams
+ABSTRACT
+In order to study the impact of leadership and the rewards on the success of project management, mediated by the cohesion of work teams, a necessary equation model was estimated using the SmartPLS software, based on the data collected by questionnaire in a sample of 102 workers working in project management teams. The obtained results show that the directive leadership and the support leadership positively influence the cohesion of work teams. In this work, it was also found that the directive leadership has a positive impact on the success of project management for the customer and that the financial rewards have the opposite effect.

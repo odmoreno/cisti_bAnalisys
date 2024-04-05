@@ -1,0 +1,3 @@
+Cocreation of adaptative components for a virtual platform based on learning styles
+ABSTRACT
+This paper presents the results of the co-creation stage of adaptive components for e-learning platform, focusing on learning styles. The co-creation is considered the methodology that allows to identify the adaptability requirements for virtual learning processes, within a macro project supported by research and government entities of Antioquia, which have interest in improving the education indexes of their people and have identified virtual education as a facilitator in the scope of these social purposes.

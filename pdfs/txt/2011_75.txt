@@ -1,0 +1,3 @@
+A brief survey on online analysis of movement data
+ABSTRACT
+The increasing availability of mobility data and the awareness of its importance and value have been motivating many researchers to the development of models and tools for analyzing movement data. This paper presents a brief survey of significant research works about modeling, processing and visualization of data about moving objects. We identified some key research fields that will provide better features for online analysis of movement data. As result of the literature review, we suggest a generic multi-layer architecture for the development of an online analysis processing software tool, which will be used for the definition of the future work of our team.

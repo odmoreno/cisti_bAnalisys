@@ -1,0 +1,3 @@
+Augmented reality in formal learning environments: Intervention in a visual education textbook
+ABSTRACT
+This article describes an intervention carried out on a 2nd Cycle of Basic Education Visual Education (VE) textbook in formal learning context, using mobile computing devices (smartphones and tablets) and Augmented Reality technology (AR). AR experiments were developed with the Aurasma Studio application and implemented with the Aurasma app. The prototypes produced were the subject of an experimental comparative study aiming to know the effects of the intervention on the students' learning achievements. Results suggest that the augmented textbook contributes to better learning results than the traditional textbook.

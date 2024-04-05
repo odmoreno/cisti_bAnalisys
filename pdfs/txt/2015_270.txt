@@ -1,0 +1,3 @@
+Games to support problem-based learning
+ABSTRACT
+How can a game be used to motivate students towards a specific scientific area and, at the same time, support those students in the development of personal and social skills? eCity online game is an educational platform based on a city simulation engine designed to support Problem Based Learning (PBL) in the STEM area. The game is used to motivate high school students for an academic course in science and engineering helping to solve one of the current problems of society: the lack of students and professionals in these areas. Initial results have been promising in the motivation and satisfaction of the involved students and teachers.

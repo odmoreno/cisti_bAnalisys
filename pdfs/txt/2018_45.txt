@@ -1,0 +1,3 @@
+On the effects of training and experience in test case design
+ABSTRACT
+Years after the first experience on the design of test cases by 115 Spanish IT professionals, a new edition with 36 professionals was organized within a test training course with a new online challenge with enhanced and refined characteristics to make easier the use of the supporting system. This new experience was aimed at checking the effects of experience and training on test effectiveness and efficiency by comparing results with the former experience. The analysis of data on defect detection and test case efficiency confirms poor performance of professionals and suggests that experience and training have impact in results.

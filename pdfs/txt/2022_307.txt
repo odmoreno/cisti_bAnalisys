@@ -1,0 +1,3 @@
+A Machine Learning approach for shared bicycle demand forecasting
+ABSTRACT
+More than 9 million bicycles are shared worldwide through more than 3.000 Bicycle Shared Systems (BSS). Investigating possible behaviours related to the demand for these services will optimize their success. The purpose of this research is to identify the impact of weather conditions, covid and pollution on the usage of BSS. Different machine learning algorithms are studied and used to analyze the different variables. Results were consistent with the literature and theory. In what concerns the algorithms, random forest and multi-layer perceptron regressor performed better, showing a better prediction power.

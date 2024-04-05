@@ -31,6 +31,8 @@ class UpdateData:
         # Papers min path
         self.papersmin = {}
         self.current_year = 0
+        #current default
+        self.hasAffiliations = True
 
     def set_paramethers(self, paper_path, paperminpath, affiliations_path, auth_path):
         # Papers min path
@@ -65,11 +67,11 @@ class UpdateData:
         fail = 0
         for doi, items in self.papers.items():
             try:
-                if doi == "10.1145/3615522.3615528":
+                if doi == "10.23919/CISTI58278.2023.10211888":
                     print("check")
-
+                self.hasAffiliations = True
                 authors_pyalex = items['authorsPyAlex']
-                authors_sch = items['authors'] if 'authors' in items else []
+                #authors_sch = items['authors'] if 'authors' in items else []
                 year = self.check_year(items)
                 if 'title' not in items:
                     info_pyalex = search_in_pyalex(doi)
@@ -81,14 +83,16 @@ class UpdateData:
                 print(f" paper with DOI: {doi} has key: {key}")
                 self.current_year = year
                 if key not in self.papersmin:
-                    authors_pyalex = self.get_id_semantic(authors_sch, authors_pyalex)
+                    #authors_pyalex = self.get_id_semantic(authors_sch, authors_pyalex)
                     authors_new = self.loop_authors_in_paper(authors_pyalex, doi, year)
                     data = {
                         'id': key,
+                        'id2': '',
                         'doi': doi,
                         'title': title,
                         'year': year,
                         'authors': authors_new,
+                        'hasAff': self.hasAffiliations
                     }
                     self.save_papers_min(data)
                     success += 1
@@ -121,15 +125,14 @@ class UpdateData:
     def create_data_author(self, author, institutions, element):
         '''Funcion complementaria'''
         authorId = self.get_numbers_id(author['id'])
-        schId = ''
-        if 'id_sch' in element:
-            schId = element['id_sch']
 
+        if len(institutions) == 0:
+            self.hasAffiliations = False
         data = {
             'id': authorId,
-            'author_sch': schId,
+            'id2': '',
             'name': author['display_name'],
-            'affiliations': institutions
+            'affiliations': institutions,
         }
         self.save_authors_in_conference(data)
         return data
@@ -148,15 +151,18 @@ class UpdateData:
                     # affiliations[insti['id']] = insti
                     affiliations.append(insti)
             else:
-                print('Revisar la raw data')
+                pass
+                '''
+                print('Revisar la raw Data')
                 raw_aff_string_list = author['raw_affiliation_strings']
                 if len(raw_aff_string_list) > 0:
-                    # create data aff
+                    # create Data aff
                     insti = raw_aff_string_list[0]
                     datainsti = self.create_data_aff(
                         {'display_name': insti}, year)
                     # affiliations[datainsti['id']] = datainsti
                     affiliations.append(datainsti)
+                '''
         except Exception as e:
             print(e)
             print(f"Paper with DOI {doi} institucion Error. {e}")
@@ -165,10 +171,10 @@ class UpdateData:
     def clasificar_data_affiliation(self, element, year):
         '''Funcion complementaria'''
         if 'raw_affiliation_strings' in element:
-            # data del segundo tipo obtenida por scrapping
+            # Data del segundo tipo obtenida por scrapping
             return self.data_del_segundo_tipo(element, year)
         else:
-            # data normal
+            # Data normal
             insti = self.create_data_aff(element, year, _hasInsti=True)
             return insti
 
@@ -364,10 +370,17 @@ class UpdateData:
             return ''
 
     def check_year(self, items):
-        '''Funcion secundaria'''
+        '''Funcion secundaria
+        publication_year
+        '''
         if 'year' in items:
-            return items['year']
+            if items['year'] is not None:
+                return items['year']
+            else:
+                return items['publication_year']
         else:
+            if 'publication_year' in items:
+                return items['publication_year']
             if "published" in items:
                 if "date-parts" in items["published"]:
                     year = items["published"]["date-parts"][0]
@@ -421,6 +434,7 @@ class UpdateData:
         if authorid not in self.authors_set:
             self.authors_set[authorid] = element
         else:
+            print(f"old author {self.authors_set[authorid]}")
             if len(instis) > 0:
                 for insti in instis:
                     id_insti = insti['id']

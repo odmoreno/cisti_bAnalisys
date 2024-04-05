@@ -1,0 +1,3 @@
+Contributions to the development of telematic services for a intelligent analysis of traces: A proposal for a PhD
+ABSTRACT
+In this document, it is presented a proposal for a Ph.D. Thesis entitled “Contributions to the development of telematic services for data analysis in eTecnologies. Application to eHealth”. This thesis is aimed to provide with a set of mechanisms and tools intended to promote the intelligent analysis of information associated to traceability systems. In line with this goal, mechanism derived from the Data Analytics models and TICs will be applied. This work pursuits the modeling and development of algorithms, methodologies and representational models for the automatic management of information to complete the above mentioned tasks.

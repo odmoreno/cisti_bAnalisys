@@ -1,0 +1,3 @@
+A multiperspective web accessibility adoption model
+ABSTRACT
+The Internet offers a set of information that is constantly growing in both size and complexity, becoming an indispensable tool to our daily-lifes. A particular group of Web users are those with some sort of disabilities or incapacities. These users need this technology to be adaptable to their incapacities and limitations, thus the need fo the entities behind their development assume the inherent responsabilities. This document serves as a summary of a research project aimed at studying the relation between the users needs and the perspectives on the topic presented by the companies behind Web content development, thus characterizing this reality and achieve future adjustments.

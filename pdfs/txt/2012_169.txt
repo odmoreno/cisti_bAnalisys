@@ -1,0 +1,3 @@
+Tortuosity and elasticity study of distal radius trabecular bone
+ABSTRACT
+In this paper an investigation is conducted to appreciate how the tortuosity of the trabecular bone network can improve the mechanical competence of the structure. The study is based on four samples of distal radius trabecular bone obtained by micro computed tomography. The trabecular volume fraction, tortuosity and elasticity are estimated and the correlation of these parameters shows that for high volume fraction and low tortuosity network the structure becomes strengthen.

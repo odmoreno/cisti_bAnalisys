@@ -1,0 +1,3 @@
+Managing data quality requirements for web portals development: An example of application
+ABSTRACT
+Nowadays, most organizations and companies support its main process (organizational and business) through Web portals; however, people that use these applications need trust on the data they manage. The analyst should add some kind of mechanisms to ensure an appropriate level of quality in the data. This paper shows an example of application of the DQ-VORD methodology, for managing and integrating data quality (DQ) requirements into software requirement specification, this methodology intends guiding the analysts and developers in the process of eliciting and defining of DQ requirements for Web portals development.

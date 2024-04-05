@@ -1,0 +1,3 @@
+Communication between people with motion and speech disabilities
+ABSTRACT
+Some persons can't speak and can't use sign language because they have motion and speech disabilities. This paper describes an aided augmentative and alternative communication computational system to enhance the ability of these disabled persons to communicate. The user can create sentences just by moving his head to select symbols displayed in a monitor. Then, the prototype validates the sentences and sends them to a given receptor, which might be a therapist or another disabled user in another location.

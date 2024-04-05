@@ -1,0 +1,3 @@
+Usability evaluation in Brazil: A systematic mapping
+ABSTRACT
+This paper examines the Brazilian research on techniques for usability evaluation with regard to the scope of use. Through a systematic mapping this study identified 116 studies that reported empirical evidence on the different technical and evaluations in different environments. Results indicate that the empirical technique is the most used and the web environment was chosen by 60% of the studies. This study noted that assessments of an educational product are the most applied ones (33 studies). In addition to mapping research in the area, this study also contributes to point out areas for further research.

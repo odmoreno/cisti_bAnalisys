@@ -1,0 +1,3 @@
+The Potential of Cloud Computing to Leverage the Creation of Cooperation Networks in Rural Regions
+ABSTRACT
+The need for organizations to cooperate, especially SMEs, is currently considered an appropriate way to gain competitive capacity, and ICT are an enabler to support the creation of interorganizational cooperation networks. However, in rural regions, investment in technology is scarce and often seen as an unbearable cost. In order to respond to this reality, this work presents a conceptual technological model capable of leveraging and supporting the creation of cooperation networks, with the contextualization of the business in rural regions being previously done, exploring the fundamentals of cloud computing and cooperation networks.

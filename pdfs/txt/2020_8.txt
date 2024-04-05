@@ -1,0 +1,3 @@
+Voice spectrum of patients diagnosed with bulbar ALS : Slope analysis in the lower energy bands
+ABSTRACT
+This study presents a comparison between spectral analysis of voices of patients diagnosed with bulbar amyotrophic lateral sclerosis (ALS) and healthy speakers. The main objective is to understand how this disease affects the voice and, consequently, the spectrum of patients' voices. The spectra are analyzed in two energy bands, where energy peaks are characterized and, consequently, also the slope between these energy bands. The results obtained allow to conclude that subjects diagnosed with ALS bulbar present significant differences in the mean values and variances of the peak energy compared to the healthy speakers.

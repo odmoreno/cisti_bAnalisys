@@ -1,0 +1,3 @@
+Incidence of the RS(255,223) encoder in the performance of a Zigbee point-to-point system in an indoor environment
+ABSTRACT
+This paper presents the incidence of the RS error correction technique on the performance of a point-to-point link based on Zigbee technology, the measurements show that the RS scheme (255,223) allows the Zigbee system to achieve better performance in cases of interference. The evaluation of the RS technique uses the Euclidiano and Berlekamp Masey algorithms, in both processes requiring operations based on finite fields.

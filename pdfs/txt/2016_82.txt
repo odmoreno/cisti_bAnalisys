@@ -1,0 +1,3 @@
+Using the Soccer League Competition algorithm to solve the set covering problem
+ABSTRACT
+The Soccer League Competition algorithm is a recently new approach to solve optimization problems using metaheuristic technique. It is based in the interaction between soccer players and teams, and the primary objective to win each match and become the best team player or league player. The present paper intends the Python programmatic implementation of Soccer League Competition to solve the Set Covering Problem.

@@ -1,0 +1,3 @@
+Mobile Advertising for the catering industry
+ABSTRACT
+This paper present the creation of a platform, highly scalable and modular, providing new services to the advertising and marketing for the catering industry, taking advantage of the spatial context and user preferences, benefiting from the advantages of Mobile Advertising and Mobile Augmented Reality.

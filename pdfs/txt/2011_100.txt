@@ -1,0 +1,3 @@
+A prototype for indoor orientation of blind people combining multilateration, inertial and magnetic techniques, using 802.11 networks and mobile devices
+ABSTRACT
+In this paper, which deals with an work in progress, we present the results of a prototype that aims to enable blind people to autonomously acquire consumer goods in hypermarkets. The prototype implements an architecture that combines inertial, magnetic and multilateration techniques, supported by 802.11 networks and mobile devices. We present the preliminary results of positioning and orientation obtained in tests carried out in a hypermarket, and we discuss the main constraints observed as well as the challenges for future work.

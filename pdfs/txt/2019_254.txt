@@ -1,0 +1,3 @@
+Study of Medical Image Processing Techniques Applied to Lung Cancer
+ABSTRACT
+Lung cancer is the leading cause of death from cancer worldwide. Medical images are essential in the diagnosis and prognosis of lung cancer. Medical image processing techniques such as Radiomics allow extracting information from these images that it is not accessible without computational means, and may be useful in the detection and treatment of cancer. This article presents the state of the art of image processing techniques applied in the study of lung cancer, emphasizing in two main tasks: segmentation of nodules or tumors, and extraction of useful features for classification and prognosis of tumor evolution using Radiomics.

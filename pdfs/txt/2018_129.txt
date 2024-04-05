@@ -1,0 +1,3 @@
+A webGIS measurement and clustering planning system for electric power consumer units
+ABSTRACT
+The webGIS systems provides a complete solution containing Geographic Information Systems (GIS) related concepts using the internet infrastructure. Moreover, the webGIS systems enables the integration with different technologies for problem treatment that need to use specific computing methods, as data clustering. In the scenario of the energy companies, it is necessary to use clustering heuristics for optimized measurement planning of the electric power consumer units. This work presents a webGIS system for creating clustering simulations using K-Means and BIRCH methods, using the real scenario of energy distribution companies.

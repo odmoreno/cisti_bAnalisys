@@ -1,0 +1,3 @@
+Approaches to algorithmic trading techniques: First sell and moving average crossover
+ABSTRACT
+Knowing how to interpret the signals in markets as critical as the synthetic indices and keeping the appropriate stop operations are, without deny-ing it, two important variables when operating in trading. In this research, two manual trading sell techniques are proposed, one based on the first sell after the BOOM 500 trigger and the other based on moving average crossovers. The results showed an efficiency close to 70% for the first proposal, and the second regularly obtains an efficiency close to 100%.

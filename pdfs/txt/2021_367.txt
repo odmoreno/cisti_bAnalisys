@@ -1,0 +1,3 @@
+Does intellectual capital influence the risk of Ecuadorian communication companies?
+ABSTRACT
+Intellectual capital affects the company's risk. The better the companies are managed, the less risk they will bear and the better performance they will have. The objective of this article is to determine how risk and intellectual capital, measured by the VAIC methodology, are related in their different aspects in Ecuadorian communication companies in the period 2014-2019. Through quantile regressions it is determined that risk, measured by Altman's Z, depends negatively on the physical, intellectual and human capital of the communication companies, so that adequate intellectual capital management increases the probability of survival of the companies.

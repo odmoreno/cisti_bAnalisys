@@ -1,0 +1,3 @@
+Using feature selection algorithms in educational data: Three case studies
+ABSTRACT
+This paper discusses three case studies involving the use of feature subset selection algorithms, as well as feature ranking, based on real data on student performances in a course of a Bachelor of Computer Science program. The case studies aimed at investigating, as a step prior to the use of data mining algorithms for performance prediction, the effectiveness of feature selection methods, for reducing data volume.

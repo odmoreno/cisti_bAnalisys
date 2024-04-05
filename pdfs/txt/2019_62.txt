@@ -1,0 +1,3 @@
+Computer Vision Approaches to Waste Containers Detection
+ABSTRACT
+The work presented in this article is the result of a prelaminar investigation that aims at using computer vision techniques to replace the current method of performing detection of waste contains via radio-frequency identification. Comparatively to the current method, this approach is more agile and diminishes the resources needed for an implementation. The approach discussed is focused on the use of convolutional neural networks, specifically the network YOLO. Using this method of identification, it was attained an accuracy of 92% of the waste containers.

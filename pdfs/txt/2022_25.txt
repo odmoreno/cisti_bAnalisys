@@ -1,0 +1,3 @@
+Comparative analysis of tools and solutions for online study
+ABSTRACT
+For both teachers and students, a determination about the tools available to improve the transmission of knowledge and the associated teaching material for this purpose would be of great help. In this comparison we are going to review a great quantity of the free, open source or partially commercial basic tools that exist today on the Internet, to help reveal the uncertainty that one can find when choosing the product.

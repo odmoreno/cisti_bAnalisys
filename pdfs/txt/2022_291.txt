@@ -1,0 +1,3 @@
+Definition of Metrics for Work Efficiency Monitoring Based on Multi-System Usage Behaviour Analysis
+ABSTRACT
+this paper describes a workflow efficiency estimation solution with appropriate metrics that could be used to obtain mathematical evaluations of work activities of IT systems users. Such evaluations are of great importance in current World state where COVID pandemic forced many employees to transfer their work activities from the office to home environment. Managers and administration of organizations could use analysis of these metrics and patterns for optimizing their day-to-day workflows.

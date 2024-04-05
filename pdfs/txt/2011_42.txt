@@ -1,0 +1,3 @@
+Implementation of a Balanced Scorecard in a assistance insurance company
+ABSTRACT
+This paper presents an analysis for the practical implementation of a tool using the Balanced Scorecard method (BSC) an insurance company for assistance. The main result of this work is to design a set of performance indicators, as well as a strategic map in order to support the implementation of the BSC methodology based tool capable of measuring strategic alignment by identifying and communicating the strategy, developing action plans to enable monitor, manage and use data to improve company performance.

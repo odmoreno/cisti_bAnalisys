@@ -1,0 +1,3 @@
+Using Scrum in small teams: Combining case study with grounded theory
+ABSTRACT
+Much has been argued about the benefits of using Scrum in software projects. This article reports a case study on an education institution's software development department through the application of certain practices of the Scrum to the software development process. The aim is to identify whether the team satisfaction is increased with the method utilization. Together with the case study, we applied the Grounded Theory method to identify relationships between the various aspects involving the experience of using Scrum in this context. From our studies and based on the results obtained, we show that, for small teams, Scrum appears as a good choice for project management.

@@ -1,0 +1,3 @@
+An expert system for mobile devices based on cloud computing
+ABSTRACT
+This paper describes the implementation of an Expert System for Android mobile devices, directed to the common user and the ability to use different knowledge bases, selectable by the user. The system uses a cloud computing-based architecture to facilitate the creation and distribution of different knowledge bases.

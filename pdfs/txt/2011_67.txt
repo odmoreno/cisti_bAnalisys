@@ -1,0 +1,3 @@
+Analysis of a contribution from open source software to Virtual Training Systems
+ABSTRACT
+This paper tries to establish a reflection on the advantage using free software in the context of Virtual Training Systems. Teachers and researchers suggest the need to obtain conclusions from work with these Systems, however current eLearning platforms do not permit that will enable progress reports on that line. Therefore we analyze the need for an adaptation of the software to respond to these approaches. We also present an example of applying the above theoretical framework and future directions of the method.

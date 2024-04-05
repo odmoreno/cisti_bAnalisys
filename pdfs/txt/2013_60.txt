@@ -1,0 +1,3 @@
+Semantic Web Implementation Model in Enterprises
+ABSTRACT
+The Semantic Web is an important challenge for today's Web usage. The progressive transformation of the Web based on documents into the Web based on data will bring up a Web scale database. Given that the Enterprise Semantic Web is still a less explored subject, this article proposes an Implementation Model that helps the introduction of the technology and the evaluation of its' impact in the applications used and tasks performed.

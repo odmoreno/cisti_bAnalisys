@@ -1,0 +1,3 @@
+IT Governance in Uruguayan SMEs: Analysis of strategic alignment and decision-making processes
+ABSTRACT
+This article aims to present the preliminary results of a survey in Uruguayan SMEs enterprises with the objective of studying aspects of IT governance. Analyzes the state of IT governance in this kind of enterprises, the degree of strategic alignment, the allocation of responsibilities and the decisión-making processes in these companies.

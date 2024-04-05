@@ -1,0 +1,3 @@
+Learning styles identification module for Sakai environment
+ABSTRACT
+We live essentially in a technological world in which technology facilitates and promotes the development of institutions and people that work or study. Thus, it is argued that technology meets people's needs, taking into account their objectives, interests and learning styles. In this article, with a perspective to improve teaching and learning, beyond the conceptualization of learning styles and learning management systems, is presented the integration of a learning styles identification module, based on CHAEA questionnaire, into the Sakai collaborative learning environment adopted in the authors' institution.

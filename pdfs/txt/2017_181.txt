@@ -1,0 +1,3 @@
+Contribution to the establishment of an educational modeling for the context of mobile learning
+ABSTRACT
+Mobile learning systems (m-learning), even with benefits in terms of education, presents challenges that need to be explored, such as the lack of a specific educational modeling. The work presents the definition of a set of characteristics and requirements for educational modeling directed to the context of mobile learning, assisting and flexibilizing the creation of educational content. A systematic review was performed to understand how the scientific community describes and investigates the elements related to an educational modeling for this new teaching context.

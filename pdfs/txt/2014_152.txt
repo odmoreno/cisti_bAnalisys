@@ -1,0 +1,3 @@
+Augmented reality on HbbTV, an Hypervideo approach
+ABSTRACT
+In this paper, an Augmented Reality system for the Connected TV is presented through a Hypervideo platform implementation. The Hypervideo platform consists of a backoffice to manage audiovisual content and hot-spots, and an interactive video player based in HbbTV technology. The player lets the user get additional information of the points of interest which are displayed over the images. This project presents a useful platform to audiovisual production teams, letting them mix, in an easy way, these three technological concepts: interactive video, augmented reality and connected television. This paper concludes with some improvement possibilities and extension to other devices.

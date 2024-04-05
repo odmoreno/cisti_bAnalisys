@@ -1,0 +1,3 @@
+Requirements for the Development of Digital Serious Games for Dyslexics
+ABSTRACT
+Considered a learning disorder, dyslexia can be present at any age, both in acquired and evolutionary form, that is, congenital and hereditary. Usually, the disorder tends to develop in the learning stage. Educational games on mobile devices with features that consider the needs of the dyslexic can be a way to motivate and attract the attention of these children in the learning stage. Thus, this paper presents the requirements for the development of a children's educational game for the Android platform, whose goal is to improve the attention and learning of children with dyslexia.

@@ -1,0 +1,3 @@
+Using GPU to exploit parallelism on cryptography
+ABSTRACT
+In this article we explore the NVIDIA graphical processing units (GPU) computational power in cryptography using CUDA (Compute Unified Device Architecture) technology. CUDA makes the general purpose computing easy using the parallel processing presents in GPUs. To do this, the NVIDIA GPUs architectures and CUDA are presented, besides cryptography concepts. Furthermore, we do the comparison between the versions executed in CPU with the parallel version of the cryptography algorithms Advanced Encryption Standard (AES) and Message-digest Algorithm 5 (MD5) wrote in CUDA.

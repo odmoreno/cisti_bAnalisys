@@ -1,0 +1,3 @@
+A process to mining issues of software repositories
+ABSTRACT
+Public software repositories offer a great opportunity for researchers. GitHub is a repository with more than 10 million projects. GitHub has an implementation of a defect tracking system. This paper describes the process developed to extract defects from GitHub repository, one of the most widely used public repositories. In this work, besides of the process, it is presented the appeared difficulties, during data mining. With obtained data, it is pretended to apply neural networks to get defects prediction.

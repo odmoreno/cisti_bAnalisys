@@ -1,0 +1,3 @@
+Towards a method to retrieving business process model from source code
+ABSTRACT
+Understanding and keeping track of business processes is one of the most important tasks in development of business software. However, any documentation other than source code cannot be completely reliable. On the other hand, source code is rather unreadable by non-developers and can be challenging to determine business processes distributed among many files and layers. This paper introduces a methodology for extracting business process model from source code by identifying topics from object model, analysing application architecture dependency and developing a graph data structure to store information regarding semantic relationships within source code.

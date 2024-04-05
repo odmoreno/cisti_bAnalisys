@@ -1,0 +1,3 @@
+Intelligent water drop algorithm (IWD)to solve software project scheduling problem
+ABSTRACT
+The Software project planning is one of the main problems that project managers are confronted as is the allocation of human resources to the activities to be performed to carry out a project. The purpose of this paper is to give an automated approach to help in this difficult task to minimize cost and total duration of the project. To achieve this, we propose to use the recent algorithm called Intelligent Warter Drop, which one of its main characteristics is the inclusion of a construction phase.

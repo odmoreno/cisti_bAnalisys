@@ -1,0 +1,3 @@
+A support system for classification of students approved/disapproved in virtual environments for distance learning
+ABSTRACT
+This paper describes an efficient way to presort students as possible pass / fail courses in which use of distance education as an aid or fully in its activities. The environment was used moodle and technique of data mining for classification was the SVM (Support Vector Machine). This makes it possible to efficiently classify the chance to be a student flunking a course and then act in a preventative manner to avoid such failure.

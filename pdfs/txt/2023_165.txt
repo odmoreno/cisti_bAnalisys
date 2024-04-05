@@ -1,0 +1,3 @@
+Information and Communication Technologies and Remittances
+ABSTRACT
+In an increasingly globalized and interconnected world, remittance flows can reach the most remote areas in ever shorter times thanks to the adoption of digital technologies by migrant workers and their families. In this sense, we seek to examine through a panel data model the relationship between information and communication technologies (ICTs) and remittances. The result indicates that information technology and remittances have positive effects and statistically there is a significant relationship since in the short or medium term, the importation of ICTs influences better remittances.

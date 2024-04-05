@@ -1,0 +1,3 @@
+Avatoys: Hibrid system with real and digital puppets
+ABSTRACT
+This work presents a novel interactive Dual Reality system called Avatoys. This system is based on the traditional puppet games but adding a digital dimension to it. The real puppets (toys) are transformed into tangible interfaces that control virtual characters (avatars). This virtual world facilitates the creation of new narrative elements and enriches representation with visual and sound effects. A functional prototype of the system has been created, which implements a set of interaction modes.

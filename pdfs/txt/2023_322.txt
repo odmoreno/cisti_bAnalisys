@@ -1,0 +1,3 @@
+A brazilian study on data-driven public service readiness
+ABSTRACT
+Data is an engine for public sector digital transformation, whose potential is to improve social well-being and combat population’s poverty. This article aims to propose steps to improve agencies’ readiness to transform their operation model into a data-driven public service (DDPS). Therefore, explanatory research with a quantitative approach was used through structural equations to validate the model, based on data collected from a questionnaire applied to 101 Brazilian public servants. The results revealed that Operational Capacity factor $(37.7 \%)$ has the greatest impact on readiness for the transition to DDPS, when using partial least squares structural equation modeling (PLS-SEM).

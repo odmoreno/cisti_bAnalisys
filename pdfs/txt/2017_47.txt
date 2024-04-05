@@ -1,0 +1,3 @@
+Analysis of dimensions influencing the success of BI projects through data mining
+ABSTRACT
+Business Intelligence (BI) is an emergent domain with numerous implementation projects proliferating in the industry. However, several factors may influence the success of such projects. This study addresses the identification of the relevant dimensions that may affect success for leveraging a future empirical analysis of BI projects in Portugal through data mining using the quantitative features hereby identified.

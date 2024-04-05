@@ -1,0 +1,3 @@
+Process Mining: A framework proposal for Pervasive Business Intelligence
+ABSTRACT
+In recent years, global growth slowed, the markets have matured and become more competitive. The impact of computing in organizations made information technology a strategic element to the acquisition and maintenance of competitive advantage. Based on the literature review in the related areas of Business Intelligence (BI) and Process Mining (PM), is presented a framework for improving the decision-making processes in organizations.

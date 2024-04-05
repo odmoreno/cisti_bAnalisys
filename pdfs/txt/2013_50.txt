@@ -1,0 +1,3 @@
+An approach to collaborative interaction analysis in Virtuales Learning Systems using Social Network Analysis
+ABSTRACT
+This work presents the use of Social Network Analysis' indicators to the study the Virtual Learning Systems (VLS). We focus on Computter Supported Collaborative Learning (CSCL) context in a VLS. First we define Collaborative Interaction unit, then we apply the indicators of the Social Network Analysis (SNA) to differents virtual courses. There are interesting applications of SNA to the virtual courses, however, we present a new approach using statistical analysis to those indicators. We have performed and evaluation with more than 500 students considering 5 courses.

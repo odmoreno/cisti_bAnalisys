@@ -1,0 +1,3 @@
+Open source business intelligence tools for SMEs
+ABSTRACT
+In times of rapid change and intense competition, companies are looking for innovations and new market segments, in order to understand the present time and act according to the new market trends. To assist managers in making the best decisions, there are numerous business intelligence tools. In this work we evaluate and compare four open source business intelligence tools: SpagoBI, OpenI, Pentaho, JasperSoft, Palo and Vanilla. Thus, only free available platforms are analyzed for use by SMEs in order to maintain their competitive advantage in an increasingly global market.

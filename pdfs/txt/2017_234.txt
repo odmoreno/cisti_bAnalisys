@@ -1,0 +1,3 @@
+Detection of suspicious persons and special software
+ABSTRACT
+This paper contains a description of programs currently available for detecting physiological changes in the human reaction to a stressful situation. For each program described what is being evaluated, what we get like output of the program, advantages, disadvantages and potential contribution to commercial security. As alternative solutions are included training programs to help security personnel to detect suspicious persons and to assess if there is a real danger of some of them by reading the nonverbal communication. The aim is to show the potential benefits in the application of knowledge in reading nonverbal communication for commercial security industry.

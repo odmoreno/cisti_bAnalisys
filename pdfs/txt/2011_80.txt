@@ -1,0 +1,3 @@
+DroidJacket: An Android-based application for first responders monitoring
+ABSTRACT
+The Vital Responder project aims at exploring the synergies between wearable technologies, scattered sensor network, intelligent building technology and precise localization services to provide secure, reliable and effective first-response systems in emergency scenarios. One of the components required in this technological setting is the ability to monitor biosignals from first responders in the field. In this paper we present a mobile monitoring system called DroidJacket to address the Vital Responder requirements. DroidJacket uses a Android-based smartphone as a base station for vital signs acquired with the Vital Jacket® garment, enabling visualization and simple real time processing.

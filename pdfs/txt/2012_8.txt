@@ -1,0 +1,3 @@
+Metadata selection to search Learning Objects on the web: A methodology based on content analysis of official documents of the course units
+ABSTRACT
+The metadata have been assuming a growing importance in the management and retrieval of information. The DCMI defines metadata as "information that expresses the intellectual content, intellectual property and/or instantiation characteristics of an information resource [1]. This paper presents a methodology to identify keywords/metadata to search Learning Objects (LO) on the web, based on learning outcomes extracted from official documents used in the course units (CU) of a scientific field.

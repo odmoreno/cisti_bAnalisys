@@ -1,0 +1,3 @@
+Domotics control system architecture
+ABSTRACT
+This paper proposes a distributed and autonomous domotics control system architecture. The proposed architecture presents a good compromise between acquisition and ownership cost, flexibility, manageability and security. The system is composed by an autonomous and smart console per room which controls the devices in that room. In spite of consoles being completely autonomous they can be controlled remotely. As a result of this the user may control the domotics system, not only in the console, but also using a mobile device with a wi-fi connection.

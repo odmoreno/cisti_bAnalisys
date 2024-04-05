@@ -1,0 +1,3 @@
+WCAG-Easy Tool : A tool based in the WCAG to learn web accessibility
+ABSTRACT
+The large number of people with disabilities in the world, in line with the importance of using the Internet in our lives, makes web accessibility a fundamental factor for an inclusive society. Despite this, inaccessibility is still a problem on current web sites, and the lack of knowledge on the part of those responsible is a major contributing factor. Aiming to support the teaching/learning process of web accessibility, this article describes the process of creating and validating the WCAG-Easy Tool, a WCAG 2.1-based tool that can be used to teach web accessibility concepts and practices to developers and students.

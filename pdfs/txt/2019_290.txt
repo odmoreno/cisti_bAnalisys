@@ -1,0 +1,3 @@
+Gamified system for learning of Scrum development process
+ABSTRACT
+Agile Scrum process for software development is a framework easy to understand, but its roles, artifacts and events must be trained to ensure that developers perform their activities correctly. Therefore, innovative strategies are required to promote their learning. One such strategy is gamification. This paper aims to describe a gamified system oriented to mobile platforms that allows to apply the Scrum process from the Scrum Master's viewpoint. The gamified system developed was evaluated by university students of Software Engineering. The results show that the gamified system favors the learning of Scrum concepts from a good usability and playability.

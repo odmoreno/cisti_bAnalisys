@@ -1,0 +1,3 @@
+Using Haskell to script combinatoric testing of Web Services
+ABSTRACT
+The Classification Tree Method (CTM) is a popular approach in functional testing as it allows the testers to systematically partition the input domain of an SUT, and specifies the combinations they want. We have implemented the approach as a small domain specific language (DSL) embedded in the functional language Haskell. Such an embedding leads to clean syntax and moreover we can natively access Haskell's full features. This paper will explain the approach, and how it is applied for testing Web Services.

@@ -1,0 +1,3 @@
+Electronic health record for clinical intervention in children with language disorders
+ABSTRACT
+Electronic health records have a positive impact in the provision of health care. The efficiency and effectiveness of professional practice of the speech therapist can be increased through the usage of electronic health records. This study aims to systematize the procedures for the clinical intervention in children with language disorders and to conceptualize and validate an information model suitable for this intervention. The results of the study show that the implemented prototype is functional, relevant and useful. Additionally, it was considered an added value for the therapeutic process.

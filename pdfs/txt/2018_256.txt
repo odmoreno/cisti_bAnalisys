@@ -1,0 +1,3 @@
+A data mining approach for forecasting students' performance
+ABSTRACT
+Educational Data Mining (EDM) is a research area with focus on the use of data mining algorithms/techniques in educational data, with a diversified range of purposes. Among them, EDM can be useful for inducing a model to forecast students' final performance, early in the term, in time to trigger the use of educational recovery techniques, in an attempt to prevent students' failures. This paper presents and discusses the results of three experiments on forecasting students' performance, based on real data, extracted from stored students' performance records related to an university course.

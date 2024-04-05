@@ -1,0 +1,3 @@
+Evolution of usability in DCS: New model of view in the operation displays
+ABSTRACT
+The weakest chain in Control Systems in Industrial Enterprises it is located within the DCS (Distributed Control System) operators; that it is pretended to turn their 2D operational environments, in their different models, into 3D operational environments. The 2D environment limits the capacity of visualization from users (operators), however in the proposed 3D environment the vision it is widest and wonderful, perceiving in only one view the full industrial process. In this paper it is explained the evolution of these ideas from the basic 2D to the proposed 3D, crossing by 2.5D that has been, in many moments, served as a reference in the frame of a complex view.

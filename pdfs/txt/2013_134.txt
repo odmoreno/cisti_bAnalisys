@@ -1,0 +1,3 @@
+Cloud collaborative broker for Distributed Energy Resources
+ABSTRACT
+In this work it is proposed the design of a system to handle Distributed Energy Resources (DER), which is a new reality due to Electric Vehicles (EVs), Microgeneration (MG) and the open Electrical Markets (EM). This upcoming reality brings the need of the ‘old’ central energy control to be installed locally. For that we propose a local energy broker, responsible to handle local energy flow and to exchange energy with ‘big’ market players, and based on a collaborative approach, to promote user's participation to increase systems knowledge. The energy broker uses cloud computing paradigm to create a collaborative communication between the involved parts.

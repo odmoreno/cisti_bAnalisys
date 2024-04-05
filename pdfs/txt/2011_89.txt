@@ -1,0 +1,3 @@
+Towards measuring information interoperability based on model transformations
+ABSTRACT
+Interoperability is a key aspect of collaborative systems especially in massive and highly distributed environments such as the Internet of Things. Know how systems can communicate among themselves in order to lose as little information as possible is a key challenge. To meet this challenge one needs to set methods to measure the Interoperability Capacity in the communication between two systems. This work proposes a method to perform this measurement based on a Model Driven approach, namely in the mapping performed by model transformations. Then a strategy for implementation of the proposed method is given.

@@ -1,0 +1,3 @@
+Educational experience in teaching geographic information systems in architecture
+ABSTRACT
+Teaching Geographic Information Systems in the degree of Architecture raises a number of challenges due to the specific needs of both architecture students and trained architects. This paper explains the teaching methodology of the elective “Urban Studies with GIS technology” than has been taught in the Barcelona School of Architecture since 1996. The results of the surveys conducted on the course students about different aspects of the subject, regarding the applicability in their studies and work of the concepts learnt are also discussed.

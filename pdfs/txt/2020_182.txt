@@ -1,0 +1,3 @@
+Detection of Taxpayers with High Probability of Non-payment: An Implementation of a Data Mining Framework
+ABSTRACT
+Due to limitations in tax administrations, such as: staff, tools, time, etc., tax administrations seek to recover debts in the early stages of control, where the cost of collection is lower than in the subsequent stages. This work proposes a framework based on deep learning techniques to predict debts of taxpayers with high probability of non-payment in a short period of time. A group of debts of a tax administration was used to generate the model to estimate the risk of non-payment. A concordance index metric was used to measure the performance. The performance obtained was 90%.

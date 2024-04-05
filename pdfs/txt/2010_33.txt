@@ -1,0 +1,3 @@
+Ambient intelligence system for controlling home automation installations
+ABSTRACT
+The present paper proposes the model of an expert system able to control domotic installations, called IntelliDomo. It is an ontology and production SWRL rules-based expert system that has the ability of learning user's habits and preferences in an automatic way. The system obtains its data analyzing the actions that the user frequently performs. The main goal is to detect and to discover new behaviour patterns and to automatically create SWRL rules that propose actions that anticipate these learned patterns.

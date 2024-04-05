@@ -1,0 +1,3 @@
+Serious game in web programming learning: A systematic literature review
+ABSTRACT
+The importance of education has given rise to the search for different learning techniques and the use of information technology tools. One of the techniques currently used to achieve and encourage learning is serious games and gamification; these techniques allow students to achieve learning objectives while playing. This paper presents a systematic literature review about proposals for learning web programming based on serious games; 10 studies based on serious games are presented for learning content related to web programming, programming languages, and the topics addressed in teaching. This study contributes to web programming learning for students who want to learn web programming.

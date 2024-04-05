@@ -1,0 +1,3 @@
+Business intelligence applied in decision support for public safety
+ABSTRACT
+This paper presents a business intelligence application developed to analyze the effectiveness of the application of the technique in Public Safety. The study was conducted in the city of Mossoró, Brazil and uses the data from a CAD tool (Computer Aided Dispatch) used by the Integrated Operations Centre in Public Safety (CIOSP). The software assists the managers in decision making.

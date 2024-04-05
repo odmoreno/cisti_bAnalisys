@@ -1,0 +1,3 @@
+Web Geographic Information System of the Luziânia city
+ABSTRACT
+To manage the large volume information in the Brazilian city of Luziânia, related to education, entertainment, health and safety, is required the development of an information system capable of performing the computational treatment of such information. A Geographic Information System (GIS) is an information system with the ability to represent alphanumeric and spatial data. In this context, this article proposes the development of a Web Geographic Information System (GIS Web) in order to facilitate the organization, management and visualization of data from city Luziânia related to education, entertainment, health and security.

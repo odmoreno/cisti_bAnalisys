@@ -1,0 +1,3 @@
+Decision support in attribute selection with machine learning approach
+ABSTRACT
+This paper proposes a method to simultaneously select the most relevant single nucleotide polymorphisms (SNPs) markers — the attributes — for the characterization of any measurable phenotype described by a continuous variable using support vector regression (SVR) with Pearson VII Universal Kernel (PUK). The proposed study is multiattribute towards considering several markers simultaneously to explain the phenotype and is based jointly on a statistical tools, machine learning and computational intelligence.

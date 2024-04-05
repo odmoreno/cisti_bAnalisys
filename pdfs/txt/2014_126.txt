@@ -1,0 +1,3 @@
+Geographical data modeling with the UML GeoProfile and MDA transformations on the Enterprise Architect Tool
+ABSTRACT
+The GeoProfile, which was proposed to standardize the conceptual modeling of geographical databases and contains different abstraction levels of MDA architecture, is a UML profile that can be introduced on a variety of CASE tools already consolidated by the UML infrastructure. This article aims at describing the use of GeoProfile on the Enterprise Architect CASE tool and its language transformation to allow automatic transformations among different levels of MDA architecture.

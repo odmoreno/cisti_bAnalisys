@@ -1,0 +1,3 @@
+Identifying Patterns in Banking based on Intellectual Capital and Financial Performance
+ABSTRACT
+The objective of this work focuses on identifying clusters of banks based on variables that measure intellectual capital (IC) and financial performance in Ecuadorian private banks for the period 2002 to 2020, using Sparse K-means algorithms as a novel technique. The results based on the experiments showed that the banks are grouped into 4 clusters, where the weights of the IC variable and its components were lower than the weights of the ROA and ROE variables as measures of financial performance.

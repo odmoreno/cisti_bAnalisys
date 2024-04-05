@@ -1,0 +1,3 @@
+Deterministic and Stochastic Simulation of the COVID-19 Epidemic with the SEIR Model
+ABSTRACT
+This work regards the simulation of the spread of the COVID-19 disease in a community by applying the deterministic and stochastic Susceptible-Exposed-Infective-Recovered (SEIR) epidemic models. The developed computational method for the stochastic variant allows to realistically simulate the spread of COVID-19 in a medium-sized community and to study the effect of preventive measures such as quarantine and vaccination. The results of the simulations are compared with the deterministic version of the SEIR model. The comparison makes it possible to conclude that the epidemic outbreak can be prevented even though the basic reproduction number is greater than one.

@@ -1,0 +1,3 @@
+Trending topics in Twitter: A case study
+ABSTRACT
+Twitter is an application used in several countries. There is a growing interest in what is discussed on this platform and in particular in their trending topics, expressions used much more frequently than others. In order to study these trends and the differences and similarities in various locations data were extracted from various sources, including from Twitter, but also DBpedia and daily newspapers. Later the collected data were analyzed by checking the variations over time in different places and also by crossing data from various sources. The trends were analyzed according to various aspects, such their global use, their cover in news and their periodicity, among others.

@@ -68,12 +68,12 @@ def check_if_file_exist(file_path):
     if os.path.exists(file_path):
         print(f"The JSON file '{file_path}' already exists.")
     else:
-        # Create a new JSON file with some initial data
-        data = {}
-        # Write the data to the file
+        # Create a new JSON file with some initial Data
+        Data = {}
+        # Write the Data to the file
         with open(file_path, 'w') as json_file:
-            json.dump(data, json_file)
-            print(f"Created a new JSON file '{file_path}' with initial data.")
+            json.dump(Data, json_file)
+            print(f"Created a new JSON file '{file_path}' with initial Data.")
     # Now you can work with the JSON file, either existing or newly created.
 '''
 
@@ -83,22 +83,22 @@ def check_if_file_exist(file_path, file_type='json'):
     if os.path.exists(file_path):
         print(f"The {file_type.upper()} file '{file_path}' already exists.")
     else:
-        # Create a new file with some initial data based on the file type
+        # Create a new file with some initial Data based on the file type
         data = {}
         if file_type == 'json':
             # For JSON files
             with open(file_path, 'w') as json_file:
                 json.dump(data, json_file)
-            print(f"Created a new JSON file '{file_path}' with initial data.")
+            print(f"Created a new JSON file '{file_path}' with initial Data.")
         elif file_type == 'csv':
             # For CSV files
             with open(file_path, 'w', newline='') as csv_file:
                 csv_writer = csv.writer(csv_file)
                 # Add header if needed
                 # csv_writer.writerow(['Column1', 'Column2', ...])
-                # Write the data to the file
+                # Write the Data to the file
                 # csv_writer.writerow([value1, value2, ...])
-            print(f"Created a new CSV file '{file_path}' with initial data.")
+            print(f"Created a new CSV file '{file_path}' with initial Data.")
         else:
             print(f"Unsupported file type: {file_type}")
 
@@ -138,7 +138,7 @@ def load_csv(path):
     file = open(path, encoding="utf8")
     raw_data = csv.reader(file, delimiter=',', quotechar='"')
     datum = list(raw_data)
-    # data = list(csv.DictReader(file, delimiter=",", quotechar='"'))
+    # Data = list(csv.DictReader(file, delimiter=",", quotechar='"'))
     # file.close()
     return datum
 
@@ -162,7 +162,7 @@ def csv_generics(path, list, cols):
         writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
         writer.writeheader()
         for data in list:
-            # print(data)
+            # print(Data)
             writer.writerow(data)
 
 
@@ -183,7 +183,7 @@ def load_csv(path):
     file = open(path, encoding="utf8")
     raw_data = csv.reader(file, delimiter=',', quotechar='"')
     datum = list(raw_data)
-    # data = list(csv.DictReader(file, delimiter=",", quotechar='"'))
+    # Data = list(csv.DictReader(file, delimiter=",", quotechar='"'))
     # file.close()
     return datum
 

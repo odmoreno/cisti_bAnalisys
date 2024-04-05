@@ -1,0 +1,3 @@
+ITC impacts in the health sector: PACS adoption in Centro Hospitalar do Médio Ave
+ABSTRACT
+ICT management is traditionally a complex area in the health sector. Significant investments have been made but related results are normally hard to find. In this context, the present research aims to study the process of implementation of Picture Archiving and Communication System (PACS) at Centro Hospitalar do Médio Ave, in order to understand the process of technology adoption in a hospital context and the analyze the related impacts. This study is based in an interpretative approach, supported by a qualitative research process in order to obtain and analyze relevant information that was gained from a qualified panel of experts, including both health and ITC professionals.

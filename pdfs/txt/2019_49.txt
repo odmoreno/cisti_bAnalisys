@@ -1,0 +1,3 @@
+LowCost System Architecture for Monitoring Environmental Parameters in Circulating Automotive Roads
+ABSTRACT
+The quality of life in cities is nowadays a concern. The city management authorities usually are concerned with the environmental parameters. This article presents an architecture of a low-cost system for monitoring environmental parameters in Automotive Roads.

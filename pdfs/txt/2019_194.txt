@@ -1,0 +1,3 @@
+Color Sorter System with Redundancy Through Red, Green and Blue Model
+ABSTRACT
+Color sorter system with redundancy through Red, Green and Blue model is a color recognition system through two forms of perception, one through a sensor and the other through a camera avoiding classification errors. The project makes use of industry 4.0 protocols.

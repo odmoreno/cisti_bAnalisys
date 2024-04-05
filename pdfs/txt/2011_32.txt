@@ -1,0 +1,3 @@
+SUCUPIRA: A system for Information extraction of the Lattes Platform to identify academic social networks
+ABSTRACT
+Today, the Lattes Platform is undoubtedly the major source of information on Brazilian researchers. Hence, it has a very high potential for extracting information. This paper describes “SUCUPIRA”, a system for Information extraction of the Lattes Platform to identify academic social networks.

@@ -1,0 +1,3 @@
+Teaching and learning data structures supported by computers: An experiment using CADILAG tool
+ABSTRACT
+This paper aims to present the use of a learning object (CADILAG), developed to facilitate understanding data structure operations by using visual presentations and animations. The CADILAG allows visualizing the behavior of algorithms usually discussed during Computer Science and Information System courses. For each data structure it is possible visualizing its content and its operation dynamically. Its use was evaluated an the results are presented.

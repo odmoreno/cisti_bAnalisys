@@ -1,0 +1,3 @@
+Analysis of air pollution in single-family homes by using the time series
+ABSTRACT
+Progress in the middle of industries and more in the environment of fossil fuels (coal, oil and gas), and its consumption has led to serious air pollution, which directly affects the health of living beings, The objective of this work is to identify the degree of indoor air pollution using time series for data collection and to perform the respective analysis of these data in such a way that the results allow to act in the prevention of risks associated to The exposure of pollutants.

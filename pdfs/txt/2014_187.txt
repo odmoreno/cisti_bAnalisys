@@ -1,0 +1,3 @@
+Study of Guessability method in a game for multitouch screen
+ABSTRACT
+One of the elements of an application for touch-based devices is the vocabulary of gestures. There are methods for creating a vocabulary of gestures that are intuitive and considered ergonomically good. In order to assess the quality of one of these methods, a test with the Guessability method was performed using a game for multi-touch screen. The test showed the potential of this method being generic enough to work with different sorts of applications, allowing a great amount of freedom in its execution. Yet, this freedom brought along some problems which must be taken into consideration or modified before using the Guessability method.

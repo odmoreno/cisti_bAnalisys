@@ -1,0 +1,3 @@
+UNED interoperability software among multi vendor interactive whiteboards in a video conference system
+ABSTRACT
+UNED utilizes interactive whiteboards from multiple manufacturers in its classes. Each whiteboard has to be synchronized with every participant regardless its manufacturer. Thus, UNED has developed the application “Pizarra Online” to guarantee the interoperability among interactive whiteboards and any other touch device.

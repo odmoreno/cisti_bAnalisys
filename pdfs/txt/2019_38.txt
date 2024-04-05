@@ -1,0 +1,3 @@
+Tecnology Readiness Index: An empirical study in Chile
+ABSTRACT
+The objective of this research is to describe the Chilean population in terms of their preparation to face new technological challenges that emerge from the fourth industrial revolution. Parasuraman's technology readiness index (TRI) is considered as a theoretical basis, which contains four dimensions: optimism, innovation, insecurity, and discomfort. The analysis is carried out through a face-to-face survey of 788 individuals from two regions of Chile selected through quota sampling. The results indicate that, in general terms, the Chilean population is moderately prepared for this technological change. Men and more educated people are better prepared, not older adults.

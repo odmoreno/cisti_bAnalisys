@@ -1,0 +1,3 @@
+Study of the echogenic capacity of the materials
+ABSTRACT
+The echogenicity is a concept that allows to measure the acoustic reflectance, which means that when it is talking about some material, it relates to its capacity to reflect an ultrasound wave. In this context, turning to the way to analyze the materials that can replace parts of the human body, they can be enumerated the human structures that are hyperechoic, like bones, and hypoechoic, like fat. In this research, it is performed a laboratory study to understand, based on the acoustic characteristics of some materials, what of them can be used to simulate human tissues, to develop a complete brachial plexus block simulator.

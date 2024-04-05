@@ -1,0 +1,3 @@
+A Strategic Model and Framework for Intelligent Process Automation
+ABSTRACT
+Digital transformation has been growing inside companies and impacting the economy and society. Operations are one of the nine business dimensions where this transformation can be accelerated. This study answers the research goal of building a strategic model and framework for intelligent process automation implementation, to accelerate companies’ digital transition. The significant value and contribution of the proposed artifacts were proved by its demonstration and assessment.

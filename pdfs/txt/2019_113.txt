@@ -1,0 +1,3 @@
+NIESIM: A software for estimating the value of information in mobile networks
+ABSTRACT
+In this paper we introduce NIESIM (Network Information Economics Simulation), a software for simulating a mobile communications scenario and studying the value of information used in mobile network management. The modelling principles and the simulation strategy used to design and develop NIESIM software are introduced together with its high level architecture. Simulation results are briefly presented along with the discussion of the findings for one use case.

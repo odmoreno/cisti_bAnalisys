@@ -1,0 +1,3 @@
+Unified accessible home: Integral system of accessibility
+ABSTRACT
+Accessibility or Universal Accessibility should be a condition that any device, place or job permit to a user, however this is not this way. Conquer the highest possible grade of usability is a challenge to which everyone should try, only for the humanity health. The development of software and hardware that permits increase the usability grades is nowadays essential. Within this paper it is explained what it is Hauria, the technological solution that allows to do the actual homes accessible using mixed technologies.

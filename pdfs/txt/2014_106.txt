@@ -1,0 +1,3 @@
+Supporting the tutoring process in universities through a virtual tutor
+ABSTRACT
+The process of tutoring in universities is understood as the process of permanent support of tutors students during passage thereof by the university. Currently, this process can not be carried out in full according to how it is conceptualized because of the high cost in terms of time and effort involved in having knowledge of the academic status of students. This paper presents a design concept for the development of Information Technology and Communications to implement a virtual tutor aware of context that helps tutors to do their work according to the specifications in the original concept of tutoring is presented.

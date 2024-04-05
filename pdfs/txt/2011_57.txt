@@ -1,0 +1,3 @@
+A real time, wearable ECG and blood pressure monitoring system
+ABSTRACT
+In this paper, a wearable medical device for Electrocardiogram (ECG) and blood pressure monitoring is presented. Its basis is a validated and certified existent medical device. This device was evolved in order to allow new physiological signal monitoring and real time assessment of blood pressure levels by adding a photoplethismography (PPG) probe and the incorporation of new algorithms in an online interface. The device presents accuracies of 94.6% for systolic blood pressure and 92.3% for systolic blood pressure when compared with reference values obtained from a commercial electronic Sphygmomanometer.

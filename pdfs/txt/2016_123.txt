@@ -1,0 +1,3 @@
+Text format written questions evaluation Methodology
+ABSTRACT
+This paper presents a method to analyze students natural language text format written answers, to test questions and check its agreement with teacher s provided alternative answers. It shows the use of graphics and techniques which will allow to assign values to concepts and relations, to evaluate the student provided answer to compare it with the pondering of the base answer provided by a teacher.

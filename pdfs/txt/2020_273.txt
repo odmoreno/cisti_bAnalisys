@@ -1,0 +1,3 @@
+Protótipo de uma Rede de Sensores Sem Fios para Implantação Robótica de Percurso : A Prototype of a Wireless Sensor Network for Robotic Path Construction
+ABSTRACT
+This article presents prototype for deployment of a wireless sensor network by a mobile robot. Its motivation arises from the need of solutions that allow for monitoring and exploration of areas of difficult access to humans in disaster situations or rescue operations. Our testbed proposes a scenario where a robot moves from a point A to B deploying Intermediate Sensor Nodes at a given threshold of received signal strength indication. Preliminary testing was conducted to determine the ideal value for this threshold while maintaining the connectivity of the robot to the network.

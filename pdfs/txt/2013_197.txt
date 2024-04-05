@@ -1,0 +1,3 @@
+Distributed architecture for eHealth clinical assistance
+ABSTRACT
+National regulations are very specific about the way personal clinical data must be treated, and how it can be disseminated. In order to solve that restriction we propose an open architecture in which segmented patient information can be retrieved from multiple health-care centres (even in other countries), and be used by external web-services that are certified to access some information (and if needed, the information can be obfuscated).

@@ -1,0 +1,3 @@
+The YesOrNo system: The use of Multi-Agent Systems in the Android mobile application development
+ABSTRACT
+The development of mobile applications for Android-based smartphones that use Multi-Agent Systems (MAS) and the JADE framework has just started. Therefore, the goal of this paper is to introduce an application called “YesOrNo”. The main feature is to make it easier to find information by students, related to a certain places at the Universidade Federal do ABC (UFABC). For instance, whether the laboratory is crowded, the library is open and others. The application was implemented in Java, PhoneGap, HTML and CSS3. This paper also shows and validates the MAS architecture. Finally, two scenarios were defined and the results obtained are shown.

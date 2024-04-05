@@ -1,0 +1,3 @@
+Text Analytics and Big Data in the Financial domain
+ABSTRACT
+This research attempts to provide some insights on the application of text mining and Natural Language Processing (NLP). The application domain is consumer complaints about financial institutions in the USA. As an advanced analytics discipline embedded within the Big Data paradigm, the practice of text analytics contains elements of emergent knowledge processes. Since our experiment should be able to scale up we make use of a pipeline based on Spark-NLP. The usage scenario is adapting the model to a specific industrial context and using the dataset offered by the "Consumer Financial Protection Bureau" to illustrate the application.

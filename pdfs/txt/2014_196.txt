@@ -1,0 +1,3 @@
+Instance ranking with multiple linear regression: Pointwise vs. listwise approaches
+ABSTRACT
+This paper presents a comparison between listwise and pointwise approaches for instance ranking using Multiple Linear Models. A theoretical review of both approaches is performed, including the evaluation methods. Experiments done in seven datasets from 4 different problems show that the pointwise approach is slightly better or similar than the listwise approach. However the models obtained with the listwise approach are more interpretable because they have in average fewer features than the models obtained with the pointwise approach. The obtained results are important for problems where interpretable ranking models are necessary.

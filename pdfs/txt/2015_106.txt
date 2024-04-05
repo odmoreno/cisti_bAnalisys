@@ -1,0 +1,3 @@
+Framework for assessing the quality of sites Open Course Ware (OCW) by quality attributes
+ABSTRACT
+This paper proposes a framework to assess the quality of sites Open Course Ware (OCW) based on attributes, through an analysis of literature on quality Open Educational Resources (OER) and OCW, and analysis models and quality methodologies based on attributes, which allows theoretically substantiate the proposal, in addition, it will be validated by its application to a sample of OCW sites resulting in the quantitative assessment of their quality underlying the analysis and conclusions.

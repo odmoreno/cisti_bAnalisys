@@ -1,0 +1,3 @@
+Model for monitoring in distributed projects: An experiment using Kanban and Business Process Modeling Notation (BPMN)
+ABSTRACT
+The objective of this paper is to propose a model to assist in monitoring the software development process in distributed environments. For an initial validation of the model was developed an experiment with IT professionals and were used as tools Kanban and BPMN.

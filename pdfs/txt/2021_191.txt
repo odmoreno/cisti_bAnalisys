@@ -1,0 +1,3 @@
+Performance of WebGL standard for displaying 3D applications on mobile devices
+ABSTRACT
+The development of 3D applications for consumption in browsers involves the use of the WebGL standard, whose performance determines the user experience and portability for mobile devices. In this context, this paper proposes to analyze the performance of a 3D application that uses the WebGL standard to run in browsers, taking into account mobile devices. Initial results show that the use of compression formats, connection speeds and browsers influence the loading times, performance and build size of the project. Thus, the user experience can be acceptable or deplorable.

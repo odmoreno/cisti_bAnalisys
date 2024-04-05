@@ -1,0 +1,3 @@
+Training Transformers for Question Generation Task in Intelligent Tutoring Systems
+ABSTRACT
+Over the last few years, natural language processing (NLP) technologies have largely evolved, allowing their application in new scenarios with much more significant results. With the introduction of NLP into intelligent tutoring systems, several automation techniques could be used to improve the teaching process, among them, question generation, which allows the automated creation of interpretative questions from textual sources. This work explores the application of Transformers neural networks in the Question Generation task, developing several models and comparing their initial results.

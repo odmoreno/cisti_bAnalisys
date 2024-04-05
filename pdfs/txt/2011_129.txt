@@ -1,0 +1,3 @@
+A web accessibility improvement tool
+ABSTRACT
+One of the main problems in a computer-mediated communication is the access barriers for disabled people. The increasing volume of ecommerce makes the elimination of these barriers becomes an economical strategy. However, many web pages do not respect the basic rules of accessibility design. This article presents a project that improves web accessibility identifying and correcting the critical control points in HTML code.

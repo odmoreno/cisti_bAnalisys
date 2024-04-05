@@ -1,0 +1,3 @@
+Design and implementation of a video game for teaching non-functional requirements
+ABSTRACT
+Requirements Engineering is a discipline that combines technical and social skills as it interact with people constantly. For this reason great challenges exist in the teaching-learning process. This paper presents a videogame with educational purpose built to reinforce the concepts of non-functional requirements as a proposal to improve this process.

@@ -1,0 +1,3 @@
+Mi Universidad mobile application: an accessible door to educative services of the University
+ABSTRACT
+This article describes an accessible mobile application called Mi Universidad that allows students of the National University of La Plata (UNLP) to use different educational services and information systems of the university, in an integrated, centralized and inclusive way. Accessibility issues taken into account in its development are detailed. This work demonstrates that computer technologies can be available to all people regardless of their capabilities and limitations, improving their communication and information access.

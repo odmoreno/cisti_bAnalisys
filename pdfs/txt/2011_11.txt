@@ -1,0 +1,3 @@
+The design of an Orchestrator for a middleware architecture based on FTT-CORBA
+ABSTRACT
+Today's distributed real-time systems require flexibility to adapt to evolving functional and non-functional requirements in run-time. The authors have presented in previous works a middleware architecture based on the Flexible Time-Triggered (FTT) paradigm that allows creating flexible real-time distributed applications over CORBA. This paper focuses on the design of the central node of the architecture, the Orchestrator, which implements services for dynamic application composition, real-time scheduling and synchronization, and system monitoring.

@@ -1,0 +1,3 @@
+Fractal antenna based on the Minkowski sausage for digital TV reception
+ABSTRACT
+This paper describes the design and implementation of a fractal antenna for digital television reception in the UHF band. The antenna design was performed based on a rectangular patch and the fractal model of the Minkowski sausage with up to one iteration. The development process of this work includes the design stage with the corresponding equations, as well as the simulation and optimization using 4nec2 software, and the fabrication and characterization stage with specialized equipment. The results obtained after the measurements showed that this antenna design improves the reception of digital TV signals in the UHF band, specifically from 470 MHz to 698 MHz.

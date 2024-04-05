@@ -1,0 +1,3 @@
+Playful Interactions with Smart and Social Objects
+ABSTRACT
+LOCUS proposes de co-design, development and evaluation of an IoT system that incorporates and interconnects smart and social objects, supporting tangible and playful interactive experiences, intended to promote intergenerational engagement in creating and exploring cultural contents and learning about cultural heritage of rural territories from the Centre Region of Portugal, namely Amiais Village, in Sever do Vouga.

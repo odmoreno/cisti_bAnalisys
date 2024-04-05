@@ -1,0 +1,3 @@
+RPA Implementation for automation of managenment process of personal in Compañía Nacional de Empaques S.A.
+ABSTRACT
+The introduction of Robotic Process Automation (RPA) has the potential to improve the traditional way of performing tasks that are tediously repetitive. With its ability to automate tasks based on rules that are repetitive and manual, RPA is responsible for the execution of tasks that require important times of people within organizations. This work presents the adoption of RPA inside of Compañía Nacional de empaques in Colombia, in the operation of obtaining pre-payroll, some results are shown that indicate the benefits of the implementation and the advantages of its use.

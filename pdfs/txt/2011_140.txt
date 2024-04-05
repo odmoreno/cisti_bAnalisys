@@ -1,0 +1,3 @@
+Graphic questions, graphic answers
+ABSTRACT
+One of the main problems of a subject of drawing on e-learning system is the evaluation of the results. Existing platforms are designed for written exercises, not graphic. This article explains the development of a model of graphical exam on-line, opening the way to fully graphic exams.

@@ -1,0 +1,3 @@
+Collaborative emergency preparedness: A design model to support collective intelligence in emergency drills
+ABSTRACT
+Training and exercising is a basic activity of emergency preparedness. Although emergency drilling is consider as a social activity, in which the opinions and thoughts of the different actors should be considered, the lack of suitable technologies hinders the involvement of such actors. With the purpose of overcoming this shortage and providing effective technological tools, this paper presents a conceptual design model that informs the development of socio-technical systems to support community involvement in emergency drills.

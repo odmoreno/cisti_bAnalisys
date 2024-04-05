@@ -1,0 +1,3 @@
+Selection of Active Methodologies for Software Engineering Teaching: a supporting guide
+ABSTRACT
+This work presents the development of a support guide that offers Software Engineering professors a tool that helps select Active Methodologies by identifying the student’s profile and learning style. The guide was developed using the Design Science Research methodology. Its evaluation was based on conducting a focus group and applying a questionnaire with a panel of 30 specialists. The results showed an accuracy of 87% among the evaluated aspects, emphasizing clarity; ease of use; organization; flexibility; pedagogical adequacy; and actions to be performed with a low level of effort.

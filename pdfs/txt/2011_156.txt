@@ -1,0 +1,3 @@
+Test sequence generation from classification trees
+ABSTRACT
+The classification tree methods allows for the automated test suite generation for given test objects. The important generation of test sequence can only be done manually. In this paper, we present an approach to use classification trees for test sequence generation. We will use existing approaches, e.g. from the field of researches on state machines. First results from our work are presented in this paper, including new dependency and generation rules.

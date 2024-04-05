@@ -1,0 +1,3 @@
+Design of information system for the Liquidity Risk Management in financial institutions
+ABSTRACT
+The financial institutions face risk daily regarding disposition of liquid resources to meet the request from customers, such conflicts found in the information systems potential tools for right decisions. This work present the software architectural design and implementation of information system called Liquidity Risk Management (LRM) helping the collection measures of information in real time for proper risk liquidity management in financial institutions. The paper presents and describe the system architectural components, its functionalities and the implementation of different methods for risk value in a portfolio formed by four portfolios.

@@ -1,0 +1,3 @@
+Refining System’s Needs Analysis Using Systems Engineering Process Approach
+ABSTRACT
+This paper carefully examines the literature concerning the system’s need analysis, as many studies provided a partial picture of how to conduct the analysis. It also discusses the usual mistakes in conducting a need analysis for application design and development exercises. The final part of the paper discusses the common misunderstanding of need analysis which led to the inaccuracy of the exercise. A clear need analysis framework is thus produced to clear this misunderstanding.

@@ -1,0 +1,3 @@
+Architecture Proposal of Help Desk based on the framework ITIL 3.0
+ABSTRACT
+This article focuses on analyzing incident management through the use of the ITIL Information Technology Infrastructure Library V.3.0, as a framework to improve the efficiency of IT services. Through the aforementioned architecture, it will be possible to attend and provide solutions to hardware, software, networks and other computer components problems, thus improving the quality of service for those stakeholders.

@@ -1,0 +1,3 @@
+Virtual learning environment for software refactoring
+ABSTRACT
+Software refactoring is an activity aimed at improving the quality of the source code of a software system. However, tools are required that facilitate the learning of different software refactoring techniques. The objective of this work is to present a virtual learning environment oriented to software refactoring, which provides users with the possibility of learning refactoring techniques through the implementation and use of electronic activities. The results show that the implemented virtual learning environment has technical, pedagogical and content aspects that help to learn software refactoring concepts.

@@ -1,0 +1,3 @@
+Process Reference Model for BizDevOps
+ABSTRACT
+DevOps has emerged in the Information Technologies (IT) sector as an effective approach to the interaction between development and operation functions. Recently, this approach has been extended to the interaction with business functions, generating the term BizDevOps. Although there are many proposals and tools supporting BizDevOps from a technical viewpoint, there has been no significant progress in management aspects, such as the evaluation of practices and processes involved in the area. In this article we propose a first version of a process reference model for BizDevOps, based on relevant international standards of the IT sector.

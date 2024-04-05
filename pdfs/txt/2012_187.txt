@@ -1,0 +1,3 @@
+Personalized information systems: enabling technologies and architecture
+ABSTRACT
+Personalized Information Systems are ICT applications that exhibit personalized behaviour, adjusted to the preferences or needs of their users. Personalized Information Systems can bring up business benefits related to customer relationship or to increased efficiency of organizational work. This work characterizes the Personalized Information Systems in what concerns types of personalized features, presents the enabling technologies, and suggests a general architecture for Personalized Information Systems.

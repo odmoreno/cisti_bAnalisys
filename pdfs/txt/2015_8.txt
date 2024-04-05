@@ -1,0 +1,3 @@
+Gröbner bases and mathematical exercises generation with nondetermined structure
+ABSTRACT
+Given a concrete scenario, there is frequently a huge quantity and variety of exercises that we can write about it. In this article, we present an algorithm which allows us to automate this process. To generate mathematical exercises, we start from the relations between the variables present in the scenario, we calculate the possible exercises, we analise the complexity of its resolution process and its viability. The algorithm uses Gröbner bases to determine if the exercise is solvable and a possible path of resolution. Based on the analysis of the obtained results, its possible to create an exercises base related to that scenario.

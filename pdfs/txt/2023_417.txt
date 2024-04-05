@@ -1,0 +1,3 @@
+BIM-FM process exploration in Augmented Reality : A case study of power transformer in power substation
+ABSTRACT
+The application of BIM for ease of operation and maintenance is an emerging area, especially when the focus is on energy management. The use of BIM as a database and systems with the ability to visualize them is the main point addressed in BIM-O&M research. However, challenges with interoperability, the definition of requirements for O & M, and a feasibility analysis of BIM implementation costs in this phase have fewer scientific investigations. This research explores alternatives to the obstacles of loco manipulation of BIM models in Electrical Engineering through a case study of an electromechanical device in an electric power substation.

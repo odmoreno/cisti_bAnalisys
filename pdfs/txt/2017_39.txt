@@ -1,0 +1,3 @@
+The management of crowdsourcing software projects: A systematic mapping
+ABSTRACT
+Crowdsourcing (CS) is a new model of software development inspired by contribution. Several companies are adopting CS in their projects to reduce costs and employ specialists. However, several gaps persist in the literature analyzing the management of such projects, the impact of participants and activities. Thus, we perform a systematic mapping (SM) in order to verify how CS software project management occurs, identifying the main challenges and tools used. As a result we present a set of dimensions of CS management and discover a leader-based management factor and project planning.

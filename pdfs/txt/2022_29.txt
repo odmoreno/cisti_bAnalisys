@@ -1,0 +1,3 @@
+Swarm Intelligence applied to SQL Injection
+ABSTRACT
+The Open Web Application Security Project (OWASP) (a non-profit foundation that works to improve computer security) considered, in 2021, injection as one of the biggest risks in web applications. SQL injection despite being a vulnerability easily avoided has a great insurgency in web applications, and its impact is quite nefarious. To identify and exploit vulnerabilities in a system, algorithms based on Swarm Intelligence (SI) can be used. This article proposes and describes a new approach that uses SI and attack vectors to identify Structured Query Language (SQL) Injection vulnerabilities. The results obtained show the efficiency of the proposed approach.

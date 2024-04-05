@@ -1,0 +1,3 @@
+Business Intelligence supporting Budget Management
+ABSTRACT
+The Public Administration (PA) activity, as in other sectors of the economy, has been facing the impacts of the exponential growth of data, which need to be processed in order to obtain information and knowledge for effective and efficient decision making in the management of public resources, particularly the financial ones. This work reports the design and development of a Business Intelligence (BI) solution for the collection and processing of information in the context of budget and financial management, in order to improve the efficiency of budget and financial management in public administration.

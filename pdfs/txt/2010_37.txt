@@ -1,0 +1,3 @@
+Simulation of computational grids scheduling politics
+ABSTRACT
+Computational grids allow users to share resources of distributed machines, even if those machines belong to different corporations. The scheduling of applications must be performed aiming at performance goals, and focusing on choose which processes can have access to specif resources, and which resources. In this article we discuss aspects of scheduling of application in grid computing environment. We also present a tool for scheduling simulation along with test scenarios and results.

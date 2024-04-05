@@ -1,0 +1,3 @@
+Corporate frameworks and technological products focusing alarmistic and monitoring incidators of control and performance
+ABSTRACT
+With the economic crisis in which we live, it is becoming urgent to capture the high development of a company. In a professional context, the analysis of organizational performance through dashboards implemented with monitoring frameworks provides gains in knowledge about events, as well as available data about the progress of the performance of employees in the execution of their duties. This paper aims to review the state of the art of business frameworks and technological products, including their insights and applicability, with focus on the above-mentioned subject.

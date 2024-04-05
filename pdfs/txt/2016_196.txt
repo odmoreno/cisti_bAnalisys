@@ -1,0 +1,3 @@
+Efficient leader exchange for Migrating Birds Optimization when solving machine-part cell formation problems
+ABSTRACT
+The machine-part cell formation (MPCF) problem is to organize an assembly as a set of cells, where each cell contains certain machines that process a sub-set of parts. In recent years, different types of metaheuristics have been used to solve the problem of MPCF. This publication focuses on solving the MPCF problem using a metaheuristic inspired on birds, called Migrating Birds Optimization (MBO) algorithm. Experiments have been conducted to 180 test instances using 2 types of leader exchange in the flock of birds. The results obtained using MBO are equal to or better than other algorithms reported in the literature.

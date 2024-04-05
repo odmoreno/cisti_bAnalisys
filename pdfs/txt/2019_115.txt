@@ -1,0 +1,3 @@
+Prioritization of processes for IT Governance improvement - Case Study for DPU / Brazil
+ABSTRACT
+This work consists of the development of a strategy for prioritizing COBIT5 processes that can foster improvements in governance and technology management adhering to Information Technology (IT) governance indice, iGovTI. For this, the relationship between COBIT processes and the themes involved in the iGovTI of the Brazilian Federal Public Administration (APF) was mapped. The frequency of these processes and the critical items of the indexes were identified. Through the analysis of value, the COBIT processes with greater institutional relevance were prioritized.

@@ -1,0 +1,3 @@
+Learning platform: Emotional learning
+ABSTRACT
+The purpose of this paper is to propose new model for emotional interaction that uses learning styles and student emotional state to adapt the user interface and learning path. This aims to reduce the difficulty and emotional stain that students encounter while interacting with learning platforms. To this end will be used techniques of Affective Computer that can capture the student emotional state and base on that change the course parameters (flow, organization or difficulty) or even an emotional interaction in order to recapture the student attention.

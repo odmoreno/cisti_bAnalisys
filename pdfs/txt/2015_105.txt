@@ -1,0 +1,3 @@
+Support architecture to desmaterialization of banking operations
+ABSTRACT
+The technological challenges have led the bank sector to actively bet on technological innovation strategy including the provision of applications for mobile devices. However, the development of mobile tools has had a greater expression for customers than for commercial managers of banks. This article aims to present an architecture that supports the dematerialization of transactions at the counters of bank branches. The main goal is to foster the relationship between banks and their customers, giving flexibility to managers to conduct banking transactions from any mobile device, anywhere. This architecture is a results of a dissertation carried out under a master's degree in Information Systems.

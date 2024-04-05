@@ -1,0 +1,3 @@
+Decisive factors for the adoption of technology in E-government platforms
+ABSTRACT
+This paper explores the factors explaining the adoption of e-government platforms by Portuguese citizens. Since it is still a challenge the adoption of e-government, e-participation and the e-citizenship in Portuguese society, one of the goals of this study is to create a conceptual model based on previous research to measure what are the factors that can lead to the intention of using an e-government platform. Such factors are trust, privacy, social influence, security, relative advantage, web design and perceived ease of use. Hypotheses were created based on these factors, so that future research can be applied and evaluated, and thus prove these assumptions.

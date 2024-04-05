@@ -1,0 +1,3 @@
+Modeling of the workflows oriented a collaborative portals in education
+ABSTRACT
+The implementation of automated workflows been provided an unlimited universe of opportunities within different scenarios. The use of workflows within the educational environment allows to simplify, rationalize and stabilize the structured in the same. This fact, assigns new roles to students and new challenges for teachers and the training institutions. A methodology that allows the modeling of automated workflows is here presented. The modeling of such flows are proposed within an educational context, as a tool of interaction that allows teachers and students to transferring and generate knowledge within the collaborative portal Master of Information Technology in Education (MITE).

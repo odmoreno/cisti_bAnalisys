@@ -1,0 +1,3 @@
+Platform Based on Robotics to Aid the Pedagogy of Students with Dyslexia
+ABSTRACT
+Dyslexia is still highly complex in the national educational environment, especially in elementary school classes. This situation of not offering people with dyslexia a safe and inclusive educational environment is responsible for causing attention deficit disorders and even school dropouts. Searching solutions to this problem, information technology is inserted as a source of resources to help in this endeavor. Thus, the resource seen in this work, which combines Information Technology with robotics, gamification, and a therapeutic vision through applications based on the psychology of form, helps to provide a playful and inclusive resource in the educational environment.

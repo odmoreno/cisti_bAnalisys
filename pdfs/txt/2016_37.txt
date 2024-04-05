@@ -1,0 +1,3 @@
+Biogeography-based optimization algorithm for the Set Covering Problem
+ABSTRACT
+Biogeography-Based Optimization Algorithm (BBOA) is a new kind of global optimization algorithm inspired by biogeography, which mimics the migration behavior of animals in nature to solve optimization and engineering problems. In this paper, we proposed BBOA for solving the Set Covering Problem (SCP). The SCP is a classic combinatorial problem from NP-hard list problems, consisting in find a set of solutions that cover a range of needs at the lowest possible cost with certain constraints. Moreover, we proposed a new feature for improve performance of BBOA, improving stagnation in local optimum. Finally, the experiments with BBOA to solve these problems, show very good results.

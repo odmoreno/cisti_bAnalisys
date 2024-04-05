@@ -1,0 +1,3 @@
+“Predicting the Future: A Web Platform for Time Series Modeling”
+ABSTRACT
+This article describes a WEB platform for forecasting time series using the ARIMA and SARIMA models. These models are widely used to forecast time series through manual or automatic processes. The platform is designed to analyze meteorological data in time series. It integrates open-source languages and technologies such as Python and the Django framework for data visualization and decision support. As a case study, meteorological data provided by a center that operates in the area of irrigation, were used. Despite the work being in evaluation, the existing preliminary results point to high interest on the part of the members and clients of the center.

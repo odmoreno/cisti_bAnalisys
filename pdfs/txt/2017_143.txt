@@ -1,0 +1,3 @@
+Learning programming: A continuance model
+ABSTRACT
+There is currently a great difficulty in learning programming. In this context this research work presents a literature review on the programming difficulties, programming paradigms. Here it also presented the state of the art in computer science education in Portuguese universities. Based on this literature review it is proposed here a theoretical model. This theoretical model was proposed and validated empirically with university students of computer science. This model explains the determinants of satisfaction level of students. It also explains the usefulness level perceived by students. The proposed and validated model presents the drivers of students' continuance intention in programming learning.

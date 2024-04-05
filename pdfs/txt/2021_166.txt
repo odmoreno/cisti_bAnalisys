@@ -1,0 +1,3 @@
+A Model of Actions to Reduce Evasion in Higher Technology Courses : An Experience Report
+ABSTRACT
+In the university context, the students' evasion is a known challenge. This happens for a number of reasons, in general, it is a combination of several factors. This phenomenon is even more evident in higher technology courses, mainly due to the level of abstraction of the courses and the lack of knowledge of their suitors. The paper's purpose is present a model of actions to reduce school evasion and retention. This work is derived from a continuous study carried out in an undergraduate course in computing in Brazil and was composed of several research methods. The results obtained are considered significant for student retention.

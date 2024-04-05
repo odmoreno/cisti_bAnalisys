@@ -1,0 +1,3 @@
+Enabling distributed SME
+ABSTRACT
+In some industries, recruiting qualified resources can be a problem for SMEs, one option is to start a transformation process, and move from a traditional team to a distributed team, gaining access to a much larger base of possible human resources and business opportunities. Digital transformation can be used to help SMEs in taking the steps needed to become distributed companies. This paper shows how applying a lightweight TOGAF-based methodology to an ongoing digital transformation process, specifically targeting a SME information system, can create opportunities for the company.

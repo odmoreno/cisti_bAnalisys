@@ -1,0 +1,3 @@
+Model to return on investment after the software deployment
+ABSTRACT
+Currently organizations have been concerned with the analysis of the impacts of IT investments. Economic pressures, combined with years of significant IT spending without demonstrating clear returns, forced companies to improve their financial practices and justify better and more clearly every penny invested. Thus, this article presents a model to calculate the return on investment after the installation of software. This model was generated from an experiment, applied to a company in southern Brazil, which showed efficient actions to catch the post-deployment metrics. Therefore, this article may be applicable to all companies wishing to calculate the return on a deployment.

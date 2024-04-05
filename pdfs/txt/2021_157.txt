@@ -1,0 +1,3 @@
+Data Envelopment Analysis in the optimization of the vehicle maintenance
+ABSTRACT
+In search for better competitiveness, organizations need to identify business processes that improve resource efficiency. To do so, it is necessary to apply methods to evaluate the use of resources used. The objective of this study is to evaluate the efficiency of the maintenance management of transportation vehicles in an organization by using the Data Envelopment Analysis method. In order to obtain lower maintenance costs, the results suggest the modernization of the fleet and the improvement of the internal capacity of maintenance or, alternatively, the option for leasing contracts.

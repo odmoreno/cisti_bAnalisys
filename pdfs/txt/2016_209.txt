@@ -1,0 +1,3 @@
+SocialCount: A mobile application that measures the Social Interactions performed by the user
+ABSTRACT
+The SocialCount is a mobile application that measures social interactions take place between individuals inserted in a society. This interaction survey is meant to aid in the study between the individual and society in the Theory of Historical-Cultural Activity.

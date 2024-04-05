@@ -1,0 +1,3 @@
+[Title page]
+ABSTRACT
+The following topics discussed are related to: organizational models; information systems; knowledge management; decision support system; software systems; computer networks; mobility; pervasive systems; human centered computing; health informatics; and information technologies in education.

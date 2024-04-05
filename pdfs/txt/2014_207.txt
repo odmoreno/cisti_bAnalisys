@@ -1,0 +1,3 @@
+Virtual desktop infrastructure (VDI) and remote infrastructure management outsourcing (RIMO) technologies for IT outsourcing: FI4VDI project
+ABSTRACT
+This paper presents an analysis of the FI4VDI project regarding Inova-Ria's participation, which particular goal is to develop an innovative prototype for a model of service provision using cloud computing in order to create an infrastructure suited to SMEs focused on the IT outsourcing business that would contribute to competitiveness.

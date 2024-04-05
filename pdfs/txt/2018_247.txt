@@ -1,0 +1,3 @@
+Use of emerging aggregation techniques for the creation of learning communities
+ABSTRACT
+The phenomenon of aggregation plays an important role in the cooperation and task allocation in the social insects. Presently, the creation of learning communities on the web has an important role to enhance collaborative experience. In this content, are required to implement new techniques adapted to the Internet requirements, that allowed the management the learning communities dynamics. This paper uses an algorithm called “arrange and clustering”, its own the emerging systems with the autonomous management of learning communities, which are valid with metrics such as cohesion and separation.

@@ -1,0 +1,3 @@
+An instrument for analyzing attitudes towards electronic participation services
+ABSTRACT
+Electronic participation (e-Participation) is important because it can provide, to citizens, participation in the formulation of public policy, which is because it helps to reduce distances and therefore time required for participation. Because e-Participation initiatives can be analyzed as innovations, the theory of Diffusion of innovations can formally analyze this phenomenon. This paper presents the validation of an instrument to analyze the attitudes of citizens towards e-Participation services. The validation results show high levels of reliability, providing a consistent instrument to analyze such attitudes.

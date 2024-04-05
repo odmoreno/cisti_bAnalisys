@@ -1,0 +1,3 @@
+Proposal of a model for IT service continuity management
+ABSTRACT
+Micro and small companies in the software area now represent more than 90% of organizations in the country and grow 6% annually on average. However, no planning in these companies in business continuity management contributes to their mortality when problems occur as disasters and disruption of system services. The implementation of IT Service Continuity Management as a tool for planning would be the solution. This research presents as is the level of maturity of these companies in a Micro scenario and Small IT companies in Paraná companies of Londrina and Cascavel region.

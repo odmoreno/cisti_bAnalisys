@@ -1,0 +1,3 @@
+MobiSensA: Development of a mobile APP for iSensA platform
+ABSTRACT
+iSensA is a smart data acquisition system and Web platform for monitoring and analyzing real-time data of environments and devices in a wide range of areas. The Web platform allows centralized management of facilities, as well as real-time data visualization, historical analysis, alarm configuration and periodic reporting. To facilitate facility monitoring and event notification (anomalies and alerts), there is a need to develop an Android mobile application for the iSensA product, whose development process is presented in this paper.

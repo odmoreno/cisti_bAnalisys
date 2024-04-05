@@ -1,0 +1,3 @@
+Use of chatbots for user service in higher education institutions
+ABSTRACT
+This paper arises from the need to have new tools or communication channels that allow users to answer questions or concerns about different fields at the university level. In particular, the results of the analysis of the use of three chatbots, implemented in a higher education institution, are presented. The results obtained from the surveys, considering the usability of the chatbot and the accuracy of the responses, show that the level of satisfaction of using the chatbots is high, therefore, it is recommended to use this type of systems for the attention of users.

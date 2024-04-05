@@ -1,0 +1,3 @@
+Content management system for e-Government portals
+ABSTRACT
+This document describes some of the advantages of an event-based architecture over a WordPress platform, as a technological solution to build e-Government portals. It provides a solid, modular and dynamic foundation, capable of answering to new challenges and best practices of information management on the Web, without compromising the extensibility and evolution of the system. Suitable for small project teams, it is a solution for rapid website development, thus reducing costs and development time. The solution was implemented as the platform which currently supports the web portals of the Polytechnic Institute of Leiria.

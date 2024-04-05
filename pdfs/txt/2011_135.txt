@@ -1,0 +1,3 @@
+SIGLuz-EE - Eeb mapping application for managing a city council public lighting system, developed in the context of project-based learning
+ABSTRACT
+The city council public lighting networks are barely registered, with duplication of information by various actors in their management. This paper describes the development of a GIS application for managing such an infrastructure for the county leaders in the lighting sector (Aveiro), which allows the characterization and localization of its elements of registration. The application is based on the paradigm of open source software in the Web environment, developed in the context of project-based learning.

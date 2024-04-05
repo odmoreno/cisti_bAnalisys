@@ -1,0 +1,3 @@
+Using a multimidia Interactive Resource (RIMult) in teaching and learning
+ABSTRACT
+This paper aims at discussing the creation and use of an Interactive Multimedia Resource (RIMult) to support teaching and learning. The proposed resource is a learning object, which uses concurrently different media, such as text, audio (sound and narration) and images. The RIMult can be used in classroom environments and in distance learning and performed both online and offline. The paper discusses the conceptual foundations and related works to the theme, explains the RIMult characteristics and presents a usability evaluation of the developed resource. The conclusion points out the potential contributions of the RIMult to the improvement of teaching and learning.

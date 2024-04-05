@@ -1,0 +1,3 @@
+Cyber Resilience and Smart Cities, a Scoping Review
+ABSTRACT
+The scoping review reported by this article aimed to analyze and synthesize state-of-the-art studies focused on the integration of cyber resilience in the implementation of smart cities. An electronic search was conducted, and 11 studies were included in this review after the selection process. According to the findings, cyber resilience represents a gap of the current research related to smart cities and, therefore, additional efforts are required to guarantee that smart cities are resilient to challenging events such as cyber-attacks or natural disasters.

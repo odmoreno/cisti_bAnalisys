@@ -1,0 +1,3 @@
+Pedestrian Route Recommendation System in Smart Cities
+ABSTRACT
+In this article a pedestrian route recommendation system is presented and discussed, considering specific objective functions, such as the definition of a course of sport activity, according to the preferences of the users. To support the study, a prototype of the recommendation system was developed and tested using the CupCarbon simulation platform. As a case study, it was considered an urban zone where a wireless sensor network is defined to monitor environmental parameters such as luminosity, or existing Wi-Fi coverage, in order to assist in planning routes according to the relevance of the parameters specified in the user profile.

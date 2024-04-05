@@ -1,0 +1,3 @@
+Utilization of UAV-Borne RGB Data for Monitoring Horses: Comparison of Classification Methods
+ABSTRACT
+The paper describes utilizing remotely sensed RGB data to support monitoring horses in a natural environment on demand. Data are sensed using an unmanned aerial vehicle (UAV). UAVs provide very high spatial resolution data sensed at a low altitude on demand. Sensing is limited by weather conditions and legal rules only. Terrain does not need to be accessible. The paper provides a comparison of several pixel-based and object-based classification methods, namely Maximum Likelihood, Random Trees, SVM, and K-NN. Manual classification is used as a reference method.

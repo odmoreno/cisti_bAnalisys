@@ -1,0 +1,3 @@
+Proposal of a framework for the internal audit to the service management of the department of information technologies
+ABSTRACT
+This article establishes a descriptive analysis of the standards and best practices for the Management of Information Technology Services (ITSM), proposing as a result a framework for the internal audit of services directed to the IT department where different dimensions are identified of analysis for the evaluation of service management.

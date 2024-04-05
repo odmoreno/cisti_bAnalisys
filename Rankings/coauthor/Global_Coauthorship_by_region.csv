@@ -1,0 +1,151 @@
+source,target,year,weight,total
+South America,South America,2023,1,1
+South America,Europe,2023,89,1
+Europe,Europe,2023,1,1
+Africa,Africa,2023,1,1
+Central America,Central America,2023,1,1
+North America,North America,2023,1,1
+Europe,Middle East,2023,8,1
+Europe,North America,2023,20,1
+North America,Middle East,2023,2,1
+Middle East,Middle East,2023,1,1
+Asia,Asia,2023,1,1
+Central America,Europe,2023,4,1
+North America,South America,2023,19,1
+Europe,Asia,2023,7,1
+North America,Asia,2023,2,1
+Central America,South America,2023,8,1
+Asia,Africa,2023,3,1
+South America,South America,2022,1,1
+Europe,Europe,2022,1,1
+North America,Europe,2022,8,1
+Central America,Central America,2022,1,1
+Central America,North America,2022,2,1
+Central America,Europe,2022,3,1
+North America,North America,2022,1,1
+Europe,South America,2022,92,1
+Africa,Africa,2022,1,1
+South America,North America,2022,5,1
+Europe,Middle East,2022,4,1
+North America,Middle East,2022,1,1
+South America,Middle East,2022,1,1
+Europe,Europe,2021,1,1
+South America,South America,2021,1,1
+South America,Europe,2021,62,1
+North America,North America,2021,1,1
+South America,North America,2021,30,1
+Europe,North America,2021,2,1
+Central America,Central America,2021,1,1
+Africa,Africa,2021,1,1
+Central America,Europe,2021,12,1
+Europe,Oceania,2021,4,1
+Asia,Asia,2021,1,1
+Africa,Europe,2021,4,1
+South America,South America,2020,1,1
+Europe,Europe,2020,1,1
+North America,North America,2020,1,1
+South America,North America,2020,38,1
+South America,Europe,2020,117,1
+Europe,North America,2020,3,1
+Africa,Africa,2020,1,1
+Africa,Europe,2020,11,1
+Central America,Central America,2020,1,1
+Central America,Europe,2020,1,1
+South America,Asia,2020,9,1
+Middle East,Europe,2020,1,1
+South America,Oceania,2020,2,1
+Asia,Asia,2020,1,1
+Europe,Asia,2020,2,1
+Europe,Europe,2019,1,1
+South America,South America,2019,1,1
+Europe,Asia,2019,7,1
+Europe,South America,2019,89,1
+Central America,Central America,2019,1,1
+North America,North America,2019,1,1
+Africa,Africa,2019,1,1
+South America,North America,2019,4,1
+South America,Central America,2019,4,1
+North America,Central America,2019,1,1
+North America,Europe,2019,3,1
+Europe,Central America,2018,4,1
+Europe,Europe,2018,1,1
+South America,South America,2018,1,1
+Europe,South America,2018,67,1
+South America,North America,2018,4,1
+Asia,Asia,2018,1,1
+Europe,North America,2018,2,1
+North America,North America,2018,1,1
+Central America,Central America,2018,1,1
+Africa,Europe,2018,1,1
+Europe,Europe,2017,1,1
+North America,North America,2017,1,1
+South America,South America,2017,1,1
+South America,Central America,2017,2,1
+South America,North America,2017,13,1
+Asia,Europe,2017,3,1
+Central America,Central America,2017,1,1
+Europe,South America,2017,110,1
+Asia,Asia,2017,1,1
+South America,Asia,2017,5,1
+North America,Europe,2017,16,1
+Europe,Europe,2016,1,1
+South America,South America,2016,1,1
+Europe,Asia,2016,12,1
+Asia,Asia,2016,1,1
+South America,Europe,2016,62,1
+North America,North America,2016,1,1
+South America,North America,2016,5,1
+Europe,Central America,2016,3,1
+Asia,North America,2016,2,1
+Europe,Europe,2015,1,1
+South America,South America,2015,1,1
+North America,North America,2015,1,1
+Central America,Central America,2015,1,1
+South America,Europe,2015,60,1
+Middle East,Middle East,2015,1,1
+Africa,Africa,2015,1,1
+Europe,Asia,2015,17,1
+Asia,Asia,2015,1,1
+Europe,Central America,2015,3,1
+Europe,Europe,2014,1,1
+South America,South America,2014,1,1
+South America,Europe,2014,23,1
+North America,North America,2014,1,1
+North America,Europe,2014,12,1
+Middle East,Oceania,2014,1,1
+Central America,Central America,2014,1,1
+Central America,Europe,2014,2,1
+Africa,Africa,2014,1,1
+Africa,Middle East,2014,2,1
+Asia,Asia,2014,1,1
+Europe,Europe,2013,1,1
+South America,South America,2013,1,1
+Europe,South America,2013,14,1
+North America,North America,2013,1,1
+Asia,Asia,2013,1,1
+South America,South America,2012,1,1
+Europe,Europe,2012,1,1
+Africa,Africa,2012,1,1
+South America,Europe,2012,34,1
+Central America,Central America,2012,1,1
+Oceania,Oceania,2012,1,1
+Middle East,Middle East,2012,1,1
+North America,North America,2012,1,1
+North America,Europe,2012,7,1
+Asia,Asia,2012,1,1
+Europe,Asia,2012,2,1
+Europe,Europe,2011,1,1
+South America,South America,2011,1,1
+Africa,Africa,2011,1,1
+Africa,Europe,2011,2,1
+North America,North America,2011,1,1
+North America,Europe,2011,16,1
+Europe,South America,2011,12,1
+Europe,Europe,2010,1,1
+South America,Europe,2010,20,1
+South America,South America,2010,1,1
+Central America,Europe,2010,3,1
+North America,Europe,2010,6,1
+North America,North America,2010,1,1
+Central America,South America,2010,1,1
+Europe,Africa,2010,1,1

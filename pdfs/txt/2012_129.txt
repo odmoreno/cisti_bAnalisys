@@ -1,0 +1,3 @@
+Methodologies of requirements modeling: A comparasion between KAOS and Mind Maps
+ABSTRACT
+This paper presents a comparison between the requirements modeling KAOS (Keep All Objects Satisfied) and Mind Maps. An experimental research method was employed to perform this work. The experiment was conducted with three groups. The first two groups had members of the Universidade Tecnológica Federal do Paraná. The third one consisted of professionals working in a software development company.

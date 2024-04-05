@@ -1,0 +1,3 @@
+Web services for irrigation project
+ABSTRACT
+Presents the decision support system SADREG, a computer application designed to provide a Web service in surface irrigation project to help farmers and agricultural technicians. Explains the objectives and structure of the application, the logic of dynamic data and procedures and the characteristics of the user interface, the various interactive processes during the design and selection of alternatives.

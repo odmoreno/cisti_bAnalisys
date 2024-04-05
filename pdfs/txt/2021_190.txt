@@ -1,0 +1,3 @@
+Software for Analysis of Industrial Motors
+ABSTRACT
+Within the industries, the corrective maintenance is commonly practiced because they do not count with a scheduled maintenance to perform preventive maintenance on machines, because of this, industries usually spend more time and money on maintaining what they should, but With the help of thermal imaging technology and the application of artificial neural networks (ANN), software can be used to predict future failures. In this way you can prepare a maintenance of such equipment well in advance, thus saving the time and money that until now was wasted.

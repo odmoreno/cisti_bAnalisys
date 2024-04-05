@@ -1,0 +1,3 @@
+Blue-Motic: Monitoring and control energy consumption point in mobile devices
+ABSTRACT
+The use of mobile devices in home automation today allows to control and monitor the use of electrical devices. This article presents Blue-Motic automation system for monitoring and control points of energy consumption on mobile devices. The system consists of a power card to capture electrical signals and send information via a Bluetooth network to a mobile device, also has a security system and user levels to control devices in a home (heating, sound, lights, opening and closing blinds, alarm and sockets). The validation of the system allowed us to establish the advantage of today's mobile technology to support everyday human activities.

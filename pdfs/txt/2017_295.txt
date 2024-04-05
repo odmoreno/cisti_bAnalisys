@@ -1,0 +1,3 @@
+Social commerce and herd behaviour: An examination of the moderating roles of age and homophily
+ABSTRACT
+Herd behaviour has been demonstrated to influence the online actions of individuals. This work-in-progress-paper proposes a research model to examine the role of age and homophily in the perpetuation of herding within the context of online shopping. An experimental-based methodology is outlined to empirically validate the proposed model using structural equation modeling techniques. Potential contributions to theory and practice are also discussed.

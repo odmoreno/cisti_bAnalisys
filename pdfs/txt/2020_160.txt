@@ -1,0 +1,3 @@
+Teaching and Learning Virtual Strategy for the Navigation of Multiple-UAV
+ABSTRACT
+This paper presents a virtual application based on the engineering area teaching-learning process for the mobile robots cooperative control. The application development is basically focus on advanced control algorithms implementation in a 3D virtual environment shown in the Unity 3D graphic engine, which exchanges information in real time using mathematical software improving the control strategy. This strategy considers the multiple UAVs autonomous navigation in order to perform cooperative tasks. Finally, experimental tests that show users' interaction and immersion in the virtual environment are presented while doing cooperative navigation tasks.

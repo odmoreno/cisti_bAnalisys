@@ -1,0 +1,3 @@
+A technological framework for self-management of a homeless people institution
+ABSTRACT
+In this paper we present a case study of the development of a technological framework to promote and enhance the self-management of a homeless people institution. This work has been developed by students of a bachelor's degree, included in the Inclusive School Project of the High School of Technology and Management of the Viana do Castelo Polytechnic Institute. This paper has two main contributions: the ICT tools adoption to the digital modernization of the society and the role academic community play in social responsibility. We present the solution architecture as well as the final prototype developed.

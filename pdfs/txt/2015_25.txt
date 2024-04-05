@@ -1,0 +1,3 @@
+Binarization functions for Shuffled Frog Leaping Algorithm can solve the Set Covering Problem
+ABSTRACT
+This paper presents metaheuristic Shuffled Frog Leaping Algorithm (SFLA) to solve the Set Covering Problem (SCP), the SFLA is inspired by the social behavior of frogs, and is being applied to solve many optimization problems. The proposed algorithm includes eight binarization functions and discretization method for resolving the binary representation of the SCP. In the 65 instances of SCP we obtains very promising results.

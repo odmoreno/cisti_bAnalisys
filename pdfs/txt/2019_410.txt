@@ -1,0 +1,3 @@
+Training and management support as determinants of ERP success
+ABSTRACT
+ERP (Enterprise Resource Planning) are important software tools that links all functional areas of organizations. The ERP plays an important role in the support at management levels, strategic, tactical and operational, but also in the day-to-day decision making of our organizations. Our model is focuses on the impact of top management support and user ERP training on adoption and success dependent variables of information systems. The results of this study show us how these independents variables can be determinants in the evaluation of ERP success.

@@ -1,0 +1,3 @@
+Shortening changeover time — An industrial study
+ABSTRACT
+This paper presents the results of the use of the Single Minute Exchange of Die method to shorten changeover time on machines in a polish production company. This project has been developed for a manufacturing company, whose products are fiberboard, hardboard and softboard products manufactured by a highly specialized industry using only pure wood fibers. Long changeover times used to conduct to bad results in timely delivery of orders. Therefore, in this work each element of the changeover time was analyzed to understand if it could be eliminated, moved or simplified. Implemented solutions significantly reduce setup time and improve the Company's competitiveness.

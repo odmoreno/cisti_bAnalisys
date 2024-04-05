@@ -1,0 +1,3 @@
+Implementation of social technologies for Open Course Ware OCW platforms
+ABSTRACT
+The present work focused on the inclusion of social components to the Open Course Ware (OCW) platforms, with this purpose was taken as case study the Technical University of Loja (UTPL), to demonstrate the level of knowledge and use social networks and platforms OCW identifying acceptance and feasibility of integrating social platforms this kind of functionality. Based on the results obtained are developed and implemented social features for OCW platform — learning.

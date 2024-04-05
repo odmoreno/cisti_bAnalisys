@@ -1,0 +1,3 @@
+The use of Text Mining to classify the best people management practice
+ABSTRACT
+This study is in the initial stage and aims to develop an automatic model to classify the best people management practices. We will use text mining techniques, considered an alternative for analysing large amounts of text. This methodology is advantageous because it allows an in-depth analysis of the data and in this way enable to point out significant trends in best practices for people management. This study also intends to contribute with companies, making possible to convert unstructured data into information easily actionable by managers helping to develop excellent working environments.

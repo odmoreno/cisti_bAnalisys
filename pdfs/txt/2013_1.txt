@@ -1,0 +1,3 @@
+A web application for distributed computing: Solving a typical statistical problem in industry
+ABSTRACT
+A web application of scientific computing over the Internet is presented, for distributed computing, parallel programming in MPI, using the resolution of a typical statistical problem in packaging. This problem is found in many industries, and is solved empirically. As no analytical solution seems viable, a Monte Carlo approach was adopted. After briefly describing a previous series programming solution of the problem, its parallel programming version is detailed. From the authors' experience, the web environment is clearly recommended for scientific computing, for academic and industrial purposes.

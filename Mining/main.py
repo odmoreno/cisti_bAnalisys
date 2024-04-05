@@ -5,6 +5,15 @@ import os
 
 from common_functions import *
 
+# Obtén la ruta actual del script
+script_dir = os.path.dirname(os.path.realpath(__file__))
+# Cambia el directorio de trabajo al directorio del script
+os.chdir(script_dir)
+
+current_directory = os.getcwd()
+print("Directorio de trabajo actual:", os.getcwd())
+
+
 def generate_csv_papers_tmp():
     cols = ['type', 'year', 'title', 'doi', 'conference',
             'authors', 'countries', 'regions', 'affiliations']
@@ -33,10 +42,10 @@ def generate_csv_papers_tmp():
 
 
 def loop_csv_cisti():
-    years = [2023,2022,2021,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010]
+    years = [2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010]
     conf_check = {}
     for year in years:
-        file = 'Data/'+ str(year) + '.csv'
+        file = '../Data/years/'+ str(year) + '.csv'
         elements = load_csv(file)
         elements = elements[1:]
         papers = []
@@ -59,6 +68,7 @@ def loop_csv_cisti():
         }
         name = 'cisti_' + str(year)
         conf_check[name] = data
+        print(name)
 
     save_generic('Data/conference_check.json', conf_check)
     print(f"fin")

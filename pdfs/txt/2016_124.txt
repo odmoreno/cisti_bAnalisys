@@ -1,0 +1,3 @@
+A discrete invasive weed optimization algorithm for the set covering problem
+ABSTRACT
+The Set Covering Problem (SCP) is a classic problem of combinatorial analytic. This problem consists in to find solutions what cover the needs to lower cost. Those can be services to cities, load balancing in production lines or databanks selections. In this paper, we study the resolution of SCP, through Invasive Weed Optimization (IWO), in its binary version; Binary Invasive Weed Optimization (BIWO). IWO, it is to imitate to Invasive Weed behavior (reproduction and selection natural), through mathematics formulations. Where the best weed has more chance of reproduction.

@@ -1,0 +1,3 @@
+Detection of outliers for a pharmaceutical distribution company in Portugal
+ABSTRACT
+Stock unavailability in the supply of medicines to pharmacies can be caused by several factors including manufacturing problems, lack of raw materials, end of product selling, disease and epidemics outbreaks. Furthermore, the sale of medicines by some pharmacies to foreign markets has increased in recent years, and is considered one of the main causes of medicine supply failures in Portugal.

@@ -1,0 +1,3 @@
+Process management: In the construction of learning objects for distance education
+ABSTRACT
+A workflow system is essential for the management of all stages of pre-production, production and post-production in the elaboration of Learning Objects (OAs) in the context of distance education (EaD). The systemic vision of all the progress of these stages, as well as the pari passu visualization of each one of them contributes in a significant way to the success of the production of OAs in this modality of teaching.

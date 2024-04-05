@@ -1,0 +1,3 @@
+Usability study for Liquid Galaxy platform using hand and voice controllers
+ABSTRACT
+In a reality in which expressive amounts of data are produced by devices with increasing storage and processing power, the display walls - sets of synchronized screens that act as a large integrated display emerge as a solution for displaying long datasets, opening new possibilities and also new challenges for the area of Human-Computer Interaction, including natural interfaces, such as voice interaction. This article presents a usability study done with 40 people to analyze the performance in the use of the Liquid Galaxy display wall using joystick controllers and voice controllers.

@@ -1,0 +1,3 @@
+FEUP fuzzy tool II: Improved tool for education and embedded control
+ABSTRACT
+An innovative software called FEUP Fuzzy Tool was developed by professor and students as a teaching tool to support the control of non-linear systems using the computational resources available. It is based on the theory of Fuzzy Logic control. The tool is currently used for investigation and educational purposes. This document briefly describes and validates through some example applications the current release of the toolbox which makes it one of the most complete and advanced fuzzy logic software available. The present tool now includes Neuro Fuzy optimization, visual debugging and run time control on the PC or in an embeddable platform.

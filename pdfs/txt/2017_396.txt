@@ -1,0 +1,3 @@
+Higher education access prediction using data-mining
+ABSTRACT
+The national panel for higher education is a big social impact event, one which mobilizes thousands of candidates. However, the heterogeneity of the Portuguese university and polytechnic infrastructure and the sheer dimension of the reality in study makes an eventual interpretation of the data obtained from that panel, and the official data only present generic and global information. This work will bring to light information with added value to those responsible on these institutions, in their decision taking processes by extracting data from the education minister site and processing it using data mining techniques.

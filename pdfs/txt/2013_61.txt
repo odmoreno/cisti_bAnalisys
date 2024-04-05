@@ -1,0 +1,3 @@
+Development and debugging of distributed virtual reality applications
+ABSTRACT
+The search for high performance and low cost has stimulated the use of distributed systems. Such environments offer functionality for applications such as scalability, high performance processing capacity and fault tolerance. However, the development of distributed application is complex and requires specialized tools. This paper aims to discuss techniques for the development distributed Virtual Reality applications based on computer clusters. We create the message debugger GTracer to facilitate the development of new applications. This tool is part of libGlass, a library for distributed computing.

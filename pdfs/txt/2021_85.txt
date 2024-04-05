@@ -1,0 +1,3 @@
+Detection of phytophthora palmivora in cocoa fruit with deep learning
+ABSTRACT
+Currently there are many supervised learning methods and evaluation models for the detection of diseases in plants, this initial study presents a model for the detection of phytophthora palmivora on the cocoa pod, which has been developed with the ResNet18 model, reaching 83% prediction accuracy, using 1596 images in total for training and testing. In addition, with the same model, other images were trained to predict the image of cocoa compared to other fruits similar to cocoa, obtaining a prediction accuracy of 96%. Due to the good results obtained in this work, we believe that this tool can help cocoa farmers to identify phytophthora and to obtain healthy cocoa crops.

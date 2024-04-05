@@ -1,0 +1,3 @@
+A proposal of a software package insert using concept maps
+ABSTRACT
+This article aims to present a software artifact based on the idea of the article “The proposal for a Software Package Using Mind Maps”, to the concepts of Concept Maps. This artifact is called the Bull of Software and will show what are the features of a particular software, information related to the technology and procedures used in the installation. In the end, a comparison between the data found in proposed using Mind Maps with data from concept maps will be made.

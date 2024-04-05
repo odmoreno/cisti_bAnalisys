@@ -1,0 +1,3 @@
+Models for increasing retention in regular sports services: Predictive analysis and loyalty actions
+ABSTRACT
+The sports facilities that offer regular sports services have been adopting ERP and CRM systems and there are now databases with historical data of great value. In this work, we demonstrate that by applying predictive models to these data it is possible to identify abandonment profiles. Based on the profiles found, experience planning is carried out, with test and control groups, in order to find concrete actions of loyalty.

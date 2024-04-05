@@ -1,0 +1,3 @@
+Context-aware platform for mobile device-based communication assistance
+ABSTRACT
+Thanks to advances made in ICT in recent years, there is now a wide range of communication means available to users. This raises an issue when it comes to communicating with our contacts, as we have little or no help to decide which communication means to use in each case. In this paper we present a platform that enables users to register the communication means at their disposal and set up use preferences for them. Then, using this information, the platform is able to suggest to end-users which communication means to use when they want to communicate with their contacts.

@@ -1,0 +1,3 @@
+Searching for Association Rules to Forecast Earthquakes
+ABSTRACT
+The earthquakes occur anywhere and anytime, are one of the most dangerous natural disasters. Magnitude higher or equal to 5 can cause human, material and economic losses. The objective of this paper is association rules search for predict the occurrence of earthquake. To meet the objective was used earthquake data occurred between the years 2000 to 2009, data from tectonic plate near to South America and the Apriori Algorithm. As a result of the study it has 4 association rules of interest were obtained with the probability that one of them occurs, the first pattern interest is “existe_p7_94horas then existe_p7_120horas”, “p7” is the South American Plate.

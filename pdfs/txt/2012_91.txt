@@ -1,0 +1,3 @@
+A proposal for digital mediation for direct public participation during electoral periods
+ABSTRACT
+The current economic and social environment calls for civic involvement. This paper presents a proposal for digital mediation to encourage citizens to become involved and actively participate in electoral debates. The proposal consists of a Web application, iLeger, which seeks to bring together the key stakeholders in an election, voters and candidates, in a central, regulated and neutral site, fostering collaboration and multidirectional communication between them. We present the main functional areas of the Web application as well as the results of a case study about the Portuguese parliamentary elections held in 2011.

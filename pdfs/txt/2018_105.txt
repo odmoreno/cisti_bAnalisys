@@ -1,0 +1,3 @@
+Detecting malware capabilities with FOSS: Lessons learned through a real-life incident
+ABSTRACT
+In August 2016 an attack of DDoS was performed by a botnet composed of more than 24,000 computers located in over 30 countries. Its objective was against at least five Russian banks. This paper is created in order to utilize the Free and Open Source Software (FOSS) available online to identify, classify and remove malware from a compromised system. Presenting an in-depth security analysis of Mirai botnet, a malware that affected the availability of banking systems and put in evidence a new form of DDoS attack that works with IoT devices compromised by malware. The methods presented are generic and can be used to mitigate any malware of the same nature.

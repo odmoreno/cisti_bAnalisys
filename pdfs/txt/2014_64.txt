@@ -1,0 +1,3 @@
+Experimental analysis of the efficiency of application E-Mages in medical imaging visualization
+ABSTRACT
+Applications to support the visualization of medical images have been developed and used in practice by students and professionals, providing a tool to support teaching and handling of medical images through a computer system. Among them, we highlight E-Mages that can be used to view and evaluate images, along with their meta-data and tools, through mobile devices. This paper aims to plan and execute an experiment to analyze the efficiency of E-Mages when used by students and medical experts. We also show details of planning, execution, data analysis, and relevant aspects of the experiment and their positive and negative points regarding the application use.

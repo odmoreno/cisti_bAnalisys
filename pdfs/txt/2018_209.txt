@@ -1,0 +1,3 @@
+Sharing economy and mobile apps
+ABSTRACT
+The sharing economy consists of commercial practices that allow access to goods and services, without necessarily having to acquire a product or monetary exchange. Collaborative consumption, another concept associated with this economy, aims to accommodate needs and desires in a more sustainable, attractive and low burden for the individual. The purpose of this article is to present the example of a mobile application that allows the exchange and donation of products. Trad'in is a social platform that encourages the exchange of products in order to preserve natural resources and ensure a sustainable market for future generations. The application was developed for iOS and is available in the App Store in its beta version.

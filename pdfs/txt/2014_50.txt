@@ -1,0 +1,3 @@
+Bibliographic resources manager using knowledge maps
+ABSTRACT
+This article summarizes the project Bibliographic Resources Manager using knowledge maps that involved the development of an application for the representation of bibliographic information (books, theses, and Multimedia Guide) of the centers of the Universidad Técnica Particular de Loja-UTPL, through a knowledge map using semantic technologies.

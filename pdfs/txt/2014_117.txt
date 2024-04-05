@@ -1,0 +1,3 @@
+Optimization models in layout
+ABSTRACT
+The article tries to track broadly historical evolution of the optimization models of the distribution in plant or layout in order through his historical analysis of trends and recognize the different needs that caused a development of the subject over time.

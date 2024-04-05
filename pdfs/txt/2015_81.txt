@@ -1,0 +1,3 @@
+Intelligent system (HCI) for people with motor misabilities
+ABSTRACT
+Currently portable electronic devices, have become the solution for people who have some degree of physical disability. It is therefore essential to design computer models, devices with embedded systems and devices mainly to allow making a communication between man and machine. This paper presents the development of an intelligent communication system for HCI to facilitate the process of access to the information systems of people with mobility disabilities.

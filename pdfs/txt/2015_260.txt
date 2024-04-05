@@ -1,0 +1,3 @@
+A mobile game for engaging students on the study of the novel “Os Maias”
+ABSTRACT
+Data collected from a study carried out in Portugal were analyzed to find habits and game preferences of students of various levels of the educational system. This paper aims to summarize the main conclusions regarding secondary school students. Based on these conclusions we outlined the game that is currently being developed in order to engage students in the study of "Os Maias" from Eça de Queirós.

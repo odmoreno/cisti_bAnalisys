@@ -1,0 +1,3 @@
+Predict Churning Customers – An Explorative Study
+ABSTRACT
+Some banks and business managers are facing the problem of customer credit card attrition. Therefore, it was necessary to identify new strategies for banks and business managers to keep their customers satisfied. In this paper, we analyze the data from a fictitious data source available on Kaggle, to find out the reason behind this and to predict customers who are likely to drop off so the banks and business managers can proactively provide them better services. To accomplish this, we used eight classification algorithms and the obtained results from some algorithms are very promising.

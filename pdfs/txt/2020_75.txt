@@ -1,0 +1,3 @@
+A low-cost alternative communication interface based on eye tracking for people with motor and communication disorders
+ABSTRACT
+This study presents a low-cost eye-movement alternative communication tool for people with motor and communication disorders. A physiotherapist and a student with Cerebral Palsy (CP) participated in this study. It was possible to analyze the functionality of the eye tracker interacting with the designed interfaces from preliminary tests performed in the laboratory. This sort of solutions promises to supplement usual modes of communication, contributing to greater autonomy and social inclusion.

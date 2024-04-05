@@ -1,0 +1,3 @@
+Combining IoT Risk Management with Logic Programming
+ABSTRACT
+A key issue with IoT environments is ensuring security across all services and devices. The quest for comprehensive and reliable security solutions is one of the biggest concerns of those who provide and use this technology. The diversity of threats, together with the lack of concern of most of its administrators and device designers, made the IoT network environment vulnerable. This article introduces RTRMM, a logic-based security risk management model for IoT environments that predicts risks and aims to manage them in real time, making the IoT environment more reliable. It makes use of fuzzy logic to detect if there is any threat in an IoT data stream and logic programming to represent its functionalities.

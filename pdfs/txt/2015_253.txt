@@ -1,0 +1,3 @@
+Application ontology for the development of case-based intrusion detection systems
+ABSTRACT
+This work proposes an application ontology who is capable of formally represent the concepts present in the domain of Information Security together with the intrusion detection systems and case-based reasoning. The ontology was evaluated through the development of an IDS capable of detect computers networks attacks and recommend actions to such attacks. The results showed that the developed IDS presented good effectiveness in the detecting attacks, and so it is concluded that the proposed ontology conceptualizes properly the domain concepts and task.

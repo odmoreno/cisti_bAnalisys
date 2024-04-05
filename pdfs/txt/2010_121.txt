@@ -1,0 +1,3 @@
+An authentication approach based on behavioral profiles
+ABSTRACT
+Mobile devices are becoming mandatory equipment in modern life. However, the available interfaces are usually not suitable for accepting data input in a friendly and reliable fashion. Accordingly, a context- based approach can represent a useful alternative for circumventing threats in a mobile computing scenario. In this paper, we present a proposal based on context-aware authentication, considering an individual's behavior through a spatio-temporal context. This approach presents a more dynamic and reliable policy for authenticating users.

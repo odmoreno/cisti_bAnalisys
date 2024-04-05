@@ -71,7 +71,8 @@
     "fullname": "Massachusetts Institute of Technology, Boston",
     "country": "United States",
     "region": "North America",
-    "code": "massachusettsinstituteoftechnology"
+    "code": "massachusettsinstituteoftechnology",
+    "type": "affcode"
   },
   "wellesleycollege": {
     "name": "Wellesley College",
@@ -196,7 +197,8 @@
     "fullname": "University of Florida, Gainesville",
     "country": "United States",
     "region": "North America",
-    "code": "universityofflorida"
+    "code": "universityofflorida",
+    "type": "affcode"
   },
   "earthtrust": {
     "name": "Earth Trust",
@@ -204,13 +206,6 @@
     "country": "United Kingdom",
     "region": "Europe",
     "code": "earthtrust"
-  },
-  "": {
-    "name": "",
-    "fullname": "",
-    "country": "",
-    "region": "",
-    "code": ""
   },
   "computinginstitute": {
     "name": "Universidade Federal Fluminense",
@@ -579,7 +574,8 @@
     "fullname": "Universidade Federal Rural de Pernambuco",
     "country": "Brazil",
     "region": "South America",
-    "code": "universidadefederalruraldepernambuco"
+    "code": "universidadefederalruraldepernambuco",
+    "type": "affcode"
   },
   "universityofcentralflorida": {
     "name": "University of Central Florida",
@@ -600,7 +596,8 @@
     "fullname": "University of Pittsburgh",
     "country": "United States",
     "region": "North America",
-    "code": "universityofpittsburgh"
+    "code": "universityofpittsburgh",
+    "type": "affcode"
   },
   "purdueuniversity": {
     "name": "Purdue University",
@@ -677,9 +674,10 @@
   "humboldt-universitätzuberlin": {
     "name": "Humboldt-Universität zu Berlin",
     "fullname": "",
-    "country": "germany",
+    "country": "Germany",
     "region": "Europe",
-    "code": "humboldt-universitätzuberlin"
+    "code": "humboldt-universitätzuberlin",
+    "type": "affcode"
   },
   "weizenbauminstitutee.v.": {
     "name": "Weizenbaum Institute e.V.",
@@ -897,6 +895,22 @@
     "code": "pompeufabrauniversity",
     "type": "affcode"
   },
+  "universidadagrariadelahabana": {
+    "name": "Universidad Agraria de la Habana",
+    "fullname": "Universidad Agraria de la Habana",
+    "country": "Cuba",
+    "region": "Central America",
+    "code": "universidadagrariadelahabana",
+    "type": "affcode"
+  },
+  "universitatpompeufabraupf": {
+    "name": "Pompeu Fabra University",
+    "fullname": "Pompeu Fabra University",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "universitatpompeufabraupf",
+    "type": "affcode"
+  },
   "learninganalyticsresearchnetworknewyorkuniversitynewyorkunitedstates": {
     "name": "Learning Analytics Research Network New York University New York United States",
     "fullname": "Learning Analytics Research Network New York University New York United States",
@@ -968,6 +982,16 @@
     "code": "universidadefederaldepernambuco",
     "id": "25112270",
     "new": true
+  },
+  "universidadedepernambuco": {
+    "name": "Universidade de Pernambuco",
+    "fullname": "Universidade Federal de Pernambuco",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadefederaldepernambuco",
+    "id": "25112270",
+    "new": true,
+    "type": "affcode"
   },
   "policylabatbrownuniversity": {
     "name": "Policy Lab at Brown University",
@@ -1075,7 +1099,8 @@
     "fullname": "Hacettepe University, Ankara",
     "country": "Turkey",
     "region": "Asia",
-    "code": "hacettepeuniversity"
+    "code": "hacettepeuniversity",
+    "type": "affcode"
   },
   "know-centergmbh": {
     "name": "Know-Center GmbH",
@@ -1279,13 +1304,6 @@
     "region": "Europe",
     "code": "itec-kuleuven-imec"
   },
-  "dublincityuniversity": {
-    "name": "Dublin City University",
-    "fullname": "Insight Centre for Data Analytics, Dublin City University, Dublin",
-    "country": "Ireland",
-    "region": "Europe",
-    "code": "dublincityuniversity"
-  },
   "universityofnortherncolorado": {
     "name": "University of Northern Colorado",
     "fullname": "University of Northern Colorado, Greeley, Colorado",
@@ -1376,7 +1394,8 @@
     "fullname": "University of Duisburg-Essen, Duisburg",
     "country": "Germany",
     "region": "Europe",
-    "code": "universityofduisburg-essen"
+    "code": "universityofduisburg-essen",
+    "type": "affcode"
   },
   "schoolofeducation": {
     "name": "School of Education",
@@ -1520,7 +1539,8 @@
     "fullname": "RMIT University, Melbourne",
     "country": "Australia",
     "region": "Oceania",
-    "code": "rmituniversity"
+    "code": "rmituniversity",
+    "type": "affcode"
   },
   "seoulnationaluniversity": {
     "name": "Seoul National University",
@@ -1577,7 +1597,8 @@
     "fullname": "Griffith University",
     "country": "Australia",
     "region": "Oceania",
-    "code": "griffithuniversity"
+    "code": "griffithuniversity",
+    "type": "affcode"
   },
   "brnouniversityoftechnology": {
     "name": "Brno University of Technology",
@@ -1944,7 +1965,8 @@
     "fullname": "University of the Basque Country, San Sebastián",
     "country": "Spain",
     "region": "Europe",
-    "code": "universityofthebasquecountry"
+    "code": "universityofthebasquecountry",
+    "type": "affcode"
   },
   "rwthaachen": {
     "name": "RWTH Aachen",
@@ -2369,9 +2391,10 @@
   "californiastateuniversity": {
     "name": "California State University",
     "fullname": "California State University, Long Beach, California",
-    "country": "",
-    "region": "",
-    "code": "californiastateuniversity"
+    "country": "United States",
+    "region": "North America",
+    "code": "californiastateuniversity",
+    "new": "True"
   },
   "mit": {
     "name": "Massachusetts Institute of Technology",
@@ -2516,6 +2539,14 @@
     "code": "universityofalcalá",
     "type": "affcode"
   },
+  "universidaddealcala": {
+    "name": "University of Alcalá",
+    "fullname": "University of Alcalá, Alcalá Henares, (Madrid)",
+    "country": "España",
+    "region": "Europe",
+    "code": "universidaddealcala",
+    "type": "affcode"
+  },
   "universityofhawai'i": {
     "name": "University of Hawai'i",
     "fullname": "University of Hawai'i, Honolulu",
@@ -2606,21 +2637,24 @@
     "fullname": "Universitat Oberta de Catalunya, Barcelona",
     "country": "Spain",
     "region": "Europe",
-    "code": "universitatobertadecatalunya"
+    "code": "universitatobertadecatalunya",
+    "type": "affcode"
   },
   "universityofleeds": {
     "name": "University of Leeds",
     "fullname": "University of Leeds, Leeds, UK",
-    "country": "",
-    "region": "",
-    "code": "universityofleeds"
+    "country": "United Kingdom",
+    "region": "Europe",
+    "code": "universityofleeds",
+    "type": "affcode"
   },
   "ballstateuniversity": {
     "name": "Ball State University",
     "fullname": "Ball State University, Muncie",
     "country": "United States",
     "region": "North America",
-    "code": "ballstateuniversity"
+    "code": "ballstateuniversity",
+    "type": "affcode"
   },
   "brunelbusinessschool": {
     "name": "Brunel Business School",
@@ -2746,7 +2780,8 @@
     "fullname": "",
     "country": "Brazil",
     "region": "South America",
-    "code": "universidadefederalfluminense"
+    "code": "universidadefederalfluminense",
+    "type": "affcode"
   },
   "inriachileresearchcenter": {
     "name": "Inria Chile Research Center",
@@ -2840,7 +2875,8 @@
     "fullname": "King Abdulaziz University",
     "country": "Saudi Arabia",
     "region": "Middle East",
-    "code": "kingabdulazizuniversity"
+    "code": "kingabdulazizuniversity",
+    "type": "affcode"
   },
   "machinelearningforeducationlaboratory": {
     "name": "EPFL",
@@ -2960,7 +2996,8 @@
     "fullname": "Universidad de Deusto",
     "country": "Spain",
     "region": "Europe",
-    "code": "universidaddedeusto"
+    "code": "universidaddedeusto",
+    "type": "affcode"
   },
   "polytechniquemontreal": {
     "name": "Polytechnique Montreal",
@@ -3016,7 +3053,8 @@
     "fullname": "University of Arizona",
     "country": "United States",
     "region": "North America",
-    "code": "universityofarizona"
+    "code": "universityofarizona",
+    "type": "affcode"
   },
   "competitiveintelligencesolutionsllc.": {
     "name": "Competitive Intelligence Solutions LLC.",
@@ -3060,14 +3098,16 @@
     "fullname": "Universidade Federal de Alagoas",
     "country": "Brazil",
     "region": "South America",
-    "code": "universidadefederaldealagoas"
+    "code": "universidadefederaldealagoas",
+    "type": "affcode"
   },
   "universidadefederaldoamazonas": {
     "name": "Universidade Federal do Amazonas",
     "fullname": "Universidade Federal do Amazonas",
     "country": "Brazil",
     "region": "South America",
-    "code": "universidadefederaldoamazonas"
+    "code": "universidadefederaldoamazonas",
+    "type": "affcode"
   },
   "universidadedoestadodesantacatarina": {
     "name": "Universidade do Estado de Santa Catarina",
@@ -3077,12 +3117,21 @@
     "code": "universidadedoestadodesantacatarina",
     "type": "affcode"
   },
+  "universidadedoestadodoamazonas": {
+    "name": "universidade do estado do amazonas",
+    "fullname": "universidade do estado do amazonas",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadedoestadodoamazonas",
+    "type": "affcode"
+  },
   "universidadefederaldeuberlândia": {
     "name": "Universidade Federal de Uberlândia",
     "fullname": "Universidade Federal de Uberlândia",
     "country": "Brazil",
     "region": "South America",
-    "code": "universidadefederaldeuberlândia"
+    "code": "universidadefederaldeuberlândia",
+    "type": "affcode"
   },
   "universidadefederaldepelotas": {
     "name": "Universidade Federal de Pelotas",
@@ -3117,7 +3166,8 @@
     "fullname": "Middle East Technical University",
     "country": "Turkey",
     "region": "Asia",
-    "code": "middleeasttechnicaluniversity"
+    "code": "middleeasttechnicaluniversity",
+    "type": "affcode"
   },
   "zuyduniversityofappliedsciences": {
     "name": "Zuyd University of Applied Sciences",
@@ -3773,6 +3823,13 @@
     "region": "Europe",
     "code": "universityofaalborg"
   },
+  "salvadoruniversityunifacs": {
+    "name": "Salvador University",
+    "fullname": "Salvador University",
+    "country": "El Salvador",
+    "region": "Central America",
+    "code": "salvadoruniversityunifacs"
+  },
   "knowcentergmbh": {
     "name": "Know Center GmbH",
     "fullname": "Know Center GmbH",
@@ -4166,9 +4223,10 @@
   "universidadorturuguay": {
     "name": "Universidad ORT Uruguay",
     "fullname": "Universidad ORT Uruguay, Montevideo, Uruguay",
-    "country": "",
-    "region": "",
-    "code": "universidadorturuguay"
+    "country": "Uruguay",
+    "region": "South America",
+    "code": "universidadorturuguay",
+    "type": "affcode"
   },
   "edgeatterc": {
     "name": "EdGE at TERC",
@@ -4790,9 +4848,10 @@
   "universityofbristol": {
     "name": "University of Bristol",
     "fullname": "University of Bristol, Bristol, UK",
-    "country": "",
-    "region": "",
-    "code": "universityofbristol"
+    "country": "United Kingdom",
+    "region": "Europe",
+    "code": "universityofbristol",
+    "type": "affcode"
   },
   "canadaanduniversityofbelgrade": {
     "name": "Canada and University of Belgrade",
@@ -5080,7 +5139,8 @@
     "fullname": "Galileo University, Guatemala City",
     "country": "Guatemala",
     "region": "North America",
-    "code": "galileouniversity"
+    "code": "galileouniversity",
+    "type": "affcode"
   },
   "classcentral": {
     "name": "Class Central",
@@ -5608,9 +5668,10 @@
   "universityofcoloradodenver": {
     "name": "University of Colorado Denver",
     "fullname": "University of Colorado Denver",
-    "country": "",
-    "region": "",
-    "code": "universityofcoloradodenver"
+    "country": "United States",
+    "region": "North America",
+    "code": "universityofcoloradodenver",
+    "type": "affcode"
   },
   "stockholmuniversityanddigitalfutures": {
     "name": "Stockholm University and Digital Futures",
@@ -5771,9 +5832,10 @@
   "ituniversityofcopenhagen": {
     "name": "IT University of Copenhagen",
     "fullname": "IT University of Copenhagen",
-    "country": "",
-    "region": "",
-    "code": "ituniversityofcopenhagen"
+    "country": "Denmark",
+    "region": "Europe",
+    "code": "ituniversityofcopenhagen",
+    "type": "affcode"
   },
   "oaklanduniversity": {
     "name": "Oakland University",
@@ -6116,9 +6178,10 @@
   "cardiffuniversity": {
     "name": "Cardiff University",
     "fullname": "Cardiff University",
-    "country": "",
-    "region": "",
-    "code": "cardiffuniversity"
+    "country": "United Kingdom",
+    "region": "Europe",
+    "code": "cardiffuniversity",
+    "type": "affcode"
   },
   "bishopofllandaffchurch-in-waleshighschool,cardiffcf52nr,wales.": {
     "name": "Bishop of Llandaff Church-in-Wales High School, Cardiff CF5 2NR, Wales.",
@@ -6295,76 +6358,6 @@
     "country": "",
     "region": "",
     "code": "teacherscollege,columbiauniversity"
-  },
-  "utrechtuniversity\ndepartmentofinformationandcomputingsciences\np.o.box80089\n3508tbutrecht\nthenetherlands": {
-    "name": "Utrecht University\nDepartment of Information and Computing Sciences\nP.O. Box 80089\n3508 TB Utrecht\nThe Netherlands",
-    "fullname": "Utrecht University\nDepartment of Information and Computing Sciences\nP.O. Box 80089\n3508 TB Utrecht\nThe Netherlands",
-    "country": "",
-    "region": "",
-    "code": "utrechtuniversity\ndepartmentofinformationandcomputingsciences\np.o.box80089\n3508tbutrecht\nthenetherlands"
-  },
-  "universityofamsterdam\ndepartmentofpsychology\npsychologicalmethods\np.o.box15906\n1001nkamsterdam\nthenetherlands": {
-    "name": "University of Amsterdam\nDepartment of Psychology\nPsychological Methods\nP.O. Box 15906\n1001 NK Amsterdam\nThe Netherlands",
-    "fullname": "University of Amsterdam\nDepartment of Psychology\nPsychological Methods\nP.O. Box 15906\n1001 NK Amsterdam\nThe Netherlands",
-    "country": "",
-    "region": "",
-    "code": "universityofamsterdam\ndepartmentofpsychology\npsychologicalmethods\np.o.box15906\n1001nkamsterdam\nthenetherlands"
-  },
-  "abed.hofman\nuniversityofamsterdam\ndepartmentofpsychology\npsychologicalmethods\np.o.box15906\n1001nkamsterdam": {
-    "name": "Abe D. Hofman\nUniversity of Amsterdam\nDepartment of Psychology\nPsychological Methods\nP.O. Box 15906\n1001 NK Amsterdam",
-    "fullname": "Abe D. Hofman\nUniversity of Amsterdam\nDepartment of Psychology\nPsychological Methods\nP.O. Box 15906\n1001 NK Amsterdam",
-    "country": "",
-    "region": "",
-    "code": "abed.hofman\nuniversityofamsterdam\ndepartmentofpsychology\npsychologicalmethods\np.o.box15906\n1001nkamsterdam"
-  },
-  "hanl.j.vandermaas\nuniversityofamsterdam\ndepartmentofpsychology\npsychologicalmethods\np.o.box15906\n1001nkamsterdam": {
-    "name": "Han L. J. van der Maas\nUniversity of Amsterdam\nDepartment of Psychology\nPsychological Methods\nP.O. Box 15906\n1001 NK Amsterdam",
-    "fullname": "Han L. J. van der Maas\nUniversity of Amsterdam\nDepartment of Psychology\nPsychological Methods\nP.O. Box 15906\n1001 NK Amsterdam",
-    "country": "",
-    "region": "",
-    "code": "hanl.j.vandermaas\nuniversityofamsterdam\ndepartmentofpsychology\npsychologicalmethods\np.o.box15906\n1001nkamsterdam"
-  },
-  "gunterk.j.maris\nactnext\n500actdrive\niowacity,ia52245": {
-    "name": "",
-    "fullname": "Gunter K. J. Maris\nACTNext\n500 ACT Drive\nIowa City, IA 52245",
-    "country": "",
-    "region": "",
-    "code": "gunterk.j.maris\nactnext\n500actdrive\niowacity,ia52245"
-  },
-  "indianauniversity\n1101east10thstreet\nbloomington,in47405": {
-    "name": "Indiana University",
-    "fullname": "Indiana University\n1101 East 10th Street\nBloomington, IN 47405",
-    "country": "",
-    "region": "",
-    "code": "indianauniversity\n1101east10thstreet\nbloomington,in47405"
-  },
-  "carnegiemellonuniversity\n5000forbesave\npittsburgh,pa15213": {
-    "name": "Carnegie Mellon University\n5000 Forbes Ave\nPittsburgh, PA 15213",
-    "fullname": "Carnegie Mellon University\n5000 Forbes Ave\nPittsburgh, PA 15213",
-    "country": "",
-    "region": "",
-    "code": "carnegiemellonuniversity\n5000forbesave\npittsburgh,pa15213"
-  },
-  "vassarcollege\n124raymondavenue\npoughkeepsie,ny12604": {
-    "name": "Vassar College\n124 Raymond Avenue\nPoughkeepsie, NY 12604",
-    "fullname": "Vassar College\n124 Raymond Avenue\nPoughkeepsie, NY 12604",
-    "country": "",
-    "region": "",
-    "code": "vassarcollege\n124raymondavenue\npoughkeepsie,ny12604"
-  },
-  "nationalcenterforsupercomputingapplications\nuniversityofillinoisaturbana-champaign\n1205wclarkstreet\nurbana,il61801": {
-    "name": "National Center for Supercomputing Applications\nUniversity of Illinois at Urbana-Champaign\n1205 W Clark Street\nUrbana, IL 61801",
-    "fullname": "National Center for Supercomputing Applications\nUniversity of Illinois at Urbana-Champaign\n1205 W Clark Street\nUrbana, IL 61801",
-    "country": "",
-    "region": "",
-    "code": "nationalcenterforsupercomputingapplications\nuniversityofillinoisaturbana-champaign\n1205wclarkstreet\nurbana,il61801"
-  },
-  "departmentofcurriculum&instruction\nuniversityofillinoisaturbana-champaign\n1310ssixthstreet\nchampaign,il61820": {
-    "name": "Department of Curriculum & Instruction\nUniversity of Illinois at Urbana-Champaign\n1310 S Sixth Street\nChampaign, IL 61820",
-    "fullname": "Department of Curriculum & Instruction\nUniversity of Illinois at Urbana-Champaign\n1310 S Sixth Street\nChampaign, IL 61820",
-    "country": "",
-    "region": "",
-    "code": "departmentofcurriculum&instruction\nuniversityofillinoisaturbana-champaign\n1310ssixthstreet\nchampaign,il61820"
   },
   "theuniversityofmichigan-annarbor": {
     "name": "The University of Michigan - Ann Arbor",
@@ -6567,7 +6560,8 @@
     "fullname": "University of California, Berkeley",
     "country": "",
     "region": "",
-    "code": "universityofcalifornia,berkeley"
+    "code": "universityofcalifornia,berkeley",
+    "type": "affcode"
   },
   "universityofmemphis&instituteforintelligentsystems": {
     "name": "University of Memphis & Institute for Intelligent Systems",
@@ -7225,6 +7219,14 @@
     "code": "universidadenovadelisboa",
     "type": "affcode"
   },
+  "islacampuslisboa": {
+    "name": "Laureate International Univeristies ISLA Campus Lisboa",
+    "fullname": "Laureate International Univeristies",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "islacampuslisboa",
+    "type": "affcode"
+  },
   "institutpolytechniquedebordeaux": {
     "name": "institut polytechnique de bordeaux",
     "fullname": "institut polytechnique de bordeaux",
@@ -7578,7 +7580,8 @@
     "country": "Portugal",
     "region": "Europe",
     "code": "polytechnicinstituteofbragança",
-    "type": "affcode"
+    "type": "affcode",
+    "id": "4210092303"
   },
   "jcanão": {
     "name": "jcanão",
@@ -7743,7 +7746,8 @@
     "fullname": "universidad de san buenaventura, bogota",
     "country": "Colombia",
     "region": "South America",
-    "code": "universidaddesanbuenaventura"
+    "code": "universidaddesanbuenaventura",
+    "new": "True"
   },
   "universityofnamibia": {
     "name": "university of namibia",
@@ -8077,8 +8081,8 @@
     "type": "affcode"
   },
   "universidadeaberta": {
-    "name": "universidade aberta",
-    "fullname": "universidade aberta",
+    "name": "Universidade aberta",
+    "fullname": "Universidade aberta",
     "country": "Portugal",
     "region": "Europe",
     "code": "universidadeaberta",
@@ -8330,6 +8334,30 @@
     "code": "autonomousuniversityofzacatecas",
     "type": "affcode"
   },
+  "universidadautonomadezacatecas": {
+    "name": "Universidad Autónoma de Zacatecas",
+    "fullname": "Universidad Autónoma de Zacatecas",
+    "country": "Mexico",
+    "region": "North America",
+    "code": "universidadautonomadezacatecas",
+    "type": "affcode"
+  },
+  "institutodecienciasbasicaseingenieria": {
+    "name": "Instituto de Ciencias Básicas e Ingeniería Pachuca",
+    "fullname": "Instituto de Ciencias Básicas e Ingeniería Pachuca",
+    "country": "Mexico",
+    "region": "North America",
+    "code": "institutodecienciasbasicaseingenieria",
+    "type": "affcode"
+  },
+  "institutotecnologicodetuxtlagutierrez": {
+    "name": "Instituto Tecnológico de Tuxtla Gutiérrez",
+    "fullname": "Instituto Tecnológico de Tuxtla Gutiérrez",
+    "country": "Mexico",
+    "region": "North America",
+    "code": "institutotecnologicodetuxtlagutierrez",
+    "type": "affcode"
+  },
   "mathematicsresearchcenter": {
     "name": "mathematics research center",
     "fullname": "mathematics research center",
@@ -8423,7 +8451,7 @@
     "country": "Brazil",
     "region": "South America",
     "code": "institutofederaldeeducação",
-    "new": true,
+    "new": "True",
     "id": ""
   },
   "neuulmuniversityofappliedsciences": {
@@ -8469,6 +8497,13 @@
     "country": "portugal",
     "region": "Europe",
     "code": "boschcarmultimediaportugal"
+  },
+  "institutopolitecnicodetomar": {
+    "name": "Instituto Politécnico de Tomar",
+    "fullname": "Instituto Politécnico de Tomar",
+    "country": "portugal",
+    "region": "Europe",
+    "code": "institutopolitecnicodetomar"
   },
   "universityofguadalajara": {
     "name": "university of guadalajara",
@@ -9904,6 +9939,14 @@
     "code": "federaluniversityofparaná",
     "type": "affcode"
   },
+  "universidadefederaltecnologicadoparanautfprcornelioprocopio": {
+    "name": "Universidade Federal Tecnológica do Paraná",
+    "fullname": "Universidade Federal Tecnológica do Paraná",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadefederaltecnologicadoparanautfprcornelioprocopio",
+    "type": "affcode"
+  },
   "universityoflatvia": {
     "name": "university of latvia",
     "fullname": "university of latvia",
@@ -9933,7 +9976,8 @@
     "fullname": "federal institute of education, science and technology alagoas",
     "country": "Brazil",
     "region": "South America",
-    "code": "federalinstituteofeducation"
+    "code": "federalinstituteofeducation",
+    "new": "True"
   },
   "universidadpublicadenavarra": {
     "name": "universidad publica de navarra",
@@ -10157,6 +10201,14 @@
     "code": "universityofvalencia",
     "type": "affcode"
   },
+  "universitatdevalencia": {
+    "name": "Universitat Politècnica de València",
+    "fullname": "Universitat Politècnica de València",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "universitatdevalencia",
+    "type": "affcode"
+  },
   "universidaddeespecialidadesturísticas": {
     "name": "universidad de especialidades turísticas",
     "fullname": "universidad de especialidades turísticas",
@@ -10193,10 +10245,19 @@
   },
   "inesctec": {
     "name": "Institute for Systems and Computer Engineering of Porto",
-    "fullname": "INESC TEC",
+    "fullname": "Institute for Systems and Computer Engineering of Porto",
     "country": "Portugal",
     "region": "Europe",
     "code": "inesctec",
+    "id": "4210166615",
+    "new": true
+  },
+  "departamentodeeconomia": {
+    "name": "Institute for Systems and Computer Engineering of Porto",
+    "fullname": "Institute for Systems and Computer Engineering of Porto",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "departamentodeeconomia",
     "id": "4210166615",
     "new": true
   },
@@ -10261,6 +10322,24 @@
     "region": "South America",
     "code": "universityofbrasilia",
     "id": "4f6133a62206009ce8b52e44ec512ad4",
+    "new": true
+  },
+  "faculdadedemedicinadosertaofms": {
+    "name": "Faculdade de Medicina do Sertão",
+    "fullname": "Faculdade de Medicina do Sertão",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "faculdadedemedicinadosertaofms",
+    "id": "",
+    "new": true
+  },
+  "universidadefederaldomaranhaoufma": {
+    "name": "Universidade Federal do Maranhão",
+    "fullname": "Universidade Federal do Maranhão",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadefederaldomaranhaoufma",
+    "id": "",
     "new": true
   },
   "mohammedvipolytechnicuniversity": {
@@ -10535,6 +10614,14 @@
     "region": "South America",
     "new": true
   },
+  "ipcacicf": {
+    "id": "",
+    "code": "ipcacicf",
+    "name": "Polytechnic Institute of Cavado and Ave",
+    "country": "Portugal",
+    "region": "Europe",
+    "new": true
+  },
   "antonineuniversity": {
     "id": "20307877",
     "code": "antonineuniversity",
@@ -10610,14 +10697,16 @@
     "fullname": "universidade federal de santa maria",
     "country": "Brazil",
     "region": "South America",
-    "code": "universidadefederaldesantamaria"
+    "code": "universidadefederaldesantamaria",
+    "type": "affcode"
   },
   "universidadnacionaldechimborazo": {
     "name": "universidad nacional de chimborazo",
     "fullname": "universidad nacional de chimborazo",
     "country": "Ecuador",
     "region": "South America",
-    "code": "universidadnacionaldechimborazo"
+    "code": "universidadnacionaldechimborazo",
+    "type": "affcode"
   },
   "financialandfiscalcommission": {
     "name": "financial and fiscal commission",
@@ -10633,14 +10722,16 @@
     "fullname": "tshwane university of technology",
     "country": "South Africa",
     "region": "Africa",
-    "code": "tshwaneuniversityoftechnology"
+    "code": "tshwaneuniversityoftechnology",
+    "type": "affcode"
   },
   "universityofalgarve": {
     "name": "university of algarve",
     "fullname": "university of algarve",
     "country": "Portugal",
     "region": "Europe",
-    "code": "universityofalgarve"
+    "code": "universityofalgarve",
+    "type": "affcode"
   },
   "institutouniversitáriodelisboa": {
     "name": "instituto universitário de lisboa",
@@ -10672,7 +10763,8 @@
     "fullname": "polytechnic institute of cávado and ave",
     "country": "Portugal",
     "region": "Europe",
-    "code": "polytechnicinstituteofcávadoandave"
+    "code": "polytechnicinstituteofcávadoandave",
+    "type": "affcode"
   },
   "linkedin(unitedstates)": {
     "name": "linkedin (united states)",
@@ -10736,6 +10828,14 @@
   "universidaddecostarica": {
     "name": "universidad de costa rica",
     "fullname": "universidad de costa rica",
+    "country": "Costa Rica",
+    "region": "North America",
+    "code": "universidaddecostarica",
+    "type": "affcode"
+  },
+  "institutotecnologicodecostaricateccampustecnologicolocalsancarlos": {
+    "name": "Instituto Tecnológico de Costa Rica",
+    "fullname": "Instituto Tecnológico de Costa Rica",
     "country": "Costa Rica",
     "region": "North America",
     "code": "universidaddecostarica"
@@ -10861,14 +10961,16 @@
     "region": "South America",
     "code": "institutoecuatorianodeenfermedadesdigestivas",
     "new": true,
-    "id": ""
+    "id": "",
+    "type": "affcode"
   },
   "universidadtécnicadecotopaxi": {
     "name": "universidad técnica de cotopaxi",
     "fullname": "universidad técnica de cotopaxi",
     "country": "Ecuador",
     "region": "South America",
-    "code": "universidadtécnicadecotopaxi"
+    "code": "universidadtécnicadecotopaxi",
+    "type": "affcode"
   },
   "instituteforsystemsengineeringandcomputers": {
     "name": "institute for systems engineering and computers",
@@ -10876,6 +10978,16 @@
     "country": "Portugal",
     "region": "Europe",
     "code": "instituteforsystemsengineeringandcomputers",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "caspae": {
+    "name": "Centro de Apoio Social de Pais e Amigos da Escola",
+    "fullname": "Centro de Apoio Social de Pais e Amigos da Escola",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "caspae",
     "new": true,
     "id": ""
   },
@@ -10922,7 +11034,8 @@
     "fullname": "university of colima",
     "country": "Mexico",
     "region": "North America",
-    "code": "universityofcolima"
+    "code": "universityofcolima",
+    "type": "affcode"
   },
   "jamescookuniversity": {
     "name": "james cook university",
@@ -11040,7 +11153,8 @@
     "region": "South America",
     "code": "institutofederaldoriograndedonorte",
     "new": true,
-    "id": ""
+    "id": "",
+    "type": "affcode"
   },
   "universidadecidadedesãopaulo": {
     "name": "universidade cidade de são paulo",
@@ -11110,7 +11224,8 @@
     "fullname": "centro hospitalar do porto",
     "country": "Portugal",
     "region": "Europe",
-    "code": "centrohospitalardoporto"
+    "code": "centrohospitalardoporto",
+    "type": "affcode"
   },
   "centrocientíficotecnológico-santafe": {
     "name": "centro científico tecnológico - santa fe",
@@ -11119,7 +11234,8 @@
     "region": "South America",
     "code": "centrocientíficotecnológico-santafe",
     "new": true,
-    "id": ""
+    "id": "",
+    "type": "affcode"
   },
   "maritimeuniversityofszczecin": {
     "name": "maritime university of szczecin",
@@ -11195,7 +11311,8 @@
     "fullname": "autonomous university of lisbon",
     "country": "Portugal",
     "region": "Europe",
-    "code": "autonomousuniversityoflisbon"
+    "code": "autonomousuniversityoflisbon",
+    "type": "affcode"
   },
   "lusíadauniversityoflisbon": {
     "name": "lusíada university of lisbon",
@@ -11209,7 +11326,8 @@
     "fullname": "instituto superior de gestão e administração de santarém",
     "country": "Portugal",
     "region": "Europe",
-    "code": "institutosuperiordegestãoeadministraçãodesantarém"
+    "code": "institutosuperiordegestãoeadministraçãodesantarém",
+    "type": "affcode"
   },
   "linkareti-tecnologiasdeinformação": {
     "name": "linkare ti - tecnologias de informação",
@@ -11253,7 +11371,8 @@
     "fullname": "king saud university",
     "country": "Saudi Arabia",
     "region": "Middle East",
-    "code": "kingsauduniversity"
+    "code": "kingsauduniversity",
+    "type": "affcode"
   },
   "theking'scollege": {
     "name": "the king's college",
@@ -11295,6 +11414,16 @@
     "id": "155381812",
     "type": "affcode"
   },
+  "utad-cetrad": {
+    "name": "UTAD - CETRAD",
+    "fullname": "University of Trás-os-Montes and Alto Douro",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "utad",
+    "new": true,
+    "id": "155381812",
+    "type": "affcode"
+  },
   "administraçãoregionaldesaúdedelisboaevaledotejo": {
     "name": "administração regional de saúde de lisboa e vale do tejo",
     "fullname": "administração regional de saúde de lisboa e vale do tejo",
@@ -11302,7 +11431,8 @@
     "region": "Europe",
     "code": "administraçãoregionaldesaúdedelisboaevaledotejo",
     "new": true,
-    "id": ""
+    "id": "",
+    "type": "affcode"
   },
   "universityofeconomics": {
     "name": "University of Economics in Prague",
@@ -11465,6 +11595,13 @@
     "region": "South America",
     "code": "federaluniversityofbahia"
   },
+  "bahiastateestaciouniversityestaciofib": {
+    "name": "federal university of bahia",
+    "fullname": "federal university of bahia",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "bahiastateestaciouniversityestaciofib"
+  },
   "illinoisinstituteoftechnology": {
     "name": "illinois institute of technology",
     "fullname": "illinois institute of technology",
@@ -11527,7 +11664,8 @@
     "fullname": "instituto federal catarinense",
     "country": "Brazil",
     "region": "South America",
-    "code": "institutofederalcatarinense"
+    "code": "institutofederalcatarinense",
+    "type": "affcode"
   },
   "silverbulletsolutions(unitedstates)": {
     "name": "silver bullet solutions (united states)",
@@ -11543,7 +11681,8 @@
     "fullname": "instituto superior de gestão",
     "country": "Portugal",
     "region": "Europe",
-    "code": "institutosuperiordegestão"
+    "code": "institutosuperiordegestão",
+    "type": "affcode"
   },
   "universityofnorthcarolinaatgreensboro": {
     "name": "university of north carolina at greensboro",
@@ -11569,14 +11708,16 @@
     "region": "Africa",
     "code": "universidadepolitecnica",
     "new": true,
-    "id": ""
+    "id": "",
+    "type": "affcode"
   },
   "federalcenterfortechnologicaleducationofminasgerais": {
     "name": "federal center for technological education of minas gerais",
     "fullname": "federal center for technological education of minas gerais",
     "country": "Brazil",
     "region": "South America",
-    "code": "federalcenterfortechnologicaleducationofminasgerais"
+    "code": "federalcenterfortechnologicaleducationofminasgerais",
+    "type": "affcode"
   },
   "companhiaenergéticademinasgerais(brazil)": {
     "name": "companhia energética de minas gerais (brazil)",
@@ -11585,7 +11726,8 @@
     "region": "South America",
     "code": "companhiaenergéticademinasgerais(brazil)",
     "new": true,
-    "id": ""
+    "id": "",
+    "type": "affcode"
   },
   "hôpitalnord": {
     "name": "hôpital nord",
@@ -11677,7 +11819,8 @@
     "fullname": "king juan carlos university",
     "country": "Spain",
     "region": "Europe",
-    "code": "kingjuancarlosuniversity"
+    "code": "kingjuancarlosuniversity",
+    "type": "affcode"
   },
   "umeåuniversity": {
     "name": "umeå university",
@@ -11691,7 +11834,8 @@
     "fullname": "mcmaster university",
     "country": "Canada",
     "region": "North America",
-    "code": "mcmasteruniversity"
+    "code": "mcmasteruniversity",
+    "type": "affcode"
   },
   "federaluniversityofriodejaneiro": {
     "name": "federal university of rio de janeiro",
@@ -11714,14 +11858,16 @@
     "fullname": "intel (united states)",
     "country": "United States",
     "region": "North America",
-    "code": "intel(unitedstates)"
+    "code": "intel(unitedstates)",
+    "type": "affcode"
   },
   "nationallaboratoryforcivilengineering": {
     "name": "national laboratory for civil engineering",
     "fullname": "national laboratory for civil engineering",
     "country": "Portugal",
     "region": "Europe",
-    "code": "nationallaboratoryforcivilengineering"
+    "code": "nationallaboratoryforcivilengineering",
+    "type": "affcode"
   },
   "pontificalcatholicuniversityofriograndedosul": {
     "name": "pontifical catholic university of rio grande do sul",
@@ -11762,7 +11908,8 @@
     "region": "South America",
     "code": "institutofederaldoceará",
     "new": true,
-    "id": ""
+    "id": "",
+    "type": "affcode"
   },
   "arabacademyforscience": {
     "name": "arab academy for science",
@@ -11803,7 +11950,8 @@
     "fullname": "instituto superior de educação e ciências",
     "country": "Portugal",
     "region": "Europe",
-    "code": "institutosuperiordeeducaçãoeciências"
+    "code": "institutosuperiordeeducaçãoeciências",
+    "type": "affcode"
   },
   "institutodaconstruçãoedoimobiliário": {
     "name": "instituto da construção e do imobiliário",
@@ -11819,7 +11967,8 @@
     "fullname": "university of the azores",
     "country": "Portugal",
     "region": "Europe",
-    "code": "universityoftheazores"
+    "code": "universityoftheazores",
+    "type": "affcode"
   },
   "economicresearchservice": {
     "name": "economic research service",
@@ -11923,12 +12072,20 @@
     "region": "Asia",
     "code": "yuanzeuniversity"
   },
+  "nationalyunlinuniversityofsciencetechnology": {
+    "name": "National Yunlin University of Science & Technology",
+    "fullname": "National Yunlin University of Science & Technology",
+    "country": "Taiwan",
+    "region": "Asia",
+    "code": "nationalyunlinuniversityofsciencetechnology"
+  },
   "universidadefederaldoespíritosanto": {
     "name": "universidade federal do espírito santo",
     "fullname": "universidade federal do espírito santo",
     "country": "Brazil",
     "region": "South America",
-    "code": "universidadefederaldoespíritosanto"
+    "code": "universidadefederaldoespíritosanto",
+    "type": "affcode"
   },
   "agrupamentodeescolasdr.carlospintoferreira": {
     "name": "agrupamento de escolas dr. carlos pinto ferreira",
@@ -12000,7 +12157,8 @@
     "fullname": "university of alicante",
     "country": "Spain",
     "region": "Europe",
-    "code": "universityofalicante"
+    "code": "universityofalicante",
+    "type": "affcode"
   },
   "hospitalsantaluzia": {
     "name": "hospital santa luzia",
@@ -12036,7 +12194,8 @@
     "fullname": "university of cauca",
     "country": "Colombia",
     "region": "South America",
-    "code": "universityofcauca"
+    "code": "universityofcauca",
+    "type": "affcode"
   },
   "laboratoired'informatiquedenantesatlantique": {
     "name": "laboratoire d'informatique de nantes atlantique",
@@ -12069,7 +12228,8 @@
     "fullname": "al-zaytoonah university of jordan",
     "country": "Jordan",
     "region": "Asia",
-    "code": "al-zaytoonahuniversityofjordan"
+    "code": "al-zaytoonahuniversityofjordan",
+    "type": "affcode"
   },
   "frenchuniversityofegypt": {
     "name": "french university of egypt",
@@ -12135,7 +12295,8 @@
     "fullname": "universidade do vale do itajaí",
     "country": "Brazil",
     "region": "South America",
-    "code": "universidadedovaledoitajaí"
+    "code": "universidadedovaledoitajaí",
+    "type": "affcode"
   },
   "namibiauniversityofscienceandtechnology": {
     "name": "namibia university of science and technology",
@@ -12173,7 +12334,8 @@
     "region": "Europe",
     "code": "alticeportugal(portugal)",
     "new": true,
-    "id": ""
+    "id": "",
+    "type": "affcode"
   },
   "frenchinstituteforresearchincomputerscienceandautomation": {
     "name": "french institute for research in computer science and automation",
@@ -12210,7 +12372,8 @@
     "fullname": "instituto politécnico de lisboa",
     "country": "Portugal",
     "region": "Europe",
-    "code": "institutopolitécnicodelisboa"
+    "code": "institutopolitécnicodelisboa",
+    "type": "affcode"
   },
   "ubiwhere(portugal)": {
     "name": "ubiwhere (portugal)",
@@ -12226,7 +12389,8 @@
     "fullname": "universidade da madeira",
     "country": "Portugal",
     "region": "Europe",
-    "code": "universidadedamadeira"
+    "code": "universidadedamadeira",
+    "type": "affcode"
   },
   "universidadefederaldeciênciasdasaúdedeportoalegre": {
     "name": "universidade federal de ciências da saúde de porto alegre",
@@ -12335,7 +12499,8 @@
     "fullname": "federal university of itajubá",
     "country": "Brazil",
     "region": "South America",
-    "code": "federaluniversityofitajubá"
+    "code": "federaluniversityofitajubá",
+    "type": "affcode"
   },
   "universitasgadjahmada": {
     "name": "universitas gadjah mada",
@@ -12380,7 +12545,7 @@
     "country": "United States",
     "region": "North America",
     "code": "rutgers",
-    "new": true,
+    "new": "True",
     "id": ""
   },
   "gimed": {
@@ -12406,7 +12571,8 @@
     "region": "Asia",
     "code": "comsatsuniversityislamabad",
     "new": true,
-    "id": ""
+    "id": "",
+    "type": "affcode"
   },
   "universidaddemálaga": {
     "name": "universidad de málaga",
@@ -12472,7 +12638,8 @@
     "region": "South America",
     "code": "hospitaluniversitáriodauniversidadedesãopaulo",
     "new": true,
-    "id": ""
+    "id": "",
+    "type": "affcode"
   },
   "åboakademiuniversity": {
     "name": "åbo akademi university",
@@ -12548,9 +12715,9 @@
     "region": "Asia",
     "code": "ucsiuniversity"
   },
-  "research": {
-    "name": "Extremadura Supercomputing, Technological Innovation and Research Center (cénits)",
-    "fullname": "research, technological innovation and supercomputing center of extremadura (cénits), cáceres, spain",
+  "cenitS": {
+    "name": "Centro Extremeño de iNvestigación, Innovación Tecnológica y Supercomputación",
+    "fullname": "Centro Extremeño de iNvestigación, Innovación Tecnológica y Supercomputación",
     "country": "spain",
     "region": "Europe",
     "code": "cénits",
@@ -12571,7 +12738,8 @@
     "region": "Europe",
     "code": "universitatpolitècnicadecatalunya",
     "new": true,
-    "id": ""
+    "id": "",
+    "type": "affcode"
   },
   "kwangwoonuniversity": {
     "name": "kwangwoon university",
@@ -12601,7 +12769,8 @@
     "region": "South America",
     "code": "sãopaulostatetechnologicalcollege",
     "new": true,
-    "id": ""
+    "id": "",
+    "type": "affcode"
   },
   "linnaeusuniversity": {
     "name": "linnaeus university",
@@ -12682,11 +12851,29 @@
     "new": true
   },
   "estsp/ipp—escolasuperiordetecnologiadasaúdedoporto": {
-    "name": "ESTSP/IPP—Escola Superior de Tecnologia da Saúde do Porto",
-    "fullname": "ESTSP/IPP—Escola Superior de Tecnologia da Saúde do Porto",
+    "name": "Escola Superior de Tecnologia da Saúde do Porto",
+    "fullname": "Escola Superior de Tecnologia da Saúde do Porto",
     "country": "Portugal",
     "region": "Europe",
     "code": "estsp/ipp—escolasuperiordetecnologiadasaúdedoporto",
+    "id": "83863532",
+    "new": true
+  },
+  "estspppescolasuperiordetecnologiadesaudedoporto": {
+    "name": "Escola Superior de Tecnologia da Saúde do Porto",
+    "fullname": "Escola Superior de Tecnologia da Saúde do Porto",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "estspppescolasuperiordetecnologiadesaudedoporto",
+    "id": "83863532",
+    "new": true
+  },
+  "digarcschooloftechnologypolitechniqueinstituteofcavadoandave": {
+    "name": "Politechnique Institute of Cavado and Ave",
+    "fullname": "Politechnique Institute of Cavado and Ave",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "digarcschooloftechnologypolitechniqueinstituteofcavadoandave",
     "id": "83863532",
     "new": true
   },
@@ -12840,6 +13027,15 @@
     "country": "Ecuador",
     "region": "South America",
     "code": "universidadtecnicaparticulardeloja",
+    "id": "",
+    "new": true
+  },
+  "institutosuperiortecnologicodanielalvarezburneo": {
+    "name": "Instituto Superior Tecnológico Daniel Álvarez Burneo",
+    "fullname": "Instituto Superior Tecnológico Daniel Álvarez Burneo",
+    "country": "Ecuador",
+    "region": "South America",
+    "code": "institutosuperiortecnologicodanielalvarezburneo",
     "id": "",
     "new": true
   },
@@ -13293,12 +13489,12 @@
     "id": "",
     "new": true
   },
-  "mackenziepresbyterianuniversity(upm)": {
-    "name": "Mackenzie Presbyterian University (UPM)",
-    "fullname": "Mackenzie Presbyterian University (UPM)",
+  "mackenzieprebisterianuniversity": {
+    "name": "Mackenzie Presbyterian University",
+    "fullname": "Mackenzie Presbyterian University",
     "country": "Brazil",
     "region": "South America",
-    "code": "mackenziepresbyterianuniversity(upm)",
+    "code": "mackenzieprebisterianuniversity",
     "id": "",
     "new": true
   },
@@ -13365,7 +13561,7 @@
     "id": "4210166615",
     "new": true
   },
-  "universidadefederaldepernambuco–ufpe": {
+  "universidadefederaldepernambucoufpe": {
     "name": "Universidade Federal de Pernambuco – UFPE",
     "fullname": "Universidade Federal de Pernambuco – UFPE",
     "country": "Brazil",
@@ -14058,12 +14254,48 @@
     "id": "",
     "new": true
   },
+  "ieetainstituteofelectronicsandtelematicsengineeringofaveiro": {
+    "name": "University of Aveiro",
+    "fullname": "University of Aveiro",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "ieetainstituteofelectronicsandtelematicsengineeringofaveiro",
+    "id": "",
+    "new": true
+  },
   "estga/1geobiotec": {
-    "name": "ESTGA / 1 GEOBIOTEC",
-    "fullname": "ESTGA / 1 GEOBIOTEC",
+    "name": "Universidade de Aveiro",
+    "fullname": "Universidade de Aveiro",
     "country": "Portugal",
     "region": "Europe",
     "code": "estga/1geobiotec",
+    "id": "",
+    "new": true
+  },
+  "estga": {
+    "name": "Universidade de Aveiro",
+    "fullname": "Universidade de Aveiro",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "estga",
+    "id": "",
+    "new": true
+  },
+  "ua/dcspt": {
+    "name": "Universidade de Aveiro",
+    "fullname": "Universidade de Aveiro",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "estga",
+    "id": "",
+    "new": true
+  },
+  "estga/ieeta": {
+    "name": "Universidade de Aveiro",
+    "fullname": "Universidade de Aveiro",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "estga",
     "id": "",
     "new": true
   },
@@ -14362,7 +14594,8 @@
     "region": "Europe",
     "code": "universidadedesantiagodecompostela",
     "id": "",
-    "new": true
+    "new": true,
+    "type": "affcode"
   },
   "universityofcoimbra/cisuc-centreforinformaticsandsystems": {
     "name": "University of Coimbra / CISUC - Centre for Informatics and Systems",
@@ -14715,12 +14948,30 @@
     "id": "182534213",
     "new": true
   },
+  "univcrsidadcdoporto": {
+    "name": "Universidade do Porto.",
+    "fullname": "Universidade do Porto.",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "univcrsidadcdoporto",
+    "id": "182534213",
+    "new": true
+  },
   "institutodeeducaçãodauniversidadedominho": {
     "name": "Instituto de Educação da Universidade do Minho",
     "fullname": "Instituto de Educação da Universidade do Minho",
     "country": "Portugal",
     "region": "Europe",
     "code": "institutodeeducaçãodauniversidadedominho",
+    "id": "",
+    "new": true
+  },
+  "campusvii": {
+    "name": "Universidade do Estado da Bahia",
+    "fullname": "Universidade do Estado da Bahia",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "campusvii",
     "id": "",
     "new": true
   },
@@ -14859,6 +15110,15 @@
     "id": "",
     "new": true
   },
+  "institutodedesenvolvimentohumanoportucalenseinpp": {
+    "name": "Universdiade Portucalense",
+    "fullname": "Universdiade Portucalense",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "institutodedesenvolvimentohumanoportucalenseinpp",
+    "id": "",
+    "new": true
+  },
   "universitylusíadevilanovadefamalicão": {
     "name": "University Lusíade Vila Nova de Famalicão",
     "fullname": "University Lusíade Vila Nova de Famalicão",
@@ -14919,6 +15179,15 @@
     "country": "españa",
     "region": "",
     "code": "escuelapolitécnicasuperior",
+    "id": "",
+    "new": true
+  },
+  "universidaddeextremaduramerida": {
+    "name": "Universidad de Extremadura Mérida",
+    "fullname": "Universidad de Extremadura Mérida",
+    "country": "España",
+    "region": "Europe",
+    "code": "universidaddeextremaduramerida",
     "id": "",
     "new": true
   },
@@ -16072,7 +16341,8 @@
     "region": "South America",
     "code": "universidadnacionaldelcentrodelaprovinciadebuenosaires",
     "id": "",
-    "new": true
+    "new": true,
+    "type": "affcode"
   },
   "technicaluniversityofmadrid": {
     "name": "Technical University of Madrid",
@@ -16174,6 +16444,15 @@
     "id": "",
     "new": true
   },
+  "Uvigo": {
+    "name": "Universidad de Vigo",
+    "fullname": "Universidad de Vigo",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "universidaddevigo",
+    "id": "",
+    "new": true
+  },
   "wrocławuniversityoftechnology": {
     "name": "Wrocław University of Technology",
     "fullname": "Wrocław University of Technology",
@@ -16204,11 +16483,12 @@
   "universidadefederaldabahia": {
     "name": "Universidade Federal da Bahia",
     "fullname": "Universidade Federal da Bahia",
-    "country": "brasil",
-    "region": "",
+    "country": "Brazil",
+    "region": "South America",
     "code": "universidadefederaldabahia",
     "id": "",
-    "new": true
+    "new": true,
+    "type": "affcode"
   },
   "blaisepascaluniversity": {
     "name": "Blaise Pascal University",
@@ -16231,11 +16511,12 @@
   "universidadefederaldoriodejaneiro": {
     "name": "Universidade Federal do Rio de Janeiro",
     "fullname": "Universidade Federal do Rio de Janeiro",
-    "country": "brasil",
-    "region": "",
+    "country": "Brazil",
+    "region": "South America",
     "code": "universidadefederaldoriodejaneiro",
     "id": "",
-    "new": true
+    "new": true,
+    "type": "affcode"
   },
   "universityofzaragoza": {
     "name": "University of Zaragoza",
@@ -16253,7 +16534,8 @@
     "region": "South America",
     "code": "pontifíciauniversidadecatólicadoriograndedosul",
     "id": "",
-    "new": true
+    "new": true,
+    "type": "affcode"
   },
   "universidadedelisboa": {
     "name": "Universidade de Lisboa",
@@ -16336,6 +16618,15 @@
     "id": "",
     "new": true
   },
+  "universidadefederaldesaopaulounifesp": {
+    "name": "Universidade Federal de São Paulo",
+    "fullname": "Universidade Federal de São Paulo",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadefederaldesaopaulounifesp",
+    "id": "",
+    "new": true
+  },
   "gadjahmadauniversity": {
     "name": "Gadjah Mada University",
     "fullname": "Gadjah Mada University",
@@ -16361,7 +16652,8 @@
     "region": "Europe",
     "code": "universidaddegranada",
     "id": "",
-    "new": true
+    "new": true,
+    "type": "affcode"
   },
   "universityofmanchester": {
     "name": "University of Manchester",
@@ -16370,7 +16662,8 @@
     "region": "Europe",
     "code": "universityofmanchester",
     "id": "",
-    "new": true
+    "new": true,
+    "type": "affcode"
   },
   "universidaddecórdoba": {
     "name": "Universidad de Córdoba",
@@ -18339,7 +18632,8 @@
     "region": "Europe",
     "code": "universityofwarwick",
     "new": true,
-    "id": ""
+    "id": "",
+    "type": "affcode"
   },
   "jkulinz": {
     "name": "jku linz",
@@ -18710,12 +19004,4477 @@
     "new": true,
     "id": ""
   },
+  "universidaddelpaisvascoupvehuleioavizcaya": {
+    "name": "Universidad del País Vasco",
+    "fullname": "Universidad del País Vasco",
+    "country": "España",
+    "region": "Europe",
+    "code": "universidaddelpaisvascoupvehuleioavizcaya",
+    "new": true,
+    "id": ""
+  },
+  "upv/ehu": {
+    "name": "Universidad del País Vasco",
+    "fullname": "Universidad del País Vasco",
+    "country": "España",
+    "region": "Europe",
+    "code": "universidaddelpaisvascoupvehuleioavizcaya",
+    "new": true,
+    "id": ""
+  },
   "universidadtecnologicadepanama": {
     "name": "Universidad Tecnológica de Panamá",
     "fullname": "Universidad Tecnológica de Panamá",
     "country": "Panama",
     "region": "Central America",
     "code": "universidadtecnologicadepanama",
+    "new": true,
+    "id": ""
+  },
+  "departamentodeingenieriadelsoftwareeinteligenciaartificial": {
+    "name": "Departamento de Ingeniería Del Software e Inteligencia Artificial, Facultad de Informática",
+    "fullname": "Departamento de Ingeniería Del Software e Inteligencia Artificial, Facultad de Informática",
+    "country": "España",
+    "region": "Europe",
+    "code": "departamentodeingenieriadelsoftwareeinteligenciaartificial",
+    "new": true,
+    "id": ""
+  },
+  "schoolofmultidisciplinarytechnologies": {
+    "name": "Dublin City University",
+    "fullname": "Dublin City University",
+    "country": "Ireland",
+    "region": "Europe",
+    "code": "schoolofmultidisciplinarytechnologies",
+    "new": true,
+    "id": ""
+  },
+  "universidadisrael": {
+    "name": "Universidad Israel",
+    "fullname": "Universidad Israel",
+    "country": "Ecuador",
+    "region": "South America",
+    "code": "universidadisrael",
+    "type": "affcode"
+  },
+  "dublincityuniversity": {
+    "name": "Dublin City University",
+    "fullname": "Dublin City University",
+    "country": "Ireland",
+    "region": "Europe",
+    "code": "dublincityuniversity",
+    "new": true,
+    "id": "42934936",
+    "type": "affcode"
+  },
+  "pontificiauniversidadcatolicadelecuador": {
+    "name": "Pontificia Universidad Catolica del Ecuador",
+    "fullname": "Pontificia Universidad Catolica del Ecuador",
+    "country": "Ecuador",
+    "region": "South America",
+    "code": "pontificiauniversidadcatolicadelecuador",
+    "new": true,
+    "id": "39398033"
+  },
+  "universidadtecnol&#x00f3;gicaisrael": {
+    "name": "universidad tecnol&#x00f3;gica israel",
+    "fullname": "universidad tecnol&#x00f3;gica israel, universitat polit&#x00e8;cnica de val&#x00e8;ncia,departamento de ciencias de la ingenier&#x00ed;a,quito,ecuador",
+    "country": "universitat polit&#x00e8;cnica de val&#x00e8;ncia,departamento de ciencias de la ingenier&#x00ed;a,quito,ecuador",
+    "region": "",
+    "code": "universidadtecnol&#x00f3;gicaisrael",
+    "new": true,
+    "id": ""
+  },
+  "universidadtecnicademachala": {
+    "name": "universidad tecnica de machala",
+    "fullname": "universidad tecnica de machala",
+    "country": "Ecuador",
+    "region": "South America",
+    "code": "universidadtecnicademachala",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "universidadcooperativadecolombia": {
+    "name": "universidad cooperativa de colombia",
+    "fullname": "universidad cooperativa de colombia",
+    "country": "Colombia",
+    "region": "South America",
+    "code": "universidadcooperativadecolombia",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "universityofcapetown": {
+    "name": "university of cape town",
+    "fullname": "university of cape town",
+    "country": "South Africa",
+    "region": "Africa",
+    "code": "universityofcapetown",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "universidademunicipaldesãocaetanodosul": {
+    "name": "universidade municipal de são caetano do sul",
+    "fullname": "universidade municipal de são caetano do sul",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidademunicipaldesãocaetanodosul",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "universidadnacionaldecolombia": {
+    "name": "universidad nacional de colombia",
+    "fullname": "universidad nacional de colombia",
+    "country": "Colombia",
+    "region": "South America",
+    "code": "universidadnacionaldecolombia",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "polytechnicinstituteofsantarém": {
+    "name": "polytechnic institute of santarém",
+    "fullname": "polytechnic institute of santarém",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "polytechnicinstituteofsantarém",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "universitateadinpetrosani": {
+    "name": "universitatea din petrosani",
+    "fullname": "universitatea din petrosani",
+    "country": "Romania",
+    "region": "Europe",
+    "code": "universitateadinpetrosani",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "universidaddehuelva": {
+    "name": "universidad de huelva",
+    "fullname": "universidad de huelva",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "universidaddehuelva",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "fundaçãodemedicinatropical": {
+    "name": "fundação de medicina tropical",
+    "fullname": "fundação de medicina tropical",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "fundaçãodemedicinatropical",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "universidadexternadodecolombia": {
+    "name": "universidad externado de colombia",
+    "fullname": "universidad externado de colombia",
+    "country": "Colombia",
+    "region": "South America",
+    "code": "universidadexternadodecolombia",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "departamentonacionaldeplaneación": {
+    "name": "departamento nacional de planeación",
+    "fullname": "departamento nacional de planeación",
+    "country": "Colombia",
+    "region": "South America",
+    "code": "departamentonacionaldeplaneación",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "universidadnacionaldeasunción": {
+    "name": "universidad nacional de asunción",
+    "fullname": "universidad nacional de asunción",
+    "country": "Paraguay",
+    "region": "South America",
+    "code": "universidadnacionaldeasunción",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "siemens(austria)": {
+    "name": "siemens (austria)",
+    "fullname": "siemens (austria)",
+    "country": "Austria",
+    "region": "Europe",
+    "code": "siemens(austria)",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "universityofartsandindustrialdesignlinz": {
+    "name": "university of arts and industrial design linz",
+    "fullname": "university of arts and industrial design linz",
+    "country": "Austria",
+    "region": "Europe",
+    "code": "universityofartsandindustrialdesignlinz",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "federalcenterfortechnologicaleducationcelsosuckowdafonseca": {
+    "name": "federal center for technological education celso suckow da fonseca",
+    "fullname": "federal center for technological education celso suckow da fonseca",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "federalcenterfortechnologicaleducationcelsosuckowdafonseca",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "rhodesuniversity": {
+    "name": "rhodes university",
+    "fullname": "rhodes university",
+    "country": "South Africa",
+    "region": "Africa",
+    "code": "rhodesuniversity",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "institutomaimónidesdeinvestigaciónbiomédicadecórdoba": {
+    "name": "instituto maimónides de investigación biomédica de córdoba",
+    "fullname": "instituto maimónides de investigación biomédica de córdoba",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "institutomaimónidesdeinvestigaciónbiomédicadecórdoba",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "technologyinnovationinstitute": {
+    "name": "technology innovation institute",
+    "fullname": "technology innovation institute",
+    "country": "United Arab Emirates",
+    "region": "Middle East",
+    "code": "technologyinnovationinstitute",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "universityofpardubice": {
+    "name": "university of pardubice",
+    "fullname": "university of pardubice",
+    "country": "Czech Republic",
+    "region": "Europe",
+    "code": "universityofpardubice",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "virginiacommonwealthuniversity": {
+    "name": "virginia commonwealth university",
+    "fullname": "virginia commonwealth university",
+    "country": "United States",
+    "region": "North America",
+    "code": "virginiacommonwealthuniversity",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "persiangulfuniversity": {
+    "name": "persian gulf university",
+    "fullname": "persian gulf university",
+    "country": "Iran",
+    "region": "Middle East",
+    "code": "persiangulfuniversity",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "universidadeestadualpaulista(unesp)": {
+    "name": "universidade estadual paulista (unesp)",
+    "fullname": "universidade estadual paulista (unesp)",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadeestadualpaulista(unesp)",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "universidadefederaldoriograndedosul": {
+    "name": "universidade federal do rio grande do sul",
+    "fullname": "universidade federal do rio grande do sul",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadefederaldoriograndedosul",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "ministeriodesaludpúblicaybienestarsocial": {
+    "name": "ministerio de salud pública y bienestar social",
+    "fullname": "ministerio de salud pública y bienestar social",
+    "country": "Paraguay",
+    "region": "South America",
+    "code": "ministeriodesaludpúblicaybienestarsocial",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "universidadpanamericana": {
+    "name": "universidad panamericana",
+    "fullname": "universidad panamericana",
+    "country": "Mexico",
+    "region": "North America",
+    "code": "universidadpanamericana",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "kaunasuniversityoftechnology": {
+    "name": "kaunas university of technology",
+    "fullname": "kaunas university of technology",
+    "country": "Lithuania",
+    "region": "Europe",
+    "code": "kaunasuniversityoftechnology",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "laboratoired'informatiquedeparis-nord": {
+    "name": "laboratoire d'informatique de paris-nord",
+    "fullname": "laboratoire d'informatique de paris-nord",
+    "country": "France",
+    "region": "Europe",
+    "code": "laboratoired'informatiquedeparis-nord",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "universityhospitaloflausanne": {
+    "name": "university hospital of lausanne",
+    "fullname": "university hospital of lausanne",
+    "country": "Switzerland",
+    "region": "Europe",
+    "code": "universityhospitaloflausanne",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "universitassarimutiaraindonesia": {
+    "name": "universitas sari mutiara indonesia",
+    "fullname": "universitas sari mutiara indonesia",
+    "country": "Indonesia",
+    "region": "Asia",
+    "code": "universitassarimutiaraindonesia",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "universidadpopularautónomadelestadodepuebla": {
+    "name": "universidad popular autónoma del estado de puebla",
+    "fullname": "universidad popular autónoma del estado de puebla",
+    "country": "Mexico",
+    "region": "North America",
+    "code": "universidadpopularautónomadelestadodepuebla",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "universidadesalvador": {
+    "name": "universidade salvador",
+    "fullname": "universidade salvador",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadesalvador",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "universidadamericana": {
+    "name": "universidad americana",
+    "fullname": "universidad americana",
+    "country": "Paraguay",
+    "region": "South America",
+    "code": "universidadamericana",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "universidadpablodeolavide": {
+    "name": "universidad pablo de olavide",
+    "fullname": "universidad pablo de olavide",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "universidadpablodeolavide",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "universidadnacionaldecaaguazú": {
+    "name": "universidad nacional de caaguazú",
+    "fullname": "universidad nacional de caaguazú",
+    "country": "Paraguay",
+    "region": "South America",
+    "code": "universidadnacionaldecaaguazú",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "nationaluniversityofsaintaugustine": {
+    "name": "national university of saint augustine",
+    "fullname": "national university of saint augustine",
+    "country": "Peru",
+    "region": "South America",
+    "code": "nationaluniversityofsaintaugustine",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "institutotecnológicodecostarica": {
+    "name": "instituto tecnológico de costa rica",
+    "fullname": "instituto tecnológico de costa rica",
+    "country": "Costa Rica",
+    "region": "Central America",
+    "code": "institutotecnológicodecostarica",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "bandunginstituteoftechnology": {
+    "name": "bandung institute of technology",
+    "fullname": "bandung institute of technology",
+    "country": "Indonesia",
+    "region": "Asia",
+    "code": "bandunginstituteoftechnology",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "researchcenterfornaturalresources": {
+    "name": "research center for natural resources",
+    "fullname": "research center for natural resources, environment and society",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "researchcenterfornaturalresources",
+    "new": "True",
+    "id": ""
+  },
+  "federalinstituteofsãopaulo": {
+    "name": "federal institute of são paulo",
+    "fullname": "federal institute of são paulo",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "federalinstituteofsãopaulo",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "universidadefederaldesãocarlos": {
+    "name": "universidade federal de são carlos",
+    "fullname": "universidade federal de são carlos",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadefederaldesãocarlos",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "universidadefederaldotocantins": {
+    "name": "universidade federal do tocantins",
+    "fullname": "universidade federal do tocantins",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadefederaldotocantins",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "fondazionebrunokessler": {
+    "name": "fondazione bruno kessler",
+    "fullname": "fondazione bruno kessler",
+    "country": "Italy",
+    "region": "Europe",
+    "code": "fondazionebrunokessler",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "king'scollegelondon": {
+    "name": "king's college london",
+    "fullname": "king's college london",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "code": "king'scollegelondon",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "universidadlibredecolombia": {
+    "name": "universidad libre de colombia",
+    "fullname": "universidad libre de colombia",
+    "country": "Colombia",
+    "region": "South America",
+    "code": "universidadlibredecolombia",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "universidadlaicaeloyalfarodemanabí": {
+    "name": "universidad laica eloy alfaro de manabí",
+    "fullname": "universidad laica eloy alfaro de manabí",
+    "country": "Ecuador",
+    "region": "South America",
+    "code": "universidadlaicaeloyalfarodemanabí",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "universidadefederaldoabc": {
+    "name": "universidade federal do abc",
+    "fullname": "universidade federal do abc",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadefederaldoabc",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "pontificiauniversidadjaveriana": {
+    "name": "pontificia universidad javeriana",
+    "fullname": "pontificia universidad javeriana",
+    "country": "Colombia",
+    "region": "South America",
+    "code": "pontificiauniversidadjaveriana",
+    "new": true,
+    "id": ""
+  },
+  "universityofvalle": {
+    "name": "university of valle",
+    "fullname": "university of valle",
+    "country": "Colombia",
+    "region": "South America",
+    "code": "universityofvalle",
+    "new": true,
+    "id": ""
+  },
+  "institutopolitécnicodebeja": {
+    "name": "instituto politécnico de beja",
+    "fullname": "instituto politécnico de beja",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "institutopolitécnicodebeja",
+    "new": true,
+    "id": ""
+  },
+  "gheorgheasachitechnicaluniversityofiași": {
+    "name": "gheorghe asachi technical university of iași",
+    "fullname": "gheorghe asachi technical university of iași",
+    "country": "Romania",
+    "region": "Europe",
+    "code": "gheorgheasachitechnicaluniversityofiași",
+    "new": true,
+    "id": ""
+  },
+  "nationaluniversityofthelittoral": {
+    "name": "national university of the littoral",
+    "fullname": "national university of the littoral",
+    "country": "Argentina",
+    "region": "South America",
+    "code": "nationaluniversityofthelittoral",
+    "new": true,
+    "id": ""
+  },
+  "institutopolitécnicodetomar": {
+    "name": "instituto politécnico de tomar",
+    "fullname": "instituto politécnico de tomar",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "institutopolitécnicodetomar",
+    "new": true,
+    "id": ""
+  },
+  "universityofnariño": {
+    "name": "university of nariño",
+    "fullname": "university of nariño",
+    "country": "Colombia",
+    "region": "South America",
+    "code": "universityofnariño",
+    "new": true,
+    "id": ""
+  },
+  "faculdadedemedicinadoabc": {
+    "name": "faculdade de medicina do abc",
+    "fullname": "faculdade de medicina do abc",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "faculdadedemedicinadoabc",
+    "new": true,
+    "id": ""
+  },
+  "universidadedebrasília": {
+    "name": "universidade de brasília",
+    "fullname": "universidade de brasília",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadedebrasília",
+    "new": true,
+    "id": ""
+  },
+  "brockuniversity": {
+    "name": "brock university",
+    "fullname": "brock university",
+    "country": "Canada",
+    "region": "North America",
+    "code": "brockuniversity",
+    "new": true,
+    "id": ""
+  },
+  "universidadefederaldopará": {
+    "name": "universidade federal do pará",
+    "fullname": "universidade federal do pará",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadefederaldopará",
+    "new": true,
+    "id": ""
+  },
+  "universidadefederaldesergipe": {
+    "name": "universidade federal de sergipe",
+    "fullname": "universidade federal de sergipe",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadefederaldesergipe",
+    "new": true,
+    "id": ""
+  },
+  "humbercollege": {
+    "name": "humber college",
+    "fullname": "humber college",
+    "country": "Canada",
+    "region": "North America",
+    "code": "humbercollege",
+    "new": true,
+    "id": ""
+  },
+  "agêncianacionaldeenergiaelétrica": {
+    "name": "agência nacional de energia elétrica",
+    "fullname": "agência nacional de energia elétrica",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "agêncianacionaldeenergiaelétrica",
+    "new": true,
+    "id": ""
+  },
+  "universidadeestadualdecampinas(unicamp)": {
+    "name": "universidade estadual de campinas (unicamp)",
+    "fullname": "universidade estadual de campinas (unicamp)",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadeestadualdecampinas(unicamp)",
+    "new": true,
+    "id": ""
+  },
+  "universidadefederaldocariri": {
+    "name": "universidade federal do cariri",
+    "fullname": "universidade federal do cariri",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadefederaldocariri",
+    "new": true,
+    "id": ""
+  },
+  "nationalyunlinuniversityofscienceandtechnology": {
+    "name": "national yunlin university of science and technology",
+    "fullname": "national yunlin university of science and technology",
+    "country": "Taiwan",
+    "region": "Asia",
+    "code": "nationalyunlinuniversityofscienceandtechnology",
+    "new": true,
+    "id": ""
+  },
+  "graduateschoolofcomputerscienceandadvancedtechnologies": {
+    "name": "graduate school of computer science and advanced technologies",
+    "fullname": "graduate school of computer science and advanced technologies",
+    "country": "France",
+    "region": "Europe",
+    "code": "graduateschoolofcomputerscienceandadvancedtechnologies",
+    "new": true,
+    "id": ""
+  },
+  "universidadefederalruraldosemi-árido": {
+    "name": "universidade federal rural do semi-árido",
+    "fullname": "universidade federal rural do semi-árido",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadefederalruraldosemi-árido",
+    "new": true,
+    "id": ""
+  },
+  "universidadefederaldopiauí": {
+    "name": "universidade federal do piauí",
+    "fullname": "universidade federal do piauí",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadefederaldopiauí",
+    "new": true,
+    "id": ""
+  },
+  "universidadefederaldecampinagrande": {
+    "name": "universidade federal de campina grande",
+    "fullname": "universidade federal de campina grande",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadefederaldecampinagrande",
+    "new": true,
+    "id": ""
+  },
+  "centrodeestudosesistemasavançadosdorecife": {
+    "name": "centro de estudos e sistemas avançados do recife",
+    "fullname": "centro de estudos e sistemas avançados do recife",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "centrodeestudosesistemasavançadosdorecife",
+    "new": true,
+    "id": ""
+  },
+  "universidadefederaldoriograndedonorte": {
+    "name": "universidade federal do rio grande do norte",
+    "fullname": "universidade federal do rio grande do norte",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadefederaldoriograndedonorte",
+    "new": true,
+    "id": ""
+  },
+  "institutofederaldoacre": {
+    "name": "instituto federal do acre",
+    "fullname": "instituto federal do acre",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "institutofederaldoacre",
+    "new": true,
+    "id": ""
+  },
+  "universidadedefortaleza": {
+    "name": "universidade de fortaleza",
+    "fullname": "universidade de fortaleza",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadedefortaleza",
+    "new": true,
+    "id": ""
+  },
+  "universityofwestminster": {
+    "name": "university of westminster",
+    "fullname": "university of westminster",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "code": "universityofwestminster",
+    "new": true,
+    "id": ""
+  },
+  "informaticsinstituteoftechnology": {
+    "name": "informatics institute of technology",
+    "fullname": "informatics institute of technology",
+    "country": "Sri Lanka",
+    "region": "Asia",
+    "code": "informaticsinstituteoftechnology",
+    "new": true,
+    "id": ""
+  },
+  "universidaddelafrontera": {
+    "name": "universidad de la frontera",
+    "fullname": "universidad de la frontera",
+    "country": "Chile",
+    "region": "South America",
+    "code": "universidaddelafrontera",
+    "new": true,
+    "id": ""
+  },
+  "centrouniversitárioderiopreto": {
+    "name": "centro universitário de rio preto",
+    "fullname": "centro universitário de rio preto",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "centrouniversitárioderiopreto",
+    "new": true,
+    "id": ""
+  },
+  "universidadelusófona": {
+    "name": "universidade lusófona",
+    "fullname": "universidade lusófona",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "universidadelusófona",
+    "new": true,
+    "id": ""
+  },
+  "universidadinternacionaldelecuador": {
+    "name": "universidad internacional del ecuador",
+    "fullname": "universidad internacional del ecuador",
+    "country": "Ecuador",
+    "region": "South America",
+    "code": "universidadinternacionaldelecuador",
+    "new": true,
+    "id": ""
+  },
+  "centrohospitalardevilanovadegaia": {
+    "name": "centro hospitalar de vila nova de gaia",
+    "fullname": "centro hospitalar de vila nova de gaia",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "centrohospitalardevilanovadegaia",
+    "new": true,
+    "id": ""
+  },
+  "universityofwisconsin–parkside": {
+    "name": "university of wisconsin–parkside",
+    "fullname": "university of wisconsin–parkside",
+    "country": "United States",
+    "region": "North America",
+    "code": "universityofwisconsin–parkside",
+    "new": true,
+    "id": ""
+  },
+  "pontificalbolivarianuniversity": {
+    "name": "pontifical bolivarian university",
+    "fullname": "pontifical bolivarian university",
+    "country": "Colombia",
+    "region": "South America",
+    "code": "pontificalbolivarianuniversity",
+    "new": true,
+    "id": ""
+  },
+  "centrohospitalardeentreodouroevougae.p.e.": {
+    "name": "centro hospitalar de entre o douro e vouga e.p.e.",
+    "fullname": "centro hospitalar de entre o douro e vouga e.p.e.",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "centrohospitalardeentreodouroevougae.p.e.",
+    "new": true,
+    "id": ""
+  },
+  "sebhauniversity": {
+    "name": "sebha university",
+    "fullname": "sebha university",
+    "country": "Libyan Arab Jamahiriya",
+    "region": "Africa",
+    "code": "sebhauniversity",
+    "new": true,
+    "id": ""
+  },
+  "universidadtécnicademanabí": {
+    "name": "universidad técnica de manabí",
+    "fullname": "universidad técnica de manabí",
+    "country": "Ecuador",
+    "region": "South America",
+    "code": "universidadtécnicademanabí",
+    "new": true,
+    "id": ""
+  },
+  "universidadprivadadetacna": {
+    "name": "universidad privada de tacna",
+    "fullname": "universidad privada de tacna",
+    "country": "Peru",
+    "region": "South America",
+    "code": "universidadprivadadetacna",
+    "new": true,
+    "id": ""
+  },
+  "universidadregionalautónomadelosandes": {
+    "name": "universidad regional autónoma de los andes",
+    "fullname": "universidad regional autónoma de los andes",
+    "country": "Ecuador",
+    "region": "South America",
+    "code": "universidadregionalautónomadelosandes",
+    "new": true,
+    "id": ""
+  },
+  "universityoflasalle": {
+    "name": "university of la salle",
+    "fullname": "university of la salle",
+    "country": "Colombia",
+    "region": "South America",
+    "code": "universityoflasalle",
+    "new": true,
+    "id": ""
+  },
+  "escolasuperiordetecnologiadasaúdedecoimbra": {
+    "name": "escola superior de tecnologia da saúde de coimbra",
+    "fullname": "escola superior de tecnologia da saúde de coimbra",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "escolasuperiordetecnologiadasaúdedecoimbra",
+    "new": true,
+    "id": ""
+  },
+  "universidadetecnológicafederaldoparaná": {
+    "name": "universidade tecnológica federal do paraná",
+    "fullname": "universidade tecnológica federal do paraná",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadetecnológicafederaldoparaná",
+    "new": true,
+    "id": ""
+  },
+  "universityofmassachusettsboston": {
+    "name": "university of massachusetts boston",
+    "fullname": "university of massachusetts boston",
+    "country": "United States",
+    "region": "North America",
+    "code": "universityofmassachusettsboston",
+    "new": true,
+    "id": ""
+  },
+  "universidadinternacionalsek": {
+    "name": "universidad internacional sek",
+    "fullname": "universidad internacional sek",
+    "country": "Ecuador",
+    "region": "South America",
+    "code": "universidadinternacionalsek",
+    "new": true,
+    "id": ""
+  },
+  "instituteofmathematicalsciences": {
+    "name": "institute of mathematical sciences",
+    "fullname": "institute of mathematical sciences",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "instituteofmathematicalsciences",
+    "new": true,
+    "id": ""
+  },
+  "universidadnacionalpedroruízgallo": {
+    "name": "universidad nacional pedro ruíz gallo",
+    "fullname": "universidad nacional pedro ruíz gallo",
+    "country": "Peru",
+    "region": "South America",
+    "code": "universidadnacionalpedroruízgallo",
+    "new": true,
+    "id": ""
+  },
+  "nationaluniversitytoribiorodríguezdemendoza": {
+    "name": "national university toribio rodríguez de mendoza",
+    "fullname": "national university toribio rodríguez de mendoza",
+    "country": "Peru",
+    "region": "South America",
+    "code": "nationaluniversitytoribiorodríguezdemendoza",
+    "new": true,
+    "id": ""
+  },
+  "universidadpolitécnicaestataldelcarchi": {
+    "name": "universidad politécnica estatal del carchi",
+    "fullname": "universidad politécnica estatal del carchi",
+    "country": "Ecuador",
+    "region": "South America",
+    "code": "universidadpolitécnicaestataldelcarchi",
+    "new": true,
+    "id": ""
+  },
+  "universityofnavarra": {
+    "name": "university of navarra",
+    "fullname": "university of navarra",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "universityofnavarra",
+    "new": true,
+    "id": ""
+  },
+  "universityoflalaguna": {
+    "name": "university of la laguna",
+    "fullname": "university of la laguna",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "universityoflalaguna",
+    "new": true,
+    "id": ""
+  },
+  "universidadcatólicasedessapientiae": {
+    "name": "universidad católica sedes sapientiae",
+    "fullname": "universidad católica sedes sapientiae",
+    "country": "Peru",
+    "region": "South America",
+    "code": "universidadcatólicasedessapientiae",
+    "new": true,
+    "id": ""
+  },
+  "universidadautónomadelestadodehidalgo": {
+    "name": "universidad autónoma del estado de hidalgo",
+    "fullname": "universidad autónoma del estado de hidalgo",
+    "country": "Mexico",
+    "region": "North America",
+    "code": "universidadautónomadelestadodehidalgo",
+    "new": true,
+    "id": ""
+  },
+  "institutofederaldopiauí": {
+    "name": "instituto federal do piauí",
+    "fullname": "instituto federal do piauí",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "institutofederaldopiauí",
+    "new": true,
+    "id": ""
+  },
+  "universityofturabo": {
+    "name": "university of turabo",
+    "fullname": "university of turabo",
+    "country": "Puerto Rico",
+    "region": "Central America",
+    "code": "universityofturabo",
+    "new": true,
+    "id": ""
+  },
+  "braziliannetworkinformationcenter": {
+    "name": "brazilian network information center",
+    "fullname": "brazilian network information center",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "braziliannetworkinformationcenter",
+    "new": true,
+    "id": ""
+  },
+  "queen'suniversitybelfast": {
+    "name": "queen's university belfast",
+    "fullname": "queen's university belfast",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "code": "queen'suniversitybelfast",
+    "new": true,
+    "id": ""
+  },
+  "durhamuniversity": {
+    "name": "durham university",
+    "fullname": "durham university",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "code": "durhamuniversity",
+    "new": true,
+    "id": ""
+  },
+  "universidadfranciscodevitoria": {
+    "name": "universidad francisco de vitoria",
+    "fullname": "universidad francisco de vitoria",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "universidadfranciscodevitoria",
+    "new": true,
+    "id": ""
+  },
+  "universidaddesevilla": {
+    "name": "universidad de sevilla",
+    "fullname": "universidad de sevilla",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "universidaddesevilla",
+    "new": true,
+    "id": ""
+  },
+  "autonomousuniversityofmadrid": {
+    "name": "autonomous university of madrid",
+    "fullname": "autonomous university of madrid",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "autonomousuniversityofmadrid",
+    "new": true,
+    "id": ""
+  },
+  "universidadefederaldesãopaulo": {
+    "name": "universidade federal de são paulo",
+    "fullname": "universidade federal de são paulo",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadefederaldesãopaulo",
+    "new": true,
+    "id": ""
+  },
+  "pontifíciauniversidadecatólicadesãopaulo": {
+    "name": "pontifícia universidade católica de são paulo",
+    "fullname": "pontifícia universidade católica de são paulo",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "pontifíciauniversidadecatólicadesãopaulo",
+    "new": true,
+    "id": ""
+  },
+  "universidadefederaldaparaíba": {
+    "name": "universidade federal da paraíba",
+    "fullname": "universidade federal da paraíba",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadefederaldaparaíba",
+    "new": true,
+    "id": ""
+  },
+  "institutofederalgoiano": {
+    "name": "instituto federal goiano",
+    "fullname": "instituto federal goiano",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "institutofederalgoiano",
+    "new": true,
+    "id": ""
+  },
+  "eletrobras(brazil)": {
+    "name": "eletrobras (brazil)",
+    "fullname": "eletrobras (brazil)",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "eletrobras(brazil)",
+    "new": true,
+    "id": ""
+  },
+  "ismuniversityofmanagementandeconomics": {
+    "name": "ism university of management and economics",
+    "fullname": "ism university of management and economics",
+    "country": "Lithuania",
+    "region": "Europe",
+    "code": "ismuniversityofmanagementandeconomics",
+    "new": true,
+    "id": ""
+  },
+  "universidadefederaldotriângulomineiro": {
+    "name": "universidade federal do triângulo mineiro",
+    "fullname": "universidade federal do triângulo mineiro",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadefederaldotriângulomineiro",
+    "new": true,
+    "id": ""
+  },
+  "pontificiauniversidadcatólicadelecuador": {
+    "name": "pontificia universidad católica del ecuador",
+    "fullname": "pontificia universidad católica del ecuador",
+    "country": "Ecuador",
+    "region": "South America",
+    "code": "pontificiauniversidadcatólicadelecuador",
+    "new": true,
+    "id": ""
+  },
+  "centraluniversityofecuador": {
+    "name": "central university of ecuador",
+    "fullname": "central university of ecuador",
+    "country": "Ecuador",
+    "region": "South America",
+    "code": "centraluniversityofecuador",
+    "new": true,
+    "id": ""
+  },
+  "facultadlatinoamericanadecienciassociales": {
+    "name": "facultad latinoamericana de ciencias sociales",
+    "fullname": "facultad latinoamericana de ciencias sociales",
+    "country": "Ecuador",
+    "region": "South America",
+    "code": "facultadlatinoamericanadecienciassociales",
+    "new": true,
+    "id": ""
+  },
+  "institutosuperiordetecnologiasavançadas": {
+    "name": "instituto superior de tecnologias avançadas",
+    "fullname": "instituto superior de tecnologias avançadas",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "institutosuperiordetecnologiasavançadas",
+    "new": true,
+    "id": ""
+  },
+  "universidadinternacional": {
+    "name": "universidad internacional",
+    "fullname": "universidad internacional",
+    "country": "Mexico",
+    "region": "North America",
+    "code": "universidadinternacional",
+    "new": true,
+    "id": ""
+  },
+  "universityofvalladolid": {
+    "name": "university of valladolid",
+    "fullname": "university of valladolid",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "universityofvalladolid",
+    "new": true,
+    "id": ""
+  },
+  "universidaddeextremadura": {
+    "name": "universidad de extremadura",
+    "fullname": "universidad de extremadura",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "universidaddeextremadura",
+    "new": true,
+    "id": ""
+  },
+  "unitedstatesvirginislandsdepartmentofhealth": {
+    "name": "united states virgin islands department of health",
+    "fullname": "united states virgin islands department of health",
+    "country": "united states virgin islands department of health",
+    "region": "",
+    "code": "unitedstatesvirginislandsdepartmentofhealth",
+    "new": true,
+    "id": ""
+  },
+  "universityofnewyorktirana": {
+    "name": "university of new york tirana",
+    "fullname": "university of new york tirana",
+    "country": "Albania",
+    "region": "Europe",
+    "code": "universityofnewyorktirana",
+    "new": true,
+    "id": ""
+  },
+  "russian-armenianuniversity": {
+    "name": "russian-armenian university",
+    "fullname": "russian-armenian university",
+    "country": "Armenia",
+    "region": "Asia",
+    "code": "russian-armenianuniversity",
+    "new": true,
+    "id": ""
+  },
+  "software(spain)": {
+    "name": "software (spain)",
+    "fullname": "software (spain)",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "software(spain)",
+    "new": true,
+    "id": ""
+  },
+  "budapestuniversityoftechnologyandeconomics": {
+    "name": "budapest university of technology and economics",
+    "fullname": "budapest university of technology and economics",
+    "country": "Hungary",
+    "region": "Europe",
+    "code": "budapestuniversityoftechnologyandeconomics",
+    "new": true,
+    "id": ""
+  },
+  "universidadnacional": {
+    "name": "universidad nacional",
+    "fullname": "universidad nacional",
+    "country": "Costa Rica",
+    "region": "Central America",
+    "code": "universidadnacional",
+    "new": true,
+    "id": ""
+  },
+  "argonnenationallaboratory": {
+    "name": "argonne national laboratory",
+    "fullname": "argonne national laboratory",
+    "country": "United States",
+    "region": "North America",
+    "code": "argonnenationallaboratory",
+    "new": true,
+    "id": ""
+  },
+  "autonomousuniversityofcampeche": {
+    "name": "autonomous university of campeche",
+    "fullname": "autonomous university of campeche",
+    "country": "Mexico",
+    "region": "North America",
+    "code": "autonomousuniversityofcampeche",
+    "new": true,
+    "id": ""
+  },
+  "universityofgenoa": {
+    "name": "university of genoa",
+    "fullname": "university of genoa",
+    "country": "Italy",
+    "region": "Europe",
+    "code": "universityofgenoa",
+    "new": true,
+    "id": ""
+  },
+  "universidaddelvalle": {
+    "name": "universidad del valle",
+    "fullname": "universidad del valle",
+    "country": "Nicaragua",
+    "region": "Central America",
+    "code": "universidaddelvalle",
+    "new": true,
+    "id": ""
+  },
+  "universityofsaintfrancisxavier": {
+    "name": "university of saint francis xavier",
+    "fullname": "university of saint francis xavier",
+    "country": "Bolivia",
+    "region": "South America",
+    "code": "universityofsaintfrancisxavier",
+    "new": true,
+    "id": ""
+  },
+  "instituciónuniversitariacolegiomayordelcauca": {
+    "name": "institución universitaria colegio mayor del cauca",
+    "fullname": "institución universitaria colegio mayor del cauca",
+    "country": "Colombia",
+    "region": "South America",
+    "code": "instituciónuniversitariacolegiomayordelcauca",
+    "new": true,
+    "id": ""
+  },
+  "universityofloslagos": {
+    "name": "university of los lagos",
+    "fullname": "university of los lagos",
+    "country": "Chile",
+    "region": "South America",
+    "code": "universityofloslagos",
+    "new": true,
+    "id": ""
+  },
+  "catholicuniversityofthemaule": {
+    "name": "catholic university of the maule",
+    "fullname": "catholic university of the maule",
+    "country": "Chile",
+    "region": "South America",
+    "code": "catholicuniversityofthemaule",
+    "new": true,
+    "id": ""
+  },
+  "universidadtecnológicaequinoccial": {
+    "name": "universidad tecnológica equinoccial",
+    "fullname": "universidad tecnológica equinoccial",
+    "country": "Ecuador",
+    "region": "South America",
+    "code": "universidadtecnológicaequinoccial",
+    "new": true,
+    "id": ""
+  },
+  "nationaluniversityofrosario": {
+    "name": "national university of rosario",
+    "fullname": "national university of rosario",
+    "country": "Argentina",
+    "region": "South America",
+    "code": "nationaluniversityofrosario",
+    "new": true,
+    "id": ""
+  },
+  "rheinmainuniversityofappliedsciences": {
+    "name": "rheinmain university of applied sciences",
+    "fullname": "rheinmain university of applied sciences",
+    "country": "Germany",
+    "region": "Europe",
+    "code": "rheinmainuniversityofappliedsciences",
+    "new": true,
+    "id": ""
+  },
+  "universidadyacambú": {
+    "name": "universidad yacambú",
+    "fullname": "universidad yacambú",
+    "country": "Venezuela",
+    "region": "South America",
+    "code": "universidadyacambú",
+    "new": true,
+    "id": ""
+  },
+  "nuffieldhealth": {
+    "name": "nuffield health",
+    "fullname": "nuffield health",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "code": "nuffieldhealth",
+    "new": true,
+    "id": ""
+  },
+  "universidadnacionaldelaplata": {
+    "name": "universidad nacional de la plata",
+    "fullname": "universidad nacional de la plata",
+    "country": "Argentina",
+    "region": "South America",
+    "code": "universidadnacionaldelaplata",
+    "new": true,
+    "id": ""
+  },
+  "universidadestataldemilagro": {
+    "name": "universidad estatal de milagro",
+    "fullname": "universidad estatal de milagro",
+    "country": "Ecuador",
+    "region": "South America",
+    "code": "universidadestataldemilagro",
+    "new": true,
+    "id": ""
+  },
+  "universidadeestadualdelondrina": {
+    "name": "universidade estadual de londrina",
+    "fullname": "universidade estadual de londrina",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadeestadualdelondrina",
+    "new": true,
+    "id": ""
+  },
+  "australuniversityofchile": {
+    "name": "austral university of chile",
+    "fullname": "austral university of chile",
+    "country": "Chile",
+    "region": "South America",
+    "code": "australuniversityofchile",
+    "new": true,
+    "id": ""
+  },
+  "riodejaneirostateuniversity": {
+    "name": "rio de janeiro state university",
+    "fullname": "rio de janeiro state university",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "riodejaneirostateuniversity",
+    "new": true,
+    "id": ""
+  },
+  "universidadnacionaldeconcepción": {
+    "name": "universidad nacional de concepción",
+    "fullname": "universidad nacional de concepción",
+    "country": "Paraguay",
+    "region": "South America",
+    "code": "universidadnacionaldeconcepción",
+    "new": true,
+    "id": ""
+  },
+  "cheikhantadiopuniversity": {
+    "name": "cheikh anta diop university",
+    "fullname": "cheikh anta diop university",
+    "country": "Senegal",
+    "region": "Africa",
+    "code": "cheikhantadiopuniversity",
+    "new": true,
+    "id": ""
+  },
+  "nationaleducationandresearchnetwork": {
+    "name": "national education and research network",
+    "fullname": "national education and research network",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "nationaleducationandresearchnetwork",
+    "new": true,
+    "id": ""
+  },
+  "catholicuniversityofsantamaría": {
+    "name": "catholic university of santa maría",
+    "fullname": "catholic university of santa maría",
+    "country": "Peru",
+    "region": "South America",
+    "code": "catholicuniversityofsantamaría",
+    "new": true,
+    "id": ""
+  },
+  "centrodeinvestigaçãoemartesecomunicação": {
+    "name": "centro de investigação em artes e comunicação",
+    "fullname": "centro de investigação em artes e comunicação",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "centrodeinvestigaçãoemartesecomunicação",
+    "new": true,
+    "id": ""
+  },
+  "hospitaldasclínicasdauniversidadefederaldepernambuco": {
+    "name": "hospital das clínicas da universidade federal de pernambuco",
+    "fullname": "hospital das clínicas da universidade federal de pernambuco",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "hospitaldasclínicasdauniversidadefederaldepernambuco",
+    "new": true,
+    "id": ""
+  },
+  "centromediconacionalsigloxxi": {
+    "name": "centro medico nacional siglo xxi",
+    "fullname": "centro medico nacional siglo xxi",
+    "country": "Mexico",
+    "region": "North America",
+    "code": "centromediconacionalsigloxxi",
+    "new": true,
+    "id": ""
+  },
+  "institutofederaldosuldeminas": {
+    "name": "instituto federal do sul de minas",
+    "fullname": "instituto federal do sul de minas",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "institutofederaldosuldeminas",
+    "new": true,
+    "id": ""
+  },
+  "politécnicocolombianojaimeisazacadavid": {
+    "name": "politécnico colombiano jaime isaza cadavid",
+    "fullname": "politécnico colombiano jaime isaza cadavid",
+    "country": "Colombia",
+    "region": "South America",
+    "code": "politécnicocolombianojaimeisazacadavid",
+    "new": true,
+    "id": ""
+  },
+  "centrocientíficotecnológico-tandil": {
+    "name": "centro científico tecnológico - tandil",
+    "fullname": "centro científico tecnológico - tandil",
+    "country": "Argentina",
+    "region": "South America",
+    "code": "centrocientíficotecnológico-tandil",
+    "new": true,
+    "id": ""
+  },
+  "ibero-americanuniversitypuebla": {
+    "name": "ibero-american university puebla",
+    "fullname": "ibero-american university puebla",
+    "country": "Mexico",
+    "region": "North America",
+    "code": "ibero-americanuniversitypuebla",
+    "new": true,
+    "id": ""
+  },
+  "iberoamericanuniversity": {
+    "name": "ibero american university",
+    "fullname": "ibero american university",
+    "country": "Mexico",
+    "region": "North America",
+    "code": "iberoamericanuniversity",
+    "new": true,
+    "id": ""
+  },
+  "universidaddelistmo": {
+    "name": "universidad del istmo",
+    "fullname": "universidad del istmo",
+    "country": "Guatemala",
+    "region": "Central America",
+    "code": "universidaddelistmo",
+    "new": true,
+    "id": ""
+  },
+  "tuxtlagutierrezinstituteoftechnology": {
+    "name": "tuxtla gutierrez institute of technology",
+    "fullname": "tuxtla gutierrez institute of technology",
+    "country": "Mexico",
+    "region": "North America",
+    "code": "tuxtlagutierrezinstituteoftechnology",
+    "new": true,
+    "id": ""
+  },
+  "universidadnacionalhermiliovaldizán": {
+    "name": "universidad nacional hermilio valdizán",
+    "fullname": "universidad nacional hermilio valdizán",
+    "country": "Peru",
+    "region": "South America",
+    "code": "universidadnacionalhermiliovaldizán",
+    "new": true,
+    "id": ""
+  },
+  "pontificiauniversidadcatólicadevalparaíso": {
+    "name": "pontificia universidad católica de valparaíso",
+    "fullname": "pontificia universidad católica de valparaíso",
+    "country": "Chile",
+    "region": "South America",
+    "code": "pontificiauniversidadcatólicadevalparaíso",
+    "new": true,
+    "id": ""
+  },
+  "nokia(spain)": {
+    "name": "nokia (spain)",
+    "fullname": "nokia (spain)",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "nokia(spain)",
+    "new": true,
+    "id": ""
+  },
+  "universidadtecnológicaecotec": {
+    "name": "universidad tecnológica ecotec",
+    "fullname": "universidad tecnológica ecotec",
+    "country": "Ecuador",
+    "region": "South America",
+    "code": "universidadtecnológicaecotec",
+    "new": true,
+    "id": ""
+  },
+  "institutofederalsul-rio-grandense": {
+    "name": "instituto federal sul-rio-grandense",
+    "fullname": "instituto federal sul-rio-grandense",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "institutofederalsul-rio-grandense",
+    "new": true,
+    "id": ""
+  },
+  "universidadnacionalagrariadelaselva": {
+    "name": "universidad nacional agraria de la selva",
+    "fullname": "universidad nacional agraria de la selva",
+    "country": "Peru",
+    "region": "South America",
+    "code": "universidadnacionalagrariadelaselva",
+    "new": true,
+    "id": ""
+  },
+  "jagiellonianuniversity": {
+    "name": "jagiellonian university",
+    "fullname": "jagiellonian university",
+    "country": "Poland",
+    "region": "Europe",
+    "code": "jagiellonianuniversity",
+    "new": true,
+    "id": ""
+  },
+  "escuelacolombianadeingenieriajuliogaravito": {
+    "name": "escuela colombiana de ingenieria julio garavito",
+    "fullname": "escuela colombiana de ingenieria julio garavito",
+    "country": "Colombia",
+    "region": "South America",
+    "code": "escuelacolombianadeingenieriajuliogaravito",
+    "new": true,
+    "id": ""
+  },
+  "universidadefederaldeviçosa": {
+    "name": "universidade federal de viçosa",
+    "fullname": "universidade federal de viçosa",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadefederaldeviçosa",
+    "new": true,
+    "id": ""
+  },
+  "águasdeportugal(portugal)": {
+    "name": "águas de portugal (portugal)",
+    "fullname": "águas de portugal (portugal)",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "águasdeportugal(portugal)",
+    "new": true,
+    "id": ""
+  },
+  "universidadandrésbello": {
+    "name": "universidad andrés bello",
+    "fullname": "universidad andrés bello",
+    "country": "Chile",
+    "region": "South America",
+    "code": "universidadandrésbello",
+    "new": true,
+    "id": ""
+  },
+  "metropolitanuniversityoftechnology": {
+    "name": "metropolitan university of technology",
+    "fullname": "metropolitan university of technology",
+    "country": "Chile",
+    "region": "South America",
+    "code": "metropolitanuniversityoftechnology",
+    "new": true,
+    "id": ""
+  },
+  "universidadedetaubaté": {
+    "name": "universidade de taubaté",
+    "fullname": "universidade de taubaté",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadedetaubaté",
+    "new": true,
+    "id": ""
+  },
+  "universidadecatólicadepetrópolis": {
+    "name": "universidade católica de petrópolis",
+    "fullname": "universidade católica de petrópolis",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadecatólicadepetrópolis",
+    "new": true,
+    "id": ""
+  },
+  "newbulgarianuniversity": {
+    "name": "new bulgarian university",
+    "fullname": "new bulgarian university",
+    "country": "Bulgaria",
+    "region": "Europe",
+    "code": "newbulgarianuniversity",
+    "new": true,
+    "id": ""
+  },
+  "universidadricardopalma": {
+    "name": "universidad ricardo palma",
+    "fullname": "universidad ricardo palma",
+    "country": "Peru",
+    "region": "South America",
+    "code": "universidadricardopalma",
+    "new": true,
+    "id": ""
+  },
+  "corporacióninternacionalparaeldesarrolloeducativo": {
+    "name": "corporación internacional para el desarrollo educativo",
+    "fullname": "corporación internacional para el desarrollo educativo",
+    "country": "Colombia",
+    "region": "South America",
+    "code": "corporacióninternacionalparaeldesarrolloeducativo",
+    "new": true,
+    "id": ""
+  },
+  "universidadeestadualdooestedoparaná": {
+    "name": "universidade estadual do oeste do paraná",
+    "fullname": "universidade estadual do oeste do paraná",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadeestadualdooestedoparaná",
+    "new": true,
+    "id": ""
+  },
+  "universidaddeoviedo": {
+    "name": "universidad de oviedo",
+    "fullname": "universidad de oviedo",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "universidaddeoviedo",
+    "new": true,
+    "id": ""
+  },
+  "atlânticainstitutouniversitário": {
+    "name": "atlântica instituto universitário",
+    "fullname": "atlântica instituto universitário",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "atlânticainstitutouniversitário",
+    "new": true,
+    "id": ""
+  },
+  "nationaluniversityofsaintanthonytheabbotincuzco": {
+    "name": "national university of saint anthony the abbot in cuzco",
+    "fullname": "national university of saint anthony the abbot in cuzco",
+    "country": "Peru",
+    "region": "South America",
+    "code": "nationaluniversityofsaintanthonytheabbotincuzco",
+    "new": true,
+    "id": ""
+  },
+  "uniwersytetkomisjiedukacjinarodowejwkrakowie": {
+    "name": "uniwersytet komisji edukacji narodowej w krakowie",
+    "fullname": "uniwersytet komisji edukacji narodowej w krakowie",
+    "country": "Poland",
+    "region": "Europe",
+    "code": "uniwersytetkomisjiedukacjinarodowejwkrakowie",
+    "new": true,
+    "id": ""
+  },
+  "universidaddeaysén": {
+    "name": "universidad de aysén",
+    "fullname": "universidad de aysén",
+    "country": "Chile",
+    "region": "South America",
+    "code": "universidaddeaysén",
+    "new": true,
+    "id": ""
+  },
+  "franciscodepaulasantanderuniversity": {
+    "name": "francisco de paula santander university",
+    "fullname": "francisco de paula santander university",
+    "country": "Colombia",
+    "region": "South America",
+    "code": "franciscodepaulasantanderuniversity",
+    "new": true,
+    "id": ""
+  },
+  "institutopolitécniconacional": {
+    "name": "instituto politécnico nacional",
+    "fullname": "instituto politécnico nacional",
+    "country": "Mexico",
+    "region": "North America",
+    "code": "institutopolitécniconacional",
+    "new": true,
+    "id": ""
+  },
+  "nationaluniversityofdistanceeducation": {
+    "name": "national university of distance education",
+    "fullname": "national university of distance education",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "nationaluniversityofdistanceeducation",
+    "new": true,
+    "id": ""
+  },
+  "institutosuperiordeciênciasdainformaçãoedaadministração": {
+    "name": "instituto superior de ciências da informação e da administração",
+    "fullname": "instituto superior de ciências da informação e da administração",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "institutosuperiordeciênciasdainformaçãoedaadministração",
+    "new": true,
+    "id": ""
+  },
+  "universityforinternationalintegrationoftheafro-brazilianlusophony": {
+    "name": "university for international integration of the afro-brazilian lusophony",
+    "fullname": "university for international integration of the afro-brazilian lusophony",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universityforinternationalintegrationoftheafro-brazilianlusophony",
+    "new": true,
+    "id": ""
+  },
+  "nationaltechnologicaluniversity": {
+    "name": "national technological university",
+    "fullname": "national technological university",
+    "country": "Argentina",
+    "region": "South America",
+    "code": "nationaltechnologicaluniversity",
+    "new": true,
+    "id": ""
+  },
+  "jorgebasadregrohmannnationaluniversity": {
+    "name": "jorge basadre grohmann national university",
+    "fullname": "jorge basadre grohmann national university",
+    "country": "Peru",
+    "region": "South America",
+    "code": "jorgebasadregrohmannnationaluniversity",
+    "new": true,
+    "id": ""
+  },
+  "federaluniversityofsãojoãodel-rei": {
+    "name": "federal university of são joão del-rei",
+    "fullname": "federal university of são joão del-rei",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "federaluniversityofsãojoãodel-rei",
+    "new": true,
+    "id": ""
+  },
+  "brazilianinstituteofneuroscienceandneurotechnology": {
+    "name": "brazilian institute of neuroscience and neurotechnology",
+    "fullname": "brazilian institute of neuroscience and neurotechnology",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "brazilianinstituteofneuroscienceandneurotechnology",
+    "new": true,
+    "id": ""
+  },
+  "universidadepaulista": {
+    "name": "universidade paulista",
+    "fullname": "universidade paulista",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadepaulista",
+    "new": true,
+    "id": ""
+  },
+  "escuelasuperiorpolitécnicadelchimborazo": {
+    "name": "escuela superior politécnica del chimborazo",
+    "fullname": "escuela superior politécnica del chimborazo",
+    "country": "Ecuador",
+    "region": "South America",
+    "code": "escuelasuperiorpolitécnicadelchimborazo",
+    "new": true,
+    "id": ""
+  },
+  "stateuniversityofvaledoacaraú": {
+    "name": "state university of vale do acaraú",
+    "fullname": "state university of vale do acaraú",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "stateuniversityofvaledoacaraú",
+    "new": true,
+    "id": ""
+  },
+  "universityofvalparaíso": {
+    "name": "university of valparaíso",
+    "fullname": "university of valparaíso",
+    "country": "Chile",
+    "region": "South America",
+    "code": "universityofvalparaíso",
+    "new": true,
+    "id": ""
+  },
+  "naziboniuniversity": {
+    "name": "nazi boni university",
+    "fullname": "nazi boni university",
+    "country": "Burkina Faso",
+    "region": "Africa",
+    "code": "naziboniuniversity",
+    "new": true,
+    "id": ""
+  },
+  "universidaddonbosco": {
+    "name": "universidad don bosco",
+    "fullname": "universidad don bosco",
+    "country": "El Salvador",
+    "region": "Central America",
+    "code": "universidaddonbosco",
+    "new": true,
+    "id": ""
+  },
+  "universityofjos": {
+    "name": "university of jos",
+    "fullname": "university of jos",
+    "country": "Nigeria",
+    "region": "Africa",
+    "code": "universityofjos",
+    "new": true,
+    "id": ""
+  },
+  "weatherfordcollege": {
+    "name": "weatherford college",
+    "fullname": "weatherford college",
+    "country": "United States",
+    "region": "North America",
+    "code": "weatherfordcollege",
+    "new": true,
+    "id": ""
+  },
+  "artoisuniversity": {
+    "name": "artois university",
+    "fullname": "artois university",
+    "country": "France",
+    "region": "Europe",
+    "code": "artoisuniversity",
+    "new": true,
+    "id": ""
+  },
+  "universidadjuárezdelestadodedurango": {
+    "name": "universidad juárez del estado de durango",
+    "fullname": "universidad juárez del estado de durango",
+    "country": "Mexico",
+    "region": "North America",
+    "code": "universidadjuárezdelestadodedurango",
+    "new": true,
+    "id": ""
+  },
+  "universidadecatólicaportuguesa": {
+    "name": "universidade católica portuguesa",
+    "fullname": "universidade católica portuguesa",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "universidadecatólicaportuguesa",
+    "new": true,
+    "id": ""
+  },
+  "institutosuperiordeadministraçãoegestão": {
+    "name": "instituto superior de administração e gestão",
+    "fullname": "instituto superior de administração e gestão",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "institutosuperiordeadministraçãoegestão",
+    "new": true,
+    "id": ""
+  },
+  "escolasuperiordeartesedesign": {
+    "name": "escola superior de artes e design",
+    "fullname": "escola superior de artes e design",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "escolasuperiordeartesedesign",
+    "new": true,
+    "id": ""
+  },
+  "eiauniversity": {
+    "name": "eia university",
+    "fullname": "eia university",
+    "country": "Colombia",
+    "region": "South America",
+    "code": "eiauniversity",
+    "new": true,
+    "id": ""
+  },
+  "universidaddemanizales": {
+    "name": "universidad de manizales",
+    "fullname": "universidad de manizales",
+    "country": "Colombia",
+    "region": "South America",
+    "code": "universidaddemanizales",
+    "new": true,
+    "id": ""
+  },
+  "universitatdebarcelona": {
+    "name": "universitat de barcelona",
+    "fullname": "universitat de barcelona",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "universitatdebarcelona",
+    "new": true,
+    "id": ""
+  },
+  "universidaddecádiz": {
+    "name": "universidad de cádiz",
+    "fullname": "universidad de cádiz",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "universidaddecádiz",
+    "new": true,
+    "id": ""
+  },
+  "fundaciónuniversitarialoslibertadores": {
+    "name": "fundación universitaria los libertadores",
+    "fullname": "fundación universitaria los libertadores",
+    "country": "Colombia",
+    "region": "South America",
+    "code": "fundaciónuniversitarialoslibertadores",
+    "new": true,
+    "id": ""
+  },
+  "indra(spain)": {
+    "name": "indra (spain)",
+    "fullname": "indra (spain)",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "indra(spain)",
+    "new": true,
+    "id": ""
+  },
+  "associaçãodeassistênciaàcriançadeficiente": {
+    "name": "associação de assistência à criança deficiente",
+    "fullname": "associação de assistência à criança deficiente",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "associaçãodeassistênciaàcriançadeficiente",
+    "new": true,
+    "id": ""
+  },
+  "universityofbío-bío": {
+    "name": "university of bío-bío",
+    "fullname": "university of bío-bío",
+    "country": "Chile",
+    "region": "South America",
+    "code": "universityofbío-bío",
+    "new": true,
+    "id": ""
+  },
+  "hospitaluniversitarioríohortega": {
+    "name": "hospital universitario río hortega",
+    "fullname": "hospital universitario río hortega",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "hospitaluniversitarioríohortega",
+    "new": true,
+    "id": ""
+  },
+  "playaanchauniversityofeducationalsciences": {
+    "name": "playa ancha university of educational sciences",
+    "fullname": "playa ancha university of educational sciences",
+    "country": "Chile",
+    "region": "South America",
+    "code": "playaanchauniversityofeducationalsciences",
+    "new": true,
+    "id": ""
+  },
+  "adolfoibáñezuniversity": {
+    "name": "adolfo ibáñez university",
+    "fullname": "adolfo ibáñez university",
+    "country": "Chile",
+    "region": "South America",
+    "code": "adolfoibáñezuniversity",
+    "new": true,
+    "id": ""
+  },
+  "universidadautónomadechile": {
+    "name": "universidad autónoma de chile",
+    "fullname": "universidad autónoma de chile",
+    "country": "Chile",
+    "region": "South America",
+    "code": "universidadautónomadechile",
+    "new": true,
+    "id": ""
+  },
+  "universidadnacionalautónomademéxico": {
+    "name": "universidad nacional autónoma de méxico",
+    "fullname": "universidad nacional autónoma de méxico",
+    "country": "Mexico",
+    "region": "North America",
+    "code": "universidadnacionalautónomademéxico",
+    "new": true,
+    "id": ""
+  },
+  "universidaddebogotájorgetadeolozano": {
+    "name": "universidad de bogotá jorge tadeo lozano",
+    "fullname": "universidad de bogotá jorge tadeo lozano",
+    "country": "Colombia",
+    "region": "South America",
+    "code": "universidaddebogotájorgetadeolozano",
+    "new": true,
+    "id": ""
+  },
+  "beneméritauniversidadautónomadepuebla": {
+    "name": "benemérita universidad autónoma de puebla",
+    "fullname": "benemérita universidad autónoma de puebla",
+    "country": "Mexico",
+    "region": "North America",
+    "code": "beneméritauniversidadautónomadepuebla",
+    "new": true,
+    "id": ""
+  },
+  "universidadperuanacayetanoheredia": {
+    "name": "universidad peruana cayetano heredia",
+    "fullname": "universidad peruana cayetano heredia",
+    "country": "Peru",
+    "region": "South America",
+    "code": "universidadperuanacayetanoheredia",
+    "new": true,
+    "id": ""
+  },
+  "universityofappliedhealthsciences": {
+    "name": "university of applied health sciences",
+    "fullname": "university of applied health sciences",
+    "country": "Croatia",
+    "region": "Europe",
+    "code": "universityofappliedhealthsciences",
+    "new": true,
+    "id": ""
+  },
+  "luleåuniversityoftechnology": {
+    "name": "luleå university of technology",
+    "fullname": "luleå university of technology",
+    "country": "Sweden",
+    "region": "Europe",
+    "code": "luleåuniversityoftechnology",
+    "new": true,
+    "id": ""
+  },
+  "ministériodasaúde": {
+    "name": "ministério da saúde",
+    "fullname": "ministério da saúde",
+    "country": "Sao Tome and Principe",
+    "region": "Africa",
+    "code": "ministériodasaúde",
+    "new": true,
+    "id": ""
+  },
+  "universitatramonllull": {
+    "name": "universitat ramon llull",
+    "fullname": "universitat ramon llull",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "universitatramonllull",
+    "new": true,
+    "id": ""
+  },
+  "fundaçãogetuliovargas": {
+    "name": "fundação getulio vargas",
+    "fullname": "fundação getulio vargas",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "fundaçãogetuliovargas",
+    "new": true,
+    "id": ""
+  },
+  "universidadenovedejulho": {
+    "name": "universidade nove de julho",
+    "fullname": "universidade nove de julho",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadenovedejulho",
+    "new": true,
+    "id": ""
+  },
+  "internationalfoundationforelectoralsystems": {
+    "name": "international foundation for electoral systems",
+    "fullname": "international foundation for electoral systems",
+    "country": "United States",
+    "region": "North America",
+    "code": "internationalfoundationforelectoralsystems",
+    "new": true,
+    "id": ""
+  },
+  "tamedia(switzerland)": {
+    "name": "tamedia (switzerland)",
+    "fullname": "tamedia (switzerland)",
+    "country": "Switzerland",
+    "region": "Europe",
+    "code": "tamedia(switzerland)",
+    "new": true,
+    "id": ""
+  },
+  "centrouniversitáriodebelohorizonte": {
+    "name": "centro universitário de belo horizonte",
+    "fullname": "centro universitário de belo horizonte",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "centrouniversitáriodebelohorizonte",
+    "new": true,
+    "id": ""
+  },
+  "icesiuniversity": {
+    "name": "icesi university",
+    "fullname": "icesi university",
+    "country": "Colombia",
+    "region": "South America",
+    "code": "icesiuniversity",
+    "new": true,
+    "id": ""
+  },
+  "pontifíciauniversidadecatólicademinasgerais": {
+    "name": "pontifícia universidade católica de minas gerais",
+    "fullname": "pontifícia universidade católica de minas gerais",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "pontifíciauniversidadecatólicademinasgerais",
+    "new": true,
+    "id": ""
+  },
+  "europeanunionofmedicalspecialists": {
+    "name": "european union of medical specialists",
+    "fullname": "european union of medical specialists",
+    "country": "Belgium",
+    "region": "Europe",
+    "code": "europeanunionofmedicalspecialists",
+    "new": true,
+    "id": ""
+  },
+  "universitatdelesillesbalears": {
+    "name": "universitat de les illes balears",
+    "fullname": "universitat de les illes balears",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "universitatdelesillesbalears",
+    "new": true,
+    "id": ""
+  },
+  "universidadecatólicadepernambuco": {
+    "name": "universidade católica de pernambuco",
+    "fullname": "universidade católica de pernambuco",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadecatólicadepernambuco",
+    "new": true,
+    "id": ""
+  },
+  "universisdadcatólicadesantiagodeguayaquil": {
+    "name": "universisdad católica de santiago de guayaquil",
+    "fullname": "universisdad católica de santiago de guayaquil",
+    "country": "Ecuador",
+    "region": "South America",
+    "code": "universisdadcatólicadesantiagodeguayaquil",
+    "new": true,
+    "id": ""
+  },
+  "institutofederaldosertãopernambucano": {
+    "name": "instituto federal do sertão pernambucano",
+    "fullname": "instituto federal do sertão pernambucano",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "institutofederaldosertãopernambucano",
+    "new": true,
+    "id": ""
+  },
+  "nationaltrainingservice": {
+    "name": "national training service",
+    "fullname": "national training service",
+    "country": "Colombia",
+    "region": "South America",
+    "code": "nationaltrainingservice",
+    "new": true,
+    "id": ""
+  },
+  "regionaldevelopmentagency": {
+    "name": "regional development agency",
+    "fullname": "regional development agency",
+    "country": "Czech Republic",
+    "region": "Europe",
+    "code": "regionaldevelopmentagency",
+    "new": true,
+    "id": ""
+  },
+  "universidadecatólicadebrasília": {
+    "name": "universidade católica de brasília",
+    "fullname": "universidade católica de brasília",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadecatólicadebrasília",
+    "new": true,
+    "id": ""
+  },
+  "institutonacionaldecapacitaciónprofesional": {
+    "name": "instituto nacional de capacitación profesional",
+    "fullname": "instituto nacional de capacitación profesional",
+    "country": "Chile",
+    "region": "South America",
+    "code": "institutonacionaldecapacitaciónprofesional",
+    "new": true,
+    "id": ""
+  },
+  "universidaddeespecialidadesespíritusanto": {
+    "name": "universidad de especialidades espíritu santo",
+    "fullname": "universidad de especialidades espíritu santo",
+    "country": "Ecuador",
+    "region": "South America",
+    "code": "universidaddeespecialidadesespíritusanto",
+    "new": true,
+    "id": ""
+  },
+  "comunidaddemadrid": {
+    "name": "comunidad de madrid",
+    "fullname": "comunidad de madrid",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "comunidaddemadrid",
+    "new": true,
+    "id": ""
+  },
+  "departamentodeeducación": {
+    "name": "departamento de educación",
+    "fullname": "departamento de educación",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "departamentodeeducación",
+    "new": true,
+    "id": ""
+  },
+  "universitatdevalència": {
+    "name": "universitat de valència",
+    "fullname": "universitat de valència",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "universitatdevalència",
+    "new": true,
+    "id": ""
+  },
+  "universidadefederaldosuldabahia": {
+    "name": "universidade federal do sul da bahia",
+    "fullname": "universidade federal do sul da bahia",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadefederaldosuldabahia",
+    "new": true,
+    "id": ""
+  },
+  "institutonacionaldecancerología": {
+    "name": "instituto nacional de cancerología",
+    "fullname": "instituto nacional de cancerología",
+    "country": "Colombia",
+    "region": "South America",
+    "code": "institutonacionaldecancerología",
+    "new": true,
+    "id": ""
+  },
+  "universidadefederaldematogrossodosul": {
+    "name": "universidade federal de mato grosso do sul",
+    "fullname": "universidade federal de mato grosso do sul",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadefederaldematogrossodosul",
+    "new": true,
+    "id": ""
+  },
+  "universidadefederaldelavras": {
+    "name": "universidade federal de lavras",
+    "fullname": "universidade federal de lavras",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadefederaldelavras",
+    "new": true,
+    "id": ""
+  },
+  "bayerouniversitykano": {
+    "name": "bayero university kano",
+    "fullname": "bayero university kano",
+    "country": "Nigeria",
+    "region": "Africa",
+    "code": "bayerouniversitykano",
+    "new": true,
+    "id": ""
+  },
+  "universidadedesantoamaro": {
+    "name": "universidade de santo amaro",
+    "fullname": "universidade de santo amaro",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadedesantoamaro",
+    "new": true,
+    "id": ""
+  },
+  "universidadefeevale": {
+    "name": "universidade feevale",
+    "fullname": "universidade feevale",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadefeevale",
+    "new": true,
+    "id": ""
+  },
+  "universidadefederaldooestedopará": {
+    "name": "universidade federal do oeste do pará",
+    "fullname": "universidade federal do oeste do pará",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadefederaldooestedopará",
+    "new": true,
+    "id": ""
+  },
+  "universidadlasalle": {
+    "name": "universidad la salle",
+    "fullname": "universidad la salle",
+    "country": "Bolivia",
+    "region": "South America",
+    "code": "universidadlasalle",
+    "new": true,
+    "id": ""
+  },
+  "universityofthesciences": {
+    "name": "university of the sciences",
+    "fullname": "university of the sciences",
+    "country": "United States",
+    "region": "North America",
+    "code": "universityofthesciences",
+    "new": true,
+    "id": ""
+  },
+  "nationaluniversityofsciencesandtechnology": {
+    "name": "national university of sciences and technology",
+    "fullname": "national university of sciences and technology",
+    "country": "Pakistan",
+    "region": "Asia",
+    "code": "nationaluniversityofsciencesandtechnology",
+    "new": true,
+    "id": ""
+  },
+  "institutofederaldomaranhão": {
+    "name": "instituto federal do maranhão",
+    "fullname": "instituto federal do maranhão",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "institutofederaldomaranhão",
+    "new": true,
+    "id": ""
+  },
+  "institutotecnológicometropolitano": {
+    "name": "instituto tecnológico metropolitano",
+    "fullname": "instituto tecnológico metropolitano",
+    "country": "Colombia",
+    "region": "South America",
+    "code": "institutotecnológicometropolitano",
+    "new": true,
+    "id": ""
+  },
+  "universidaddelarepública": {
+    "name": "universidad de la república",
+    "fullname": "universidad de la república",
+    "country": "Uruguay",
+    "region": "South America",
+    "code": "universidaddelarepública",
+    "new": true,
+    "id": ""
+  },
+  "southwestbaptistuniversity": {
+    "name": "southwest baptist university",
+    "fullname": "southwest baptist university",
+    "country": "United States",
+    "region": "North America",
+    "code": "southwestbaptistuniversity",
+    "new": true,
+    "id": ""
+  },
+  "nationalarchivesofecuador": {
+    "name": "national archives of ecuador",
+    "fullname": "national archives of ecuador",
+    "country": "Ecuador",
+    "region": "South America",
+    "code": "nationalarchivesofecuador",
+    "new": true,
+    "id": ""
+  },
+  "universidadestataldebolívar": {
+    "name": "universidad estatal de bolívar",
+    "fullname": "universidad estatal de bolívar",
+    "country": "Ecuador",
+    "region": "South America",
+    "code": "universidadestataldebolívar",
+    "new": true,
+    "id": ""
+  },
+  "microsoft(unitedstates)": {
+    "name": "microsoft (united states)",
+    "fullname": "microsoft (united states)",
+    "country": "United States",
+    "region": "North America",
+    "code": "microsoft(unitedstates)",
+    "new": true,
+    "id": ""
+  },
+  "universityofsansimón": {
+    "name": "university of san simón",
+    "fullname": "university of san simón",
+    "country": "Bolivia",
+    "region": "South America",
+    "code": "universityofsansimón",
+    "new": true,
+    "id": ""
+  },
+  "universidadfedericohenríquezycarvajal": {
+    "name": "universidad federico henríquez y carvajal",
+    "fullname": "universidad federico henríquez y carvajal",
+    "country": "Dominican Republic",
+    "region": "North America",
+    "code": "universidadfedericohenríquezycarvajal",
+    "new": true,
+    "id": ""
+  },
+  "innermongoliaagriculturaluniversity": {
+    "name": "inner mongolia agricultural university",
+    "fullname": "inner mongolia agricultural university",
+    "country": "China",
+    "region": "Asia",
+    "code": "innermongoliaagriculturaluniversity",
+    "new": true,
+    "id": ""
+  },
+  "erciyesuniversity": {
+    "name": "erciyes university",
+    "fullname": "erciyes university",
+    "country": "Turkey",
+    "region": "Asia",
+    "code": "erciyesuniversity",
+    "new": true,
+    "id": ""
+  },
+  "kayser(italy)": {
+    "name": "kayser (italy)",
+    "fullname": "kayser (italy)",
+    "country": "Italy",
+    "region": "Europe",
+    "code": "kayser(italy)",
+    "new": true,
+    "id": ""
+  },
+  "nevşehirhacıbektaşveliuniversity": {
+    "name": "nevşehir hacı bektaş veli university",
+    "fullname": "nevşehir hacı bektaş veli university",
+    "country": "Turkey",
+    "region": "Asia",
+    "code": "nevşehirhacıbektaşveliuniversity",
+    "new": true,
+    "id": ""
+  },
+  "universidaddecantabria": {
+    "name": "universidad de cantabria",
+    "fullname": "universidad de cantabria",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "universidaddecantabria",
+    "new": true,
+    "id": ""
+  },
+  "universityofthessaly": {
+    "name": "university of thessaly",
+    "fullname": "university of thessaly",
+    "country": "Greece",
+    "region": "Europe",
+    "code": "universityofthessaly",
+    "new": true,
+    "id": ""
+  },
+  "universityofhuddersfield": {
+    "name": "university of huddersfield",
+    "fullname": "university of huddersfield",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "code": "universityofhuddersfield",
+    "new": true,
+    "id": ""
+  },
+  "universidaddeleón": {
+    "name": "universidad de león",
+    "fullname": "universidad de león",
+    "country": "Spain",
+    "region": "North America",
+    "code": "universidaddeleón",
+    "new": true,
+    "id": "",
+    "type": "affcode"
+  },
+  "nationaluniversityofthenortheast": {
+    "name": "national university of the northeast",
+    "fullname": "national university of the northeast",
+    "country": "Argentina",
+    "region": "South America",
+    "code": "nationaluniversityofthenortheast",
+    "new": true,
+    "id": ""
+  },
+  "demontfortuniversity": {
+    "name": "de montfort university",
+    "fullname": "de montfort university",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "code": "demontfortuniversity",
+    "new": true,
+    "id": ""
+  },
+  "fraunhoferportugalresearch": {
+    "name": "fraunhofer portugal research",
+    "fullname": "fraunhofer portugal research",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "fraunhoferportugalresearch",
+    "new": true,
+    "id": ""
+  },
+  "coventryuniversity": {
+    "name": "coventry university",
+    "fullname": "coventry university",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "code": "coventryuniversity",
+    "new": true,
+    "id": ""
+  },
+  "universityofmatanzas": {
+    "name": "university of matanzas",
+    "fullname": "university of matanzas",
+    "country": "Cuba",
+    "region": "North America",
+    "code": "universityofmatanzas",
+    "new": true,
+    "id": ""
+  },
+  "fundaciónparalainvestigaciónygestiónenserviciosdesalud": {
+    "name": "fundación para la investigación y gestión en servicios de salud",
+    "fullname": "fundación para la investigación y gestión en servicios de salud",
+    "country": "Ecuador",
+    "region": "South America",
+    "code": "fundaciónparalainvestigaciónygestiónenserviciosdesalud",
+    "new": true,
+    "id": ""
+  },
+  "centraluniversityoftechnology": {
+    "name": "central university of technology",
+    "fullname": "central university of technology",
+    "country": "South Africa",
+    "region": "Africa",
+    "code": "centraluniversityoftechnology",
+    "new": true,
+    "id": ""
+  },
+  "universityofthefreestate": {
+    "name": "university of the free state",
+    "fullname": "university of the free state",
+    "country": "South Africa",
+    "region": "Africa",
+    "code": "universityofthefreestate",
+    "new": true,
+    "id": ""
+  },
+  "northernuniversityofmalaysia": {
+    "name": "northern university of malaysia",
+    "fullname": "northern university of malaysia",
+    "country": "Malaysia",
+    "region": "Asia",
+    "code": "northernuniversityofmalaysia",
+    "new": true,
+    "id": ""
+  },
+  "universidadnacionalmicaelabastidasdeapurimac": {
+    "name": "universidad nacional micaela bastidas de apurimac",
+    "fullname": "universidad nacional micaela bastidas de apurimac",
+    "country": "Peru",
+    "region": "South America",
+    "code": "universidadnacionalmicaelabastidasdeapurimac",
+    "new": true,
+    "id": ""
+  },
+  "universitatdevic-universitatcentraldecatalunya": {
+    "name": "universitat de vic - universitat central de catalunya",
+    "fullname": "universitat de vic - universitat central de catalunya",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "universitatdevic-universitatcentraldecatalunya",
+    "new": true,
+    "id": ""
+  },
+  "universityofcuenca": {
+    "name": "university of cuenca",
+    "fullname": "university of cuenca",
+    "country": "Ecuador",
+    "region": "South America",
+    "code": "universityofcuenca",
+    "new": true,
+    "id": ""
+  },
+  "universidadefederaldoriogrande": {
+    "name": "universidade federal do rio grande",
+    "fullname": "universidade federal do rio grande",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadefederaldoriogrande",
+    "new": true,
+    "id": ""
+  },
+  "universidadedepassofundo": {
+    "name": "universidade de passo fundo",
+    "fullname": "universidade de passo fundo",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadedepassofundo",
+    "new": true,
+    "id": ""
+  },
+  "centrodemedicinadereabilitacaodoalcoitão": {
+    "name": "centro de medicina de reabilitacao do alcoitão",
+    "fullname": "centro de medicina de reabilitacao do alcoitão",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "centrodemedicinadereabilitacaodoalcoitão",
+    "new": true,
+    "id": ""
+  },
+  "universidadefederaldejataí": {
+    "name": "universidade federal de jataí",
+    "fullname": "universidade federal de jataí",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadefederaldejataí",
+    "new": true,
+    "id": ""
+  },
+  "instituteofmechanicalengineeringandindustrialmangement": {
+    "name": "institute of mechanical engineering and industrial mangement",
+    "fullname": "institute of mechanical engineering and industrial mangement",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "instituteofmechanicalengineeringandindustrialmangement",
+    "new": true,
+    "id": ""
+  },
+  "universitébretagneloire": {
+    "name": "université bretagne loire",
+    "fullname": "université bretagne loire",
+    "country": "France",
+    "region": "Europe",
+    "code": "universitébretagneloire",
+    "new": true,
+    "id": ""
+  },
+  "universidadtecnológicadepanamá": {
+    "name": "universidad tecnológica de panamá",
+    "fullname": "universidad tecnológica de panamá",
+    "country": "Panama",
+    "region": "Central America",
+    "code": "universidadtecnológicadepanamá",
+    "new": true,
+    "id": ""
+  },
+  "faculdadebrasil": {
+    "name": "faculdade brasil",
+    "fullname": "faculdade brasil",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "faculdadebrasil",
+    "new": true,
+    "id": ""
+  },
+  "universidadedemogidascruzes": {
+    "name": "universidade de mogi das cruzes",
+    "fullname": "universidade de mogi das cruzes",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadedemogidascruzes",
+    "new": true,
+    "id": ""
+  },
+  "cordobauniversity": {
+    "name": "cordoba university",
+    "fullname": "cordoba university",
+    "country": "United States",
+    "region": "North America",
+    "code": "cordobauniversity",
+    "new": true,
+    "id": ""
+  },
+  "municipalityofmedellín": {
+    "name": "municipality of medellín",
+    "fullname": "municipality of medellín",
+    "country": "Colombia",
+    "region": "South America",
+    "code": "municipalityofmedellín",
+    "new": true,
+    "id": ""
+  },
+  "faculdadesintegradasteresad'ávila": {
+    "name": "faculdades integradas teresa d'ávila",
+    "fullname": "faculdades integradas teresa d'ávila",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "faculdadesintegradasteresad'ávila",
+    "new": true,
+    "id": ""
+  },
+  "universitariofranciscodeasís": {
+    "name": "universitario francisco de asís",
+    "fullname": "universitario francisco de asís",
+    "country": "Uruguay",
+    "region": "South America",
+    "code": "universitariofranciscodeasís",
+    "new": true,
+    "id": ""
+  },
+  "institutodeestudosdomaralmirantepaulomoreira": {
+    "name": "instituto de estudos do mar almirante paulo moreira",
+    "fullname": "instituto de estudos do mar almirante paulo moreira",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "institutodeestudosdomaralmirantepaulomoreira",
+    "new": true,
+    "id": ""
+  },
+  "bankofbrazil": {
+    "name": "bank of brazil",
+    "fullname": "bank of brazil",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "bankofbrazil",
+    "new": true,
+    "id": ""
+  },
+  "tecnológicodemonterrey": {
+    "name": "tecnológico de monterrey",
+    "fullname": "tecnológico de monterrey",
+    "country": "Mexico",
+    "region": "North America",
+    "code": "tecnológicodemonterrey",
+    "new": true,
+    "id": ""
+  },
+  "consejonacionaldehumanidades": {
+    "name": "consejo nacional de humanidades",
+    "fullname": "consejo nacional de humanidades, ciencias y tecnologías",
+    "country": "Mexico",
+    "region": "North America",
+    "code": "consejonacionaldehumanidades",
+    "new": true,
+    "id": ""
+  },
+  "institutodeinvestigacionesencienciasdelasalud": {
+    "name": "instituto de investigaciones en ciencias de la salud",
+    "fullname": "instituto de investigaciones en ciencias de la salud",
+    "country": "Argentina",
+    "region": "South America",
+    "code": "institutodeinvestigacionesencienciasdelasalud",
+    "new": true,
+    "id": ""
+  },
+  "institutofederaldoespíritosanto": {
+    "name": "instituto federal do espírito santo",
+    "fullname": "instituto federal do espírito santo",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "institutofederaldoespíritosanto",
+    "new": true,
+    "id": ""
+  },
+  "universidadefederaldomaranhão": {
+    "name": "universidade federal do maranhão",
+    "fullname": "universidade federal do maranhão",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadefederaldomaranhão",
+    "new": true,
+    "id": ""
+  },
+  "companhiaenergéticadesãopaulo": {
+    "name": "companhia energética de são paulo",
+    "fullname": "companhia energética de são paulo",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "companhiaenergéticadesãopaulo",
+    "new": true,
+    "id": ""
+  },
+  "universidadedaamazônia": {
+    "name": "universidade da amazônia",
+    "fullname": "universidade da amazônia",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadedaamazônia",
+    "new": true,
+    "id": ""
+  },
+  "universidadefederaldoestadodoriodejaneiro": {
+    "name": "universidade federal do estado do rio de janeiro",
+    "fullname": "universidade federal do estado do rio de janeiro",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadefederaldoestadodoriodejaneiro",
+    "new": true,
+    "id": ""
+  },
+  "universidadefederaldematogrosso": {
+    "name": "universidade federal de mato grosso",
+    "fullname": "universidade federal de mato grosso",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadefederaldematogrosso",
+    "new": true,
+    "id": ""
+  },
+  "valparaisouniversity": {
+    "name": "valparaiso university",
+    "fullname": "valparaiso university",
+    "country": "United States",
+    "region": "North America",
+    "code": "valparaisouniversity",
+    "new": true,
+    "id": ""
+  },
+  "universidaddesonora": {
+    "name": "universidad de sonora",
+    "fullname": "universidad de sonora",
+    "country": "Mexico",
+    "region": "North America",
+    "code": "universidaddesonora",
+    "new": true,
+    "id": ""
+  },
+  "universidaddetijuana": {
+    "name": "universidad de tijuana",
+    "fullname": "universidad de tijuana",
+    "country": "Mexico",
+    "region": "North America",
+    "code": "universidaddetijuana",
+    "new": true,
+    "id": ""
+  },
+  "bancodelarepúblicacolombia": {
+    "name": "banco de la república colombia",
+    "fullname": "banco de la república colombia",
+    "country": "Colombia",
+    "region": "South America",
+    "code": "bancodelarepúblicacolombia",
+    "new": true,
+    "id": ""
+  },
+  "sonorainstituteoftechnology": {
+    "name": "sonora institute of technology",
+    "fullname": "sonora institute of technology",
+    "country": "Mexico",
+    "region": "North America",
+    "code": "sonorainstituteoftechnology",
+    "new": true,
+    "id": ""
+  },
+  "hochschulemünchenuniversityofappliedsciences": {
+    "name": "hochschule münchen university of applied sciences",
+    "fullname": "hochschule münchen university of applied sciences",
+    "country": "Germany",
+    "region": "Europe",
+    "code": "hochschulemünchenuniversityofappliedsciences",
+    "new": true,
+    "id": ""
+  },
+  "antioquiainstituteoftechnology": {
+    "name": "antioquia institute of technology",
+    "fullname": "antioquia institute of technology",
+    "country": "Colombia",
+    "region": "South America",
+    "code": "antioquiainstituteoftechnology",
+    "new": true,
+    "id": ""
+  },
+  "universidadefederaldoamapá": {
+    "name": "universidade federal do amapá",
+    "fullname": "universidade federal do amapá",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadefederaldoamapá",
+    "new": true,
+    "id": ""
+  },
+  "universidadcatólicadecuenca": {
+    "name": "universidad católica de cuenca",
+    "fullname": "universidad católica de cuenca",
+    "country": "Ecuador",
+    "region": "South America",
+    "code": "universidadcatólicadecuenca",
+    "new": true,
+    "id": ""
+  },
+  "centroregionaldederechoshumanosyjusticiadegénero": {
+    "name": "centro regional de derechos humanos y justicia de género",
+    "fullname": "centro regional de derechos humanos y justicia de género, corporación humanas",
+    "country": "Chile",
+    "region": "South America",
+    "code": "centroregionaldederechoshumanosyjusticiadegénero",
+    "new": true,
+    "id": ""
+  },
+  "universidadtécnicadelnorte": {
+    "name": "universidad técnica del norte",
+    "fullname": "universidad técnica del norte",
+    "country": "Ecuador",
+    "region": "South America",
+    "code": "universidadtécnicadelnorte",
+    "new": true,
+    "id": ""
+  },
+  "centrouniversitáriodonorte": {
+    "name": "centro universitário do norte",
+    "fullname": "centro universitário do norte",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "centrouniversitáriodonorte",
+    "new": true,
+    "id": ""
+  },
+  "arturopratuniversity": {
+    "name": "arturo prat university",
+    "fullname": "arturo prat university",
+    "country": "Chile",
+    "region": "South America",
+    "code": "arturopratuniversity",
+    "new": true,
+    "id": ""
+  },
+  "institutovalencianodelaedificación": {
+    "name": "instituto valenciano de la edificación",
+    "fullname": "instituto valenciano de la edificación",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "institutovalencianodelaedificación",
+    "new": true,
+    "id": ""
+  },
+  "universitatpolitècnicadevalència": {
+    "name": "universitat politècnica de valència",
+    "fullname": "universitat politècnica de valència",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "universitatpolitècnicadevalència",
+    "new": true,
+    "id": ""
+  },
+  "centrefortrainingandintegratedresearchinasaldevelopment": {
+    "name": "centre for training and integrated research in asal development",
+    "fullname": "centre for training and integrated research in asal development",
+    "country": "Kenya",
+    "region": "Africa",
+    "code": "centrefortrainingandintegratedresearchinasaldevelopment",
+    "new": true,
+    "id": ""
+  },
+  "universidadadistanciademadrid": {
+    "name": "universidad a distancia de madrid",
+    "fullname": "universidad a distancia de madrid",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "universidadadistanciademadrid",
+    "new": true,
+    "id": ""
+  },
+  "universityofcapeverde": {
+    "name": "university of cape verde",
+    "fullname": "university of cape verde",
+    "country": "Cape Verde",
+    "region": "Africa",
+    "code": "universityofcapeverde",
+    "new": true,
+    "id": ""
+  },
+  "sligouniversityhospital": {
+    "name": "sligo university hospital",
+    "fullname": "sligo university hospital",
+    "country": "Ireland",
+    "region": "Europe",
+    "code": "sligouniversityhospital",
+    "new": true,
+    "id": ""
+  },
+  "institutonacionaldeinvestigacionesnucleares": {
+    "name": "instituto nacional de investigaciones nucleares",
+    "fullname": "instituto nacional de investigaciones nucleares",
+    "country": "Mexico",
+    "region": "North America",
+    "code": "institutonacionaldeinvestigacionesnucleares",
+    "new": true,
+    "id": ""
+  },
+  "autonomousuniversityofchiapas": {
+    "name": "autonomous university of chiapas",
+    "fullname": "autonomous university of chiapas",
+    "country": "Mexico",
+    "region": "North America",
+    "code": "autonomousuniversityofchiapas",
+    "new": true,
+    "id": ""
+  },
+  "serviçonacionaldeaprendizagemindustrial": {
+    "name": "serviço nacional de aprendizagem industrial",
+    "fullname": "serviço nacional de aprendizagem industrial",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "serviçonacionaldeaprendizagemindustrial",
+    "new": true,
+    "id": ""
+  },
+  "universidadedoestadodabahia": {
+    "name": "universidade do estado da bahia",
+    "fullname": "universidade do estado da bahia",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadedoestadodabahia",
+    "new": true,
+    "id": ""
+  },
+  "estácio(brazil)": {
+    "name": "estácio (brazil)",
+    "fullname": "estácio (brazil)",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "estácio(brazil)",
+    "new": true,
+    "id": ""
+  },
+  "nanjinguniversityofinformationscienceandtechnology": {
+    "name": "nanjing university of information science and technology",
+    "fullname": "nanjing university of information science and technology",
+    "country": "China",
+    "region": "Asia",
+    "code": "nanjinguniversityofinformationscienceandtechnology",
+    "new": true,
+    "id": ""
+  },
+  "militaryinstituteofengineering": {
+    "name": "military institute of engineering",
+    "fullname": "military institute of engineering",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "militaryinstituteofengineering",
+    "new": true,
+    "id": ""
+  },
+  "activetechnologies(italy)": {
+    "name": "active technologies (italy)",
+    "fullname": "active technologies (italy)",
+    "country": "Italy",
+    "region": "Europe",
+    "code": "activetechnologies(italy)",
+    "new": true,
+    "id": ""
+  },
+  "nationaltechnicaluniversityofathens": {
+    "name": "national technical university of athens",
+    "fullname": "national technical university of athens",
+    "country": "Greece",
+    "region": "Europe",
+    "code": "nationaltechnicaluniversityofathens",
+    "new": true,
+    "id": ""
+  },
+  "srmuniversity": {
+    "name": "srm university",
+    "fullname": "srm university",
+    "country": "India",
+    "region": "Asia",
+    "code": "srmuniversity",
+    "new": true,
+    "id": ""
+  },
+  "universidaddelsinú": {
+    "name": "universidad del sinú",
+    "fullname": "universidad del sinú",
+    "country": "Colombia",
+    "region": "South America",
+    "code": "universidaddelsinú",
+    "new": true,
+    "id": ""
+  },
+  "keepsolutions(portugal)": {
+    "name": "keep solutions (portugal)",
+    "fullname": "keep solutions (portugal)",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "keepsolutions(portugal)",
+    "new": true,
+    "id": ""
+  },
+  "simónbolívaruniversity": {
+    "name": "simón bolívar university",
+    "fullname": "simón bolívar university",
+    "country": "Venezuela",
+    "region": "South America",
+    "code": "simónbolívaruniversity",
+    "new": true,
+    "id": ""
+  },
+  "institutodetecnologiaepesquisa": {
+    "name": "instituto de tecnologia e pesquisa",
+    "fullname": "instituto de tecnologia e pesquisa",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "institutodetecnologiaepesquisa",
+    "new": true,
+    "id": ""
+  },
+  "universidadyachaytech": {
+    "name": "universidad yachay tech",
+    "fullname": "universidad yachay tech",
+    "country": "Ecuador",
+    "region": "South America",
+    "code": "universidadyachaytech",
+    "new": true,
+    "id": ""
+  },
+  "bharathiaruniversity": {
+    "name": "bharathiar university",
+    "fullname": "bharathiar university",
+    "country": "India",
+    "region": "Asia",
+    "code": "bharathiaruniversity",
+    "new": true,
+    "id": ""
+  },
+  "ipoporto": {
+    "name": "ipo porto",
+    "fullname": "ipo porto",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "ipoporto",
+    "new": true,
+    "id": ""
+  },
+  "institutoportuguêsdeoncologiafranciscogentil": {
+    "name": "instituto português de oncologia francisco gentil",
+    "fullname": "instituto português de oncologia francisco gentil",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "institutoportuguêsdeoncologiafranciscogentil",
+    "new": true,
+    "id": ""
+  },
+  "nationaluniversityofmisiones": {
+    "name": "national university of misiones",
+    "fullname": "national university of misiones",
+    "country": "Argentina",
+    "region": "South America",
+    "code": "nationaluniversityofmisiones",
+    "new": true,
+    "id": ""
+  },
+  "institutofederaldabahia": {
+    "name": "instituto federal da bahia",
+    "fullname": "instituto federal da bahia",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "institutofederaldabahia",
+    "new": true,
+    "id": ""
+  },
+  "faculdaderuybarbosa": {
+    "name": "faculdade ruy barbosa",
+    "fullname": "faculdade ruy barbosa",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "faculdaderuybarbosa",
+    "new": true,
+    "id": ""
+  },
+  "institutodepesquisastecnológicas": {
+    "name": "instituto de pesquisas tecnológicas",
+    "fullname": "instituto de pesquisas tecnológicas",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "institutodepesquisastecnológicas",
+    "new": true,
+    "id": ""
+  },
+  "intel(brazil)": {
+    "name": "intel (brazil)",
+    "fullname": "intel (brazil)",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "intel(brazil)",
+    "new": true,
+    "id": ""
+  },
+  "centrouniversitárioeurípedesdemarilia": {
+    "name": "centro universitário eurípedes de marilia",
+    "fullname": "centro universitário eurípedes de marilia",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "centrouniversitárioeurípedesdemarilia",
+    "new": true,
+    "id": ""
+  },
+  "institutobrasileirodeinformaçãoemciênciaetecnologia": {
+    "name": "instituto brasileiro de informação em ciência e tecnologia",
+    "fullname": "instituto brasileiro de informação em ciência e tecnologia",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "institutobrasileirodeinformaçãoemciênciaetecnologia",
+    "new": true,
+    "id": ""
+  },
+  "universidadefederaldafronteirasul": {
+    "name": "universidade federal da fronteira sul",
+    "fullname": "universidade federal da fronteira sul",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadefederaldafronteirasul",
+    "new": true,
+    "id": ""
+  },
+  "universidaderegionaldonoroestedoestadodoriograndedosul": {
+    "name": "universidade regional do noroeste do estado do rio grande do sul",
+    "fullname": "universidade regional do noroeste do estado do rio grande do sul",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidaderegionaldonoroestedoestadodoriograndedosul",
+    "new": true,
+    "id": ""
+  },
+  "departamentodeciênciaetecnologia": {
+    "name": "departamento de ciência e tecnologia",
+    "fullname": "departamento de ciência e tecnologia",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "departamentodeciênciaetecnologia",
+    "new": true,
+    "id": ""
+  },
+  "universidadefederaldosvalesdojequitinhonhaemucuri": {
+    "name": "universidade federal dos vales do jequitinhonha e mucuri",
+    "fullname": "universidade federal dos vales do jequitinhonha e mucuri",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadefederaldosvalesdojequitinhonhaemucuri",
+    "new": true,
+    "id": ""
+  },
+  "centrouniversitáriobarãodemauá": {
+    "name": "centro universitário barão de mauá",
+    "fullname": "centro universitário barão de mauá",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "centrouniversitáriobarãodemauá",
+    "new": true,
+    "id": ""
+  },
+  "mediterraneanuniversity": {
+    "name": "mediterranean university",
+    "fullname": "mediterranean university",
+    "country": "Montenegro",
+    "region": "Europe",
+    "code": "mediterraneanuniversity",
+    "new": true,
+    "id": ""
+  },
+  "tomasbatauniversityinzlín": {
+    "name": "tomas bata university in zlín",
+    "fullname": "tomas bata university in zlín",
+    "country": "Czech Republic",
+    "region": "Europe",
+    "code": "tomasbatauniversityinzlín",
+    "new": true,
+    "id": ""
+  },
+  "institutosuperiormigueltorga": {
+    "name": "instituto superior miguel torga",
+    "fullname": "instituto superior miguel torga",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "institutosuperiormigueltorga",
+    "new": true,
+    "id": ""
+  },
+  "madeiratecnopolo": {
+    "name": "madeira tecnopolo",
+    "fullname": "madeira tecnopolo",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "madeiratecnopolo",
+    "new": true,
+    "id": ""
+  },
+  "institutodearqueología-mérida": {
+    "name": "instituto de arqueología-mérida",
+    "fullname": "instituto de arqueología-mérida",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "institutodearqueología-mérida",
+    "new": true,
+    "id": ""
+  },
+  "faculdadefrassinettidorecife": {
+    "name": "faculdade frassinetti do recife",
+    "fullname": "faculdade frassinetti do recife",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "faculdadefrassinettidorecife",
+    "new": true,
+    "id": ""
+  },
+  "universidaddejaén": {
+    "name": "universidad de jaén",
+    "fullname": "universidad de jaén",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "universidaddejaén",
+    "new": true,
+    "id": ""
+  },
+  "centraluniversityofvenezuela": {
+    "name": "central university of venezuela",
+    "fullname": "central university of venezuela",
+    "country": "Venezuela",
+    "region": "South America",
+    "code": "centraluniversityofvenezuela",
+    "new": true,
+    "id": ""
+  },
+  "ministériodaciênciaetecnologia": {
+    "name": "ministério da ciência e tecnologia",
+    "fullname": "ministério da ciência e tecnologia",
+    "country": "Angola",
+    "region": "Africa",
+    "code": "ministériodaciênciaetecnologia",
+    "new": true,
+    "id": ""
+  },
+  "centrouniversitárioherminioomettodeararas": {
+    "name": "centro universitário herminio ometto de araras",
+    "fullname": "centro universitário herminio ometto de araras",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "centrouniversitárioherminioomettodeararas",
+    "new": true,
+    "id": ""
+  },
+  "universidadederibeirãopreto": {
+    "name": "universidade de ribeirão preto",
+    "fullname": "universidade de ribeirão preto",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadederibeirãopreto",
+    "new": true,
+    "id": ""
+  },
+  "institutpolytechniquedeparis": {
+    "name": "institut polytechnique de paris",
+    "fullname": "institut polytechnique de paris",
+    "country": "France",
+    "region": "Europe",
+    "code": "institutpolytechniquedeparis",
+    "new": true,
+    "id": ""
+  },
+  "ministryofplanning": {
+    "name": "ministry of planning",
+    "fullname": "ministry of planning, budget and management",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "ministryofplanning",
+    "new": true,
+    "id": ""
+  },
+  "centrohospitalardetrásosmontesealtodouro": {
+    "name": "centro hospitalar de trás os montes e alto douro",
+    "fullname": "centro hospitalar de trás os montes e alto douro",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "centrohospitalardetrásosmontesealtodouro",
+    "new": true,
+    "id": ""
+  },
+  "escolasuperiordesaúdedoalcoitão": {
+    "name": "escola superior de saúde do alcoitão",
+    "fullname": "escola superior de saúde do alcoitão",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "escolasuperiordesaúdedoalcoitão",
+    "new": true,
+    "id": ""
+  },
+  "alanyahamdullaheminpasauniversity": {
+    "name": "alanya hamdullah emin pasa university",
+    "fullname": "alanya hamdullah emin pasa university",
+    "country": "Turkey",
+    "region": "Asia",
+    "code": "alanyahamdullaheminpasauniversity",
+    "new": true,
+    "id": ""
+  },
+  "institutd'estudiscatalans": {
+    "name": "institut d'estudis catalans",
+    "fullname": "institut d'estudis catalans",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "institutd'estudiscatalans",
+    "new": true,
+    "id": ""
+  },
+  "permstateagriculturalacademy": {
+    "name": "perm state agricultural academy",
+    "fullname": "perm state agricultural academy",
+    "country": "Russian Federation",
+    "region": "Europe",
+    "code": "permstateagriculturalacademy",
+    "new": true,
+    "id": ""
+  },
+  "permstateuniversity": {
+    "name": "perm state university",
+    "fullname": "perm state university",
+    "country": "Russian Federation",
+    "region": "Europe",
+    "code": "permstateuniversity",
+    "new": true,
+    "id": ""
+  },
+  "universidaddeburgos": {
+    "name": "universidad de burgos",
+    "fullname": "universidad de burgos",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "universidaddeburgos",
+    "new": true,
+    "id": ""
+  },
+  "innovationsforhighperformancemicroelectronics": {
+    "name": "innovations for high performance microelectronics",
+    "fullname": "innovations for high performance microelectronics",
+    "country": "Germany",
+    "region": "Europe",
+    "code": "innovationsforhighperformancemicroelectronics",
+    "new": true,
+    "id": ""
+  },
+  "brandenburguniversityoftechnologycottbus-senftenberg": {
+    "name": "brandenburg university of technology cottbus-senftenberg",
+    "fullname": "brandenburg university of technology cottbus-senftenberg",
+    "country": "Germany",
+    "region": "Europe",
+    "code": "brandenburguniversityoftechnologycottbus-senftenberg",
+    "new": true,
+    "id": ""
+  },
+  "federalresearchinstituteforhealthorganizationandinformatics": {
+    "name": "federal research institute for health organization and informatics",
+    "fullname": "federal research institute for health organization and informatics",
+    "country": "Russian Federation",
+    "region": "Europe",
+    "code": "federalresearchinstituteforhealthorganizationandinformatics",
+    "new": true,
+    "id": ""
+  },
+  "centralstatemedicalacademy": {
+    "name": "central state medical academy",
+    "fullname": "central state medical academy",
+    "country": "Russian Federation",
+    "region": "Europe",
+    "code": "centralstatemedicalacademy",
+    "new": true,
+    "id": ""
+  },
+  "ministryofhealthoftherussianfederation": {
+    "name": "ministry of health of the russian federation",
+    "fullname": "ministry of health of the russian federation",
+    "country": "Russian Federation",
+    "region": "Europe",
+    "code": "ministryofhealthoftherussianfederation",
+    "new": true,
+    "id": ""
+  },
+  "southwestbahiastateuniversity": {
+    "name": "southwest bahia state university",
+    "fullname": "southwest bahia state university",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "southwestbahiastateuniversity",
+    "new": true,
+    "id": ""
+  },
+  "institutodetecnologíaquímica": {
+    "name": "instituto de tecnología química",
+    "fullname": "instituto de tecnología química",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "institutodetecnologíaquímica",
+    "new": true,
+    "id": ""
+  },
+  "istanbultechnicaluniversity": {
+    "name": "istanbul technical university",
+    "fullname": "istanbul technical university",
+    "country": "Turkey",
+    "region": "Asia",
+    "code": "istanbultechnicaluniversity",
+    "new": true,
+    "id": ""
+  },
+  "velloreinstituteoftechnologyuniversity": {
+    "name": "vellore institute of technology university",
+    "fullname": "vellore institute of technology university",
+    "country": "India",
+    "region": "Asia",
+    "code": "velloreinstituteoftechnologyuniversity",
+    "new": true,
+    "id": ""
+  },
+  "ericsson(finland)": {
+    "name": "ericsson (finland)",
+    "fullname": "ericsson (finland)",
+    "country": "Finland",
+    "region": "Europe",
+    "code": "ericsson(finland)",
+    "new": true,
+    "id": ""
+  },
+  "lasalleuniversity": {
+    "name": "la salle university",
+    "fullname": "la salle university",
+    "country": "United States",
+    "region": "North America",
+    "code": "lasalleuniversity",
+    "new": true,
+    "id": ""
+  },
+  "sansebastiánuniversity": {
+    "name": "san sebastián university",
+    "fullname": "san sebastián university",
+    "country": "Chile",
+    "region": "South America",
+    "code": "sansebastiánuniversity",
+    "new": true,
+    "id": ""
+  },
+  "fundacióntecnológicaautónomadebogotá": {
+    "name": "fundación tecnológica autónoma de bogotá",
+    "fullname": "fundación tecnológica autónoma de bogotá",
+    "country": "Colombia",
+    "region": "South America",
+    "code": "fundacióntecnológicaautónomadebogotá",
+    "new": true,
+    "id": ""
+  },
+  "universitatjaumei": {
+    "name": "universitat jaume i",
+    "fullname": "universitat jaume i",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "universitatjaumei",
+    "new": true,
+    "id": ""
+  },
+  "universidaddelaspalmasdegrancanaria": {
+    "name": "universidad de las palmas de gran canaria",
+    "fullname": "universidad de las palmas de gran canaria",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "universidaddelaspalmasdegrancanaria",
+    "new": true,
+    "id": ""
+  },
+  "universidadempresarialsiglo21": {
+    "name": "universidad empresarial siglo 21",
+    "fullname": "universidad empresarial siglo 21",
+    "country": "Argentina",
+    "region": "South America",
+    "code": "universidadempresarialsiglo21",
+    "new": true,
+    "id": ""
+  },
+  "universityofdallas": {
+    "name": "university of dallas",
+    "fullname": "university of dallas",
+    "country": "United States",
+    "region": "North America",
+    "code": "universityofdallas",
+    "new": true,
+    "id": ""
+  },
+  "institutosuperiordeentredouroevouga": {
+    "name": "instituto superior de entre douro e vouga",
+    "fullname": "instituto superior de entre douro e vouga",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "institutosuperiordeentredouroevouga",
+    "new": true,
+    "id": ""
+  },
+  "fundaçãooswaldocruz": {
+    "name": "fundação oswaldo cruz",
+    "fullname": "fundação oswaldo cruz",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "fundaçãooswaldocruz",
+    "new": true,
+    "id": ""
+  },
+  "yaleuniversity": {
+    "name": "yale university",
+    "fullname": "yale university",
+    "country": "United States",
+    "region": "North America",
+    "code": "yaleuniversity",
+    "new": true,
+    "id": ""
+  },
+  "universidaddepanamá": {
+    "name": "universidad de panamá",
+    "fullname": "universidad de panamá",
+    "country": "Panama",
+    "region": "Central America",
+    "code": "universidaddepanamá",
+    "new": true,
+    "id": ""
+  },
+  "virtualwaregroup(spain)": {
+    "name": "virtualware group (spain)",
+    "fullname": "virtualware group (spain)",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "virtualwaregroup(spain)",
+    "new": true,
+    "id": ""
+  },
+  "eskişehircityhospital": {
+    "name": "eskişehir city hospital",
+    "fullname": "eskişehir city hospital",
+    "country": "Turkey",
+    "region": "Asia",
+    "code": "eskişehircityhospital",
+    "new": true,
+    "id": ""
+  },
+  "nanjinguniversityofscienceandtechnology": {
+    "name": "nanjing university of science and technology",
+    "fullname": "nanjing university of science and technology",
+    "country": "China",
+    "region": "Asia",
+    "code": "nanjinguniversityofscienceandtechnology",
+    "new": true,
+    "id": ""
+  },
+  "délégationparis7": {
+    "name": "délégation paris 7",
+    "fullname": "délégation paris 7",
+    "country": "France",
+    "region": "Europe",
+    "code": "délégationparis7",
+    "new": true,
+    "id": ""
+  },
+  "universidadeestadualdonortedoparaná": {
+    "name": "universidade estadual do norte do paraná",
+    "fullname": "universidade estadual do norte do paraná",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadeestadualdonortedoparaná",
+    "new": true,
+    "id": ""
+  },
+  "universidadeestadualdemaringá": {
+    "name": "universidade estadual de maringá",
+    "fullname": "universidade estadual de maringá",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadeestadualdemaringá",
+    "new": true,
+    "id": ""
+  },
+  "institutotecnológicodecanarias": {
+    "name": "instituto tecnológico de canarias",
+    "fullname": "instituto tecnológico de canarias",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "institutotecnológicodecanarias",
+    "new": true,
+    "id": ""
+  },
+  "agènciadequalitatiavaluaciósanitàriesdecatalunya": {
+    "name": "agència de qualitat i avaluació sanitàries de catalunya",
+    "fullname": "agència de qualitat i avaluació sanitàries de catalunya",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "agènciadequalitatiavaluaciósanitàriesdecatalunya",
+    "new": true,
+    "id": ""
+  },
+  "otto-von-guerickeuniversitymagdeburg": {
+    "name": "otto-von-guericke university magdeburg",
+    "fullname": "otto-von-guericke university magdeburg",
+    "country": "Germany",
+    "region": "Europe",
+    "code": "otto-von-guerickeuniversitymagdeburg",
+    "new": true,
+    "id": ""
+  },
+  "fraunhoferinstituteforfactoryoperationandautomation": {
+    "name": "fraunhofer institute for factory operation and automation",
+    "fullname": "fraunhofer institute for factory operation and automation",
+    "country": "Germany",
+    "region": "Europe",
+    "code": "fraunhoferinstituteforfactoryoperationandautomation",
+    "new": true,
+    "id": ""
+  },
+  "cosmocode(germany)": {
+    "name": "cosmocode (germany)",
+    "fullname": "cosmocode (germany)",
+    "country": "Germany",
+    "region": "Europe",
+    "code": "cosmocode(germany)",
+    "new": true,
+    "id": ""
+  },
+  "federalemergencymanagementagency": {
+    "name": "federal emergency management agency",
+    "fullname": "federal emergency management agency",
+    "country": "United States",
+    "region": "North America",
+    "code": "federalemergencymanagementagency",
+    "new": true,
+    "id": ""
+  },
+  "universidadestatalamazónica": {
+    "name": "universidad estatal amazónica",
+    "fullname": "universidad estatal amazónica",
+    "country": "Ecuador",
+    "region": "South America",
+    "code": "universidadestatalamazónica",
+    "new": true,
+    "id": ""
+  },
+  "dumlupinaruniversity": {
+    "name": "dumlupinar university",
+    "fullname": "dumlupinar university",
+    "country": "Turkey",
+    "region": "Asia",
+    "code": "dumlupinaruniversity",
+    "new": true,
+    "id": ""
+  },
+  "gabrielrenémorenoautonomousuniversity": {
+    "name": "gabriel rené moreno autonomous university",
+    "fullname": "gabriel rené moreno autonomous university",
+    "country": "Bolivia",
+    "region": "South America",
+    "code": "gabrielrenémorenoautonomousuniversity",
+    "new": true,
+    "id": ""
+  },
+  "openuniversityofisrael": {
+    "name": "open university of israel",
+    "fullname": "open university of israel",
+    "country": "Israel",
+    "region": "Middle East",
+    "code": "openuniversityofisrael",
+    "new": true,
+    "id": ""
+  },
+  "pázmánypétercatholicuniversity": {
+    "name": "pázmány péter catholic university",
+    "fullname": "pázmány péter catholic university",
+    "country": "Hungary",
+    "region": "Europe",
+    "code": "pázmánypétercatholicuniversity",
+    "new": true,
+    "id": ""
+  },
+  "universidadcentraldechile": {
+    "name": "universidad central de chile",
+    "fullname": "universidad central de chile",
+    "country": "Chile",
+    "region": "South America",
+    "code": "universidadcentraldechile",
+    "new": true,
+    "id": ""
+  },
+  "financialuniversity": {
+    "name": "financial university",
+    "fullname": "financial university",
+    "country": "Russian Federation",
+    "region": "Europe",
+    "code": "financialuniversity",
+    "new": true,
+    "id": ""
+  },
+  "nationalresearchuniversityhigherschoolofeconomics": {
+    "name": "national research university higher school of economics",
+    "fullname": "national research university higher school of economics",
+    "country": "Russian Federation",
+    "region": "Europe",
+    "code": "nationalresearchuniversityhigherschoolofeconomics",
+    "new": true,
+    "id": ""
+  },
+  "progress(ireland)": {
+    "name": "progress (ireland)",
+    "fullname": "progress (ireland)",
+    "country": "Ireland",
+    "region": "Europe",
+    "code": "progress(ireland)",
+    "new": true,
+    "id": ""
+  },
+  "administraçãoregionaldesaudedocentro": {
+    "name": "administração regional de saude do centro",
+    "fullname": "administração regional de saude do centro",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "administraçãoregionaldesaudedocentro",
+    "new": true,
+    "id": ""
+  },
+  "institutodosvinhosdodouroeporto": {
+    "name": "instituto dos vinhos do douro e porto",
+    "fullname": "instituto dos vinhos do douro e porto",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "institutodosvinhosdodouroeporto",
+    "new": true,
+    "id": ""
+  },
+  "finisterraeuniversity": {
+    "name": "finis terrae university",
+    "fullname": "finis terrae university",
+    "country": "Chile",
+    "region": "South America",
+    "code": "finisterraeuniversity",
+    "new": true,
+    "id": ""
+  },
+  "diegoportalesuniversity": {
+    "name": "diego portales university",
+    "fullname": "diego portales university",
+    "country": "Chile",
+    "region": "South America",
+    "code": "diegoportalesuniversity",
+    "new": true,
+    "id": ""
+  },
+  "universidadalfonsoxelsabio": {
+    "name": "universidad alfonso x el sabio",
+    "fullname": "universidad alfonso x el sabio",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "universidadalfonsoxelsabio",
+    "new": true,
+    "id": ""
+  },
+  "universidadcientíficadelsur": {
+    "name": "universidad científica del sur",
+    "fullname": "universidad científica del sur",
+    "country": "Peru",
+    "region": "South America",
+    "code": "universidadcientíficadelsur",
+    "new": true,
+    "id": ""
+  },
+  "institutosuperiorbissayabarreto": {
+    "name": "instituto superior bissaya barreto",
+    "fullname": "instituto superior bissaya barreto",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "institutosuperiorbissayabarreto",
+    "new": true,
+    "id": ""
+  },
+  "poznańuniversityoftechnology": {
+    "name": "poznań university of technology",
+    "fullname": "poznań university of technology",
+    "country": "Poland",
+    "region": "Europe",
+    "code": "poznańuniversityoftechnology",
+    "new": true,
+    "id": ""
+  },
+  "petrobras(brazil)": {
+    "name": "petrobras (brazil)",
+    "fullname": "petrobras (brazil)",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "petrobras(brazil)",
+    "new": true,
+    "id": ""
+  },
+  "faculdadesumaré": {
+    "name": "faculdade sumaré",
+    "fullname": "faculdade sumaré",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "faculdadesumaré",
+    "new": true,
+    "id": ""
+  },
+  "universityofgöttingen": {
+    "name": "university of göttingen",
+    "fullname": "university of göttingen",
+    "country": "Germany",
+    "region": "Europe",
+    "code": "universityofgöttingen",
+    "new": true,
+    "id": ""
+  },
+  "universidadefederaldejuizdefora": {
+    "name": "universidade federal de juiz de fora",
+    "fullname": "universidade federal de juiz de fora",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadefederaldejuizdefora",
+    "new": true,
+    "id": ""
+  },
+  "universityofeastsarajevo": {
+    "name": "university of east sarajevo",
+    "fullname": "university of east sarajevo",
+    "country": "Bosnia and Herzegovina",
+    "region": "Europe",
+    "code": "universityofeastsarajevo",
+    "new": true,
+    "id": ""
+  },
+  "nationaluniversityofcatamarca": {
+    "name": "national university of catamarca",
+    "fullname": "national university of catamarca",
+    "country": "Argentina",
+    "region": "South America",
+    "code": "nationaluniversityofcatamarca",
+    "new": true,
+    "id": ""
+  },
+  "instituteofelectronics": {
+    "name": "institute of electronics",
+    "fullname": "institute of electronics",
+    "country": "Bulgaria",
+    "region": "Europe",
+    "code": "instituteofelectronics",
+    "new": true,
+    "id": ""
+  },
+  "centerforscientificresearchandhighereducationatensenada": {
+    "name": "center for scientific research and higher education at ensenada",
+    "fullname": "center for scientific research and higher education at ensenada",
+    "country": "Mexico",
+    "region": "North America",
+    "code": "centerforscientificresearchandhighereducationatensenada",
+    "new": true,
+    "id": ""
+  },
+  "centrodeestudosparaaintervencaosocial": {
+    "name": "centro de estudos para a intervencao social",
+    "fullname": "centro de estudos para a intervencao social",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "centrodeestudosparaaintervencaosocial",
+    "new": true,
+    "id": ""
+  },
+  "polytechnicuniversityofpuertorico": {
+    "name": "polytechnic university of puerto rico",
+    "fullname": "polytechnic university of puerto rico",
+    "country": "Puerto Rico",
+    "region": "Central America",
+    "code": "polytechnicuniversityofpuertorico",
+    "new": true,
+    "id": ""
+  },
+  "universidadebrasil": {
+    "name": "universidade brasil",
+    "fullname": "universidade brasil",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadebrasil",
+    "new": true,
+    "id": ""
+  },
+  "universidadefederaldopampa": {
+    "name": "universidade federal do pampa",
+    "fullname": "universidade federal do pampa",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadefederaldopampa",
+    "new": true,
+    "id": ""
+  },
+  "universityofosijek": {
+    "name": "university of osijek",
+    "fullname": "university of osijek",
+    "country": "Croatia",
+    "region": "Europe",
+    "code": "universityofosijek",
+    "new": true,
+    "id": ""
+  },
+  "fundobrasil": {
+    "name": "fundo brasil",
+    "fullname": "fundo brasil",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "fundobrasil",
+    "new": true,
+    "id": ""
+  },
+  "centreofexcellencefordevelopmentimpactandlearning": {
+    "name": "centre of excellence for development impact and learning",
+    "fullname": "centre of excellence for development impact and learning",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "code": "centreofexcellencefordevelopmentimpactandlearning",
+    "new": true,
+    "id": ""
+  },
+  "institutotecnológicosuperiordexalapa": {
+    "name": "instituto tecnológico superior de xalapa",
+    "fullname": "instituto tecnológico superior de xalapa",
+    "country": "Mexico",
+    "region": "North America",
+    "code": "institutotecnológicosuperiordexalapa",
+    "new": true,
+    "id": ""
+  },
+  "universityhospitalcomplexofvigo": {
+    "name": "university hospital complex of vigo",
+    "fullname": "university hospital complex of vigo",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "universityhospitalcomplexofvigo",
+    "new": true,
+    "id": ""
+  },
+  "internationalislamicuniversitymalaysia": {
+    "name": "international islamic university malaysia",
+    "fullname": "international islamic university malaysia",
+    "country": "Malaysia",
+    "region": "Asia",
+    "code": "internationalislamicuniversitymalaysia",
+    "new": true,
+    "id": ""
+  },
+  "universidadeluteranadobrasil": {
+    "name": "universidade luterana do brasil",
+    "fullname": "universidade luterana do brasil",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadeluteranadobrasil",
+    "new": true,
+    "id": ""
+  },
+  "polytechnicuniversityofbari": {
+    "name": "polytechnic university of bari",
+    "fullname": "polytechnic university of bari",
+    "country": "Italy",
+    "region": "Europe",
+    "code": "polytechnicuniversityofbari",
+    "new": true,
+    "id": ""
+  },
+  "universityofbarialdomoro": {
+    "name": "university of bari aldo moro",
+    "fullname": "university of bari aldo moro",
+    "country": "Italy",
+    "region": "Europe",
+    "code": "universityofbarialdomoro",
+    "new": true,
+    "id": ""
+  },
+  "camilojosécelauniversity": {
+    "name": "camilo josé cela university",
+    "fullname": "camilo josé cela university",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "camilojosécelauniversity",
+    "new": true,
+    "id": ""
+  },
+  "virtualpowersolutions(portugal)": {
+    "name": "virtual power solutions (portugal)",
+    "fullname": "virtual power solutions (portugal)",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "virtualpowersolutions(portugal)",
+    "new": true,
+    "id": ""
+  },
+  "universitatautònomadebarcelona": {
+    "name": "universitat autònoma de barcelona",
+    "fullname": "universitat autònoma de barcelona",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "universitatautònomadebarcelona",
+    "new": true,
+    "id": ""
+  },
+  "juntadecastillayleón": {
+    "name": "junta de castilla y león",
+    "fullname": "junta de castilla y león",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "juntadecastillayleón",
+    "new": true,
+    "id": ""
+  },
+  "complejoasistencialuniversitariodepalencia": {
+    "name": "complejo asistencial universitario de palencia",
+    "fullname": "complejo asistencial universitario de palencia",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "complejoasistencialuniversitariodepalencia",
+    "new": true,
+    "id": ""
+  },
+  "sensing&controlsystems(spain)": {
+    "name": "sensing & control systems (spain)",
+    "fullname": "sensing & control systems (spain)",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "sensing&controlsystems(spain)",
+    "new": true,
+    "id": ""
+  },
+  "vitrociset(italy)": {
+    "name": "vitrociset (italy)",
+    "fullname": "vitrociset (italy)",
+    "country": "Italy",
+    "region": "Europe",
+    "code": "vitrociset(italy)",
+    "new": true,
+    "id": ""
+  },
+  "fcbarcelona": {
+    "name": "fc barcelona",
+    "fullname": "fc barcelona",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "fcbarcelona",
+    "new": true,
+    "id": ""
+  },
+  "universidadpolitécnicadechiapas": {
+    "name": "universidad politécnica de chiapas",
+    "fullname": "universidad politécnica de chiapas",
+    "country": "Mexico",
+    "region": "North America",
+    "code": "universidadpolitécnicadechiapas",
+    "new": true,
+    "id": ""
+  },
+  "jeanpiagetuniversityofcapeverde": {
+    "name": "jean piaget university of cape verde",
+    "fullname": "jean piaget university of cape verde",
+    "country": "Cape Verde",
+    "region": "Africa",
+    "code": "jeanpiagetuniversityofcapeverde",
+    "new": true,
+    "id": ""
+  },
+  "nationalcouncilforscientificandtechnologicaldevelopment": {
+    "name": "national council for scientific and technological development",
+    "fullname": "national council for scientific and technological development",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "nationalcouncilforscientificandtechnologicaldevelopment",
+    "new": true,
+    "id": ""
+  },
+  "universidadefederaldosulesudestedopará": {
+    "name": "universidade federal do sul e sudeste do pará",
+    "fullname": "universidade federal do sul e sudeste do pará",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadefederaldosulesudestedopará",
+    "new": true,
+    "id": ""
+  },
+  "universidadveracruzana": {
+    "name": "universidad veracruzana",
+    "fullname": "universidad veracruzana",
+    "country": "Mexico",
+    "region": "North America",
+    "code": "universidadveracruzana",
+    "new": true,
+    "id": ""
+  },
+  "institutodeestudossuperioresdefafelda": {
+    "name": "instituto de estudos superiores de fafe lda",
+    "fullname": "instituto de estudos superiores de fafe lda",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "institutodeestudossuperioresdefafelda",
+    "new": true,
+    "id": ""
+  },
+  "catholicuniversityofcolombia": {
+    "name": "catholic university of colombia",
+    "fullname": "catholic university of colombia",
+    "country": "Colombia",
+    "region": "South America",
+    "code": "catholicuniversityofcolombia",
+    "new": true,
+    "id": ""
+  },
+  "universidaddelarioja": {
+    "name": "universidad de la rioja",
+    "fullname": "universidad de la rioja",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "universidaddelarioja",
+    "new": true,
+    "id": ""
+  },
+  "universityofatlántico": {
+    "name": "university of atlántico",
+    "fullname": "university of atlántico",
+    "country": "Colombia",
+    "region": "South America",
+    "code": "universityofatlántico",
+    "new": true,
+    "id": ""
+  },
+  "universityofdubrovnik": {
+    "name": "university of dubrovnik",
+    "fullname": "university of dubrovnik",
+    "country": "Croatia",
+    "region": "Europe",
+    "code": "universityofdubrovnik",
+    "new": true,
+    "id": ""
+  },
+  "universidadefederaldovaledosãofrancisco": {
+    "name": "universidade federal do vale do são francisco",
+    "fullname": "universidade federal do vale do são francisco",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "universidadefederaldovaledosãofrancisco",
+    "new": true,
+    "id": ""
+  },
+  "islamicuniversityofindonesia": {
+    "name": "islamic university of indonesia",
+    "fullname": "islamic university of indonesia",
+    "country": "Indonesia",
+    "region": "Asia",
+    "code": "islamicuniversityofindonesia",
+    "new": true,
+    "id": ""
+  },
+  "brazilianagriculturalresearchcorporation": {
+    "name": "brazilian agricultural research corporation",
+    "fullname": "brazilian agricultural research corporation",
+    "country": "Brazil",
+    "region": "South America",
+    "code": "brazilianagriculturalresearchcorporation",
+    "new": true,
+    "id": ""
+  },
+  "uninova": {
+    "name": "uninova",
+    "fullname": "uninova",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "uninova",
+    "new": true,
+    "id": ""
+  },
+  "universidaddelosaltosdechiapas": {
+    "name": "universidad de los altos de chiapas",
+    "fullname": "universidad de los altos de chiapas",
+    "country": "Mexico",
+    "region": "North America",
+    "code": "universidaddelosaltosdechiapas",
+    "new": true,
+    "id": ""
+  },
+  "kingfaisaluniversity": {
+    "name": "king faisal university",
+    "fullname": "king faisal university",
+    "country": "Saudi Arabia",
+    "region": "Middle East",
+    "code": "kingfaisaluniversity",
+    "new": true,
+    "id": ""
+  },
+  "agriculturaluniversityofhavana": {
+    "name": "agricultural university of havana",
+    "fullname": "agricultural university of havana",
+    "country": "Cuba",
+    "region": "North America",
+    "code": "agriculturaluniversityofhavana",
+    "new": true,
+    "id": ""
+  },
+  "universityofskikda": {
+    "name": "university of skikda",
+    "fullname": "university of skikda",
+    "country": "Algeria",
+    "region": "Africa",
+    "code": "universityofskikda",
+    "new": true,
+    "id": ""
+  },
+  "aljoufuniversity": {
+    "name": "al jouf university",
+    "fullname": "al jouf university",
+    "country": "Saudi Arabia",
+    "region": "Middle East",
+    "code": "aljoufuniversity",
+    "new": true,
+    "id": ""
+  },
+  "citeforma": {
+    "name": "citeforma",
+    "fullname": "citeforma",
+    "country": "Portugal",
+    "region": "Europe",
+    "code": "citeforma",
+    "new": true,
+    "id": ""
+  },
+  "universityofandorra": {
+    "name": "university of andorra",
+    "fullname": "university of andorra",
+    "country": "AndorrA",
+    "region": "Europe",
+    "code": "universityofandorra",
+    "new": true,
+    "id": ""
+  },
+  "instituteofsystems": {
+    "name": "institute of systems",
+    "fullname": "institute of systems, information technologies and nanotechnologies",
+    "country": "Japan",
+    "region": "Asia",
+    "code": "instituteofsystems",
+    "new": true,
+    "id": ""
+  },
+  "escpbusinessschool": {
+    "name": "escp business school",
+    "fullname": "escp business school",
+    "country": "France",
+    "region": "Europe",
+    "code": "escpbusinessschool",
+    "new": true,
+    "id": ""
+  },
+  "comillaspontificaluniversity": {
+    "name": "comillas pontifical university",
+    "fullname": "comillas pontifical university",
+    "country": "Spain",
+    "region": "Europe",
+    "code": "comillaspontificaluniversity",
+    "new": true,
+    "id": ""
+  },
+  "eskişehirosmangaziuniversity": {
+    "name": "eskişehir osmangazi university",
+    "fullname": "eskişehir osmangazi university",
+    "country": "Turkey",
+    "region": "Asia",
+    "code": "eskişehirosmangaziuniversity",
+    "new": true,
+    "id": ""
+  },
+  "anadoluuniversity": {
+    "name": "anadolu university",
+    "fullname": "anadolu university",
+    "country": "Turkey",
+    "region": "Asia",
+    "code": "anadoluuniversity",
+    "new": true,
+    "id": ""
+  },
+  "nationalengineeringschooloftunis": {
+    "name": "national engineering school of tunis",
+    "fullname": "national engineering school of tunis",
+    "country": "Tunisia",
+    "region": "Africa",
+    "code": "nationalengineeringschooloftunis",
+    "new": true,
+    "id": ""
+  },
+  "institutsupérieurdegestiondetunis": {
+    "name": "institut supérieur de gestion de tunis",
+    "fullname": "institut supérieur de gestion de tunis",
+    "country": "Tunisia",
+    "region": "Africa",
+    "code": "institutsupérieurdegestiondetunis",
     "new": true,
     "id": ""
   }

@@ -1,0 +1,3 @@
+Analysis of a Traceability and Quality Monitoring Platform for the Fishery and Aquaculture Value Chain
+ABSTRACT
+Fish consumption has been increasing over time. Currently almost half of the fish consumed by humans comes from aquaculture farms. As it happens with other food productset, the traceability of fish or fishery products is very important, either to inform the consumer about the path of the fish through the value chain or to recall fish lots in case of threats to the public health. This paper reports on the analysis phase of a project that aims to create a platform for integrating all the information about the origin, and all steps of the course of the fish, including quality information, until reaching the final consumer.

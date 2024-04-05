@@ -1,0 +1,3 @@
+Virtual Reality for rescue operations training
+ABSTRACT
+A technology that has been used for applications in education and training domains is the Virtual Reality (VR). VR can be used to create simulated three-dimensional scenarios, promoting interactions between the environment and the user, which allows to experience virtual training situations very close to real actions. The aim of this work was to create a teaching and training tool using VR technology for rescue actions in the aquatic environment. For this purpose, the requirements of real procedures were collected in order to transpose them to a synthetic environment. After the artifact construction it was tested and evaluated by users and the results seem promising.

@@ -1,0 +1,3 @@
+Analysis of the random shuffling of message blocks as a low-cost integrity and security measure
+ABSTRACT
+Recently, a mechanism that randomly shuffles the data sent and allows securing the communication without the need to encrypt all the information has been proposed. This proposal is ideal for IoT systems with low computational capacity. In this work, we analyze the strength of this proposal from a brute-force attack approach to obtain the original message without knowledge of the applied disordering. It is demonstrated that for a set of 10x10 16-bit data, the processing time and the required memory are unfeasible with current technology. Therefore, it is safe.

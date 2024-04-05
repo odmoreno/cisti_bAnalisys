@@ -1,0 +1,3 @@
+Learning object development for mobile-learning with new application in teaching Portuguese language spelling
+ABSTRACT
+This paper proposes the learning object development for teaching the new Portuguese language spelling, through the use of mobile devices. The development work started with the analysis of the literature, continuing with the study of technology, the choice of a process for the development and ending with the presentation of prototype.

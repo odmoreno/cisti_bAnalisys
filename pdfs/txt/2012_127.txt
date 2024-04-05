@@ -1,0 +1,3 @@
+Database evolution on an orthogonal persistent programming system: A semi-transparent approach
+ABSTRACT
+In this paper the problem of the evolution of an object-oriented database in the context of orthogonal persistent programming systems is addressed. We have observed two characteristics in that type of systems that offer particular conditions to implement the evolution in a semi-transparent fashion. That transparency can further be enhanced with the obliviousness provided by the Aspect-Oriented Programming techniques. Was conceived a meta-model and developed a prototype to test the feasibility of our approach. The system allows programs, written to a schema, access semi-transparently to data in other versions of the schema.

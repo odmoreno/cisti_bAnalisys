@@ -1,0 +1,3 @@
+Graceful Degradation : Journey of a concept, from fault-tolerance to information loss
+ABSTRACT
+Prompted by the diversity of applications, sometimes obscure and even erroneous, of the popular concept of graceful degradation, we track a representative set of such applications, in search for a baseline meaning that might help understanding it all.

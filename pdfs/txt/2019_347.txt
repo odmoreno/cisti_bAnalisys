@@ -1,0 +1,3 @@
+Collaborative System to Improve Literacy and Integration of Visually Impaired Children in the Classroom
+ABSTRACT
+The feasibility testing of the functional prototype of a web-based DAD (Digital Aided Descriptions) platform that looks to improve vocabulary and literacy development, as well as cognition and general knowledge in an atmosphere of creative cooperation between students with vision loss and their peers without disabilities is presented. Through the collaborative creation of image descriptions, aided by vocabulary suggestions, and other tips on how to describe an image in a holistic manner, students with and without visual impairments will have an experience that will foster communication while increasing their literacy.

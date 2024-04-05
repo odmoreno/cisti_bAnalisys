@@ -1,0 +1,3 @@
+Automatic linguistic descriptions of meteorological data a soft computing approach for converting open data to open information
+ABSTRACT
+In this paper we present a fuzzy automatic approach for the building of linguistic descriptions of meteorological data in the realms of operative forecasting and monthly climate reports. Our results have been checked experimentally against the forecasts and reports issued by the Galician Meteorological Service (Meteogalicia), showing that the produced descriptions are rather consistent with the ones stated in the reports.

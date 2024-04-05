@@ -1,0 +1,3 @@
+Usability inspection of a smart TV
+ABSTRACT
+This paper aims to present a research of usability inspection performed to evaluate televisions controlled by gestures and voice commands. For this, the Nielsen heuristics were used and added to other heuristics, proposed by the authors, which allowed us to assess the peculiarities of these devices. In addition, checklists were generated to guide usability inspections. Three usability experts applied checklists in a case study, using a method of informal inspection.

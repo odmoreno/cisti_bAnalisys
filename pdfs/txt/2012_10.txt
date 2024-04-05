@@ -1,0 +1,3 @@
+Measurement of user experience: A Spanish language version of the user experience questionnaire (UEQ)
+ABSTRACT
+To improve a product you will need most likely developers, managers and user feedback. Besides the basic software qualities other important properties are usability and user experience for developing a good product. Usability is well known and can be tested with e.g. a usability test or an expert review. In contrast user experience describes the whole impact a product has on the end-user. The timeline goes from before, while and after the use of a product. We present a tool that allows to evaluate the user experience of a product with little effort. We show in addition how this tool can be used for a continuous user experience assessment.

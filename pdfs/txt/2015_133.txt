@@ -1,0 +1,3 @@
+Performance and scalability of voldemort NoSQL
+ABSTRACT
+Currently companies need database engines able to process and store massive quantity of data. Traditional databases due to the large amount of unstructured data have trouble processing this amount of data in an acceptable time for businesses. To solve these problems recently emerged the NoSQL databases, offering great performance, flexibility and scalability. In this paper we evaluate the performance and scalability of a popular NoSQL database, Voldemort, using Yahoo! Cloud Serving Benchmark.

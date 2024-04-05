@@ -1,0 +1,3 @@
+Inconsistencies in hospital inpatient transfers
+ABSTRACT
+The increased use of both information technologies and storage capacity turned hospitals into major producers of information. Nevertheless, vast amounts of data not always imply information with the necessary quality. In fact, this is an increasingly critical aspect. This article intends to be a warning to data quality problems found in the analysis of hospital transfers and the possible implications of these problems in the financing of hospitals. A list of recommendations that could contribute to the important process of improving the quality of data collected in health information systems is also presented. Main result is presented as an indicator that evaluates registries of hospital inpatient transfers.

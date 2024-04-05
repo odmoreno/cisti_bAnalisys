@@ -1,0 +1,3 @@
+Planning, development, deploy and evaluation of the use of virtual reality in education: Assistance the process of teaching spelling rules
+ABSTRACT
+We describe in this paper a strategy to planning, development, deploy and evaluation of educational virtual reality applications. To do that, we consider the physical environment available (computer laboratory), the pedagogical planning and the virtual reality technology. We also show the use of this strategy in a case study aimed to assist the teaching-learning process of Portuguese spelling rules. This strategy was focused on low cost solutions in order to be implemented in schools with low budget.

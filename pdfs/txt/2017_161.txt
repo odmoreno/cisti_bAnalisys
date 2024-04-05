@@ -1,0 +1,3 @@
+Roadbook digital com deteção de contextos context-aware digital roadbook
+ABSTRACT
+In outdoor activities, such as managing paths in all-terrain vehicles, mountain biking, hiking or tourist itineraries, it is common to resort to the navigation by using a guide containing the description of the path that should be followed. A roadbook is usually printed on paper, but with current advances in mobile computing and mobile devices, it has become very interesting and useful to have a digital roadbook for smartphones and tablets, in order to facilitate the preparation of notes upon recognition of the route, as well as to assist the user when they apply these same notes when navigating.

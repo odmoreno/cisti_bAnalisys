@@ -1,0 +1,3 @@
+Broadband, crisis and GDP growth in Latin American countries in the 2005 2015 period
+ABSTRACT
+In this article we study the relationship between broadband connections, gross domestic product and economic crises in Latin America during the period 2005-2015. Using a dynamic panel data model, our results show that there is a relationship between gross domestic product and broadband connections, but economic crises of countries not being significant when explaining broadband connections to the internet.

@@ -1,0 +1,3 @@
+A Multilingual Lexicon-based Approach for Sentiment Analysis in Social and Cultural Information System Data
+ABSTRACT
+Sentiment analysis, also known as opinion mining, has become ubiquitous in our society, with applications in online searching, computer vision, image understanding, artificial intelligence and marketing communications. In this paper, is described an unsupervised automatic method of multilingual lexicon-based sentiment analysis algorithm, with a dictionary-based approach. The developed algorithm was tested in the sentiment analysis of users' publications on a digital tourism platform. The results obtained demonstrate the efficiency of the solution, which presents a high accuracy in the classification of publications in four different languages.

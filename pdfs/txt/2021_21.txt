@@ -1,0 +1,3 @@
+Health Sector Web Accessibility
+ABSTRACT
+This article presents a study on web accessibility in the health sector in Portugal. For this, 253 pages were automatically analyzed, among the various health actors: public and private institutions, health subsystems, insurance companies, pharmacies, pharmacists and informational websites. Following the Web Content Accessibility Guidelines 2.1, we seek to understand the importance and potential of accessibility today, particularly in the health sector. Once the main errors have been identified, improvements and clues for future work are pointed out.

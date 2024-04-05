@@ -1,0 +1,3 @@
+Technological competencies mapping: A Petrobras' information system for aiding the decision process based on the Lattes Platform
+ABSTRACT
+Competencies Mapping is a major challenge for organizations seeking for technological solutions. This article describes a Petrobras' information system for aiding the decision process based on the Lattes Platform to map technological competencies.

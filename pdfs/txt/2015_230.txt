@@ -1,0 +1,3 @@
+WHMS4: An integrated model for health remote monitoring: A case study in nursing homes for the elderly
+ABSTRACT
+Daily monitoring of vital signs using wearable devices is gaining more research and applications every day. This paper describes a medical monitoring system using a group of sensors coupled at the body of a patient. The system developed in this work aims to help health care professionals to monitor patients and also provide users with a treatment without interference in their routine.

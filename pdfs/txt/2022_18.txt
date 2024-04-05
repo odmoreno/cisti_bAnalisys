@@ -1,0 +1,3 @@
+BYOD : Impact in Architecture and Information Security Corporate Policy
+ABSTRACT
+BYOD is a new business trend where employees are using their own devices for work purposes. This phenomenon has created new challenges in information security. Thus, organizations should adapt information security corporate strategy in order to address this new reality. This paper tries to identify and explore the optimal way to do this rearrangement, evaluating BYOD environment and measuring all relevant factors.

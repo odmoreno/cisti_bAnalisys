@@ -1,0 +1,3 @@
+Business intelligence applied to Homogeneous Diagnostic Groups
+ABSTRACT
+This article describes a Business Intelligence (BI) development project applied to Homogeneous Diagnostic Groups (GDH) which are very specific and important for health management. All the phases of construction/evolution of this research and implementation project are explained and also some final results are presented. With this tool it is possible to analyze and monitor at each moment the state and evolution of GDH. The main goal of this project was make available data in a simple way for end users to have a support decision tool that increases the performance of decision making.

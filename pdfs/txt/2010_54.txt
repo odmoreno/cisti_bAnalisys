@@ -1,0 +1,3 @@
+Smart telecare video monitoring for anomalous event detection
+ABSTRACT
+Behavior determination and multiple object tracking for video surveillance are two of the most active fields of machine vision. We describe our system, which we are developing for applications in tele-assistance for the elderly, as an early warning monitor for anomalous events. Our system is based upon the computer vision library OpenCV. In this article we describe the algorithms we have developed for tracking multiple people in indoor environments. We also describe a simple histogram based algorithm for discriminating arm movements and body positions.

@@ -1,0 +1,3 @@
+Trust-based protocol for permanent monitoring of file integrity in the cloud
+ABSTRACT
+The use of cloud computing solutions for storing large volumes of data presents advantages such as scalability, availability, and virtually “unlimited” storage capacity. However, ensuring basic requirements such as integrity, availability, and privacy in a cloud infrastructure provided by unreliable third parties is a challenge, especially when the loss or leakage of information can bring significant damage, either due to legal or business reasons. Considering this challenge, this paper proposes a protocol that allows, through an independent verifier, a regular and reliable monitoring of the data stored in the cloud using computational trust.

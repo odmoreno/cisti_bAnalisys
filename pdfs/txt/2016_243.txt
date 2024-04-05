@@ -1,0 +1,3 @@
+ASAP: A framework for designing gamified models of complex systems
+ABSTRACT
+This paper introduces ASAP, a framework for the development of mobile gamification of problems where Complex Systems play a fundamental role. This framework allows adding a layer of gamification concepts over a set of multi-agent systems for the raw modeling of the problem. Over it, a layer of data acquisition can be added in order to apply data analysis to the interactions and evolution of games. Some simple running examples are provided.

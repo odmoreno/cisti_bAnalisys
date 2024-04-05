@@ -1,0 +1,3 @@
+Intelligent System of Strategic Monitoring
+ABSTRACT
+The purpose of this paper discusses the role of Soft Computing to adapt dynamically to fast changing environ the long-term strategic design. The role of Soft Computing is help to exploration of the future using Fuzzy Cognitive Maps and Trend Impact Analysis methods, to adapts quickly to major changes in order to reduce the future uncertainty. The conceptual modeling suggests a new choice to anticipate behavior, set of future events and their impact utilizing prior knowledge, to face a dynamic environ. The proposal for integration of Soft Computing and strategic prospective is oriented to develop an Intelligent System of Strategic Monitoring framework.

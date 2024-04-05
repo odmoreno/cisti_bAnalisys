@@ -1,0 +1,3 @@
+System for access control, temperature measurement and disinfection in the San Andrés Health Center
+ABSTRACT
+This research document evidences the design and implementation of an entry control system with body temperature taking and disinfection with information registration and cloud storage for the Health Center - San Andres, the work is oriented to control the entry to the health center for both medical staff who meet their workday and users who receive medical care, as this becomes a bridge of contagion when having physical contact between patient and doctor, in order to prevent the spread of COVID-19.

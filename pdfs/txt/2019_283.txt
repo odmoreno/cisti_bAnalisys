@@ -1,0 +1,3 @@
+Digital Transformation in Colombia: An Exploratory Study on ICT Adoption in Organizations
+ABSTRACT
+This study examines the digital transformation of Colombian organizations during the period 2008-2017, in a sample of firms belonging to the following economic sectors: manufacturing industry sector, trade sector and services sector. Differences were found in the level of ICT appropriation depending on the economic sector to which the organization belongs, as well as the identification of five variables that influence information and communication technologies adoption: Absorptive capacity, ICT infrastructure, R&D activities, Sector, and Government regulation. The importance of ICT public policies that support decision-making ICT adoption in organizations is highlighted.

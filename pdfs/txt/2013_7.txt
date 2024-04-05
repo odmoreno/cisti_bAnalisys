@@ -1,0 +1,3 @@
+Profiling web users preferences with text mining: Plan2See — Dynamic formulation of conceptual groups
+ABSTRACT
+In this paper we propose a new approach to clustering Web-based content that could be leveraged by users' preferences. These preferences may imply grouping or dividing the initial clusters so that the resulting clusters represent users' profiles. This approach could be applied to recommend different textual contents, based on the clusters or per user. We conduct a summarized survey of what is the state-of-the-art towards a personalized and interactive manipulation of data by users and present the general configuration of our method and some preliminary results well as the objectives for future work.

@@ -1,0 +1,3 @@
+Success factors of information technology and information systems projects — A literature review
+ABSTRACT
+Information Systems projects are often complex enterprises, since they involve the adoption of information technologies in organizational contexts. As such, they should be carefully managed considering the various aspects that influence their success. This paper presents a literature review focused on the success factors of information technology and information systems projects.

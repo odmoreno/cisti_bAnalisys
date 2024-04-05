@@ -1,0 +1,3 @@
+Module for evaluation of competencies in Moodle learning management system
+ABSTRACT
+An implementation proposal for Moodle to support the evaluation of competencies inside a course under the European Higher Education Area. The module is focused on the continuous improvement of the learning process through a reinforcement schema. Based on the competence learning progress, this reinforcement is planned and designed according to the learning process itself.

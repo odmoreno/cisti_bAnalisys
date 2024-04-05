@@ -1,0 +1,3 @@
+Denial of service attacks: An overview
+ABSTRACT
+Denial of service (DoS) attacks present one of the most significant threats to assurance of dependable and secure information systems. Rapid development of new and increasingly sophisticated attacks requires resourcefulness in designing and implementing reliable defences. This paper presents an overview of current DoS attack and defence concepts, from a theoretical and practical point of view. Considering the elaborated DoS mechanisms, main directions are proposed for future research required in defending against the evolving threat..

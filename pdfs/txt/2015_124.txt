@@ -1,0 +1,3 @@
+An information system for the cutting stock problem with optimization of retail materials in stock
+ABSTRACT
+Considering the new paradigm in the industry, where clients request small amounts of a growing range of products, the times of crisis and the fierce competition for businesses survival, it is crucial for Organizations to be able to reduce the waste of raw materials. In the manufacturing industry, the waste of materials could be minimized with the introduction of decision support systems in the process. In this paper we propose an information system that enables the optimization of purchases and consumption of materials, promoting waste reduction and boosting profitability.

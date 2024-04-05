@@ -1,0 +1,3 @@
+A systematic review protocol on shared transportation
+ABSTRACT
+Recently, many studies in the literature have been intensified in the scope of mobility services, presenting new technological solutions that can minimize problems, such as traffic congestion and the emission of greenhouse gases resulting from the population growth in large cities. Some services, namely shared services, are mainly dedicated to trying to encourage people to use transport that can be shared. In this paper, we propose a systematic literature review protocol oriented to shared transportation, so as to support bibliographical reviews by researchers on this domain. From the proposed systematic review methodology, we present preliminary results of a survey conducted on shared services.

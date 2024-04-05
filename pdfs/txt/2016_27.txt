@@ -1,0 +1,3 @@
+Automated analysis of non-functional requirements for web applications
+ABSTRACT
+This paper presents a Web Usability & Accessibility Test Automation Framework capable to be applied to other types of Non Functional Requirements.

@@ -1,0 +1,3 @@
+Massive data visualization analysis analysis of current visualization techniques and main challenges for the future
+ABSTRACT
+The big amount of data generated nowadays are being used by Big Data tools to generate knowledge and to facilitate the decision-making. However, this situation creates a new challenge: how to visualize all these data without losing mid/long term crucial information. The purpose of this article is to analyze the state of the art on massive data visualization, main problems and challenges of information representation current techniques as well as the evolution of the tools and the future of them, in other words, new functionalities to offer.

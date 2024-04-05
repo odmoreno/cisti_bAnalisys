@@ -1,0 +1,3 @@
+Comparing gps traces in car sharing systems
+ABSTRACT
+This article is the result of a project, still under development, which intends to implement methods of comparing GPS traces in a car sharing system. With the aim of identifying similar itineraries as well as suggesting car sharing hypothesis that respect the criteria defined by the system's user, one has developed algorithms. One of the main goals of this project is related with the need to decrease the number of cars which on a daily basis go into cities, reducing thus traffic jams on urban areas. By achieving this goal, one intends to reduce gas emissions which cause the greenhouse effect, protecting thus the environment.

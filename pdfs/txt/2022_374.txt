@@ -1,0 +1,3 @@
+Usability Analysis of the EPYGraph Application
+ABSTRACT
+Usability is an important tool to ensure the quality of application development. Therefore, we conducted this study to ensure the satisfaction of users of the Dirección General de Vigilancia Sanitaría (DGVS) under the Ministry of Health of Paraguay with the EPYGraph application, which can be used to digitize epidemiological data, analyze them through predictive models and graphically display the trees of contagion and timelines of patient evolution. This article presents the results obtained in the first round of user testing.

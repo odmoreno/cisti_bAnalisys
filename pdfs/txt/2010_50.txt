@@ -1,0 +1,3 @@
+Ranking alternatives on the basis of a dominance intensity measure and fuzzy logic
+ABSTRACT
+This paper introduces a new ranking method based on an additive multiattribute utility function for multicriteria decision-making problems with imprecise information. Alternative performances are described under uncertainty by uniform distributions, while classes of utility functions are used in each attribute and weights representing the relative importance of criteria are triangular (or trapezoidal) fuzzy numbers.

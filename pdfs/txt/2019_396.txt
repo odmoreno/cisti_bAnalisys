@@ -1,0 +1,3 @@
+Application of Tracker software in the teaching of linear kinematics through didactical situations
+ABSTRACT
+The presented proposal is based on the Theory of Didactical Situations which propose individual and group sequences and activities that allow a learning that starts from the student's knowledge, accompanied by the application of the Tracker software which complements and potentates the proposal since it seeks students to analyze real physical phenomena and relate them to the scientific content. For this reasons, didactic situations of the Linear Kinematics topics are proposed to their teaching-learning through the application of the software to try to solve the difficulties that they present in the interpretation of Kinematic Graphics.

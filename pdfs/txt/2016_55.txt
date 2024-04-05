@@ -1,0 +1,3 @@
+Implementation of 3D virtual environment using Web3D technologies
+ABSTRACT
+The current market promotes the use of 3D virtual worlds as ways to spreading content and information for organizations. This paper presents a virtual reality application using Web3D technologies in order to represent the building structure in the faculty of university. Include the use of a 3D graphics engine to implement practical features that allow interactive three-dimensional deployment. The UP4VED methodology was adapted for development because it is focus on virtual environment. Survey results show that the average potential user considers very likely to visit the application again to look for new features and updates.

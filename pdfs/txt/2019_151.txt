@@ -1,0 +1,3 @@
+Case Study: Application of the Pareto's Diagram or Improving the GPON Network Links Recovery Process
+ABSTRACT
+The aim of this article is to propose improvements to the maintenance activity of GPON networks of a telecommunications operator. At First, a brief explanation is given about some components of the network. In following, the main offenders are listed and distributed in a Pareto's diagram, to stratify and classify the failures, according to their respective impacts, contextualizing the GPON network maintenance process. Once the data have obtained and with the use of quality tools, actions are proposed to minimize the impact of the causes of the failures verified, with analysis directed to the main offenders.

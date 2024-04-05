@@ -1,0 +1,3 @@
+Implementation of the ISO/IEC 29110 standard in agile environments: A systematic literature review
+ABSTRACT
+Nowadays, around 76% of software is developed by very small entities or small entities in México. Thus, there have been emerging new models and standards focused in this type of organizations, such as ISO/IEC 29110 standard. Nevertheless, the lack of process culture, guides, support tools and practices make difficult its implementation in these organizations. This study presents a literature review to identify how the ISO/IEC 29110 standard is being implemented focusing on support tools, practices from other models, standards or agile methodologies which help in its implementation.

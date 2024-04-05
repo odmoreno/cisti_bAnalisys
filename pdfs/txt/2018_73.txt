@@ -1,0 +1,3 @@
+A survey of recent developments in management cognitive neuroscience and machine learning in educational environment
+ABSTRACT
+The field of cognitive neuroscience concerns the intelligence, feelings and the ability to make decisions. Considering these subdivision, this work presents recents studies of brain mapping and the use of machine learning in educational environment. The state-of-the-art of cognitive neuroscience and machine learning are presented in the context, in order to reinforce and rethinking the interconnection of technology with educational development.

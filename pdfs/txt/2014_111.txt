@@ -1,0 +1,3 @@
+Personal environment for teaching management in higher education
+ABSTRACT
+From the results of the research project entitled MiProDOC, where the PMBOK® Guide project management good practices were adapted to the organization and delivery of teaching in the European Higher Education Area (EHEA), in this paper a personal environment for teaching management is presented. This environment integrates a set of tools supporting the teaching life cycle and is formed by both transversal tools such as office suites, social bookmarking services or virtual storage services, and specific tools for managing scope, time, communications and quality.

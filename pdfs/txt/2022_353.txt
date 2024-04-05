@@ -1,0 +1,3 @@
+Artificial Intelligence in Accounting : Literature Review
+ABSTRACT
+We live in an era of digital transformation and growth in Accounting and in the world. However, the existing literature that relates these two concepts still seems insufficient, more specifically about Artificial Intelligence and Accounting, both in theoretical and practical terms. Thus, the goal of this work is to explore the possible relationship between Artificial Intelligence and the practice of Accounting, through a literature review. The results show that there are already implemented mechanisms for replacing Accounting tasks in operation, however, there is still some reticence on the part of accountants in the adoption of this type of technology.

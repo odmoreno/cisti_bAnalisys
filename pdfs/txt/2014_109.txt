@@ -1,0 +1,3 @@
+Project management suportaded by Business ProcessManagement: Experience in the Brazilian justice
+ABSTRACT
+This article discusses Project Management and advantages on automation of a project management methodology. In light of Business Process Management(BPM), which operates mainly in reducing interference and losses arising from interfaces between organizations, functional areas and hierarchical levels, we report here the case applied to a public institution in the state of Ceará, Brazil, with the intention of evaluating the feasibility of applying theory into focus as an alternative on the automation of routine to project managers, project management offices and project sponsors.

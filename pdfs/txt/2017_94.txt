@@ -1,0 +1,3 @@
+Teaching crowdsourcing development in undergraduate courses a comparative study
+ABSTRACT
+The crowdsourcing (CS) is a software development practice that increases in the productive sector. This environment is supported by a platform which relates the crowd, the provider, the sponsor and the developer. Microtasks are executed by people, and these are joining in a large project. The teaching of crowdsourcing in undergraduate courses is minimal compared to the teaching of traditional Distributed Software Development (DSD). This paper shows the comparison among the teaching of DSD and the teaching of CS. We executed two experiments for verifying the differences among its. The results show these differences in the point of view of the teachers, students and content.

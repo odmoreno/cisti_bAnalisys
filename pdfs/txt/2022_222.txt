@@ -1,0 +1,3 @@
+Tourism and Virtual Reality: a bibliometric analysis of scientific production from the Scopus database
+ABSTRACT
+To identify the most developed terms in the field of Tourism and virtual reality, a quantitative analysis was developed in February 2020. This analysis was focused on seven hundred and eighty-four (784) publications from the Scopus database, published between 1995 and February 2022 and limited to the following areas: Business Management and Accounting, Computer Science, Social Sciences and Engineering.A bibliometric analysis was performed using the VOSviewer software and a technique of matching terms and co-authoring by authors and countries. Were found 5 clusters for the co-occurrence of terms and 7 clusters for the co-authorship of authors and countries.

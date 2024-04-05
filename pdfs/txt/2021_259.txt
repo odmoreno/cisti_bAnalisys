@@ -1,0 +1,3 @@
+Transfer Learning in AI is a way forward for User Organizations
+ABSTRACT
+Artificial Intelligence applications deployment has always been a challenge for non-Tech firms, the firms whose core business is not technology. They need to depend on vendors to provide them necessary support or they need to contract one of the service providers. This paper discusses possible strategy that can be adopted by such firms. The research done in the implementation science discipline helps to conceptualize the methodology. This paper zeroes on to the image classification to focus on an important area of artificial intelligence. The experimentation done using transfer learning principles exhibit way forward for AI implementation.

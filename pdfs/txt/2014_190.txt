@@ -1,0 +1,3 @@
+Application of wearable human sensing system for human-CG interaction in AR space
+ABSTRACT
+Motion capture is useful way to interact with CG in AR space. However, typical systems are not robust against occlusion because they are using a number of cameras to capture markers placed on the body. Therefore we propose the wearable motion capture system that acquires human motion directly from various points on the body. Furthermore, acquisition of muscle activity with EMG sensor is used for recognition of phase-switching for interaction such as grabbing CG. As a result, we have confirmed it is possible to create more interactive/occlusion-free contents by using wearable motion sensing system.

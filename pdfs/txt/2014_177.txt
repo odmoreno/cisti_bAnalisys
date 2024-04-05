@@ -1,0 +1,3 @@
+Using the cloud to build a computing lab
+ABSTRACT
+The management of a laboratory for the many classes/areas in an education institution makes a set of challenges for the IT department which face a growing pressure to provide the necessary computing resources at the lowest price. This paper proposes a platform named CSCLab for the provisioning and management of laboratories with the computing resources necessary to teach a class using the cloud. The system was designed to be used by non-experts in cloud technologies and implemented to run in OpenStack but it can be easily adapted to other platforms with similar services.

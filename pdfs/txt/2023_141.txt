@@ -1,0 +1,3 @@
+IE-MESC: an IoT engine for managing equipment in a smart campus
+ABSTRACT
+Smart Campus is a promise that aims to improve the quality of life and finances of educational institutions. One of the main objectives of a smart campus is proper management and energy savings. In this paper, we propose a complete platform composed of hardware and software called IE-MESC. This platform provides an IoT engine for managing equipment in a smart campus. The projections of the results indicate energy savings and, therefore, a better financial result for the studied institution.

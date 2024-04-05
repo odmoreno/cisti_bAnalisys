@@ -1,0 +1,3 @@
+The Green Data Center
+ABSTRACT
+The Indianapolis International Airport (IND) constructed a new terminal and data center in 2008. Shortly thereafter, server virtualization became popular which reduced the heat output in the server room. As a result, the HVAC system in place was far too powerful, started frequently failing, and used excessive water and electric resources. An environmentally friendly alternative is considered with a new HVAC powered by solar panels. This case study discusses the process of following the System Development Lifecycle (SDLC) and using the Multiple Criterion Decision Analysis (MCDA) method to assess the situation and evaluate alternative solutions. Students are asked to answer follow-up questions, including the use of their own MCDA.

@@ -1,0 +1,3 @@
+Metric LMS: Educational evaluation platforms
+ABSTRACT
+The existence of a number of educational platforms to support virtual bimodal or classroom program, makes it difficult for the institutions to identify the best LMS, hence the following proposed metric to evaluate the platforms that best fits the needs of the institution.

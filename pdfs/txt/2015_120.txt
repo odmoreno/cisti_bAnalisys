@@ -1,0 +1,3 @@
+Implementation of a GIS platform to promote the bike regional economic value
+ABSTRACT
+The Bike Technological Platform and Soft Mobility (PTBMS) from University of Aveiro (UA) results of a growing interest that the subject of bike and soft mobility has gained in the research and development area. It results, also, from the fact that the bike has a strong presence in the Aveiro region, either by its daily use, and either in terms of industrial production or even by the development of innovative municipal projects. Hence, this article summarizes the work that has been done in the working Group "Byke Economic Value", specifically in the development of spatial tools for storage, analysis and visualization of indicators that promote the use of bicycles.

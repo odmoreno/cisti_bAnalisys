@@ -1,0 +1,3 @@
+Voluntary geographic information systems with document-based NoSQL databases
+ABSTRACT
+With the advent of Web 2.0 and mobile technology, including, smartphones equipped with GPS (Global Positioning System) receptors, there has been an increase in the number of individuals who create and share spatial data. Consequently, the ability to store a large quantity of data, in diverse formats is made possible by Geographic Information Systems that use voluntary data. This study presents a Voluntary Information System using a document-based NoSQL database that fulfills the requirements of data scalability and heterogeneity.

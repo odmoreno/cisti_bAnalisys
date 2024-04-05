@@ -1,0 +1,3 @@
+Mapping ontological transaction into Activity
+ABSTRACT
+Although there are several applications of Activity Theory to analyse the collaborative work from human practices, there isn't one approach that enables to obtain the diagrams from the description of the business processes of an organization. This article presents a proposal of how to get the Activity Diagrams from business processes described by ontological transactions. As a means of validating this proposal was applied in a case study in organization.

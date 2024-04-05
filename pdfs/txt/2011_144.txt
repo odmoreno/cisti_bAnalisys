@@ -1,0 +1,3 @@
+A study of innovation activities in software and computer services companies
+ABSTRACT
+This paper analyzes the results of a study of innovation activities in software and computing services companies. We propose a new model which takes into account the role played by several factors and firms' resources in the development of innovative activities, exploring the relationships between a set of organizational, technological, financial and information-based resources, as well as other aspects such as cooperation with other agents and companies.

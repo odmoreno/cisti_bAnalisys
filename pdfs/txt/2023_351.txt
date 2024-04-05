@@ -1,0 +1,3 @@
+Mirobriga’s Tabernae – Virtual Reconstruction
+ABSTRACT
+The virtual recreation of historical artefacts and their availability through the internet ensures that our history and culture will be preserved and disseminated to future generations. This paper displays the challenges and decisions taken with the goal of immortalizing the ancient Roman city of Miróbriga. A wide array of tools and methods were explored to allow a reliable three-dimensional recreation to ensure a virtual navigation on a specific area ó two Tabernae from the roman era ó using a Web browser.

@@ -1,0 +1,3 @@
+Evaluation of New Generation Communication Technologies for Deployments in Rural Exploitation
+ABSTRACT
+This work consists of evaluating the main technologies of wireless communications of new generation oriented to their use and implementation in rural areas in order to obtain data on what technologies are the most appropriate based on a specific scenario characterized by a network of sensors. A previous classification of the technologies in two categories is made based on the scope in terms of distance they can provide. From this, scores are defined for each parameter compared based on factors and priorities obtained from qualitative indicators, and taking into consideration its use and functionality with satellite backhaul.

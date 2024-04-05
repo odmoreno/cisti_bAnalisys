@@ -1,0 +1,3 @@
+Towards a contents quality assessment model of health units websites
+ABSTRACT
+The Websites are the face of institutions, but there is evidence that they are often little care, especially with regard to their contents. In this article we present part of an investigation aimed at developing a model for assessing the contents quality of institutional health facilities Websites. For this purpose, a literature review on evaluating the content quality of Websites approaches has been performed in order to identify the dimensions and quality attributes considered most. A process for applying the Delphi method, In its second stage, is in progress, with the aim of reaching a set of attributes capable of measuring content quality.

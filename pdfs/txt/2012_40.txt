@@ -1,0 +1,3 @@
+Study of some properties of binary neutral representations
+ABSTRACT
+This paper analyzes some of the properties of binary neutral representations considered in the literature, using families of neutral binary representations NNg (l, k) based on the mathematical formulation of error control codes. The performance of an (1 + 1)_ES modeled using Markov chains is used to verify that the representations of NNg (l, k) with better performance in NK(N, K) fitness landscapes with adjacent neighborhood do not exhibit extreme values of any of the properties commonly considered in the literature of evolutionary computation.

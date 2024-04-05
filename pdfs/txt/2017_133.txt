@@ -1,0 +1,3 @@
+The use of microtasks in crowdsourcing software development
+ABSTRACT
+Crowdsourcing (CS) is a distributed software development model in which small activities (or microtasks) are developed by employees supported by an online platform. Due to the possibility of aggregating specialists and reducing costs, many companies are applying CS in their software development projects. However, there are still gaps in how microtasks are being adopted, leading to several management challenges. Thus, we conducted an analysis of 14485 microtasks recorded on a CS platform to investigate microtasks in the development of CS software. As results, we demonstrate a set of considerations about their use, the main challenges and their configuration mode.

@@ -1,0 +1,3 @@
+Critical factors in ERP implementation projects in two Mozambican banks
+ABSTRACT
+This paper seeks to identify the critical factors for implementing ERP systems and the difficulties of implementation in two banks in Mozambique. For this purpose a qualitative study was conducted in two banks, using semi structured interviews. As motivators for the implementation were identified external factors (such as regulatory changes) and internal factors (such as problems of integration of internal systems and inflexible reporting). The main difficulties mentioned were lack of coordination at the level of information technology, lack of resources and skills and lack of understanding by users.

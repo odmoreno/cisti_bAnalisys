@@ -1,0 +1,3 @@
+SenOpinion: A New Lexicon for Opinion Tagging in Senegalese News Comments
+ABSTRACT
+The complexity of comments from the Senegalese on-line press is mainly due to ambiguity. This has led to customized abbreviations and the high presence of local languages. These factors make the current opinion mining tools ineffective. In view of this complexity, our objective is to suggest an opinion lexicon to process these types of data. This lexicon will take into account Wolof, French and urban language words and expressions. The significance of such a study is to provide our local languages with tools for automatic processing of natural languages.

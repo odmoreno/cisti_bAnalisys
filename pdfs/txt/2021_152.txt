@@ -1,0 +1,3 @@
+Shared dock-less vehicle location distribution Data-set visualizer
+ABSTRACT
+Citizens behaviour and mobility patterns represents crucial information for local organization, city resources management, commerce, transports, among others. This article presents a design architecture for observation of location distribution based on data-sets containing location information. Data is aggregated for individual privacy at 3 decimals for latitude and longitude, which equates to about the block level. The ability to view large data-set information on mobile devices may be a challenge considering the amount of data involved. The solution architecture presented, represents an efficient method to view mobility dispersion data in mobile devices even in low-end devices.

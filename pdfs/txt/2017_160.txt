@@ -1,0 +1,3 @@
+Intelligent tutor system model applied to basic electronics
+ABSTRACT
+Intelligent Tutor Systems (ITS) are programs that use artificial intelligence techniques to support students in their learning. These systems can be useful in different educational areas. Intelligent agent is an artificial intelligence technique that can be applied in ITS in order to support its users in the process of interaction with these systems. The teaching of electronics is considered complex by many students. Thus, this article proposes an ITS model directed to the teaching of Basic Electronics.

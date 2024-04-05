@@ -1,0 +1,3 @@
+Object Detection in a Virtual Simulation Environment with Automated Driving Toolbox
+ABSTRACT
+This paper presents the results obtained in the use of the Automated Driving Toolbox of MATLAB to detect moving and static objects in a virtual simulation environment of autonomous driving. The objective of this research is to configure different scenarios related to autonomous driving systems (ADAS - Advanced Driver Assistance Systems), in order to obtain information about the behavior of cameras and radars in the presence of different objects placed on the road. The results obtained show that the best performance is achieved when side cameras and a frontal sensor are placed. In addition, the size of the object under study does not affect the objetcs detection rate on the road.

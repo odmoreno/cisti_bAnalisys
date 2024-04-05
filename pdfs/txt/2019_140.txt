@@ -1,0 +1,3 @@
+Database Administration: A Case Study at Public Defender of the Union in Brazil
+ABSTRACT
+One of the challenges in database administration is to maintain a database with an optimized data structure. In large corporations where there are many databases, the database administrator (DBA) must execute a database structure analysis routine. In this context, this article presents a case study applied in the Brazilian Public Defender's Office (DPU) in Brazil, where there was a reduction in the database structure. The reduction has been achieved with simple activities that the DBA must follow in the routine of database administration in a corporate environment.

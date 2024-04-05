@@ -1,0 +1,3 @@
+Free and open source bibliometric study
+ABSTRACT
+Open source software has gained increasing relevance in the organizational and societal world. This paper aims to identify the main research topics in the context of open source and free software. To accomplish this objective, we carried out a bibliometric study in two different digital libraries, IEEE Explore and ACM Digital Library. The methodology intent was based on clusters co-occurrence of keywords and co-authorship. The results allowed to detect the clusters and themes that are more prominent in the Free Software ecosystem. Although an almost exponential growth in publications has been identified, formed by small groups of researchers and with few links between them.

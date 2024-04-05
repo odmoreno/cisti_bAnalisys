@@ -1,0 +1,3 @@
+Web-based application for generation of video-interview summaries using neural networks
+ABSTRACT
+In this work is shown a preliminary development of a web application that generate summaries from video interviews. For the transcription, in addition to the SpeechRecognition library to separate by silences, the Google SpeechToText API is used to separate by speakers. For summarization we use BERT2BERT, a BETO model pre-trained on news summaries from the Hugging Face Transformers library.

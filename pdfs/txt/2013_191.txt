@@ -1,0 +1,3 @@
+The interaction in forums: A contribution to teaching and learning of Mathematics in Engineering
+ABSTRACT
+Substantiated by scientific studies, it appears that Information and Communication Technologies (ICT) have allowed the construction of a set of support tools that complement classroom teaching and enable its users greater interaction and ease in communication. This paper contains a reflection on the behavior of students in undergraduate Computer Engineering who attended Differential and Integral Calculus, in the 2nd semester of the academic year 2011/2012, that used a MOODLE platform developed as a complement to classroom teaching of all course units in the Department of Physics and Mathematics of Instituto Superior de Engenharia de Coimbra.

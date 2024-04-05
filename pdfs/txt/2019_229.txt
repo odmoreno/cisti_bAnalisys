@@ -1,0 +1,3 @@
+Information Extraction Applications for Clinical Trials: A Survey
+ABSTRACT
+Many Information Extraction (IE) applications are available, in several domains, to handle the increasingly volume of data. This paper reviews applications and methods used for IE and performs an analysis with the objective of understanding which applications have already been used for clinical trials and applications that although they were not and would have an easy adaptation to be used as well.

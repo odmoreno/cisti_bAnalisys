@@ -1,0 +1,3 @@
+How to obtain knowledge evidences in a student model based on Bayesian Network
+ABSTRACT
+A considerably proportion of the adaptativity of an Intelligent Tutoring System is due to the Student Model. Bayesian Networks has been used in student modeling in order to provide adaptativity from the tutor system to the student knowledge. However, a Bayesian Network requires evidences in order to make inferences. This article presents a proposal to measure and update knowledge evidences in a Bayesian Network which aims at sequencing the course content in a way adapted to the student knowledge.

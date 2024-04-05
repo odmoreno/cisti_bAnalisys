@@ -1,0 +1,3 @@
+A note on democracy and group support systems concepts
+ABSTRACT
+This paper tries to show that Group Support Systems techniques and research results provide an adequate framework to develop public participation support systems that go beyond e-voting and aggregation of citizens' preferences. It is however necessary to look into political science and understand what kind of initiatives need to be supported and what requirements they pose. Only then the full potential of Information and Communication Technologies regarding democracy support may be achieved.

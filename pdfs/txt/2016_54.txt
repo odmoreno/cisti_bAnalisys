@@ -1,0 +1,3 @@
+Increase motivation in learning Java Programming Fundamentals using Gamified Moodle: Case: Central University of Ecuador
+ABSTRACT
+Gamifying learning environments, combining classroom with gamified e-Learning platform, is one of the educational proposals that increases motivation and commitment of the students in the learning process. This research analyzes, quantitatively and qualitatively, the use of Gamified Moodle as a tool to improve the above mentioned parameters by the completion of autonomous tasks, in a Java Programming Fundamentals course at the Central University of Ecuador.

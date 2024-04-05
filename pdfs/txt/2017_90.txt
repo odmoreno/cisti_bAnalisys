@@ -1,0 +1,3 @@
+The self-directed Learning in U-learning environments: A preliminary systematic mapping
+ABSTRACT
+This paper presents a preliminary systematic mapping of the literature in order to identify what are the methods used by researchers to evaluate characteristics of self-directed learning in ubiquitous environments. We use systematic review procedures proposed by Kitchenham et. al. (2007) (Marshall and Brereton, 2013) to develop the methodological approach contained in sections. The results show that no studies were found that direct use of methods to contextualize the phenomenon clearly, generate virtual spaces with SDL and recommend performance measurement techniques in real time by analyzing the data interaction of learners.

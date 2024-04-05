@@ -1,0 +1,3 @@
+Using Moodle Workshop tool for online peer assessments: A case study
+ABSTRACT
+This paper presents a case study about the use of the Moodle Workshop tool to carry out the online peer assessments of the student's tasks. The profits and unfavorable aspects of the experience are shown, the last ones caused by both methodological issues and the configuration of the tool and its features, providing ideas for improvement.

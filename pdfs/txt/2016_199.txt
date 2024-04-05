@@ -1,0 +1,3 @@
+Semantic analysis of judicial sentences based on text polarity
+ABSTRACT
+According to the principle of legality, impartial judicial procedures should be adopted in a court of law. In this study, we analyzed this principle by examining judicial decisions. We determined that court judgments consist of an emotional content, which implies that the principle of neutrality is not fully met. However, our initial findings generate sufficient evidence to identify the existence of an emotional inference mechanism in judicial decisions.

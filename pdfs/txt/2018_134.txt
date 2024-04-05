@@ -1,0 +1,3 @@
+Augmented reality technologies to promote STEM learning
+ABSTRACT
+This paper aims to present a preliminary study about the design and implementation of an augmented reality astronomy mobile game in an informal learning context. With a qualitative methodology and an interpretative approach, we conclude that this strategy is efficient to capture children's attention and promotes learning of interdisciplinary subject matters such as astronomy.

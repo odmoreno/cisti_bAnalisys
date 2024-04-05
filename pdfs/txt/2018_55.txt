@@ -1,0 +1,3 @@
+Social CRM analytics
+ABSTRACT
+Social Customer Relationship Management (Social CRM) is an emerging concept that integrates traditional CRM and social networks, influenced by Web 2.0, to provide benefits for both organizations and customers. This paper aims to provide a review of the existing literature on Social CRM, seeking later to develop a solution that helps to understand all the data that flow in a Social CRM system and that can help us to focus on a better strategy.

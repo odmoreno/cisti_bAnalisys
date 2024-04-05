@@ -1,0 +1,3 @@
+EverydayFantasy – a Mobile Computing Application in Mental Healthcare
+ABSTRACT
+The paper proposes a game, EverydayFantasy, based on the principles of serious games, game mechanics and gamification and intended for young people with cognitive behavior issues. The game is a mobile computing application in mental healthcare, in the architecture of which is integrated the connection to a database through a server and the use of dedicated APIs such as the one for locating on the map. The game creates a fantasy environment superimposed on the real environment in which the player is motivated to move, socialize and solve different challenges, all to improve his estimated state.

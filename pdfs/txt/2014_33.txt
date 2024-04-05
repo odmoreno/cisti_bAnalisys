@@ -1,0 +1,3 @@
+Using arduino as pedagogical strategy in learning logic programming
+ABSTRACT
+This study aimed to investigate the learning concepts of logic programming for high-school students introducing the arduino tool as a pedagogical strategy. therefore, the methodology applied initially consisted in presencial classes, as well as the subsequent interaction with the tool and assessment activities. initial results indicate that this strategy was adequate for materialization of abstract concepts that are taught in logic programming, but it also allows one to identify formalization dificulties of mathematical concepts for solving activities that were proposed

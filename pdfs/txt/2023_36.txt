@@ -1,0 +1,3 @@
+Fuzzy Tool for Crowdfunding Readiness Level Assessment for Innovative Projects
+ABSTRACT
+Stimulating creativity in technological entrepreneurial education leads to knowledge and connection to current trends in the development of innovative technological projects and the creation of innovative start-up and spin-off enterprises. Their success or failure depends on a number of factors such as the market, the team, the technological level of the product, but also on the funding methods, including crowdfunding. The paper proposes a Fuzzy tool for preliminary assessment of the opportunity of crowdfunding campaigns for innovative projects resulting from the stimulation of entrepreneurial creativity through gamification-based education.

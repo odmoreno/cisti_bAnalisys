@@ -1,0 +1,3 @@
+FSAnalysis: a feature selection and analysis mechanism considering balanced and unbalanced bases
+ABSTRACT
+Security is crucial for networked devices, especially when used in critical environments, such as the Industrial Internet of Things (IIoT). Consequently, in this work, the development and execution of the FSAnalysis mechanism are proposed, responsible for selecting the best features considering balanced and unbalanced datasets, analyzing each of the scenarios for determining the one with the best performance.

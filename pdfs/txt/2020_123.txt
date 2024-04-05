@@ -1,0 +1,3 @@
+Using accomplishment from Octalysis Framework in a Dynamic Game
+ABSTRACT
+Education is one of the most critical areas for the development and growth of a country, for this reason it is important to innovate in teaching methodologies and leave behind traditional teaching. In this context, this work proposes the development of a dynamic game that uses the accomplishment unit of the Octalysis framework based on gamification to improve the teaching-learning process in children. As a result, the use of a dynamic game with gamification for teaching improves the learning capacity since it encourages children to pay more attention to the class.

@@ -1,0 +1,3 @@
+Does capital structure influence the profitability of Ecuadorian communication companies?
+ABSTRACT
+The capital structure affects the profitability of the company. Financing decisions determine what type of resources entrepreneurs employ and the cost of these resources. The objective of this article is to determine how the capital structure is related to the profitability of Ecuadorian communication companies in the period 2014-2019. Through quantile regressions it is determined that the return on assets (ROA) is negatively affected by the capital structure, while in the case of shareholders' profitability (ROE) only in some quantiles the impact is positive, being in most quantiles not significant.

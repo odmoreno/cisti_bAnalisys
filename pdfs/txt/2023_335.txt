@@ -1,0 +1,3 @@
+A Data-driven Identification of Teaching Patterns
+ABSTRACT
+Finding and sharing best practice teaching patterns in computer science education contributes to the improvement of the quality of the teaching in this field. These patterns are obtained from data mining of different types of data from a variety of sources e.g., surveys, interviews, videos, students, lecturers. How to collect, to unify formatting, and to transfer data from these diverse sources to one centralized repository for pattern identification is the aim of this paper.

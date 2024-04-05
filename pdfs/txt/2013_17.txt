@@ -1,0 +1,3 @@
+Applying recommendation techniques to support conceptual negotiation processes
+ABSTRACT
+According to [1], in order to share knowledge and information it is necessary to share a set of conceptual structures within a collaborative network. Therefore, to develop an organizational information system it is required to engage in a negotiation process so that it is possible to obtain a common vocabulary. To support and improve such process, this paper presents an approach that takes advantage of some of the features of recommendation systems (RS), which will be extremely useful to help collaborative networks construct a high-level conceptualization about a specific domain.

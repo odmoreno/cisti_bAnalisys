@@ -1,0 +1,3 @@
+The integration of radiology information sysems
+ABSTRACT
+System integration is an ever-present theme in the domain of information technology. For a long time that large companies have identified the need to integrate data from different systems, creating more value for your business. This article presents a proposal of integration model for Radiology Information Systems.

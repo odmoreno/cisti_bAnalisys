@@ -1,0 +1,3 @@
+A Geolocator System of Long Stay Institutions For the Elderly
+ABSTRACT
+The elderly population in Brazil and in the world increase every year and tend to grow more and more, appearing several demands for technology to contribute. Facing the difficulty to finding information from nursing homes for such a public and, by the inexistence of data and applications of the same purpose, a web system has developed. An innovative system that makes it possible to locate nursing homes with their information and characteristics, according to the needs and selection criteria of the users.

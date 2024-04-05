@@ -1,0 +1,3 @@
+Gifts recommendation for mobile devices
+ABSTRACT
+The mobile application market and e-commerce sales have grown steadily, along with the growth of studies and product recommendation solutions implemented in e-commerce systems. In this context, this paper proposes a recommendation algorithm for mobile devices based on the COREL (Customer Purchase Prediction Model) framework. The proposed recommendation algorithm is a customization of the COREL framework, based on the complexity of the implementation associated with iOS mobile applications. Therefore, this work aims to customize a gift recommendation algorithm in the context of mobile devices using as main input the user preferences for the gifts recommendation in the Giftr application.

@@ -1,0 +1,3 @@
+Lacunarity analysis of pulmonary emphysema in high-resolution CT images
+ABSTRACT
+In clinical practice, high-resolution computed tomography (HRCT) is a reference in the diagnosis, quantification, and follow-up of lung emphysema. In this study, differential lacunarity analysis was applied to HRCT images of the chest in order to quantify the texture of healthy and emphysematous regions of the lung parenchyma. The used approach to compute lacunarity is a multiscale technique that takes advantage of the extensive scale used in the acquisition of CT images. The results show that the extracted features are discriminatory of the considered lung patterns, being suitable to integrate clinical applications for the characterization of disease patterns in HRCT images.

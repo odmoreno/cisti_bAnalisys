@@ -1,0 +1,3 @@
+Botanical identification of Amazonian species through patterns recognition of wood and essential oil: A framework based on ontology
+ABSTRACT
+The degradation of biodiversity, due to the implementation of livestock, agriculture crops by predatory and extractive systems, finds roots in contemporary human condition involving, at the same time, social, economic, cultural and scientific aspects. Thus, conservation efforts are increasingly urgent and necessary. This work presents a strategy to improve the content of sustainable forest management system by proposing an ontology in the field of botanical identification combined with automated processes botanical identification with image samples of wood and chemical analysis of essential oils.

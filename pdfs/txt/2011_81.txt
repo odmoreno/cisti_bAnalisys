@@ -1,0 +1,3 @@
+Multi-agent systems in education
+ABSTRACT
+The still growing interest in multi-agent systems, both in terms of academic studies and its implementation in very diverse areas, motivated the development of this work. The aim is to make an approach to multi-agent systems, highlighting some specifications on education as a model for the improvement and contribution of the teaching-learning process.

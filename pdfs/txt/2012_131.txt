@@ -1,0 +1,3 @@
+A model propose of process reuse based on concepts maps
+ABSTRACT
+This work presents a model of reuse process based on concept maps. The model was applied in 2011, in the instantiation of the software process institutionalized in company in southeastern Brazil. The results obtained with the application of the model were satisfactory and the maps are effective in the materialization process.

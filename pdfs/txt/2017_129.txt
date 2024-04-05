@@ -1,0 +1,3 @@
+CHEMIS3: A game for learning chemical concepts through elements of nature
+ABSTRACT
+Games, used as entertainment, have also been inserted in the educational context as Learning Objects. In this aspect, they present a fun way to insert educational content for students of different levels. In order to give greater support to students of basic education, this article presents a technological artifact, in game format, for teaching science, through elements existing in the environment. The game was introduced to freshman students and underwent an assessment. The results showed that the game presents interesting contents that generate learning for students.

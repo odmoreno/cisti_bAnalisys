@@ -1,0 +1,3 @@
+Personalized medical alert system based on Internet of Things with DHIS2
+ABSTRACT
+The new use of Internet-based technologies of things, allow to enhance the applications of our tools that we use daily. As it is the case of mHealth that allows patients to be connected to services that include health information, health record management. This document presents an IoT-based approach through the implementation of OpenMRS and DHIS2 to offer smart medical alerts based on telemedicine and mHealth, in patient monitoring. The proposed system is evaluated through a case study on continuous monitoring of the patient and population for the timely detection of possible diseases.

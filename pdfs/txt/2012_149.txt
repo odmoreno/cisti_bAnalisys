@@ -1,0 +1,3 @@
+Introduction of creativity in the process of identifying strategies for data quality
+ABSTRACT
+The organizations ability to use information technology effectively and bet on innovation and creativity are recognized as being important to their competitiveness. The possibility of using known creativity techniques to help innovate in the area of information systems seems to be promising. This paper proposes the application of a generic method of introducing creativity into the planning process and identification of strategies for data quality. Is shown a case study of applying the method to identify data quality strategies in a city hall.

@@ -1,0 +1,3 @@
+NMSIS - SCEN
+ABSTRACT
+The network laboratories management and maintenance processes consist of several tasks which may interfere with the normal network operation. The NMSIS - Network Management System with Imaging Support is a management tool that enables the remote installation of software images, without compromising the network performance. This article describes a new NMSIS module, the SCEN. By integrating the Simple Event Correlator (SEC) and extending the alarms correlation, SCEN enables the detection and isolation of faults in a network. With SCEN, the NMSIS proved effectiveness in alarms processing, fault identification and clearing, in scenarios where link, systems and services failures occur.

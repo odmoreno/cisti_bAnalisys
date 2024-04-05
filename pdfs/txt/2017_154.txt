@@ -1,0 +1,3 @@
+A decision support system for corporations cybersecurity management
+ABSTRACT
+This paper presents ongoing work on a decision aiding software intended to support cyber risks and cyber threats analysis of an information and communications technological infrastructure. The software will help corporations Chief Information Security Officers on cyber security risk analysis, decision-making, prevention measures and risk strategies for the infrastructure and information assets protection.

@@ -1,0 +1,3 @@
+Reference architecture for data ingestion in Data Lake
+ABSTRACT
+The article presents a Reference Architecture Proposal for Data Ingestion in a Data Lake. The project is developed in the context of a consulting firm that provides services to banking and retail companies, where a general flexible architecture capable of representing and relating the components required for the ingestion process in a Data Lake and its concrete application with technologies mapped in the literature or added by the users of the representation is proposed and implemented. At the graphic level, Feature Model is used to diagram the architecture, which is subjected to an evaluation of usability and quality by the members of the consulting firm.

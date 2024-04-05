@@ -1,0 +1,3 @@
+Automatic extraction and representation of geographic entities in eGovernment
+ABSTRACT
+In this paper we present a system that automatically extracts and geocodes named entities from unstructured, natural language textual documents. The system uses the Geo-Net-PT ontology and Google maps as auxiliary data sources. This type of system is particularly useful to automate the geocoding of existing information in e-government applications, which usually requires human intervention. Within the paper we introduce the relevant human language technologies, describe the system that was developed, present and discuss the preliminary results and draw the relevant conclusions and future work.

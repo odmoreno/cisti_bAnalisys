@@ -1,0 +1,3 @@
+Improving a website with web analytics — A case study
+ABSTRACT
+Web Analytics tools were used to improve a sales website of IT services. Heuristics analyses of usability aided to evaluate the web site and to achieved the results. The technics used in the improvement process are discussed and the performance assessment results are showed in this paper.

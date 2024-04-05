@@ -1,0 +1,3 @@
+Success factors of the implementation of CRM systems — A literature review
+ABSTRACT
+Customer Relationship Management (CRM) is currently an important strategic tool used by organizations to gain competitive advantages. However, since the implementation of a CRM system is not risk-free, it is important to know about the factors that influence its success. This article presents the results of a literature review carried out aiming to identify and describe the main success factors of the implementation of CRM systems.

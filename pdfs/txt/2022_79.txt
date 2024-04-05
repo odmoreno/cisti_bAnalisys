@@ -1,0 +1,3 @@
+Polarimetric Meteorological Radar Data Simulator Implementation
+ABSTRACT
+Meteorological radar simulator model is proposed and implemented based on the statistical analysis made over real radars data during several precipitation events. In this model, it is proposed random data generation which is similar to real radars data but it is defined by user input parameters as well.

@@ -1,0 +1,3 @@
+DICOM functionality assessment
+ABSTRACT
+There is a wide range of health-related subareas that need to be considered, such as primary care, continuing care, imaging, pharmacy, among others. For this purpose, specialized norms and protocols have been created in each of these areas. In the case of imaging there is DICOM (Digital Imaging and Communications in Medicine). To evaluate and improve the use of DICOM, in this work we will propose a method to evaluate its functionality, proposing the model for a questionnaire that will be useful for professionals in the field to characterize their level of functionality.

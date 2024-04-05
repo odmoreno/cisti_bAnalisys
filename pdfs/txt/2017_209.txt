@@ -1,0 +1,3 @@
+Real-time app development approach for indoor monitoring
+ABSTRACT
+After a contextualization of mobile applications, this paper presents a approach for real-time mobile application development. Through the presented approach it is proposed to use different hardware components and technologies accessible in mobile devices, namely WIFI, GSM, sensors as well as colored Petri nets for modeling the behavior of the system.

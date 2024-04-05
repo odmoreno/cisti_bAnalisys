@@ -1,0 +1,3 @@
+Argumentation as a Method for Explainable AI : A Systematic Literature Review
+ABSTRACT
+Often, users do not know how artificial intelligence (AI) systems make decisions or obtain information, making it difficult for them to trust AI. This paper provides a systematic analysis of the advances in the use of argumentation theory to support explainability in dialogue systems.

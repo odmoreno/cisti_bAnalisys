@@ -1,0 +1,3 @@
+Contributions to experimental performance studies of Wi-Fi and FSO links
+ABSTRACT
+The importance of wireless communications has been growing. Wi-Fi and FSO are very important technologies in this context. Performance is a very relevant issue, leading to more reliable and efficient communications. Laboratory measurements are made about several performance aspects of Wi-Fi (IEEE 802.11 a, g) point-to-point links, namely at OSI levels 4 and 7. An FSO medium range link has been successfully implemented for high requirement applications at Gbps. An experimental performance evaluation of this link has been carried out at OSI levels 1, 4 and 7, through a specifically planned field test arrangement. Several results are presented and discussed.

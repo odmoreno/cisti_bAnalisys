@@ -1,0 +1,3 @@
+Audite: an adaptive software for individuals with hearing loss
+ABSTRACT
+According to the last Brazilian census in 2010 conducted by the Brazilian Institute of Geography and Statistics (IBGE), 5.1% of the Brazilian population had some degree of hearing impairment and thus somehow deprive them of full social contact. This study proposes the implementation of software that is capable of adapting sounds to be emitted on a smartphone to an area of audible intensity according to the user's need, improving the understanding of these sounds. To carry out the tests, 11 participants with some type of hearing impairment were invited and the results are presented in this work.

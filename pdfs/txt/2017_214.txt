@@ -1,0 +1,3 @@
+Proposal for a methodology for the adoption of the big data
+ABSTRACT
+The increasing amount of data generated every second of time and available from multiple sources and in various formats has generated new ways of dealing with them: Big Data. Methodologies and technologies have been developed to make good use of these data, but their adoption by organizations is complex in many respects. A review of the state of the art shows several models and frameworks where solutions are proposed to some of these aspects, in a punctual but not integral form. Therefore, it is proposed a methodology for the adoption of Big Data and a model of maturity for it.

@@ -1,0 +1,3 @@
+Portuguese web accessibility in electronic public procurement platforms
+ABSTRACT
+The Internet is extremely important for the publishing of information and for the interaction between the society elements. Due to this, it's essential that the web presents itself accessible to all, including those with any kind of disability. An accessible web may help the handicapped citizens interact with the society in a more active way, including the electronic public procurement platforms. This paper presents a study made with a universe of 8 Portuguese certified platforms (by CEGER), using a W3C referenced tool (Total Validator), and presents some statistical results according to the Portuguese Classification of the Enterprises Activities.

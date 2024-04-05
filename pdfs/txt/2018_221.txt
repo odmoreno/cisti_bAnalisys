@@ -1,0 +1,3 @@
+Videogames in teaching/learning Physics: A case study with “Portal 2”
+ABSTRACT
+We describe the use of the 3D video game, “Portal 2”, in the teaching / learning of Physics, with students of higher education engineering, with learning difficulties. We exemplify the use of “Puzzle Maker”, the tool that integrates “Portal 2” and allows the construction of game levels, as a laboratory tool to acquire and analyze data referring to virtual experiences, in harmony with the physical models corresponding to the curricular contents.

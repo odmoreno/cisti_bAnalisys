@@ -1,0 +1,3 @@
+A stylebook for a new enviroment: Www.librodeestilo.com
+ABSTRACT
+The presence and use of the stylebook in Spanish newspapers on the Internet focuses the work of a multidisciplinary team of university researchers, journalists and technicians with wide experience in free software. This group is developing a tool that, under the title www.librodeestilo.com, aims to provide media and journalistic content creators on the Internet a free, accessible, participatory and individualisable book.

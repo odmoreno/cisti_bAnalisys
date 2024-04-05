@@ -1,0 +1,3 @@
+State of the art of on demand mobility services
+ABSTRACT
+This document aims to understand the current mobility paradigm, and how the new mobility services offer flexible, inclusive and sustainable solutions to their users. To this end, a brief state-of-the-art of on demand mobility services is provided. Here, we also analyze these services in the light of a set of attributes, relevant to the understanding of what characteristics an on demand service should have.

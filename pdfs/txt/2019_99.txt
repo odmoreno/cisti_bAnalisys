@@ -1,0 +1,3 @@
+Web Platform to Support Multidimensional Assessment of Human Functioning
+ABSTRACT
+The present article reports a study that aimed to develop a web platform to support a comprehensive set of clinical tools for the assessment of human functioning. The platform allows the selection of the most appropriate assessment tools for a given patient, the registration of the assessments carried out, as well as the access to consolidated information for correct decisionmaking.

@@ -1,0 +1,3 @@
+Proposal of a model for scientific papers workshops creation: The case of the Gestão em Tecnologia da Informação (GTI) Group — Universidade Tecnológica Federal do Paraná Campus Cornélio Procópio
+ABSTRACT
+The main goals of a university is increase the quality of scientific production and share the knowledge among members of research group. Within this context, this paper to propose a model for the creation of papers workshops. The model was developed and instantiated, experimentally, by the researchers of the Grupo de Gestão de Tecnologia da Informação (GTI) of Universidade Tecnológica Federal do Paraná (UTFPR). The researchers involved in these workshops published three articles and improved the knowledge dissemination in the GTI.

@@ -1,0 +1,3 @@
+Proposal for semiotics inspection method application in coming artifacts requirements survey activity
+ABSTRACT
+In order to minimize the most frequent problems in project management, communicability, this paper proposes the application of semiotic inspection method recommended by the semiotic engineering the artifact mental map, the analysis requirements of a software library, the loan requirement by means of experimental research with application of a verification questionnaire communicability in the proposed artifact.

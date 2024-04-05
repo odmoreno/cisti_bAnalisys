@@ -1,0 +1,3 @@
+Data restoration and file carving
+ABSTRACT
+This document proposes to make a contribution to the conceptualization and implementation of data recovery techniques through the abstraction of recovery methodologies and aspects that influence the process, relating human motivation to research needs, whether these are for the Auditing or computer science, allowing to generate classification of recovery techniques in the absence of the metadata provided by the filesystem, in this sense have been proposed to file carving techniques as a solution option. Finally, it is revealed that while many file carving techniques are being implemented in other tools, they are still in the research phase.

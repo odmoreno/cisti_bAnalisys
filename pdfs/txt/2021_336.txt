@@ -1,0 +1,3 @@
+Study on Accessibility of Videoconferencing Tools on Web Platforms
+ABSTRACT
+The COVID-19 pandemic has globally expanded the use of online communication tools in the most diverse areas such as work, study and interpersonal relationships. In this study, we investigated what activities people with disabilities can perform with the main communication tools (activities such as joining and leaving meetings, enabling and disabling cameras and microphones, interacting with others in chats, etc.). Our contribution consists of identifying access barriers encountered by people with disabilities. We used data collection tools such as questionnaires, as well as field studies, to reveal the access barriers identified by the interviewees.

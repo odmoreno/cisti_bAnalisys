@@ -1,0 +1,3 @@
+Platform for Space Management in a Higher Education School
+ABSTRACT
+In higher education institutions there is an increasing variety of teaching and research activities to be developed that need appropriate spaces and adapted to needs. Since some actions have more demanding priorities and restrictions than others, it is necessary to make an efficient management of resources, namely the spaces to be reserved. In this sense, this article presents a space management platform applied to a higher education school but which can be easily adapted to other installations.

@@ -1,0 +1,3 @@
+Maturity models in the hospital information systems management initial research
+ABSTRACT
+In the present paper we put forth a preliminary research aimed at the development of an encompassing maturity model for the management of hospital information systems. The development of this model is justified to the extent that current maturity models in the field of hospital information systems management are still in an early development stage, and especially because they are poorly detailed, do not provide tools to determine the maturity stage nor structure the characteristics of maturity stages according to different influencing factors.

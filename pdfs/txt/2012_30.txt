@@ -1,0 +1,3 @@
+gHRV: A user friendly application for HRV analysis
+ABSTRACT
+This paper introduces a software application designed for Heart Rate Variability (HRV) analysis. The application, named gHRV, was implemented using Python programming language, and it is partially based on RHRV, an R package developed by the authors. gHRV is now in an early development stage, and it is focused on being used by researchers or clinical professionals non skilled in informatics. As a consequence, easy of installation and use are key aspects in its design. In this paper, the application gHRV is presented from an user's point of view and programming resources used in developing gHRV are also commented. Finally, the paper introduces some ideas for further work and conclusions.

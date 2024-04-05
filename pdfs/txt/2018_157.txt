@@ -1,0 +1,3 @@
+An insight into data journalim
+ABSTRACT
+It is an international journalistic trend nowadays, but isn't a new process, the data journalism - today supported by information technologies and systems - is a way to find new information into a lot of data. The implementation of data journalism creates changes: first in productive routines of journalists and after in readers' experience. Based on the perceptions of readers collected, this article pretends to understand which promotes strong betting on data journalism.

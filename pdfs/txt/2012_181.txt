@@ -1,0 +1,3 @@
+Required skills to successfully perform a role in a formal structure mobile and ubiquitous computing
+ABSTRACT
+This paper discusses the capabilities that a minimum own device must be able to successfully perform a role in a formal structure for mobile and ubiquitous computing. The mobile and ubiquitous computing formal structure model is inspired by concepts that come from organization theory and sociology. It is argued that if a device is only partially competent to perform a particular role in a given context, may yet play this role in collaboration with other devices also partly responsible for the performance of this role in this context.

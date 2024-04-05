@@ -1,0 +1,3 @@
+The use of the methodology Extreme Program and RUP to the development of home automation experiments
+ABSTRACT
+This article is aimed to show the use of Extreme Program methodology and some RUP documents - Rational Unified Process to create Home automation of experiments in a residence, aimed at low cost. The project permeates the development of a multiplatform computer system that can be used by current browsers and Android phones, able to control the basic features of a residence as lighting, air conditioning, sound and security.

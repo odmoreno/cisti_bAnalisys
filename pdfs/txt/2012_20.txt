@@ -1,0 +1,3 @@
+QoSTVModel: A semantic model for analysis of QoS in interactive applications for SBTVD
+ABSTRACT
+This paper aims to investigate and analyze the requirements of Quality of Service (QoS) in the Brazilian Digital TV System (SBTVD). To achieve this goal we propose a semantic model for knowledge representation, which covers the main elements that suffer influence and/or produce impacts over the quality level provided by interactive applications. Despite this model focuses the Brazilian TVD System, we believe that it can help the automated reasoning on the feasibility of interactivity tasks by considering applications running over different technological circumstances.

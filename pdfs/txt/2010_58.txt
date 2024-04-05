@@ -1,0 +1,3 @@
+Comparative analysis between the techniques used in the requirements engineering, evaluating such techniques forehead to the characteristics of software projects
+ABSTRACT
+It is tried to emphasize the importance of the Engineering of Requirements in the development of software, its model of processes and activities, also, to inform on the tools and techniques more used in the obtaining into requirements for the construction of projects or solutions for the clients, in addition, a comparative one between activities, projects and tools and techniques, that determine the best options to be used in the engineering of requirements. To define clear and needs to Engineering requirements and some its characteristics.

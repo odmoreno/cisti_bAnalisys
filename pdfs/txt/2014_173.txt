@@ -1,0 +1,3 @@
+Improved communication in distributed agile software development
+ABSTRACT
+The search for quality and improvement in the process of developing software has grown daily, mainly in the Distributed Software Development (DSD) wherein the problems inherent of physical distance become the understanding more complex. This article presents a communication solution for the software projects distributed that uses agile processes. This solution was developed through a take action research conducted in a real DSD scenario. Through the results, the conclusion is that there was a maximization of communication performance and productivity between the groups within the information spread throughout the parts involved.

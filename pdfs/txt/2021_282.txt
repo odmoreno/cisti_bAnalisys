@@ -1,0 +1,3 @@
+Digital Marketing and Big Data: a bibliometric analysis of scientific production from the Scopus database
+ABSTRACT
+To identify the most frequently developed topics in the area of Big Data and Digital Marketing, a quantitative analysis was developed in December 2020. This analysis was focused on 750 publications and later on 67 publications on Big Data and Digital Marketing from the Scopus database. A bibliometric analysis was developed using the VOSviewer software and the technique of term co-occurrence and author co-authorship. Clusters were found for each of the analyzed situations.

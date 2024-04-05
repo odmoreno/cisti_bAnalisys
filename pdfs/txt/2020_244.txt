@@ -1,0 +1,3 @@
+Cybersecurity as a protection factor in the development of Smart Cities
+ABSTRACT
+Smart Cities and the use of Information and Communication Technologies facilitate unprecedented development in the exchange of information and communications, but at the same time entails serious risks and threats that can affect data security. This article carries out a cybersecurity analysis for the protection of information, as well as security problems related to theft and loss of information; to which users are exposed; the analysis of strategies and approaches within the dimensions of smart cities to take advantage of the opportunities of new technologies and address the challenges that smart cities present.

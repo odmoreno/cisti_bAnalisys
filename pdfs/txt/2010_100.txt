@@ -1,0 +1,3 @@
+A genetic algorithm for solving the two-dimensional cutting in glass sheets problem
+ABSTRACT
+This project consists of the study and development of solution methods based on evolutionary computation to solving Constraint Satisfaction Problems (CSPs). The CSPs consists of a variety of combinatorial optimization problems. In particular, is proposed the development of a genetic algorithm for solving the two-dimensional cutting problem, which consists in to determine an arrangement of pieces to be cut, maximizing the glass sheets utilization, but respecting the constraints imposed by production flow and delivery schedules.

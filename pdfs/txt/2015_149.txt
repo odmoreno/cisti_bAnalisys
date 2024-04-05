@@ -1,0 +1,3 @@
+Security by design factors for developing and evaluating secure software
+ABSTRACT
+Secure by Design (SbD) is a project management oriented philosophy to develop secure software. This paper is the result of research based on the practices proposed by SbD. A security factors structure to manage such projects is defined. The factors are structured into three organizational levels (strategic, tactical and operational). The purpose is to facilitate the implementation and evaluation of SbD. The security factors structure for software engineering projects has been mapped with the most representative frameworks and standards and the results are shown.

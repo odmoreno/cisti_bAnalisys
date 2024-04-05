@@ -1,0 +1,3 @@
+iLearnTest: Educational game for learning software testing
+ABSTRACT
+This paper presents an educational game (iLearnTest) to teach software testing. The body of knowledge covered by the game corresponds to the ISTQB certification foundation level. The game was validated in an experiment with college students where it was intended to assess whether the results of an examination by the students who used the game in learning were better than those obtained by students who have not used it. The results show that the iLearnTest may be a good complement to traditional teaching.

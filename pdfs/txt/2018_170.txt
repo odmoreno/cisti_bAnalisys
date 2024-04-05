@@ -1,0 +1,3 @@
+Personalized search of scholarly media: An approach based on semantic web technologies
+ABSTRACT
+One of the essential purposes of science is the publication of its outcomes. In order to support the researcher to find adequate scholarly communication media to disseminate their research results, in this paper, the implementation of a personalized search platform is presented. ScienceQuest, is a system that provides the user with different specialized and personalized search options. Through this platform, researchers can query and plan, according to their topic of interest, the potential events or journals to attend or send their manuscripts.

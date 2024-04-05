@@ -1,0 +1,3 @@
+Automatic Data Extraction to Support Management Application
+ABSTRACT
+When designing a custom-made product it is important to provide the customer with a budget that resembles the final price. In this work it will be developed a simple application in Python to perform automatic data extraction from computer aided design (CAD) files to estimate multiple linear regression models with the intent of obtaining a more accurate cost estimate. The application will provide an estimate of the amount of raw material needed and time taken to produce a simple inflatable and related products.

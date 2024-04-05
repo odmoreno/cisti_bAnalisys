@@ -1,0 +1,3 @@
+Training Systems for Control of Mobile Manipulator Robots in Augmented Reality
+ABSTRACT
+In this article, an augmented reality application interface was developed, using a technological tool oriented towards teaching-learning that allows a mobile manipulator robot training system to be created. Focusing on the simulation of autonomous control algorithms and the implementation of animations made in the Unity 3D software, which will allow the user to interact with the real world through a mobile device where the rear camera will used to capture the image and the touch screen for visualization. It is verified that the application is intuitive and understandable for the user to operate, in order to provide the necessary knowledge of the operation and structure of the robot.

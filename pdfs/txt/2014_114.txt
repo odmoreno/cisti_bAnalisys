@@ -1,0 +1,3 @@
+Current state of IT Governance in banking
+ABSTRACT
+IT Governance plays a key role in the development of banking business activities and is an indivisible part of corporate governance as a whole. This paper presents the current state of the art of the IT governance framework initiatives implemented or followed in banking. Additionally, a high level survey on the use of IT governance frameworks has been conducted amongst a group of IT Security representatives of the main banks operating in Spain.

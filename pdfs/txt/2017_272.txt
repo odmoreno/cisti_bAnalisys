@@ -1,0 +1,3 @@
+The challenge of security based of fuzzy reasoning on the surveillance systems
+ABSTRACT
+Working with human behavior is very important, mainly if we consider the neuroscience impact over the security systems. We propose to discover the alarm behavior in different contexts, our study is based on movement expression and describe their behavior with positive and negative alerts values from fuzzy and Bayesian algorithms. The methodology used to provide our framework, to make it much more manageable for the fuzzy use. The conclusions of our research were focused on discover new tools to visualize what the to be developed in this field.

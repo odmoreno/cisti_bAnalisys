@@ -1,0 +1,3 @@
+Critical success factors for implementing IT governance in the public universities of Mexico
+ABSTRACT
+The objective of this research paper is to identify and delimit the factors influencing the implementation of the information technology governance (ITG) in the specific context of Mexican public universities (UPM), from a perspective of compiling valuable guidelines that could be applied in the context of the above-mentioned context, given the low levels of adoption and implementation shown by local research.

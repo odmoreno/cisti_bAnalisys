@@ -1,0 +1,3 @@
+PCS, management and learning system to its control
+ABSTRACT
+Sudden Cardiac Arrest (PCS, Paro Cardíaco Súbito) is one of the principal death reasons in Europe (Perkins et al. 2015). One of the most important things that a person should know it should be how to apply recovering techniques. It exist devices that permit to teach how to apply these techniques. This paper explain how a mixed group of researchers are creating a new device that will permit to obtain new signals and techniques to learn how to apply correctly the way to recover a people.

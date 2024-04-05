@@ -1,0 +1,3 @@
+RPA in Finance: supporting portfolio management : Applying a software robot in a portfolio optimization problem
+ABSTRACT
+As globalization increases its scope, by providing better and more effective resources, mainly in the technological field, traditional organizations must seek more efficient processes to overcome the intense competition. Regarding such trend, this paper aims to assess the gain in efficiency when a process is automated by a software robot, the so-called Robotic Process Automation (RPA). To accomplish such a task, a finance process was developed here with the help of the software provider UiPath. Besides, a bridge between the theoretical aspects of information systems and RPA was also presented here.

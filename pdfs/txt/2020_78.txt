@@ -1,0 +1,3 @@
+Digital Transformation in Higher Education Institutions with Business Process Management : Robotic Process Automation mediation model
+ABSTRACT
+Digital transformation and the current digitalization pressure are no stranger to Higher Education Institutions; the problem is how to carry them out properly. It is for this reason that this article proposes a theoretical model of digital transformation implementation in Higher Education Institutions with the discipline of Business Process Management (BPM) mediated by Robotic Process Automation (RPA).

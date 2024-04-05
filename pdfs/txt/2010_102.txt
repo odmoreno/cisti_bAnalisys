@@ -1,0 +1,3 @@
+Avalore: A system for evaluation of R&D projects
+ABSTRACT
+This paper presents the system Avalore, which was design for supporting the selection of research and development projects (R&D). The evaluation model embedded in the system is briefly presented, the decisions about the used technology and system architecture are described, and the essential characteristics of the system are referred.

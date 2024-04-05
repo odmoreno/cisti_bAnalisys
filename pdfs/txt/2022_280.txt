@@ -1,0 +1,3 @@
+Development of a Tool for Automatic Coverage Assessment and Simulation of Production Plans
+ABSTRACT
+The Planning and Fulfilment planners spent considerable amount of time and manual effort on data collection and transformation for analysis, lacking agility, and integration of necessary information to mitigate the effects of the global semiconductor crisis. Thus, a tool was developed with the objective to streamline the decision-making process in the planning team with automated files that allow not only to analyze and define raw material coverage, but also to simulate production plans – the Standard Allocation files. The development of this tool contributed to the digital transformation and increased efficiency of activities through automation.

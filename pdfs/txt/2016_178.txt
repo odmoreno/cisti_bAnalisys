@@ -1,0 +1,3 @@
+Using problem solving methods to guide the development of knowledge-based systems: A case use on assessment systems
+ABSTRACT
+This work describes a practical case for an assessment knowledge-based system (KBS). We consider that problem solving methods play an essential role in the development process of a KBS; not only to describe the inference process, but also to guide many development activities, such as facilitating a common understanding between domain experts and knowledge engineers, scheduling knowledge acquisition sessions, or describing key information structures. Furthermore, we think that, in order to develop a successful KBS, we must integrate it in an Information System which facilitates the understanding of the KBS results.

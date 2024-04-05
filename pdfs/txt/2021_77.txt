@@ -1,0 +1,3 @@
+A Measurement Maturity Model in the Use of Spatial Data Applied to e-Government
+ABSTRACT
+The use of open data in e-government initiatives leads to the development of interoperability solutions between different public institutions using emerging technologies. A particular type of open data is the so-called spatial data, those that contain information about the geolocation of a real space and that can have multiple applications in forest engineering, environmental conservation, hydrology, meteorology, among many others. The present study proposes a model to measure the maturity in the use of spatial data in institutions of the Peruvian public administration, as a basis for the elaboration of electronic government services.

@@ -1,0 +1,3 @@
+Youth labor precariousnes in Ecuador: what is the role of ICT?
+ABSTRACT
+The main of this article is to analyze the role of ICT on the probability of youth job precariousness, measured from the perspective of supply and demand of work. To do this, we use probit models in which the characteristics of the individuals and we consider some interactions with the use of ICT as explanatory variables. The results describe the impact of ICT use on labor precariousness: knowledge and ICT use allows young people to reduce their chances of being underemployed or informal workers.

@@ -1,0 +1,3 @@
+Gaia VERO — Framework for verification and validation managing
+ABSTRACT
+Through verification and validation of processes and activities, this article describes Gaia VERO framework and its application. In order to facilitate its understanding and application processes, they were divided into four functional domains (Planning and Standardization - PP, Development - DE, Completion and Support - FS and Monitoring and Evaluation-MA). Each domain has a set of processes that can be implemented gradually, these can be classified into 4 levels of maturity. Each of these processes has a well-defined business focus and a checklist of questions that helps in formalizing the practice of actions that foster quality improvement of its processes and development activities.

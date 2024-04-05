@@ -1,0 +1,3 @@
+Usability and impact of Electronic Health Records for Primary Care Units in Portugal
+ABSTRACT
+As of June 2011, the adoption of electronic prescription (EP) systems will be mandatory in Portugal. New Primary Care Units (PCU) since 2008, and increasingly, existing ones, are using a full Electronic Health Record (EHR), which is regarded as a fundamental step to improve quality of patient care. Lack of evidence persists as to professionals and patients perception of these desired outcomes of informatization efforts. Furthermore, PCUs without any or full EHR are faced with having to choose between options on the market from three EHR systems prepared and certified for General Practice: SAM - Sistema de Apoio ao Médico, VitaCare and MedicineOne.

@@ -1,0 +1,3 @@
+Conimbriga as paradigm of cultural heritage (virtual) recriation
+ABSTRACT
+The preservation of the sites, monuments and other spaces, cultural heritage of the Humanity, has been one of the areas of greater use of computer graphics. This paper presents a methodology of expeditious and low-cost work aimed at virtual recreation of these historical spaces, which, through their availability on the web, allows its analysis and study by experts, as well as their access to the public, thus contributing to a better understanding of our history.

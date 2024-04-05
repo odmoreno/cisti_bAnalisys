@@ -1,0 +1,3 @@
+A cloud computing architecture model for complex decoupled tasks in collaborative environments
+ABSTRACT
+This work describes a cloud computing architecture model for collaborative environments based on decoupling single processes of complex tasks through queues, and offering them as a service in the cloud. Complex tasks are built by means of relations between single processes, using a task specification language. A dispatcher orchestrates the whole model, deciding the next process to be executed in every stage. The cloud model implementation is scalable and elastic, dynamically adapting the resources to the application demands. Both, processes and dispatcher, are auto-scalable thus making the system robust, fault tolerant and flexible.

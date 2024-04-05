@@ -1,0 +1,3 @@
+Analytical System for Online Scientific Journal Systems Using Linked Data
+ABSTRACT
+The present work presents a process for the development of an analytical system for online scientific journals integrating steps of a traditional analytical systems development methodology, with stages required to apply the linked data principles. The data were represented using their own vocabulary for statistical data and RDF (Resource Description Framework) and then they were linked with data obtained in the Semantic Web. Finally, the results of the system developed with the proposed process, the visualization of the set of generated data, and several queries carried out with SPARQL are indicated.

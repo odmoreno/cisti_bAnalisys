@@ -1,0 +1,3 @@
+Real-Time Logistic Monitoring (RTLM)
+ABSTRACT
+The average rate of fruit that perishes during transport varies between 10 and 25%. This volume of losses justifies the need for means of quality control. Under the SaaS paradigm, the RTLM (Real-Time Logistic Monitoring) aims to answer to this problem by implementing a real-time monitoring system of the conditions in which the fruit is transported. The RTLM project includes a responsive web application, a monitoring services system, an ETL engine, and a set of integrated services through sensor plugins developed with Arduíno technology.

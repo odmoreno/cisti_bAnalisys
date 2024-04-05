@@ -1,0 +1,3 @@
+Requeriments elicitaction of resilience for systems information based on the model CERT-RMM
+ABSTRACT
+It intends emphasize the important of an effective requirements elicitation of resilience to determine the resilience of systems information based on elicitation techniques and the CERT-RMM model, furthermore of a comparison between the types of requirements, elicitation technical, software resiliency features and areas of CERT-RMM model stipulating the relationship between resilience activities and requirements elicitation.

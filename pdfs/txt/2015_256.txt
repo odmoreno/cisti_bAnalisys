@@ -1,0 +1,3 @@
+Different strategies in the development of ANFIS to recognize vowels
+ABSTRACT
+This document is the result of a first approach to recognizing vowels through using Adaptive Neuro-Fuzzy Inference Systems (ANFIS), applying different strategies to train these systems. The tests perform with data from a same speaker used for training and checking; also from another speaker with different gender for checking. Training data are established minimally. Different strategies are applied and the use of cloning with variation of data is verified. The results provide a comparison of different strategies to improve vowel recognition on a specific speaker who trained the system, and another speaker of different gender who did not participate during the training of the system.

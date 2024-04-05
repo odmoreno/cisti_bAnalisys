@@ -1,0 +1,3 @@
+Extracting word clouds in Git repositories
+ABSTRACT
+Git based social coding platforms (e.g.; GitHub, BitBucket) have been broadly adopted by many open source projects, and have became an important source of technical and social information about software development. That information could be employed for identifying programming conventions used by software development teams. This work intends leverage the naming patterns immersed in a Git repository of source code, for getting word clouds as a summary of it. Git repositories of several open source projects have been employed to evaluate the proposal. The results show significant words mined from the repositories, and frequent implementation features for code artifacts which use these words.

@@ -1,0 +1,3 @@
+Machine Learning Strategies to Analyze Positive or Negative Sentiments in Twitter Texts
+ABSTRACT
+The task of analyzing people’s emotions and feelings is known as Sentiment Analysis (SA). Currently, several techniques have been used together for extracting and detecting feelings, such as Natural Language Processing (NLP) and Machine Learning (ML) algorithms. The present work aims to reuse and evaluate an intelligent model to analyze positives or negatives in Portuguese texts on Twitter, considering that these feelings can be indicators of depression. Therefore, we have used ML algorithms together with SA and NLP techniques, resulting in an accuracy of 79%.

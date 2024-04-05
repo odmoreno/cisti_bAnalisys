@@ -1,0 +1,3 @@
+Reaching better programming learning and teaching, categorizing students’ SWOT analysis
+ABSTRACT
+Learning to program for the first time is usually a problem worldwide. A variety of reasons, relatively well identified, have been pointed by several authors as the origin of this problem. Several tools, approaches and strategies have also been developed and applied over time. However, the problem remains. In this paper we tried to understand students’ points of view on the subject throughout the various topics exposed during the classes by a categorization and analysis of students SWOT analysis. The data was collected during classes and afterwards was analysed.

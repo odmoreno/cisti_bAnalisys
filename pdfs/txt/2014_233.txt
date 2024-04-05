@@ -1,0 +1,3 @@
+Rule base identification toolbox for fuzzy controllers
+ABSTRACT
+The performance of a fuzzy controller is determined in a great amount by the underlying rule base. In this paper, we present tuning methods implemented in our rule base identification and tuning toolbox. The toolbox is easy-to-use Matlab based software with graphical user interface. All the implemented tuning methods support the creation of low complexity and compact rule bases that contain only the most relevant rules. Besides, the clonal selection based method also can be applied in case of covering rule bases as well as for the tuning of input/output gains of fuzzy controllers.

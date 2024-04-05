@@ -1,0 +1,3 @@
+Applying machine learning methods to understand unstructured information system big data
+ABSTRACT
+Over 50% of all information systems (IS) projects fail around the world. The research question was: Can machine learning (ML) find the failure causes by searching unstructured IS project big data? A pragmatic mixed methods research design was developed. After a literature review, structured programming, random forest ML and parametric statistics were applied to a large big data source containing unstructured IS project metrics. A statistically significant model was created, identifying 7 features from ML at an 80% classification accuracy, and 4 predictors of IS project failure, with a 27% effect size.

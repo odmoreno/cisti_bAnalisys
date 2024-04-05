@@ -1,0 +1,3 @@
+Metamodeling applied to a measurement system
+ABSTRACT
+Measurement processes, specifically in software engineering, are of great importance to organizations' success. Important data for cost and time estimates only can be obtained by systematic measurement. However, to measurements get good results, it is important collect data from the organization itself. These data should be recorded in a database. In this sense, this paper will present a proposal for metamodeling that allows the user define their owns measurement metrics without changing the application source code.

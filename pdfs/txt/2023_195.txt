@@ -1,0 +1,3 @@
+How Leading Public Cloud Providers Deliver FaaS Environments: A Comparative Study
+ABSTRACT
+Research indicates that Function-as-a-Service (FaaS) tends to be the main model of next cloud computing generation. In view of this, interest has grown in finding out how the FaaS environment behaves in different conditions. In this work, aided by the Orama framework, an analysis of the performance of FaaS environments in the providers AWS, GCP, Azure and Alibaba in five different geographic regions is carried out: USA (East), USA (West), Europe, Asia, and Australia. The results show the existence of performance differences according to the region for the same provider, as well as differences in the average performance of applications between providers.

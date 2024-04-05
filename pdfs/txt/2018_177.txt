@@ -1,0 +1,3 @@
+Technical assistance to school network using BPM
+ABSTRACT
+The adoption of business process management (BPM) systems has as main goal to simplify the management of the business processes of and the consequent improvement of the operational activities. It has become increasingly important in today context of digital transformation and accelerated change in business processes. In order to evaluate and prepare for the adoption of BPM, Barcelos City Council decided to develop a BPM-based solution for the management of the computers network of Pre-school and 1st cycle Basic schools. Using the ProcessMaker BPM system, computer assistance requests from the educational establishments can be submitted and monitored.

@@ -1,0 +1,3 @@
+Project portfolio prioritization aided by verbal decision analysis
+ABSTRACT
+Modern companies usually work with a lot of projects. Defining an order of execution for such projects is of paramount importance for the day to day life of such companies. For this, it is necessary to identify the prioritization criteria conveniently. Verbal Decision Analysis is a framework that contains several multi-criteria methods for classification and ordering of alternatives, among them the ZAPROS III-i method. This paper reports the use of the ZAPROS III-i method for the prioritization of a project portfolio of a governmental organization. The method was appropriate for the application scenario, providing satisfactory results according to the analysis performed.

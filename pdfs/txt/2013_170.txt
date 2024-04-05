@@ -1,0 +1,3 @@
+Configuration Management process implementation of ITIL framework: Case study — Culture, Tourism and Transport Regional Department of Madeira
+ABSTRACT
+This paper presents the results of an academic research about Information Technology Service Management (ITSM) conducted in 2012 in a public regional organization in Madeira Autonomous Region, the Culture, Tourism and Transport Regional Department. We select the Configuration Management process of Information Technology Infrastructure Library (ITIL) as a model to implement in this organization to manage the configurations of the IT infrastructure. With this study we can conclude that the ITIL is useful for the configuration management, increasing the quality of IT services within the regional public administration.

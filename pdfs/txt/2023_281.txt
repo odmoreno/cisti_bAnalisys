@@ -1,0 +1,3 @@
+A brief history of the artificial intelligence:chatGPT : The evolution of GPT
+ABSTRACT
+Although the GPT natural language model has evolved rapidly in recent years, it still faced challenges. With the introduction of GPT-3 and its evolution to ChatGPT, a turning point was presented in the development of natural language models for the generation of more advanced dialog responses oriented to contextual and semantic details of the conversation that emulate quite well the human understanding.

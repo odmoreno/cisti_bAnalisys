@@ -1,0 +1,3 @@
+ITVT: An image testing and visualization tool for image processing tasks
+ABSTRACT
+Nowadays, software tools to test applications in several areas have been developed by different research groups. However, to our knowledge, no tools to make parameterized unity tests with images can be found in the literature. In this work a prototype tool called ITVT (Image Testing and Visualization Tool) has been developed, that allows for performing parameterized unity tests and visualization of images. This tool can be used in parallel with general-purpose programming, environments. As an application of ITVT, several, implementations for fingerprint segmentation were developed and tested. Differences were found in the performance for the different algorithms.

@@ -1,0 +1,3 @@
+Predictive models of insolvency: a systematic literature review
+ABSTRACT
+This study aims to explore the importance of predicting financial distress, insolvency and bankruptcy for investors, creditors, banks and other stakeholders of companies due to the likelihood of corporate default. Since the 2008 financial crisis, it has been a priority for firms to find the best predictive model for forecasting possible weak conditions. This study presents a systematic review of work already done and increases the degree of knowledge through the use of advanced data analysis techniques and using financial and non-financial indicators.

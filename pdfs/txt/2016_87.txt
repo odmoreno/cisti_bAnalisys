@@ -1,0 +1,3 @@
+e-CRM's technological context factors in Spanish hotels
+ABSTRACT
+This paper analyzes the factors technological context that uses Spanish hotels in the e-CRM systems. It is built on the model of Chang, Liao and Hsiao (2005). The data are collected from corporate web and analyzed using Rasch Model (1961). The results indicate that the technological context of e-CRM is based more on the analysis of customer information than in the integration of e-CRM technologies. Both factors are conditioned by the size of the hotel.

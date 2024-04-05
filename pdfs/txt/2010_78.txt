@@ -1,0 +1,3 @@
+SmartVest: Integrating clothing with domotics, health care and information technologies
+ABSTRACT
+This paper presents the SmartVest project {Smart + Vestis (Latin noun meaning clothes}, that is under development at the University of Beira Interior, Portugal. It integrates clothing technologies with electronics and information technologies, for further application in home automation (domotics) and health care (eHealth). Besides the technological aspects, also fashion and usability of the clothing pieces are considered.

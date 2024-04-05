@@ -1,0 +1,3 @@
+Measuring the Information Society System for an Online Panel of Internet Users
+ABSTRACT
+This paper presents the information system developed by the Living Lab on Media Content and Platforms (LLMCP) for the creation of an online panel of Internet users. The goal is to devise a tool that allows to research and to understand some dimensions of our life in the information society, through realtime monitoring of online behavior.

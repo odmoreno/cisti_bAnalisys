@@ -1,0 +1,3 @@
+Creativity in Prototypes Design: The case of Social Organizations
+ABSTRACT
+The study of creativity in the design of prototypes for an organization is of particular interest given its potential for innovation. This article proposes an approach to the design of prototypes using creativity techniques and including sustainability concerns. The application of the approach is illustrated by presenting a real case of development of an aggregator and multidisciplinary prototype for the optimization of social services. The approach includes guidelines for the use of creativity techniques in requirements engineering and for incorporating sustainability concerns.

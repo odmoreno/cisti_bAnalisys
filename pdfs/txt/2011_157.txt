@@ -1,0 +1,3 @@
+Model-driven engineering applied in functional Testing: The practical experience of the AQUA-WS project
+ABSTRACT
+The test phase is one of the most critical in Software Engineering. During this phase, the development team has to assure that the system covers the user's requirements and expectations. This paper presents a global view of an approach named NDT (Navigational Development Techniques), which uses the model driven paradigm to generate test cases from functional requirements. This paper analyzes this process and refers to the AQUA-WS project: a real project which is currently using this process.

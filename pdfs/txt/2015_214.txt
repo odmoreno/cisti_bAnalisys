@@ -1,0 +1,3 @@
+RNA-Seq UD: A bioinformatics plattform for RNA-Seq analysis
+ABSTRACT
+In this work is presented a process of design and building of a software that gather the tools required for a RNA-Seq data bioinformatics research. From the proposed a workflow is proposed that represents all a process that goes through the main stages of the treatment of transcriptomic and next generation sequencing data, such as preprocessing, mapping, assembly, annotation, and differential expression; Creating a platform of integral works and user-friendly that facilitates the work of researchers in the transcriptomic area. Availability: http://tinyurl.com/Download-RNA-Seq-UD

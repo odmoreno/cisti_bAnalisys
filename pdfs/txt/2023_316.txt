@@ -1,0 +1,3 @@
+Application of Conformable Fractional Kumaraswamy Distribution
+ABSTRACT
+In probability and other applied sciences, distributions are used extensively. We employ fractional differential equations in this study (FDE).The work offers conformable fractional analogs of density, cumulative distribution, survival and hazard functions, four fundamental ideas in probability distributions of random variables. Additionally, it introduces $r^{th}$ moments, $r^{th}$ centra1 moments, variance, skewness, and kurtosis as well as conformable fractional analogs to anticipated values. Additionally, it introduces conformable fractional analogs of Shannon and other entropy metrics. To the conformable fractional Kumaraswamy distribution, all notions had been applied.

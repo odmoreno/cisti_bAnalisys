@@ -1,0 +1,3 @@
+Information System for the Measurement of Credit Risk in Financial Institutions
+ABSTRACT
+The measurement of credit risk is a major concern for financial institutions that are dedicated to placing resources and therefore, require elements that allow them to perform analysis and monitoring of the evolution of the credit behavior of their clients, in this way they can minimize future losses. In order to provide tools that support companies has developed the Credit Risk Management Information System that allows the calculation of the probability of default of customers through transition matrices. This tool is useful for a company in the financial and solidarity sector that allows them to manage credit risk more efficiently.

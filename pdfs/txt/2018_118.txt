@@ -1,0 +1,3 @@
+The scratch pilot experience in 1st cycle of basic education schools the students perspective
+ABSTRACT
+The use of technological tools in the teaching and learning process allows students the digital skills essential to their inclusion in active and social life. The integration of programming languages, such as Scratch, contributes to the acquisition of these skills and to this inclusion. The objectives of this communication are to describe the pilot experience of Programming Languages in the 1st CEB, in two classes of the 3rd and 4th years, of the 1st Cycle of Basic Education, in Portugal and present a study that shows the perspective of the students who participated in this experiment.

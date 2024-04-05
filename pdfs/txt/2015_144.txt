@@ -1,0 +1,3 @@
+Information system for the management and visualization of multisensorial contents
+ABSTRACT
+Humans sense the surrounding environment through five senses: sight, hearing, taste, smell and touch. This is valid not only for real life but also when one is exposed to virtual environments. It already exists systems that exploit the sensorial stimulation of more than one sense, however there are no available low-cost solutions that allow creative professionals to create and visualize multisensory contents. On this paper it is presented a solution for the creation and delivery of multisensory contents that allow users to create their own multisensory experiments. An evaluation of the developed solution that shows the potential of these new contents is also described.

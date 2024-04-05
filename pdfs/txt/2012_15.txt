@@ -1,0 +1,3 @@
+Design and implementation of a simulation platform for Link-16 networks using NS-2
+ABSTRACT
+Research on modeling and simulation of tactical data link systems, especially on Link 16, has become a significant area in recent years. This is due to NATO has decided to install Link 16 tactical systems on all of their military platforms used to defense and rescue actions. Link 16 is currently the most modern standard for secure data transmission over military networks. This paper presents a layered model for Link 16 simulation. It was developed and evaluated on NS-2.34 simulator. In addition we propose different simulations and scenarios to evaluate our Link 16 model and finally the results of this studio are presented.

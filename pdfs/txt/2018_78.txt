@@ -1,0 +1,3 @@
+U-CLX model proposal using the standard xAPI
+ABSTRACT
+The Ubiquitous Learning model, based on learning experiences and connective learning for higher education U-CLX, is a proposal to generate a new dimension of U-Learning. The model explores the possibility of implementing the xAPI standard to manage the learning experiences that are generated in a ubiquitous learning process, the model has two components, a pedagogical component and a technological component.

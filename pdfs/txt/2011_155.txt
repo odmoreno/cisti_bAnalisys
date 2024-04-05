@@ -1,0 +1,3 @@
+OCL2TestSW: Generating test software from OCL specification
+ABSTRACT
+The main contribution of this work is generating test cases from an OCL specification. This testing software is used to validate the database applications, which are used to enforce these constraints. The generated testing software includes: validation queries and test cases. Our approach is implemented as an add-in tool in Rational Rose called OCL2TestSW.

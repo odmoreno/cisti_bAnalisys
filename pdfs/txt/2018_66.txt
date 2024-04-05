@@ -1,0 +1,3 @@
+Evaluation of relation extraction systems for Portuguese language pt-BR
+ABSTRACT
+Many applications in information extraction, natural language understanding, and information retrieval require an understanding of the semantic relations between entities. Several approaches have been proposed for the extraction of relations from unstructured sources. For some languages, such as English, there is extensive research and literature. Thus, based on this scenario, this paper aims to adapt and evaluate the ReVerb and OpenNLP tools for Portuguese pt-BR. The results indicate that the ReVerb adjusted for extracting relations in Portuguese is satisfactory.

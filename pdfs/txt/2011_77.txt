@@ -1,0 +1,3 @@
+A process engine for outsourced software development
+ABSTRACT
+Organizations which seeks new markets, cost and time reduction as well as improve productivity have used new approaches of software development, such as: global software development and outsourcing. This paper proposes a process engine aiming at offer support for a necessary infrastructure between two organizations that adopt developing outsourced software.

@@ -1,0 +1,3 @@
+Blog as a collaborative tool on interaction in classroom: Investigating the acceptance of technical student
+ABSTRACT
+This research aimed to investigate the acceptance of technical training students in the using of the blog as a collaborative tool. To that end, we conducted a case study with students from the technical computing IFPE - Campus Belo Jardim in the discipline of ethics in computing, in traditional teaching. The results indicate that using this tool as a collaborative tool is well accepted by participants, and these, considered a relevant factor in building their knowledge.

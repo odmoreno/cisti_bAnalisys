@@ -1,0 +1,3 @@
+Open educational resources in an individualized education plan
+ABSTRACT
+This paper analyzes the model of Italian educational inclusion model considering the details of a personalized educational plan. The open educational resources (OER) are a complement to the plan. OER facilitates the teaching task on developing and adapting content according to the different needs when them are arranged in repositories to share, reuse and comment. A formalization is presented with the structure of a thesaurus for the incorporation of OER in the processes of the educational plan.

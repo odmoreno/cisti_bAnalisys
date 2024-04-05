@@ -1,0 +1,3 @@
+Source code documentation simul loco
+ABSTRACT
+Comments in source code are one of the aspects of programming languages and tools with a minor evolution along computer's history. In this paper we propose a new kind of comments which breaks the text based limit of comments allowed by current programming languages. Simul loco comments allow creating a graphical comment layer over the source code that can contain any resource to provide a suitable documentation. We tested this brand new concept in REM, an Eclipse's plugin that allows associating a graphical comment file with any Java or C file. REM shows the abilities of simul loco documentation and the huge amount of possibilities that this approach offers, particularly in agile software development.

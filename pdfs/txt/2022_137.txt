@@ -1,0 +1,3 @@
+DHuTI: A Maturity Model for Human Performance in Information Technology
+ABSTRACT
+Human performance and its management are recurring challenges for organizations. The processes, methodologies and tools related to human performance management (HPM) present a great diversity and complexity. When inserted in the context of Information Technology (IT), HPM has even more particularities and singularities inherent to the profile of the IT professional. This research aims to define and present a maturity model that can be used as a roadmap of good practices for the continuous improvement of processes related to human performance, based on the personal and professional development of employees and information technology teams.

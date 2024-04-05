@@ -1,0 +1,3 @@
+Restoring data in solid state devices damaged by crushing and falling, using file carving technique
+ABSTRACT
+This document proposes to analyze the contribution of File Carving techniques in the recovery of data in solid state devices (Solid State Drive - SSD) that have been affected by crush and fall scenarios with different strengths. For this purpose, Semantic Carving and Fragment Recovery Carving techniques have been used. Obtaining results categorized in the metrics: number of files recovered, number of valid files recovered, number of partially recovered files, number of false positives. Finally, the results obtained are compared by applying the mathematical model of linear regression.

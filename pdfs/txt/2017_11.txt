@@ -1,0 +1,3 @@
+Software-defined controllers: Where are we?
+ABSTRACT
+The number of software-defined controllers available in the market has increased greatly in the last few years. Nowadays, it is possible to find proprietary controllers as well as open source controllers. Examples are companies as HPE and Cisco that offer those two types of controllers to their clients simultaneously. It is also important to note that in both, the open source version is a commercial distribution of OpenDaylight. In the current market it is possible to find controllers for different areas of deployment, with a different programming language and supporting different southbound protocols. Therefore, we considered worth providing a description and a comparison of the main existing controllers.

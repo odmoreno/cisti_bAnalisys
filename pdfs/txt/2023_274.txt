@@ -1,0 +1,3 @@
+Comparison Between Sentiment Analysis Approaches Applied to Digital Games
+ABSTRACT
+This article presents an analysis of sentiment classification algorithms, based on texts in Portuguese (Pt-Br) extracted from Twitter and Steam platforms, to determine which are the best Analysis Sentiment algorithms to classify user feedback in digital game contexts. On the Twitter platform, the best algorithm was Stacking with Support Vector Machine meta- classifier reaching 81.5% Accuracy. On the Steam platform, the best algorithm was Stacking with Random Forest meta-classifier reaching 82.8% Accuracy. The results show that the performance of each algorithm tends to improve when using Steam data.

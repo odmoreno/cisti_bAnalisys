@@ -1,0 +1,3 @@
+Evaluation of the response time for an ophthalmologic health records system using different XML databases
+ABSTRACT
+Measuring response times for a Web system is essential to evaluate its performance. This paper presents a comparison of the response times for a Web-based Electronic Health Records (EHRs) system in Ophthalmology, TeleOftalWeb. It makes use of different models of open-source native XML databases: dbXML 2.0, Xindice 1.2 and eXist 1.1.1. The system is modeled using queueing theory (the M/M/1 model) and the service times for each element are calculated. For finding these times a benchmark model is proposed. The main goal of this benchmark is the choosing of the database whose results are in less time.

@@ -1,0 +1,3 @@
+WebSISBRA: Geographic information system for seismological data analysis
+ABSTRACT
+An important question related to seismic data is the need to have access to them quickly and easily. In this context, this paper presents the webSISBRA, a Geographic Information System on the web, comprising the geographic database servers and interactive maps, with the aim of assisting in the recovery and presentation of seismological data. The system was designed and implemented for data analysis in the Seismological Observatory of the University of Brasilia.

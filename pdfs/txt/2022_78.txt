@@ -1,0 +1,3 @@
+IoT-Based SBC Prototype for Automating and Managing Hospital Beds or Stretchers
+ABSTRACT
+This article proposes the research and potential development of an IoT-based SBC prototype for the automation of the management of hospital beds and stretchers, as a result of the inconveniences in the management processes of hospital resources that have a high demand against the provision of services that in this case refers to beds or stretchers within medical institutions, this is where a technology such as IoT plays an important role by streamlining these processes and providing efficiency.

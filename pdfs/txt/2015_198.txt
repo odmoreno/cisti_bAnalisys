@@ -1,0 +1,3 @@
+The Table to Tablet (T2T) therapy software development approach
+ABSTRACT
+This paper presents the Table to Tablet (T2T) project therapy software development approach, which aims to provide a reliable and valid solution for speech and language therapists to work with children with speech sound disorders (SSD). The currently available intervention materials for this kind of paediatric disorder have not been tested or validated and digital materials are scarce. For the T2T project, new tabletop materials and web based intervention software have been developed and results from testing them in a group of seven children with SSD are currently being analysed. Future work will compare the effectiveness of a tabletop approach versus a digital one.

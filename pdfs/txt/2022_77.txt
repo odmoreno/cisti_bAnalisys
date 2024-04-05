@@ -1,0 +1,3 @@
+The Experience of the Elderly in Using Applications : Case Study of a Banking Application
+ABSTRACT
+The inclusion of the elderly in the digital world is still quite incipient in several parts of the world. The lack of satisfaction of the elderly in the use of computational applications is related to the lack of adaptations to their limitations. The feeling of frustration, fueled by insecurity and disorientation, keeps the elderly away from technology. This study proposes a detailed methodology using heuristic evaluation based on works established in the literature on usability and accessibility, taking into account the aging of the population. To validate the set of heuristics, a case study on two banking applications was carried out.

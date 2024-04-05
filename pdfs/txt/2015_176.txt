@@ -1,0 +1,3 @@
+Heart sounds compression through wavelet transform coding
+ABSTRACT
+The cardiac signals compression has been necessary since the telemedicine was considered as a solution to improve lack of medical assistance in the rural zones. When the signals that travel through a telemedicine network are compressed, the bandwidth consumed and the transmission times are reduced. Therefore, this article focuses on a solution for the compression of cardiac signals, using compression techniques that allow obtaining higher compression rates than the G722 codec, which is widely used by commercial tools. The obtained results with the proposed codec show better compression rates and lower codec times when compared with G722 codec.

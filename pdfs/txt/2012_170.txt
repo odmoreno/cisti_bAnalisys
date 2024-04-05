@@ -1,0 +1,3 @@
+Characterization of texture in image of skin lesions by support vector machine
+ABSTRACT
+Due to the increased incidence of skin cancer, computational methods based on intelligent approaches have been developed to aid dermatologists in the diagnosis of skin lesions. This paper proposes a method to classify texture in images, since it is an important feature for the successfully identification of skin lesions. For this is defined a feature vector, with the fractal dimension of images through the box-counting method (BCM), which is used with a SVM to classify the texture of the lesions in to non-irregular or irregular. With the proposed solution, we could obtain an accuracy of 72.84%.

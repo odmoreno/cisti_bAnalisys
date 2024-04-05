@@ -1,0 +1,3 @@
+Computer-supported collaborative questioning. Regimes of online sociality on Quora
+ABSTRACT
+We examine online sociality in Quora, a collaborative Q&A platform, through statistical analysis of 248 answers. Quora members interact through technology and with technology, creating different regimes of sociality: a regime of visibility, in which users and technology assemble the ranked list of answers; a regime of recognition, in which members rely on answers and authors' identity to acknowledge value; a regime of interaction, in which members comment on posted answers. We classify answers in three clusters: Sympa, Inspire and Casual. Answer types are related to the socio-technical creation of sociality regimes.

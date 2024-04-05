@@ -1,0 +1,3 @@
+Mathematical modeling of an aggregation operator for resources allocation in distributed systems
+ABSTRACT
+In distributed processing systems it is often necessary to coordinate the allocation of shared resources that should be assigned to the processes in the modality of mutual exclusion; in such cases, the order in which the shared resources will be assigned to the processes that require them must be decided; in this paper we propose an aggregation operator (which could be used by a shared resources manager module) that will decide the order of allocation of the resources to the processes considering the requirements of the processes (shared resources) and the state of the distributed nodes where the processes operate (their computational load).

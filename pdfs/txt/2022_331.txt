@@ -1,0 +1,3 @@
+Incidence of the capital structure on the risk of the comunication sector in Ecuador in the years 2014 to 2020
+ABSTRACT
+The capital structure adopted by companies will affect their risk. This research seeks to analyze the relationship between the capital structure and the risk of companies in the Ecuadorian communication sector in the period 2014-2020. For this, a balanced data panel of 60 companies belonging to the communication sector is made and linear and non-linear regression models are applied. The results suggest that the risk of companies in the communication sector is negatively impacted by the financing they use, this impact being greater due to short-term financing.

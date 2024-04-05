@@ -1,0 +1,3 @@
+Cyber Threat Modeling Framework
+ABSTRACT
+The Cyberspace has reshaped the boundaries of the dispute fields used by organizations and governments. Organizational security doctrines and strategies have been adapted to face the evergrowing complexity of cyber threats. Part of the success in surviving in that environment depends on the ability one has to understand the nature of the threats aiming the systems to be protected. In this work, we propose a framework to map high complex cyber threats to help technical and management personnel with the task of generating useful knowledge, both in corporate and government cyber security sectors.

@@ -1,0 +1,3 @@
+Development of technological device: From the IT approach as a contribution to the auditory sensory disabilities
+ABSTRACT
+Considering that accessibility is a commitment of all and that it needs to be taken care of; Today's society and technological advances efficiently contribute to adaptability, communication and mobility especially to people with special abilities (visual and auditory). This article will discuss the development of a technological device with integrated Arduino hardware applications and applications to improve the communication and learning of this important group of society.

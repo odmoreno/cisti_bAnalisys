@@ -1,0 +1,3 @@
+Towards quality improvement: Link network analysis of courses
+ABSTRACT
+Network science is a relatively new yet widely researched discipline using network paradigm and a graph theoretic approach. This paper investigates web mining techniques as information retrieval methods, as well as network science paradigm to develop an information retrieval and network analysis system for mapping and visualizing the connections between courses, in order to improve the quality of education.

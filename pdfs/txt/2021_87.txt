@@ -1,0 +1,3 @@
+Control and Automation of an Oxyethylene production tests Pilot Plant
+ABSTRACT
+In this work, is developed the automation proposal and cascade and feedforward control for a pilot plant for oxyethylene production tests. A temperature control system is implemented in a pilot plant reactor using a PLC (Programmable Logic Controller) and the reactor temperature variable is controlled manually and automatically using the HC900 program.

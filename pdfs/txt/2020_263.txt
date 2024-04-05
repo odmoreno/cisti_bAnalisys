@@ -1,0 +1,3 @@
+Entreprise Architecture: Critical Factors and Implementation
+ABSTRACT
+The successful implementation of Enterprise Architecture provides innovation, transformation and consequence, the stability and long-standing flexibility of the organization. However, not all organizations achieve this purpose because there are factors that influence the implementation of Business Architecture (AE) practices. This article presents the results of a systematic literature review to know the critical factors that should be affected when implementing an EA in the university sector. The results show that Alignment of business with IT, Technology, Team capacity, Communication and IT Governance are those who present the greatest frequency.

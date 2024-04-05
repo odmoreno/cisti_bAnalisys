@@ -1,0 +1,3 @@
+A knowledge management system for analysis of organisational log files
+ABSTRACT
+This paper presents a research approach for the analysis of organisational log files. The purpose of log file analysis is to provide information about how the client uses an app (software application) and to detect anomalies that are not perceive by the user so those anomalies can be corrected before the escalation of a problem. The outcome of this research aims to define an architecture to find software flows and apply datamining techniques to measure and obtain knowledge to be recorded in KMS.

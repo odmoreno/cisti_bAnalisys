@@ -1,0 +1,3 @@
+ITIL maturity model
+ABSTRACT
+Information Technology Infra-structure Library (ITIL) is the most popular “best practices” framework for managing Information Technology (IT) services. However, implementing ITIL not only is very difficult but there also are no best practices for implementing ITIL. As a result, ITIL implementations are usually long, expensive, and risky. In this paper, we propose a maturity model to assess an ITIL implementation and provide a roadmap for improvement based on priorities, dependencies, and guidelines. We then demonstrate a practical application of the proposed model with a questionnaire to assess the ITIL Incident Management process that was evaluated in two real-world organizations.

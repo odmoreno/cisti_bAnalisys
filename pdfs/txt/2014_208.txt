@@ -1,0 +1,3 @@
+Proposal of a secure, deployable and transparent middleware for Internet of Things
+ABSTRACT
+This paper proposes a security architecture for an IoT transparent middleware. Focused on bringing real life objects to the virtual realm, the proposed architecture is deployable and comprises protection measures based on existent technologies for security such as AES, TLS and oAuth. This way, privacy, authenticity, integrity and confidentiality on data exchange services are integrated to provide security for generated smart objects and for involved users and services in a reliable and deployable manner.

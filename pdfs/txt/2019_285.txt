@@ -1,0 +1,3 @@
+A Model for Continuous Representation of the Amount of Knowledge of the Individual
+ABSTRACT
+That study presents a proposal for a model of representation of human knowledge with the objective of quantifying its conceptual and interrelated volume, in order to more accurately enable academic monitoring and inference of professional competences. Strongly based on the model conceived by David Ausubel [3], the proposed model reproduces the cognitive structure by its connections and propagations of received conceptual reinforcements. The prototype is in advanced phase of conceptual modeling and laboratory implementation, already having some experiments with student evaluations.

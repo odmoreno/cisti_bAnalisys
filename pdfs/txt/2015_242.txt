@@ -1,0 +1,3 @@
+Cuid@Web: A supporting plataform for informal caregivers
+ABSTRACT
+Informal caregivers contribute decisively to improving the quality of life of people with special needs (the elderly or people with temporary or permanent disabilities) to extend the stay of these people in their home or family environment. However, by giving priority to the dependent person they are facing serious risks jeopardizing their own health. In this paper, we present the Cuid@Web project that aims to create a Web infrastructure to support informal caregivers, promoting their literacy in health, through the development of skills related to their duties and the management of risks to their health.

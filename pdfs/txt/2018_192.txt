@@ -1,0 +1,3 @@
+Performance of pseudorandom sequence generators in FPGA for energy dispertion applications in wireless communications
+ABSTRACT
+Dispersal energy is a technique used in wireless communications to reduce fading of transmitted signal. The principal component of dispersal energy are pseudo-random binary sequence generators (PRBS). This project deployed three PRBS over an FPGA, and compared them to choose the more efficient PRBS based on their hardware performance. After that, this project perfomed the effect of the best PRBS in three types of information data, voice and image.

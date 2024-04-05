@@ -1,0 +1,3 @@
+Architecture of a process control and product traceability system
+ABSTRACT
+System provision for process control and product traceability by means of online tools is a complex task. This paper presents a model and a design aimed at providing support for these needs. In due course of its development, the resultant software architecture turned out to be also useful for similar environments. Its architectural components are oriented to be supported under independent platforms and are not relying on proprietary technologies.

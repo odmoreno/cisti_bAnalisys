@@ -1,0 +1,3 @@
+Web Platform for the Codification of Observations and Clinical Interventions According to the International Classification of Functioning, Disability and Health
+ABSTRACT
+This article reports a study aimed at developing a web platform that helps clinicians to code clinical observations and interventions according to the International Classification of Functioning, Disability and Health (ICF).

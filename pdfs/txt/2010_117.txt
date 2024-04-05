@@ -1,0 +1,3 @@
+Data quality assessment in Genome Wide Association Studies (GWAS)
+ABSTRACT
+Genome Wide Association Studies (GWAS) are developed to find direct or indirect relations from given genomic configurations to physical characteristics or specific diseases. In order to build new GWAS, avoiding the complexities of field based studies, a statistical technique called meta-analysis can be used. Bad or unknown data quality has been largely identified as a major problem in meta-analysis since it generates lack of confidence and inhibits its exploitation. This paper addresses GWAS data quality issues and presents a domain specific model for data quality assessment, which has been developed taking into account meta-analysis requirements.

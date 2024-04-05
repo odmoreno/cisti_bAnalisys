@@ -1,0 +1,3 @@
+A Review of the Solutions Ecosystem for 5G Systems on Rural and Remote Environments
+ABSTRACT
+In the last decade, communication systems have evolved to meet the demand for connectivity anywhere and anytime with the best quality of service, in such a way that we are experiencing the evolution to the Fifth Generation (5G) of mobile wireless communications. This development is best manifested in urban environments where business opportunities are more lucrative, however, rural environments are marginalized from the benefits of these technologies. This article studies the ecosystem of potential technological solutions for the implementation of 5G networks in rural and remote environments to improve the quality of communications in disadvantaged communities.

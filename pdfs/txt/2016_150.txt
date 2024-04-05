@@ -1,0 +1,3 @@
+Using social paradigms in smart cities mobile context-aware computing
+ABSTRACT
+Mobile context-aware computing is an essential component of the smart cities infrastructure. Attempts were made to develop a model that can effectively represent a system in device to support context-aware behavior. The purpose of this paper is to identify deficiencies of the previously developed model and propose solutions to improve it.

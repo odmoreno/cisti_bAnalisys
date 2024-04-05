@@ -1,0 +1,3 @@
+Conceptualization of a mobile application aimed at refugees in Portugal
+ABSTRACT
+This paper comprises an approach to the topic of refugees and smartphones, through the collection of relevant literature and the state of the art of mobile applications and websites aimed at refugees. Subsequently, qualitative data collection was carried out with refugees and representatives of aid institutions to generate an in-depth understanding of the uses, trends and potential of mobile apps. All these steps were essential to achieve our main goal, the conceptualization of an app for refugees in Portugal.

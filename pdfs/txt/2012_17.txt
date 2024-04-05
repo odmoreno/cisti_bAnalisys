@@ -1,0 +1,3 @@
+A simulation tool for RFID EPC Gen2 protocol
+ABSTRACT
+RFID technology is increasingly being used in many kinds of applications, using bigger amount of tags. A simulation tool to test the performance of the system before being implemented is very important. In this paper, a simulator of the EPC Gen2 Class1 (for passive tags) protocol is developed. This simulator allows the user to know the behaviour of the RFID system with a concrete number of tags, since it is one of the most used protocols nowadays. Some tests have been done comparing them with the latencies measured in a commercial RFID reader to validate the behaviour of the simulator.

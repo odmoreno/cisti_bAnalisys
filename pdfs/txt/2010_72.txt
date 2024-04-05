@@ -1,0 +1,3 @@
+Liberopinion: A web platform for elections 2.0
+ABSTRACT
+The platform Liberopinion-Elections consists of a Rich Internet Application which seeks to bring together the stakeholders in a political election allowing, in a single place, multi-directional and structured communication between them. Based on a citizen and candidate approach, the platform Liberopinion-Elections enables collaborative interaction between these stakeholders through questions, answers, proposals, ratings and comments with the aim of fostering communication, deliberation and participation. In this paper, the main features of this application are described and the results of a case study about its use in the election for Mayor of Viseu held in 2009 are presented.

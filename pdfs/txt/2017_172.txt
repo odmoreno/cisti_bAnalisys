@@ -1,0 +1,3 @@
+Performance evaluation of NoSQL data store for digital media
+ABSTRACT
+With the increasing use of social networks, the storage and retrieval of videos and images has been the object of attention when it comes to performance. This study aims to evaluate the performance of NoSQL databases in transactions involving digital media and in the simulation of a social network, comparing results with a relational database. The results showing that the NoSQL databases are more efficient than relational databases in applications involving digital media.

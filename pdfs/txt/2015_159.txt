@@ -1,0 +1,3 @@
+Analysing knowledge construction in asynchronous online discussions
+ABSTRACT
+This paper examines knowledge construction in a distributed learning environment supported by social web tools. Research data was gathered from online asynchronous discussions in a first-year master's degree course in multimedia in education. Our analysis was modelled on a validated analysis model and results indicate that, despite a significant percentage in the phase of sharing and comparing information, interaction at the highest levels of knowledge construction is relevant and suggests that knowledge was constructed.

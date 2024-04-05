@@ -1,0 +1,3 @@
+Using Machine Learning for Road Maintenance Cost Estimates in Brazil: a case study in the Federal District
+ABSTRACT
+This paper presents the application of Machine Learning algorithm, such as artificial neural network and kmeans as an alternative for estimation of services required for the accomplishment of highway conservation services in Brazil, based on data related to the highways of the Federal District. A database was created containing data for routine maintenance history, road solutions catalog and price lists. Next, the algorithms of were applied and evaluated. K-means algorithm was better suited to the problem.

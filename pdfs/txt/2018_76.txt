@@ -1,0 +1,3 @@
+Use of HCI for the development of emotional skills in the treatment of Autism Spectrum Disorder: A systematic review
+ABSTRACT
+This document presents the initial advances found in the literature review that analyzes the relationship between the development of skills inherent to emotional intelligence, and its usefulness in the improvement of treatments for Autistic Spectrum Disorder, through the use of human computer interaction.

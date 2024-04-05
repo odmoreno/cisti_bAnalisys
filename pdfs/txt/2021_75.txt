@@ -1,0 +1,3 @@
+Impact of human capital and technology on CO2 emissions in Latin America, period 1980 – 2017
+ABSTRACT
+The following research, through a panel data model, shows evidence on the influence that the variables human capital and technology exert on air pollution and CO2 emissions in Latin American countries, for the period 1980 - 2017. Through information obtained from the Penn World Table 9.1 and the World Bank WDI, the use of fixed telephony subscriptions as a technology proxy, and a division by groups of the countries analyzed according to their income level, direct positive relationships were found between the independent variables and the dependent variable.

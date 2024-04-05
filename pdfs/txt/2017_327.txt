@@ -1,0 +1,3 @@
+Geographic data in a graph oriented database: A study with Neo4j and PostgreSQL
+ABSTRACT
+Graph databases, similar to other NoSQL approaches, have emerged as an alternative to solve specific problems ill fitted to relational models. The huge amounts of data produced, and the high capability for horizontal scalability provided by NoSQL databases has led to the increasing adoption of these systems, which can now be adapted to support geographic data. This article presents an analysis on the behavior of a graph oriented geographic databases compared to those designed with a relational model, using the database management systems PostgreSQL/PostGIS and Neo4j.

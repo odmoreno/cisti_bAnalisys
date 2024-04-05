@@ -1,0 +1,3 @@
+Employment multicriteria with analytic hierarchy process for corporate risk analysis and sectored of information technology in health in the Brazilian army
+ABSTRACT
+This article presents the partial results of a research, which was used advanced programming with Analytic Hierarchy Process (AHP) using Expert Choice software to identify critical components of Information Technology (IT) that impact an organization and its relationship with the strategic objectives. The study is a qualitative and quantitative approach; with a literature search needed for its theoretical framework; the its development, with details of Delphi, AHP, Software Expert Choice. During the research, it created a model for this work with ABNT standards (ISO 27005, 38500 and 31000).

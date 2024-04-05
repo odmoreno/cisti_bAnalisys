@@ -1,0 +1,3 @@
+Design of an intelligent system to support the diagnosis of patients
+ABSTRACT
+The information's systems have become in indispensable elements in different technology fields and health area has been a great beneficiary. This type of system allow timely delivery and accurate of medical information which converts an indispensable input for attendant a timely manner a medical emergency. This work is focused in the design and development of intelligent system for classification in the care of patients of health system in Colombia. The paper describe aspects relatives with architectural system that can perform medical diagnostics to patients who have been classified low priority and would be left long periods of time to be served.

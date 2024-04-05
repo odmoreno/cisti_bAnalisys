@@ -1,0 +1,3 @@
+A comparative study of video content user interfaces based on heuristic evaluation
+ABSTRACT
+Video content has become a frequent means of communication on the web and is generated and consumed all the time through websites. Therefore, a study to determine what guidelines should be followed to create efficient designs for these websites is necessary. This paper presents a comparative study of the Nielsen's heuristic evaluation applied to five video websites (Netflix, VideoBrasil Platform, Video@RNP, Vimeo and YouTube) in order to find suitable guidelines and recommendations to create efficient video content user interfaces according to the usability approach.

@@ -1,0 +1,3 @@
+Adoption of gamification strategies to promote motivation in high education teachers so they achieve better assessements
+ABSTRACT
+In this paper, we present a case study being developed in the Higher School of Technology and Management of the Viana do Castelo Polytechnic Institute regarding the adoption of gamification to increase motivation of teachers in achieving better assessments. We justify this need for the non-automatic progression by governmental financial issues and the consequent lack of motivation on the part of teachers to improve their performance. We present the architecture of the system we design, the levels and the game elements used as well as the prototype for an android app that will be the interface of the system towards the teachers.

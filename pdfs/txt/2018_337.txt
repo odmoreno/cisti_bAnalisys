@@ -1,0 +1,3 @@
+Ancestral knowledge and innovation: The case of ecuadorian textile companies
+ABSTRACT
+This research has as purpose to relate the ancestral knowledge with the innovation in the Ecuadorian textile industry using a logistic regression econometric model to analyze the relation between the use of ancestral knowledge and innovation applied in products, processes, organization and marketing. The investigation results indicate that the use of ancestral knowledge has a negative relation with innovation in products and processes, although, marketing innovation presents a positive relation; identifying the ancestral elements as an element of differentiation, but not as a technological innovation technique.

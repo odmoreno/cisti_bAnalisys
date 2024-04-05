@@ -1,0 +1,3 @@
+Virtualization technologies for Arduino simulation
+ABSTRACT
+The Arduino platform is currently highly visible due to its ease of use and the growth of the Internet of Things (IoT). In this scenario it becomes useful and relevant the existence of a simulator for academic purposes that allows the introduction, dissemination and training in this platform with lower costs and increased reliability, durability and versatility of use. This paper presents a study on virtualization, simulation and emulation technologies, presenting a systematized view of the state of the art in this topic, allowing to identify the most appropriate techniques for the creation of an Arduino platform simulator in Java.

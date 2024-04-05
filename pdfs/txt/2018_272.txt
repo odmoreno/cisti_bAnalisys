@@ -1,0 +1,3 @@
+SMIT development and validation of an instrument SMIT
+ABSTRACT
+In this paper we describe the stages of construction and validation of an instrument that identifies the stages of maturity in the school mistreatment of the information technologies that we designate by SMIT - School Maturity of Integration Technology. It identifies a set of metrics developed to measure two fundamental dimensions: the organizational and the technological environment in the teaching and learning process. The results showed that the scale composed of 51 items, obtained a very high reliability. The empirical study was supported out with the participation of 60 teachers from various levels of education in Portugal.

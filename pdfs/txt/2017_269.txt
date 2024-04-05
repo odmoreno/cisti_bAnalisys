@@ -1,0 +1,3 @@
+The selection of migratory indicators based on data mining algorithms
+ABSTRACT
+The analysis of the human migration process has been studied in various fields of science. This work, focuses on migration indicators proposed by the International Migration Policy, with the aim of identifying the most important indicator from the point of view of data mining. This study identifies migrant stock as the most important factor related to the values obtained by the F1Score and the ROC Curve. These results are corroborated with the Pareto Principle, which explains trends of migrant stock as part of the 20% of the world migration problem. The results are promising, and will enable the authors to propose future research described in this work.

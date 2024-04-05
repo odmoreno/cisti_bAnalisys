@@ -1,0 +1,3 @@
+Citizen participation: A diagnostic from the perspective of available tools
+ABSTRACT
+The evolution of technology has influenced the relationship between governments and citizens. In this context, citizen participation is evidenced. In this article, we analyzed 17 initiatives developed with the objective of promoting citizen participation. The analysis considered the functional and technological aspects. About the functionalities, it was possible to observe the most used resources by the idealizers and the need to improve some elements. Regarding the technological aspects, some standards were identified, such as the use of technologies that allow greater productivity and more control of security and scalability.

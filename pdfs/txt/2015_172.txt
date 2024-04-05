@@ -1,0 +1,3 @@
+Using the recognition and speech synthesis to assist the practice of English pronunciation
+ABSTRACT
+Recognition and voice synthesis systems have been used in diverse situations, such as by phones, GPS's, games and consumer services. This is because speaking is inherent in human being which makes it an user-friendly computer interface. This paper aims to present a mobile application (Talk2Practice) based on recognition and voice technology to support English pronunciation teaching. In order to evaluate the usability of this application, tests were performed with 19 users.

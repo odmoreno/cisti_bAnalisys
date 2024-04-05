@@ -1,0 +1,3 @@
+Augmented reality system for inventorying
+ABSTRACT
+This article presents and describes the implementation of an augmented reality system to assist in the task of warehouse inventory. The proposed system integrates an augmented reality engine (NyARToolkitCS) with a QR Code library. This integration enables users to capture product codes add the product's information to the view of the product itself. This article also presents the challenges for developing this system, the adopted architecture and the tested threshold algorithms. These algorithms were evaluated under real environment conditions.

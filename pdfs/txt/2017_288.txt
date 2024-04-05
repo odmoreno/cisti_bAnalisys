@@ -1,0 +1,3 @@
+Use of educational data mining to identify distance learning students' profiles and patterns of participation
+ABSTRACT
+The Educational Data Mining allows to identify and cluster students by certain characteristics that are specified through the needs and problems raised by the teachers and course coordinators. In this context, this research aims to apply data mining techniques for the identification of profiles and participation patterns of students in a course of higher distance course resulting in the prediction of the chances of each student's approval. The result was the identification of 4 clusters that designate the profiles and types of participation of the students, namely: active, medium, inconstant and absent.

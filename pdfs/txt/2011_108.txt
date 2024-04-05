@@ -1,0 +1,3 @@
+Agent-oriented software engineering for graphic adventure modeling
+ABSTRACT
+Nowadays, there is a considerable improvement of development tools in the field of multimedia, although it is not accompanied by the progress in software engineering processes that support it. In the developments based on video games, the concepts used on video games development, are closely related and properly grounded in Agent-Oriented Software Engineering. On this basis, this article presents a modelling process based on the methodology INGENIAS, that gives support to a fun and educational adventure game modelling.

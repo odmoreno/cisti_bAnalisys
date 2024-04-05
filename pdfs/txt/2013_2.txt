@@ -1,0 +1,3 @@
+GSG: A tool for knowledge-based visual creativity
+ABSTRACT
+Shape Grammars are a formalism that allows to analyze and synthesize designs of visual languages and has been used to represent the knowledge behind the creative work of architects, designers and artists. This article describes GSG, a configurable and extensible expert system shell to support generic work with Shape Grammars. Key ideas, system architecture, technologies involved, some previously published work and present and future work are presented.

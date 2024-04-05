@@ -1,0 +1,3 @@
+A metapopulation model for the study of the evolution of the number of students in a teaching institution
+ABSTRACT
+A metapopulation model for the study of the evolution of the number of students in a teaching institution is presented. The model has an internal dynamic that represents the flow of students which transit from one academic year to the next and an external dynamic which describe the movement of students that enter or leave the institution. An application of the model to the student population of the Polytechnic Institute of Guarda (IPG), using historic data, is done. An evolutive analysis of the number of students per academic year with projections for the period 2012-2021 is presented.

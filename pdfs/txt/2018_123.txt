@@ -1,0 +1,3 @@
+Architecture; structure and enterprise culture applied in IT organization
+ABSTRACT
+This article is oriented to the application of the enterprise architecture (AE), structure, and culture in a technology information company; therefore, the AE was focused as the map that provides a common understanding of the organization and was used to align the strategy and tactical requirements. Likewise, an approach to business culture aligned with the objectives and vision of the organization is presented. Finally, a diagnosis of the organization and its projection to implement a future business architecture is presented.

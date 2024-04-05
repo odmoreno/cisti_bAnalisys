@@ -1,0 +1,3 @@
+Biological database in NoSQL document-oriented database
+ABSTRACT
+Experiments in bioinformatics are implemented through scientific workflows. In this context, this study implements provenance data in bioinformatic workflows in a document-based NoSQL. The MongoDB was the database management system used in the implementation of the database. To validate the database, a bioinformatics workflow was executed and its provenance data was stored. The tests were implemented in C language and with the MongoC driver.

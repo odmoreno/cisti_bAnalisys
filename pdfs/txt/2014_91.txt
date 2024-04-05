@@ -1,0 +1,3 @@
+UsaWeb. A model for usability evaluation web interfaces
+ABSTRACT
+This research project describes the usability evaluation of Website interfaces based on the foundations of HCI, and presents a new universal metamodel for usability assessment called UsaWeb applicable to any Web Interface. Being a complete and coherent proposal this represents a new paradigm in the usability field.

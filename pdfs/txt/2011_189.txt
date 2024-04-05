@@ -1,0 +1,3 @@
+Supporting KMS through Cloud Computing: A scoping review
+ABSTRACT
+After analyzing 2 to 5 years trends in the latest Gartner hype cycle of emerging technologies, cloud computing appeared to be a viable alternative for the support of Knowledge Management Systems development. A scoping review was carried out to confirm this hypothesis by identifying and analyzing the relevant published information in this area. The present paper describes the mapping of the literature and conceptual issues exploring three scientific databases - Web of Science, IEEE Xplore and EBSCO (MIS Quarterly). The main goal of this work is to identify progress in the application of cloud computing, as a possible support platform for Knowledge Management Systems development.

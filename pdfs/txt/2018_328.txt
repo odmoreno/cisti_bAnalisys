@@ -1,0 +1,3 @@
+Governance and management of organizations with cloud supported services recommendations for risks of information security
+ABSTRACT
+This article aims to review best practices for ensuring information governance, management and security of organizations with cloud-based business and services. The methodology used to perform the present work was an analysis of best practices regarding vulnerabilities, risks, recommendations for governance, management and security assurance. The purpose of this paper is to reinforce the importance and role of the audit in maintaining best practice of cloud-based security in order to safeguard interests between partners in ensuring the confidentiality, integrity and availability of data in transit and in rest.

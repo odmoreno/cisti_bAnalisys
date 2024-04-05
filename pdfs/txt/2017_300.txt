@@ -1,0 +1,3 @@
+The Internet of Things and big data: Future trends
+ABSTRACT
+The amount of information available is increasing at a faster pace than the number of devices connected, specially since humans have ceased to be the main source of information available on the Internet, and this vast number of information-intensive devices require new ways to save it. This paper aims to provide an overview of the Internet of Things and its evolution, and the reason for the need for Big Data architectures to store data and what are its challenges. The focus is to provide insight into the future of the Internet of Things and Big Data.

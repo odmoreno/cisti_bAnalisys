@@ -1,0 +1,3 @@
+Structural modernization on Chilean bridges Proposal for optimization on strengthening design via Genetic algorithm
+ABSTRACT
+The maintenance activities on road infrastructure are a need due to the aging of the structures, especially on bridge structures as critical path of the road network. Currently, the upgrade process of this structures are carried out by repair and strengthening activities, but, the increase of capacity elements or modernization of bridges are less applied. This paper presents the first proposal of bridge modernization in Chile, identifying the challenges on design process (calculation procedure) and providing an optimization proposal for the construction methodology of projects.

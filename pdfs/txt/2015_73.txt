@@ -1,0 +1,3 @@
+Diffusion and distribution of touristic routes: Web platform's architecture on tourism context
+ABSTRACT
+In this document it will be described the architecture of an information system that was originated in an innovative idea based roots in joining two milestones of the social environment, tourism and technology. Separating the components then it will be described tourism, represented by tourism regions and the technology that allows navigation in small footpaths using Android mobile devices, which result on support of information and communication technologies to tourism and regions themselves.

@@ -1,0 +1,3 @@
+A Vision for Improving Business Continuity through Cyber-resilience Mechanisms and Frameworks
+ABSTRACT
+Nowadays, business organizations support daily operations using Information and Communication Technologies. They serve as a basis to have a controlled management of resources, services and business goals, aligned with the mission of the organization. In this paper, we review standards and frameworks for achieving cyber-resilience in organizations, such as the NIST framework, ENISA, or international standards as the ISO/IEC 27032. We then envision the need of a new cyber-resilience framework, that leveraging machine learning techniques contributes to improve business continuity.

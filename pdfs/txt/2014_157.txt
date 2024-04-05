@@ -1,0 +1,3 @@
+Design and evaluation of a web environment for knowledge management software process improvement: User-centered approach
+ABSTRACT
+This study describes the design process and evaluation of a web environment for knowledge management of a research group dedicated to the Software Process Improvement in Spain and Latin American Area (MPSEI), through the adoption of a model named, DeCU (Diseño y enfoque Centrado en el Usuario, or Design and approach User-Centered). The results show the importance of improved the design process of web environments, involving in a more effectively to all users.

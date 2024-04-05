@@ -1,0 +1,3 @@
+Relationships analysis in a software ecosystem in the public context: Notes on the ECOS Projudi
+ABSTRACT
+Software Development Ecosystems (ECOS) involves several external factors and consists of systems and business subsystems that interact in a specific market niche. The objective of this research is to understand the factors that are involved with the interconnection of systems and subsystems into a Software Ecosystem in the public context. In this context, through interviews and document analysis identified a number of important factors that helped to describe the differences relationships found in a social Software Ecosystem in real public context.

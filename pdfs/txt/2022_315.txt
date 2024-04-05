@@ -1,0 +1,3 @@
+TQM, Competitiveness and and Productivity in Ecuadorian Textile Companies: A SEM Analysis
+ABSTRACT
+This paper analyzes the impact of three TQM practices (leadership, learning and process management). For this purpose, 345 surveys were applied to managers or quality managers of national companies in the textile sector in Ecuador. By means of factor analysis, the elements that made up the leadership, learning and process management dimensions were determined, and by means of structural equations (SEM) it was determined whether these dimensions were related to the increase in productivity and competitive position. Leadership and learning have a positive influence on productivity, while process management and leadership influence competitive position.

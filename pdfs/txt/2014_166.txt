@@ -1,0 +1,3 @@
+Repairable spare parts management simulator
+ABSTRACT
+The development of simulator system as a support to repairable spare parts management is reported. Through the use of this type of tool is possible to evaluate the behavior of a multiechelon — multitem spare parts inventory as a function of different stock levels, minimizing shortages and restricted to a given budget. The simulation constitutes a useful tool to evaluate different decision alternatives

@@ -1,0 +1,3 @@
+Attractive demonstrations with wire programming robot “REDi”
+ABSTRACT
+Robots created for education have different purposes, from learning algorithms to learning robotics. It has been shown that robots can increase the student's interest. Our proposed robot, REDi, uses wire programming to introduce students to the basics of robotics and algorithms. With this robot, attractive, interactive demonstrations can be achieved even with students that have no background in the area.

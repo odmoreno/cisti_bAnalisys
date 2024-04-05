@@ -1,0 +1,3 @@
+An Empirical Performance Comparison between MySQL and MongoDB on Analytical Queries in the COMEX Database
+ABSTRACT
+The NoSQL database is an alternative to manage big data. It is essential to change from a relational database to a NoSQL database to evaluate the new scenario's performance. In this context, our paper presents an empirical performance comparison between MySQL and MongoDB on analytical queries in the COMEX Database. The COMEX Database is responsible for all Brazilian foreign trade statistics and many agencies need to constantly make big analytical queries on it to analyze business-related queries. The main results indicate that non-relational databases can improve the queries performance.

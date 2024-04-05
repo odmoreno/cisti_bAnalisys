@@ -1,0 +1,3 @@
+Mobile learning and augmented reality
+ABSTRACT
+This article presents a protype for a mobile learning solution using augmented reality. Aimed at promoting the digital inclusion of elementary school deaf students the project is entitled: “A minha rua”/ My street.

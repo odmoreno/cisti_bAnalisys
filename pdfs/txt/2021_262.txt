@@ -1,0 +1,3 @@
+Dynamic rebalance of parallel search trees for solving NP puzzles on multi-core and GPUs
+ABSTRACT
+In this paper, a method that reduce the time of finding a solution and maximize the use of parallel hardware for solving problem NP board puzzles is presented. We develop a hybrid technique that combines constrained brute force search with execution balance to find a solution in a broad search space. The idea is to evaluate thousands of independent partial solutions with parallel threads. All those threads that reach an unfeasible solution are reassigned considering the actual execution state. We obtained a high speed up respect to a normal parallel implementation, solving hard puzzles, using either CPUs or GPUs in different cases.

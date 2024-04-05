@@ -1,0 +1,3 @@
+Dissecting User Requirements in Developing Information Systems for the Government Agencies in Less-Developed Region
+ABSTRACT
+Deciding on the need requirements of the users is one of the most challenging, and yet essential parts of the development of an information system (IS), particularly in the government agencies. Despite the rising significance of IS in the government agencies, only a limited effort has been made to identify the consequence of user needs, particularly less-developed regions. Most research efforts are found in developed or developing nations. This article presents the initial findings of an IS user needs of a leading government agency in the State of Sabah, Borneo.

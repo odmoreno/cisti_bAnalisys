@@ -1,0 +1,3 @@
+Distributed Computing
+ABSTRACT
+This study is based on a concrete problem in a fertilizer factory about the estimation of process parameters: to calculate the mean and standard deviation from weights (sums only) of loads of unequal (known) number of bags (“equal” case being trivial). With many distribution depots, the data for each depot must be collected for processing. These are addressed in a Cloud Computing, big-data framework. The use of Apache Spark is described and adopted, as advantageous over Hadoop due to “in-memory computation” and Resilient Distributed Dataset. The computation uses Terraform and Ansible as configuration tool, and is deployed on the Google Cloud Platform. The evaluation preliminary tests confirmed good accuracy and produced low runtimes.

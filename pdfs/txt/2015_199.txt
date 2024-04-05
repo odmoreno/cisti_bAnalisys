@@ -1,0 +1,3 @@
+Green code: Energy efficiency in the source code for high-performance computing
+ABSTRACT
+Energy consumption is a key challenge in HPC (High-Performance Computing). Nowadays, as far as software is concerned, optimizations for energy saving are usually implemented at different levels, with an obvious lack of proposals so that the user could directly write energy-efficient code. This proposal aims to contribute to source code optimization so as to achieve optimal performances and maximum efficiencies in their executions, demonstrating the importance of certain strategies in creating code.

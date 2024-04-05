@@ -1,0 +1,3 @@
+Electronic Surgical Records Solution in Operating Room
+ABSTRACT
+The implementation of information technologies in Health has contributed to the multiplication of several Health Information Systems without interoperability. Thus, disaggregated systems are identified, lacking unity and intercommunication. Using an action research study, we aim to create a more efficient and accessible reorganization of electronic records in operating room for users, both clients and healthcare providers.

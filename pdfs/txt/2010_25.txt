@@ -1,0 +1,3 @@
+Replicación de sistemas virtualizados para la ampliación de servicios en un entorno virtual multiusuario en la UNED
+ABSTRACT
+This paper reports pilot work regarding the deployment of advanced video educational software with synchronous and asynchronous web conferencing tools that allow collaborative interactions between lectures and learners. High level ratios of users appeared so rapidly that a new distributed system of servers acting as service nodes has been designed and implemented. Centralized management and virtualization of multimedia services are two of the key cores of the platform. System scalability is guaranteed by adding new virtualized nodes in places were enough internet bandwith exist.

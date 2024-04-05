@@ -1,0 +1,3 @@
+Why the Universal Design Learning needs an Ontology?
+ABSTRACT
+This paper seeks to identify trends in the usage of an Ontology for Universal Design Learning. To perform the analysis the guides for Universal Design Learning (UDL) are presented and the properties of an Ontology in the domain of Accessibility is presented to verify its potential to support the UDL. This ontology provides data with extensive coverage throughout characteristics for educational resources that are most suited for students with disabilities. The conclusions reached are obtained from the analysis from previous projects and will be useful for the construction of an Inclusive Education scaled to improve the Universal Design Learning specifically to attending learning disabilities.

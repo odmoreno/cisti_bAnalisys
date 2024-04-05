@@ -1,0 +1,3 @@
+Design of a smart parking system using wireless sensor network
+ABSTRACT
+In this article it is included the design of a smart parking system, the base was the current system "Sistema integrado de Estacionamiento (SIMERT)" and the mobility in Loja — Ecuador, with the use of a sensor network and wireless technology based in Zigbee 900 and Digimesh 2.4 GHz. To the feasibility of the project it was considered a technological platform that could be adapted to the city conditions and that be friendly with the environment, furthermore the suggested solution gives us connectivity with a Web application for integrated parking and usability of administrators and final users.

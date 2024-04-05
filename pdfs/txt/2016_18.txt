@@ -1,0 +1,3 @@
+Data replication policy in a cloud computing environment
+ABSTRACT
+In a cloud computing environment, data replication is frequently used for failure recovery. However, data replication can be used also to improve the performance of the execution of application. In this context, this article presents a policy for data replication for a computational cloud with bioinformatics data, such that the execution of application of bioinformatics is reduced.

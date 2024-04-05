@@ -1,0 +1,3 @@
+Digital image analysis of cells and computational tools for the study of mechanism of RSV entry to human bronchial epithelium
+ABSTRACT
+This paper presents a research proposal which has been developed as a doctoral thesis in the PhD program in Computer Systems Engineering at the Universidad del Norte since August 2015. This research focuses on the analysis of cell images of the human bronchial epithelium infected with the Respiratory Syncytial Virus in order to understand the mechanisms of entry of the virus into the human body. Due to the large amount of information that is processed, it is necessary to use computational tools to finally differentiate between infected and uninfected cells.

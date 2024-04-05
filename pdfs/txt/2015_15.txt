@@ -1,0 +1,3 @@
+Set covering problem solved by new binary firefly algorithm
+ABSTRACT
+In this paper, we propose a Modified Binary Firefly Algorithm to solve different instances of the Set Covering Problem (SCP). The Set Covering Problem is considered a classic combinatorial optimization problem, belonging to the class NP-hard problem [8] and have many practical applications. In this paper we consider applying Modified Binary Firefly Algorithm supported in eight Transfer Functions and five Discretization Methods that allow us to express the solution of the problem in the binary domain. The different results presented in this paper show that our algorithm is a good alternative at a low cost to solve the SCP.

@@ -1,0 +1,3 @@
+Software measure based on BPMN activity points
+ABSTRACT
+BPMN usage has been extended beyond the workflow systems and service-oriented architecture. Development methodologies have been proposed using BPMN to describe use cases, to specify the activities flow that forms each scenario of general purpose systems and business process execution with web services. This article proposes a metric to estimate software size, called BPMN Activity Points based on activities counting from three different perspectives, in which these scores are increasingly detailed and refined.

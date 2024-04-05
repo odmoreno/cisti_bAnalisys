@@ -1,0 +1,3 @@
+Infraball : Accessibility system
+ABSTRACT
+Within the world of disability, we have several degrees. In the most extreme cases, such as ALS (amyotrophic lateral sclerosis) or very severe trauma that can cause tetraplegia, people become totally dependent. With devices like this, we try to improve the quality of life of these people and, above all, we increase their autonomy and freedom. This simple device allows to control using the voice, by means of a tablet or a computer any device that can be operated using an infrared light controller, which currently represents the majority of the electronic devices or appliances that are in a house.

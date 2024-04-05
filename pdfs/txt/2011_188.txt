@@ -1,0 +1,3 @@
+Applying social paradigms in mobile context-aware computing
+ABSTRACT
+The use of mobile devices and their use for Internet access, for georeferentiation and services consumption had a huge increase. Today, these devices ability to establish cooperation networks and to interact intelligently and cooperatively with the surrounding environment has growing importance. In this paper, we propose a model where a minimum set of features and information could be embedded in mobile devices to dynamically enable their integration into computer systems with pre-defined formal structure. This proposal is inspired by concepts originating in organization theory and sociology as they are typical, the notions of “social role”, “ownership” and “responsibility”.

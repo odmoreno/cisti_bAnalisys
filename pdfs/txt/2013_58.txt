@@ -1,0 +1,3 @@
+Integral manager audiovisual content autonomy, unification and centralization in the management of audiovisual content
+ABSTRACT
+This paper discusses the autonomy provided to audiovisual content generators users of the UNED (National University of Distance Education) to manage contents created in AVIP classrooms. It enables unified management of the video publication in the "Campus Channel" in INTECCA portal (Innovation and Technology Development of the Associates Centers), where they can be "consumed" by different systems, applications and devices.

@@ -1,0 +1,3 @@
+Inferring UI patterns with Inductive Logic Programming
+ABSTRACT
+This paper presents an approach to infer UI patterns existent in a web application. This reverse engineering process is performed in two steps. First, execution traces are collected from user interactions using the Selenium software. Second, the existing UI patterns within those traces are identified using Machine Learning inference with the Aleph ILP system. The paper describes and illustrates the proposed methodology on a case study over the Amazon web site.

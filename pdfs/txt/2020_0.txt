@@ -1,0 +1,3 @@
+[Front cover]
+ABSTRACT
+Presents the front cover or splash screen of the proceedings record.

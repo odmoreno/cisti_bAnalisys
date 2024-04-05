@@ -1,0 +1,3 @@
+The return to inter-firm mobility: An analysis on the Italian ICT industry
+ABSTRACT
+This paper assesses the extent of inter-firm transferability for the skills developed by employees in the Italian ICT industry between 1988 and 2002. Skill transferability is measured through the wage premium recognised to firm changers compared to firm stayers. Based on WHIP, a longitudinal dataset of employer-employee matched data representative of the Italian labour market, the results of the empirical analysis support the hypothesis of partial inter-firm transferability of skills. Compared to firm stayers, firm changers benefit from a wage premium, provided that they remain in the ICT industry.

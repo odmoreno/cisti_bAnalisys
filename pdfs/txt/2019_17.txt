@@ -1,0 +1,3 @@
+Analysis and Comparison of Cryptographic Algorithms applied to IoT
+ABSTRACT
+Technology is advancing daily. The use of the internet, devices and sensors are increasingly present in daily life making the Internet of Things (IoT) the subject of recent research. The technologies of the IoT provide many benefits to the world, but it can also provide security breaches and can cause major social and economic losses. In this way it is necessary to develop efficient methods of information security. In this work we implement, analyze and compare classical cryptographic algorithms of the literature using the ESP8266 microcontroller commonly used in IoT applications.

@@ -1,0 +1,3 @@
+inGuide — Interactive Guide
+ABSTRACT
+This paper describes the inGuide - Interactive Guide application, a context-aware tourist guide that is presently available to Android smartphones. This application takes advantage of technologies such as Augmented Reality and geolocation in order to provide contextual information in a simple and interactive way. inGuide is a modular application which provides a package management system avoiding the need for a different version of the application for each city. Simultaneously it also surpasses one of the major hurdles related with mobile tourist applications, which is assuming always-on data connection and high speed network access.

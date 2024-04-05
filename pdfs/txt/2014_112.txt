@@ -1,0 +1,3 @@
+Importance of visualization usage in enterprise decision making environements
+ABSTRACT
+Visualization tools have acquired a dominance roll within the data analysis and decision making support systems inside enterprise environments. Growth of information generation channels gets to bring an overload that jeopardizes analysis capacity in the different actors from the enterprise organ. In order to confront this problem, the main Business Intelligence market systems begin to brand use of visualization techniques to provide mechanisms that allow user to see and understand great volumes of abstract information. Nevertheless, decision making's human component causes that the good advantage of visual analytics depends to a great extent on the company's organizational culture.

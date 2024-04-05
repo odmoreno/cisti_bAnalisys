@@ -1,0 +1,3 @@
+Analyzing web applications quality evolution
+ABSTRACT
+Software evolution is a well-established research topic, but not in the web applications area. Web projects are normally more complex than other software development projects because they have both server and client code, encompass a variety of programming languages, and are multidisciplinary. We aim to produce a catalog of web smells to help mitigating quality problems in web apps implementation, thus saving time and reducing cost. By means of longitudinal studies, we plan to analyze the impact of these web smells in web apps maintainability and reliability. This paper describes several particularities of the proposed research work, as well as introduce procedures and techniques to be used.

@@ -1,0 +1,3 @@
+Prefacio
+ABSTRACT
+Este libro contiene los artículos aceptados para su presentación y discusión en la 9ª Conferencia Ibérica de Sistemas y Tecnologías de Información (CISTI'2014), organizada por la AISTI (Asociación Ibérica de Sistemas y Tecnologías de Información), La Salle - Universitat Ramon Llull y Universidad Politécnica de Catalunya, durante los días 18 al 21 de Junio de 2014, en Barcelona, España.

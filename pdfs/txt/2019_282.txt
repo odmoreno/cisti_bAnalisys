@@ -1,0 +1,3 @@
+SOLL: Smart Objects Linked to Learning Educational Platform with the Internet of Things
+ABSTRACT
+The Internet of Things (IoT)is a network made up of various objects and devices connected to the Internet, that emerge with great potential for Education. In this sense, we intend to present the SOLL project: Smart Objects Linked to Learning, which is a learning, interactive, dynamic and interdisciplinary platform, supported by a set of technologies that collect and store data, from a greenhouse, for later interdisciplinary analysis. Thus, in this article, the architecture of the platform is exposed, and we also present a description of the components used to create this learning environment and a reflection on the provided learning.

@@ -1,0 +1,3 @@
+MyRisk
+ABSTRACT
+This article presents a Support System for Diagnosis of Cancer called MyRisk. The application has a simple and intuitive graphical user interface where anyone can calculate the risk of cancer, get specialized information about factors and risks associated with each type of cancer. The application also allows the medical and specialist staff to develop and modify the contents to be tested and managing the risk level and the percentage for the appointments. This application follows the expansion of Information Systems in health and support the medical diagnosis.

@@ -1,0 +1,3 @@
+Software prototype for learning of computer programming based on digital games
+ABSTRACT
+This paper describes the development of "Protoboy", an educational and fun alternative that applies aspects of Digital Game-Based Learning (DGBL) and gamification in order to motivate students during their education to gain knowledge about logic and computer programming. The software prototype built allows providing programming concepts and challenges that are fun and intuitive. The tests performed on the prototype showed a good evaluation of the aesthetics and perception of the video game by the students.

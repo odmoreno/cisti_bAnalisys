@@ -1,0 +1,3 @@
+Methodology to support the use of interactive systems
+ABSTRACT
+Interactive systems users still face several challenge. Besides current improvements in usability and intuitiveness users have to adapt to the systems proposed to satisfy their needs. For instance, they must learn how to achieve tasks, how to interact with the system, etc. This paper proposes a methodology to improve this situation supporting the use of interactive systems by users. To achieve this goal the approach is based on enriched task models and picture-driven computing. An example based on a text editor illustrates the approach.

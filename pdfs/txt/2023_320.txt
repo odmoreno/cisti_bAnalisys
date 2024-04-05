@@ -1,0 +1,3 @@
+Business Intelligence Implementation and its Impact on Decision-making
+ABSTRACT
+In this article Business Intelligence (BI) is defined as a process of analyzing and interpreting data to support business in decision-making. BI implementation requires several steps, including data collection, integration, analysis, and reporting. To ensure the success of a BI implementation, several key factors should be considered, such as data quality, data governance, user adoption, scalability, security, flexibility, integration, reporting, visualization and cost-benefit. A well-implemented BI solution ought to provide organizations with accurate and real-time data, allowing them to make better and more informed decisions, improving operational efficiency and increasing revenue.

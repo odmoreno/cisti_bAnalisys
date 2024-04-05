@@ -1,0 +1,3 @@
+StartProject: Project Management Model. A Study Case
+ABSTRACT
+Project management is a very important process for organizations, it covers the organization as a whole. Hence, good management of technology projects impacts the aims of Information Technology and Corporate Governance. In this paper we make a study of the current situation and a comparative study of the most relevant project methodologies, and finally we propose an Information Technology Project Management model for the Office of the “Fiscalía General del Estado” (FGE), with which the regulatory compliance and the internal management of the organization.

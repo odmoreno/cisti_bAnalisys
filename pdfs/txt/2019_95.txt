@@ -1,0 +1,3 @@
+Mobile Alzhe_Alert: App for calculating the probability of suffering Alzheimer's disease
+ABSTRACT
+The most common dementia in developed countries is Alzheimer's Disease. Among other risk factors, age stands out. Prevention is important because both the genetics of each person and aging have their influence, although there are other factors that can change the likelihood of suffering Alzheimer's. That is why it is necessary to raise awareness among the population. This paper presents a mobile application that allows us to calculate the risk of Alzheimer's disease by carrying out a brief questionnaire, whose results estimate the percentage of suffering from the disease in the coming years. This could be done from any Smartphone or Tablet whose operating system is Android.

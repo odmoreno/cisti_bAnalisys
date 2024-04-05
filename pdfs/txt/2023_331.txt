@@ -1,0 +1,3 @@
+Augmented Reality as support in attention deficit in children
+ABSTRACT
+Attention deficit hyperactivity disorder (ADHD) is a disorder that affect the children’s development, linked to possible symptoms: inattention, impulsivity, and hyperactivity more persistent than children with similar conditions [1]. For this is important develop useful and practical different ways to improve attention skills, reality augmented (AR) give an opportunity to play different attention and memory activities. In this paper is shown the design, development and implemented process of a software based in AR to attention enhancement in ADHD children.

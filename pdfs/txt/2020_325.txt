@@ -1,0 +1,3 @@
+Zeroconf Network Retail Kiosk for Fish Products Traceability
+ABSTRACT
+Being driven by increased product quality challenges and customers’ awareness about social and environmental aspects, food traceability information must reach customers where they need to choose which products to buy. The best way of providing customers with traceability information is by putting traceability kiosks in the points of sale. This paper describes the implementation of a Fish products' traceability kiosks networking system, in the scope of ValorMar R&D project, that allows all kiosk devices in a shop or supermarket to communicate with each other using a Zero Configuration Network (Zeroconf), for keeping their internal database synchronized.

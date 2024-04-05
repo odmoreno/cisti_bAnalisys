@@ -1,0 +1,3 @@
+Optimization of Restaurant order Service through the Implementation of Digital Systems
+ABSTRACT
+Interactive applications for restaurants have become totally innovative tools, offering agility in customer service efficiency. This type of applications increasingly reach a higher position in the market not only culinary but also hotel, artistic, etc. In fact, it is increasingly common to find this type of technology. This article is focused on the implementation of interactive applications within the gastronomic sector in order to provide a better service and ensure a good experience for users. In addition, different tools are used, which facilitate the development of the application and highlight the different advantages of implementing it.

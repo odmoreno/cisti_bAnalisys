@@ -1,0 +1,3 @@
+Advanced Driver Assistance System for the drowsiness detection using facial landmarks
+ABSTRACT
+This paper presents the development of a solution to detect a driver's drowsiness in real time and issue alerts to avoid possible traffic accidents. In particular, an analysis of the methods used for the detection of drowsiness by computer vision is performed, focusing on the use of facial reference points. Distraction, drowsiness, tiredness, speeding and fatigue are the main causes of accidents and, precisely, advanced driver assistance systems ADAS help reduce these serious human errors.

@@ -1,0 +1,3 @@
+Simulation Platform on Distributed Shared Memory
+ABSTRACT
+This document presents the work related to a simulation event driven platform, Darfia, engineered through the use of distributed and shared memory (DSM) using the framework Terracotta DSO, in order to facilitate the construction, maintenance and analysis of this kind of approach to the local and distributed address space. The simulation platform was developed using the concepts of virtual time and logical clocks proposed by Lamport, and was implemented in the programming Java, and is configurable via portable documents. This work also provides a web interface for the simulationplatform, built with technologies offered by HTML5, providing the use ofsimulation platform also for the web.

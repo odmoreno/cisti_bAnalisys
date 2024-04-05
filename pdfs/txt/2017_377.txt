@@ -1,0 +1,3 @@
+Informatic indicators of efficacy cancer treatment
+ABSTRACT
+Evolution of cancer treatment requires reconfiguration and optimization of the health care infrastructure and investment in new services. To address this problem, it is necessary to make significant changes in the health infrastructure and creating a informatics system consisting of electronic medical records. The data of this study comes from surfing and learning ABI/Inform Global (ProQuest) papers on this topic, and Russian statistical reports of cancer services. The paper considers the main indicators to measure the efficacy of cancer treatment and how to take a system of measures aimed at improving the cancer treatment. Also there is designed the information support scheme of cancer services.

@@ -1,0 +1,3 @@
+Towards a Social and Semantic Web Platform for Sharing Endogenous Knowledge to Adapt to Climate Change
+ABSTRACT
+In this article, we focus on farmers’ perceptions of climate change and their strategies for adapting cultures, which constitute endogenous knowledge. This leads us to the three major challenges of opening, interconnecting and sharing endogenous knowledge through the use of different tools and methods of the semantic web (or linked open data).

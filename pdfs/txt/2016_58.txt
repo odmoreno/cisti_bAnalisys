@@ -1,0 +1,3 @@
+A survey about the impact of support areas in Brazilian software companies
+ABSTRACT
+In the last fifteen years, Brazilian companies software developers promoted mainly through government initiatives, the improvement in their processes through the implementation of software quality models. This contributed to the increase of national companies certified in MPS.Br SW, CMMI and other models. However, some problems persist in the creation and maintenance of software process in these companies. Through a survey of certified companies, this article presents an overview of these companies, their production processes and areas that support these processes. The main conclusion is that problems that occur in adjacent areas generate impacts on software projects enterprises.

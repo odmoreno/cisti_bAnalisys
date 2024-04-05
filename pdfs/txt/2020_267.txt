@@ -1,0 +1,3 @@
+AulaVR: Virtual Reality, a telepresence technique applied to distance education
+ABSTRACT
+This paper discusses the use of a virtual reality application in distance education as an e-learning system. This application seeks that students of non-face-to-face education experience telepresence, that is, experience being inside a real classroom with a teacher and several students, this application in addition to improving the student experience when studying in a non-face-to-face way provides the facility that they can connect from anywhere through an Android mobile device with internet access. Through the use of virtual reality can be shared and synchronized spaces where the experience is interactive in a social environment where the results were favorable to the proposal.

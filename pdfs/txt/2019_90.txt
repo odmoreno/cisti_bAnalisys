@@ -1,0 +1,3 @@
+Analysis and estimation of passenger drop-off point in public transport systems: Case study: Montevideo-Urugua
+ABSTRACT
+This paper presents the results obtained by implementing one of a set of analyzed alternatives to estimate the drop-off point in public transport. Analyzed data was provided by the Municipality of Montevideo (Uruguay) and the results were compared with those obtained in the “Mobility Survey of the Montevideo metropolitan area”, validating the reached solution.

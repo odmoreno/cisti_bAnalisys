@@ -1,0 +1,3 @@
+Solving nonogram using genetic algorithms
+ABSTRACT
+A nonogram corresponds to a puzzle game. The aim in this game is generating an image on a grid by checking certain cells, this cells have to satisfy some rules associated with each row and column. In this paper, genetic algorithms are used to solve this problem, applying certain improvements that will benefit the process of seeking solutions.

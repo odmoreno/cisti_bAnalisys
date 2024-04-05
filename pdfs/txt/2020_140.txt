@@ -1,0 +1,3 @@
+Biotouch: a framework based on behavioral biometrics and location for continuous authentication on mobile banking applications
+ABSTRACT
+This article describes a multimodal framework based on behavioral biometrics and location for continuous user authentication in mobile banking applications. The proposed framework joins the typing and screen slide behavior patterns with the GPS location of the user in the authentication process. During the performance evaluation experiments, we used more than 6 different machine learning algorithms. Main results show an average accuracy between 78 and 91%.

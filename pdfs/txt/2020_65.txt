@@ -1,0 +1,3 @@
+Odontodrile: Wearable mechatronic toy for learning tooth brushing
+ABSTRACT
+Habits to maintain health are essential from an early age, in the same way when doing a proper brushing avoids caries problems and tooth loss. On the other hand, educational robotics and / or the design of mechatronic systems in toys has facilitated the teaching and learning process. With this in mind, this article shows the development of Odontodrilo, a mechatronic toy that can be used to teach the brushing process in children in an interactive and experiential way.

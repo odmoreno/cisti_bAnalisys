@@ -1,0 +1,3 @@
+Assessment of WorldView-2 satellite-image fusion using Daubechies Wavelet transform
+ABSTRACT
+This paper aims to show an outline of transform Wavelet Daubechies, the main characteristics of them and subsequently exposed methodological form that was used in the development of experimental procedures were performed to apply RGB-HIS method together with ARSIS technique to fused WorldView-2 images, finally presents the results obtained with the application of this method using five filters associated to Wavelet Daubechies (db2, bd3, db4, db5 y db8) on five levels of decomposition.

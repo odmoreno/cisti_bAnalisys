@@ -1,0 +1,3 @@
+Integral model of enterprise architecture for university digital libraries
+ABSTRACT
+Aligning business strategies and technology plans, is a strategic challenge to achieve success in organizations. For universities, the challenge is even greater; they should lead the processes of innovation and adoption of new technologies. Libraries are the center of knowledge concentration at universities; therefore, having a model that allow to face this challenge becomes a key factor. In this paper, we propose a model of enterprise architecture for university digital libraries. Such a model is intended to be a reference framework for managing data, applications, and strategies and, therefore for generating value in a digital library.

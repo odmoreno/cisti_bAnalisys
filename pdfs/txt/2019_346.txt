@@ -1,0 +1,3 @@
+Comprende: A Digital Media Library for All
+ABSTRACT
+COMPRENDE (http://www.ecomprende.com) is a virtual platform fully available on the Internet. It brings access for parents, teachers and students to an accessible video library. The user can get pre-reading content, basic reading, intermediate reading, among other complementary contents. This platform was developed to generate availability of accessible educational media for children with visual and/or hearing disabilities and with the general objective of increasing accessible content in Spanish. This paper gives and overview of the platform and summarizes the results of a field study conducted to collect data about the benefits of Comprende for children in an inclusive environment.

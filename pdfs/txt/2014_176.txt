@@ -1,0 +1,3 @@
+Towards a recommender system for digital resources based on social assessments: Experiment in an educational context
+ABSTRACT
+A quantitative evaluation of digital resources is proposed by employing social labeling and associated characteristic function that improves the retrieval of resources in digital repositories. The social metadata is described; the characteristic function defined, and finally the results obtained by applying the proposed formula on the reviews from different users in an experimental corpus of educational videos are presented.

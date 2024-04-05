@@ -1,0 +1,3 @@
+Multiplicative Criteria Aggregation Technique for Risk-Based Audit Planning
+ABSTRACT
+Audit planning has an important role in the internal control system and significant implications on the quality of governance of an enterprise. This paper introduces a multiplicative performance measure for aggregation of different criteria estimates for audit activity planning. The application to a decision making problem of ranking diverse control areas into an audit plan is considered and an illustrative example is provided.

@@ -1,0 +1,3 @@
+Accessibility in the software life cycle a maieutic exercise in software engineering
+ABSTRACT
+Accessibility is a very under addressed topic in software engineering, a constraining factor for its mainstream implementation. In this paper, this problem is described as well as some of its consequences. Some key concepts of digital accessibility are presented, beyond those of Web accessibility. The major contribution of this paper is the presentation of a draft to a proposal for a framework development model. In this framework, accessibility is present throughout the software lifecycle, in an explicit and justified way, based on the four main phases present in most framework development models.

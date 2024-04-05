@@ -1,0 +1,3 @@
+Expenditures on Education, R+D, ICT Imports and Food Security (Food Production) in Ecuador
+ABSTRACT
+This research analyzes the relationship between food security, measured by the food production index, and public spending on education, public spending on $R+D$ and ICT imports, as explanatory variables, for Ecuador. Using an ordinary least squares model, the existence of a statistically significant and positive relationship between food security and the variables public spending on education and $R+D$ was determined. These results reflect the importance of investment in education, $R+D$ and access to ICTs to guarantee food security and constitute an important source of information for the formulation of adequate public policies that contribute to this end.

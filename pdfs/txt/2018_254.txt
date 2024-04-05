@@ -1,0 +1,3 @@
+A spects related to security in clouds for IoT — Benefits and computational costs
+ABSTRACT
+Cloud computing and Internet of Things have formed a double increasingly common. However, these two technologies continue to evolve and there are many challenges, especially with regard to information security. This work aims to show research that help maintain security in environments that use cloud computing and Internet of Things simultaneously to highlight the efforts of researchers in this area nowadays.

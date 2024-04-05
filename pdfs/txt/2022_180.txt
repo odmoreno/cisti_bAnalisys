@@ -1,0 +1,3 @@
+Tangible programed robot and its use in education
+ABSTRACT
+Tangible programming is interpreted by many authors as a privileged way to introduce basic programming concepts to children. In this article we present a brief definition of the term tangible programming and describe the validation process of an educationally programmed robot for education. Finally, we present the perceptions of primary school teachers when evaluating the robot and the tasks developed for a STEM content approach using the robot.

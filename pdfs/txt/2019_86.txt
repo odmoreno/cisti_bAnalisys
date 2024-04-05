@@ -1,0 +1,3 @@
+Emotion Analyst: A mobile app for suggesting activities with basis on the user's mood
+ABSTRACT
+This article describes a mobile app that analyzes an individual's mood based on his or her recent history of social media posts, suggesting activities that are appropriate to the emotions identified. Relevant concepts and techniques associated with the following areas are applied: cognitive computing, to analyze emotions automatically; context-sensitive systems, to allow reacting in accordance to the user's circumstances; and affective computing, so that adequate activities are suggested. The prototype of the Emotion Analyst application is presented and analyzed, the results obtained so far are discussed, and topics for future work are identified.

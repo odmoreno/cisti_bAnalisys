@@ -1,0 +1,3 @@
+Suitability of e-business maturity models for digital economy
+ABSTRACT
+Companies today live in a context of cycles in which there is an increasingly competitive and shorter life cycles for products and services, such as requiring a deep knowledge of customers and suppliers. The electronic business is one way to structure all the processes of the organization supported by Information and Communication Technologies (ICT) that allow a direct connection with customers, business partners, employees and its own management. This paper is a reflection on whether the e-business maturity models will fit the new reality of electronic business, in which the social networks are turning into a “social business”.

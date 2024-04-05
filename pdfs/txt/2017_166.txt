@@ -1,0 +1,3 @@
+GAIA Venalium: Model for software acquisition
+ABSTRACT
+Inside of any organization, the acquisition process of product or service is extremely important and if not done properly can cause uncountable damage. In this way, the software acquisition isn't different and can cause uncountable problems too, like delays in existing contracts or even the dependence on the company contracted to code the product. Thus, the objective of this work is provide a software acquisition model that be dynamic, adaptive and that can help the organization to realize a quality acquisition, beyond to build an application based on the Levenberg-Marquardt Algorithm to help in the decision making on the suppliers choice.

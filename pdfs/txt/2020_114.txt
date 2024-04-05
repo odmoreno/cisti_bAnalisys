@@ -1,0 +1,3 @@
+Nonlinear Predictive Control for the Tracking of Unmanned Aerial Vehicles
+ABSTRACT
+In the following article a nonlinear predictive controller (MPC) is presented as a teaching and learning tool, to test the tracking of different flight paths in a safe way in unmanned aerial vehicles (UAV). This MPC is based on the kinematic model of the UAV and performs the function of minimizing control errors, restricting control actions, increasing system efficiency, maintaining stable flight operation and extending rotor life by restricting UAV input speeds. In addition, the comparison of the data obtained experimentally from Matlab with the data from the DJI Assitant is carried out by simulating the flight path within the virtual environment.

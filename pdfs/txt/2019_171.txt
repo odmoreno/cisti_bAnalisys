@@ -1,0 +1,3 @@
+Auxiliary System of Unified Recognition
+ABSTRACT
+Auxiliary System of Unified Recognition consists of the detection/recognition of faces and automotive plates through videos captured from surveillance cameras in the Brazilian city of Três Lagoas. This system uses free software and artificial intelligence techniques to aid in local public safety. The software used is OpenCV, Tesseract-OCR, PostgreSQL, Debian GNU/Linux and C++ language. The hardware used is high resolution cameras that transmit multimedia information through the Real Time Streaming Protocol (RTSP).

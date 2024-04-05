@@ -1,0 +1,3 @@
+The incidence of geographical location in the political discussion on Twitter
+ABSTRACT
+Twitter is one of the main spaces of the digital environment in which political discussion takes place. Our aim is to analyse how the geographical location of the users influence the debates about the negotiations to form a Government in Spain. The technique of the machine learning has been used on a sample of more than 127 million tweets from 24,389 accounts linked to three Spanish cities. The results show that the political centrality and the population size are conditioning factors. Thus, Twitter reproduces the existing geographic parameters from outside the network in the articulation of political communities.

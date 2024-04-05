@@ -1,0 +1,3 @@
+Management of surgery waiting lists in the Portuguese public healthcare network: The information system for waiting list recovery programs
+ABSTRACT
+This paper presents the evolution of the process for management of surgery waiting lists in the Portuguese public hospital network. We use the perspective of the software development and deployment by UTAD, as a partner of the Ministry of Health, to create an information system to manage list recovery programs. We describe the early status and work, when data harvesting was the core challenge, up to the current automated situation. This paper bridges the PERLE, PPMA, PECLEC and SIGIC programmes, and concludes with lessons learned and suggestions for evolution of the process.

@@ -1,0 +1,3 @@
+From CRM to CzRM — Fundamental concepts
+ABSTRACT
+Customer relationship management is critical for organizations. The public institutions, in particular the municipalities, are not an exception to this fact. However, these institutions have a number of peculiarities, as such their systems must be appropriate to their specific reality. In this article are presented the fundamental concepts of CRM (Customer Relationship Management) and CzRM (Citizen Relationship Management), discussing the distinctive characteristics of municipalities regarding other organizations.

@@ -1,0 +1,3 @@
+Automated Reasoning with Legal Ontologies: A Case Study on Brazilian Councilwoman Marielle Franco’s Murder
+ABSTRACT
+In the Semantic-Web endeavor, legal ontologies are object of intense study given the syntactic and semantic anomalies that may be encountered in legal knowledge, such as conflicting norms governing the same situation. Nevertheless, little study is reported on legal ontologies' application and reasoning on legal cases. Therefore, we present in this paper an instantiation of a legal ontology for the unsolved case of the murder of Brazilian councilwoman Marielle Franco. Additionally, we describe a prototype to make inferences over criminal types and penalties based on the instantiated ontology.

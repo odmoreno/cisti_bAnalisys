@@ -1,0 +1,3 @@
+Multimodality segmentation and registration of 3D Pulmonary exams
+ABSTRACT
+Several medical imaging techniques are used to perform the Pulmonary Embolism diagnose. Multimodality imaging is usually used to achieve better morphological details. In this work we applied and compared 3D registration algorithms, after the segmentation of thoracic CT exam, ventilation and perfusion SPECT exams. The registration routine is applied using rigid body transformations, affine transformations and B-spline algorithm. In order to evaluate the registration performance, similarity metrics are used.

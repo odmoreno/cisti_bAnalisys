@@ -1,0 +1,3 @@
+Preliminary study on systematic literature review of augmented and virtual reality applied to motor and cognitive disabilities
+ABSTRACT
+In recent years, studies have been making use of Virtual and Augmented Reality technologies, which has shown promising results. However, there are few studies conducted on the disabilities area. From this approach, this paper presents the results of a preliminary study on systematic literature review of augmented and virtual reality applied to motor and cognitive disabilities.

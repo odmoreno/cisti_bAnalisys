@@ -1,0 +1,3 @@
+Computational Platform for the Assisted Diagnosis of Patients with Aphasia
+ABSTRACT
+The diagnostic systems of aphasia are tools that allow the specialist to recognize the degree of the disorder that a patient possesses, in this way facilitate and follow up the treatment that allows the patient to recover speech through therapies. This article shows the development of a computational platform that allows the configuration and execution of tests to make a diagnosis in patients with aphasia. The activities that the doctor can configure and design on the platform include different levels of difficulty that will be stored in a database, which depending on the agility and ability of the user, will give the specialist support to generate their diagnosis.

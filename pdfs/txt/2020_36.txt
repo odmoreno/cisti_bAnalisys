@@ -1,0 +1,3 @@
+Optimization of the performance of an online payment application by the improviment of its infrastructure
+ABSTRACT
+This work aims to report a practical experience of a big Brazilian bank, which used a highly critical payment application. With the raise in transactions, the application started showing some limitations, generating unavailabilities. As it was not possible to change the application code to procede with optimizations since the application had a closed code, it was applied the MIASP method to identify and solve the limitations by adjustments in the infrastructure. The problems were overcome by concepts of systems distributed like middleware architecture; concurrent processing; database and programmed routines in operational systems.

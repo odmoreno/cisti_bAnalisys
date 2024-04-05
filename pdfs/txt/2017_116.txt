@@ -1,0 +1,3 @@
+Gamification to support programming learning
+ABSTRACT
+In this article we approach the current state of art regarding programming education. We analyze the current constraints and challenges that students have been facing when learning programming, as well as the methodologies adopted by teachers and researchers to overcome these adversities. We propose the implementation of gamification to motivate and encourage students to achieve better results and to learn efficiently. To that end, the main characteristics of a gamified system are described, as well as the principles of its implementation.

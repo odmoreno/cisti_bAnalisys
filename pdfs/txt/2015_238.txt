@@ -1,0 +1,3 @@
+Solving pre-processed set covering problems via cuckoo search and lévy flights
+ABSTRACT
+Cuckoo search is a modern bio-inspired metaheuristic that has successfully been used to solve different real world optimization problems. In particular, it has exhibited rapid convergence reaching considerable good results. In this paper, we employ this technique to solve the set covering problem, which is a well-known optimization benchmark. We illustrate interesting experimental results where the proposed algorithm is able to obtain several global optimums for different set covering instances from the OR-Library.

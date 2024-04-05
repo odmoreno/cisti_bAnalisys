@@ -1,0 +1,3 @@
+Protocol of Information Recovery in Solid Hard Drives - SSD Using File Carving Techniques
+ABSTRACT
+This paper proposes protocol of information recovery in solid hard disks - SSD by means of the use of File Carving techniques, analyzing factors of incidence, scenarios of affectation, type of file to recover, as well as the fragmentation of the same. In this regard, it hopes to be a support in the work of computer expertise or auditing in the field of information retrieval in SSD.

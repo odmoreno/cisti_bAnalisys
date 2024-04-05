@@ -1,0 +1,3 @@
+FTT-Modeler: A support tool for FTT-CORBA
+ABSTRACT
+FTT-CORBA is a middleware architecture aimed at synchronizing the task activations of a distributed system according to a plan that may be changed in run-time. In this architecture tasks are wrapped as CORBA methods that are activated by a central node, the Orchestrator. FTT-CORBA allows loading and managing distributed applications in run-time by means of an open interface. It also allows monitoring the status of the distributed system. This paper presents FTT-Modeler, a support tool that allows the user to model and implement distributed applications, simulate FTT-CORBA systems and manage an FTT-CORBA distributed system in runtime.

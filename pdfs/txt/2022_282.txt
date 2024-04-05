@@ -1,0 +1,3 @@
+Optimum Vessel Segmentation
+ABSTRACT
+Good blood vessel segmentation in medical imaging is critical during surgery. We propose a parallelized region growth algorithm (pSRG) computing the gradient using Persistence and grid-stride loops. This approach avoids unnecessary memory transfers. As a result, in addition to faster computation, we obtain more accurate segmentation.

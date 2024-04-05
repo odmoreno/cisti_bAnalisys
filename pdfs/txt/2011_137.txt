@@ -1,0 +1,3 @@
+EIKO: A Social Mobile Network for MANET
+ABSTRACT
+With the arrival of the mobile ad hoc networks and the new generations of mobile devices, a connection to a data communication network became possible anywhere and anytime. Currently, a group of users can meet in a dynamic way and create their own communication networks. At the same time, on the internet, arises what was named social network, where a group of people with common interests can relate with each other. In this context, this project brings the junction of the mobile cellphone's technology and the mobile ad hoc networks, through the research and implementation of a studies prototype called Eiko: a mobile social network for curriculum data.

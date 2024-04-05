@@ -1,0 +1,3 @@
+Methodology for the information security controls selection
+ABSTRACT
+Managing Information Security controls is not an easy process, since it must be adjusted to the characteristics of each organization. Currently, much of the process relies on the experience of experts, that is, in qualitative methods. However, we believe it is possible to incorporate quantitative methods that support the security adviser in its recommendations. We plan to study the techniques and methodologies of Operations Research, used in solving optimization problems. We hope that with the incorporation of these techniques, we will obtain advantages of precision, cost and time, in the security advisor's recommendation, to what is achieved today with the traditional forms.

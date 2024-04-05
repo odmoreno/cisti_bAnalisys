@@ -1,0 +1,3 @@
+FARMACIL: An application for mobile devices supporting the management of the medication regime
+ABSTRACT
+In this article we present and discuss a prototype for a mobile application to manage the drug regime of a wearer. From a survey of requirements, along with doctors, pharmacists and users of the national health system, we designed a prototype of FARMACIL application, for which we have obtained very promising results in acceptance testing, from a universe of people in various age groups.

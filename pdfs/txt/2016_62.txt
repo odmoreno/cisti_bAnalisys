@@ -1,0 +1,3 @@
+A survey about the situation of the elicitation of non-functional requirements
+ABSTRACT
+Although non-functional requirements (NFR) are the basis for the definition of a appropriate architecture to the software context and have influence on the time and cost of development, elicitation of the requirements still seems to be a problem for many organizations. The objective of this study is to identify the current situation of the organizations as the NFR elicitation. We conducted a survey of many professionals seeking information about the elicitation of NFR in their organizations. There is the participation of several roles involved in the software development that reported the reasons why these requirements are often not elicited.

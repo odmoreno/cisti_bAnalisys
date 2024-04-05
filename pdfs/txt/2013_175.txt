@@ -1,0 +1,3 @@
+Case study: The creation of reusable and contextualized learning objects by mathematics teachers
+ABSTRACT
+This article shows a case study in which the mathematics teacher can create learning objects (LO), by simply just having basic computer knowledge. It was taught a training course for teachers about the use of authoring tools to create these objects. In this training, the teachers, besides creating an LO, also answered three questionnaires, and these data were statistically analyzed. We conclude that most mathematics teachers can use and combine learning authoring tools to create LOs according to the proposed methodology.

@@ -1,0 +1,3 @@
+Tool for monitoring the general health of patients in a rural environment
+ABSTRACT
+The health centers group (ACES) “Douro Sul II” is creating a Community Support Team for Palliative Care (ECSCP) to provide palliative care services for the ACE's population of 73, 713 registered users. To support these services, a study was carried out and it was planned the development of an Information System (IS) with the main objective of monitoring patients from their homes, providing information to support the operations of the team. The system is based on a platform that controls the flow of information between coordinators, team and the patients, from the use of mobile and web applications. Therefore, the team will be able to respond more quickly to patients requiring support.

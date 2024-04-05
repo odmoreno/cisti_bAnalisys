@@ -1,0 +1,3 @@
+Value and risk in investment portfolios, critical variables calculated from an intelligent hybrid system based on CBR
+ABSTRACT
+This paper presents the partial results obtained at the doctoral work titled ADAPTIVE HYBRID SYSTEM FOR THE VALUE AT RISK ESTIMATION ON PORTFOLIOS, where different AI techniques are used. This expert system tries to predict the portfolio variability with two o more assets, where the ROI and the risk rate are vital to define the efficient frontier market proposed by Markowitz.

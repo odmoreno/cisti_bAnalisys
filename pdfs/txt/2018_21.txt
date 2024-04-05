@@ -1,0 +1,3 @@
+FabLab global survey: Characterization of FabLab phenomenon
+ABSTRACT
+The exponential growth of Fabrication Laboratories attracts our attention and invites us to approach this phenomenon with the objective of its characterization. Being relatively new, we found some lack of studies and considered the construction of a questionnaire called FabLab Global Survey that helps us in this characterization and allows us to know the basic tools and technologies that make up this environment, as well as its relationship with rapid prototyping or entrepreneurship. In our study, we found that the defining element of this type of environment is the concept of community that enjoys not only new technical possibilities, but above all, shares knowledge and experiences.

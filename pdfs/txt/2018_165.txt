@@ -1,0 +1,3 @@
+Behavior of project management in a context of project skidding
+ABSTRACT
+This article aims to understand the behavior of project managers in a context of skidding when monitoring and controlling projects in the area of information systems and technologies and identify which performance dimensions are most valued in this context. The results obtained in this research indicate that the most experienced project managers prioritize Cost and Time, while in internal projects the project managers act by norm on the Scope.

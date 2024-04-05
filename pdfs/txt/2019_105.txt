@@ -1,0 +1,3 @@
+ChatPy: Conversational agent for SMEs
+ABSTRACT
+In the present research, we study the components and principles for chatbot built, perform an analysis and comparison of the different current technological platforms for Chatbots is done. The majority of SMEs in Ecuador feel the lack of support tools for customer service in their IT platforms, that is why they have seen in the development of this technology a solution to increase their sales and reach their customers. We propose ChatPy as an appropriate conversational agent for use in SMEs. An implementation of ChatPy is carried out in a wholesaler automotive spare parts, as a case of study. The ChatPy implementation uses the PSP framework. The results show improvement in sales, customer service and customer satisfaction.

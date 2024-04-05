@@ -1,0 +1,3 @@
+Operational requirement ranking for consensus algorithm selection in Blockchain health management systems
+ABSTRACT
+The objective of this work is to apply the Analytical Hierarchical Process (AHP) method with support from the Online System (AHP OS) method for operational requirements ranking for consensus algorithm in Blockchain-health management systems. The Efficiency criterion was the most relevant among the criteria evaluated by decision makers based on the ranking established by the AHP method. From the analyses performed it was possible to validate the application of the proposed method to enable the selection of consensus algorithms appropriate to Blockchain in the context of health.

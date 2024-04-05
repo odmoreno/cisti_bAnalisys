@@ -1,0 +1,3 @@
+A review of segmentation algorithms for ear image data
+ABSTRACT
+The segmentation of ear structures in computed tomography (CT) and magnetic resonance (MR) images has gained high importance in the last years. In this paper, we present a review on the segmentation algorithms presented in the literature. As such, several algorithms, approaches, related issues and problems are defined and explained. Additionally, their use is illustrated and discussed, and their advantages and disadvantages are pointed out.

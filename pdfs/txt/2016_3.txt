@@ -1,0 +1,3 @@
+Control version system process anxd software product line: Software residence experience
+ABSTRACT
+This paper presents an experience in software residence about product line and version control process. Graduate students groups had a mission to develop and specify a process to solve a real problem. As a result of this experiment, the groups developed and specified the software process and we found that the software residence contributed to dissemination of knowledge among students.

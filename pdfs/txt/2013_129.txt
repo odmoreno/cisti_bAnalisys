@@ -1,0 +1,3 @@
+Impact of color spectrum reduction in object detection on the RoboCup Standard Platform League
+ABSTRACT
+The adoption of NAO humanoid robots in the RoboCup Standard Platform League (SPL) broguht a new set of challenges on this league on the computer vision area. This paper presents a new color indexing mode and a study of the impact of the reduction of the color spectrum, to be processed on the classification, segmentation and object detection, in a NAO robot, playing on the SPL league. The experiments were performed in the context of the Portuguese Team concluding that a 21 bit lookup table may replace the current 24 bit table used.

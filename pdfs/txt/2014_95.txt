@@ -1,0 +1,3 @@
+Contributions to promote the adequacy of an approach based on services to EHR
+ABSTRACT
+There are many issues to consider when we develop an information system for managing the electronic health record (EHR). It must be useful for several types of users, entities and departments of health services. Also, it must be flexible to meet a broad set of needs and cover a wide range of clinical and non-clinical areas in health. In this paper we describe a regional healthcare system, having in mind to illustrate a distributed, heterogeneous healthcare system, and then to discuss the suitability of the Triple Helix model for governance in a service-oriented architecture context, following the OpenEHR.

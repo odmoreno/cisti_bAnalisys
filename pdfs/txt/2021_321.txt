@@ -1,0 +1,3 @@
+Artificial Intelligence as the core technology for the Digital Transformation process
+ABSTRACT
+Digital transformation (DT) is about change in every aspect of the organization, but fundamental technologies are the core of this conversion. In this paper, modern technologies, mostly Artificial Intelligence (AI), is studied. Also, the impact of AI in creating value for companies has been investigated. It also argues that the firms which accept these changes as opportunities will succeed in the digital age. In this research, by applying the literature review methodology, it was found that AI can enhance the customer experience. It expands the number of sales and enables real-time decision making.

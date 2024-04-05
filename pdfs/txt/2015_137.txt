@@ -1,0 +1,3 @@
+Conceptualisation and development of a collective spatial decision support system: The geospatial system of Collective Intelligence
+ABSTRACT
+In this paper we present the progress of a research that focuses on validating an intelligent geospatial system aimed to support decision-making in complex geographic scenarios, whereby current and prospective geospatial patterns could be generated (through which it may provide), with the support based on Collective Intelligence and Artificial Intelligence. The system mainly focuses on the organisation and management of resources linked to territories in order to support decision-making in the planning process.

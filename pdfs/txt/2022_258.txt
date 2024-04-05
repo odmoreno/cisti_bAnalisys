@@ -1,0 +1,3 @@
+Student eXperience (SX) concept
+ABSTRACT
+User eXperience (UX) is a discipline that has impacted the development of technology products in multiple aspects and contexts. UX has made it possible to improve human-machine interaction processes by making them more intuitive. Principles and metrics have been generated to support UX activities to achieve this. In its natural order, we can observe the evolution of the discipline permeating new spaces and developing new research fields such as Customer Experience (CX). In this case, we will present a proposal of the Student Experience (SX) concept based on the literature.

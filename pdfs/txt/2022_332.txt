@@ -1,0 +1,3 @@
+Predicting Bitcoin prices : The effect of interest rate, search on the internet, and energy prices
+ABSTRACT
+The current study's goal is to explain the price of bitcoins. We examined the effect of Web search statistics, energy prices, and alternative investment (or cost of opportunity) on bitcoin prices in particular. The second goal is to find the algorithm with the best predictive power. Data were obtained from public and open data. We use a variety of machine learning algorithms to accomplish this. Statistical results were coherent according to the expectation.

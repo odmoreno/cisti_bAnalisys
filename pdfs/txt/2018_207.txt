@@ -1,0 +1,3 @@
+Application of PMBOK in the development of research
+ABSTRACT
+PMBOK has been widely applied to Software Engineering. The aim of this article is to present a project management method based on PMBOK and apply it to research process at universities. The management method integrates the best practices of PMBOK to facilitate the processes of reserach in their different levels of organization (strategic, tactical and operative). Twenty six head of research took part in the research. The data was analysed both quantitatively and qualitatively. The results show that management through the proposal compared to the current process obtained significant improvements.

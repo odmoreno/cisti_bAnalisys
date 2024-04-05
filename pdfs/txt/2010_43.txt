@@ -1,0 +1,3 @@
+Identifying best practices for a software development organization through knowledge management
+ABSTRACT
+This paper describes a method for identifying the best practices of a software development organization, focusing on reducing change resistance through knowledge management. These best practices are important because they allow software management to know how an organization works by formalizing, preserving and promoting key knowledge. Besides, they will allow software process improvement initiatives to be successfully implemented within the organization

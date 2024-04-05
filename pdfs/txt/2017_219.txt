@@ -1,0 +1,3 @@
+All in scratch project
+ABSTRACT
+The present article refers a project developed in the area of programming and robotics aiming to promote the school success through the implementation of a pedagogy associated with problem solving based on the fundamentals of Scratch language programming and using structural components that aims students development in different areas of education. The All in Scratch project is a combination of several different subprojects, whose target audience ranges from kindergarten children to higher education students.

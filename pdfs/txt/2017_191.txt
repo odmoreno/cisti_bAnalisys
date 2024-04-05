@@ -1,0 +1,3 @@
+Analytics of student behaviour in a learning management system as a predictor of learning success
+ABSTRACT
+Higher Education (HE) teachers are aware that the evolution of technology changed the way students build their knowledge. New forms of access to information and new means of communication allowed creating specialized learning tools. It is now important to understand how the students' interaction with learning technologies influences their learning success. For that purpose, data referring to the use of a learning management system (LMS) supporting a specific course was collected and analyzed. Results indicate that a minor correlation exists between the effective use of those tools and student success.

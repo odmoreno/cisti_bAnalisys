@@ -1,0 +1,3 @@
+SIX 2.0: a tangible TV interface for seniors
+ABSTRACT
+The progressive aging of the population is a confirmed phenomenon today. The experience of interacting with TV presents itself as an everyday activity that is not very intuitive and complicated for most seniors. The SIX cube is a tangible interface, in the form of a cube, that makes it possible to change the channel and perform other actions of interaction with the TV, when one of the 6 faces is facing upwards, constituting itself as an alternative solution to the TV remote control. This article presents the development process and the evaluation of the functional prototype SIX 2.0 through a case study with a senior end user in a real context of domestic use.

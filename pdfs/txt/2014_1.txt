@@ -1,0 +1,3 @@
+Sky computing: Exploring the aggregated cloud resources — Part II
+ABSTRACT
+The Cloud wide spawn and maturing has brought the attention of High-Performance Computing consumers, willing to move to its potential. The use of those resources to make intensive computing proficiently is a requirement to achieve the final goal of supporting HPC applications. The big challenge here is managing the combined resources of available Clouds, public or private and interoperating between them without an excessive efficiency loss. This work reflects the continuation of the authors' work, describing the results of the proposed architecture on the first part.

@@ -1,0 +1,3 @@
+Smart University Immersive Virtual Learning
+ABSTRACT
+This document presents the development of the proposal for the virtual headquarters of the Universidad de las Fuerzas Armadas ESPE-Sede Latacunga, highlighting the reconstruction of the university's 3D model using photometry techniques, CAD modeling and rendering optimization to achieve a photorealistic graphic level represented by reality virtual and interacting with the objects that make up the laboratories recreated virtually for the teaching of PID controllers and the formation of industrial control concepts.

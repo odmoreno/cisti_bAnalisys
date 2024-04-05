@@ -1,0 +1,3 @@
+Maturity model for IT enterprise architecture
+ABSTRACT
+This paper aims to present the proposal for a model that assess the IT enterprise architectures' maturity. This model, called the Maturity Cube, aims to assess the key dimensions that comprise the business alignment with IT. Initially, other models in the literature were analyzed to evaluate the enterprise architecture maturity. From this analysis it was constructed a model of maturity in IT enterprise architecture. Finally, based on the proposed model, a validation search was conducted, in which were revealed the data on the maturity level of some organizations of Brazilian federal government.

@@ -1,0 +1,3 @@
+Amplified Reflection DDoS Attacks over IoT Reflector Running CoAP
+ABSTRACT
+In the context of distributed denial of service (DDoS) attacks, those which use amplified reflection (AR-DDoS) are a growing trend. Recently, AR-DDoS attacks exploring CoAP, a typical Internet of Things (IoT) protocol, were reported. With this motivation, the AR-DDoS attack abusing CoAP running on a typical IoT device, over IPv4 and IPv6, is studied. The results observed are consistent with previous studies and characterize reflector saturation at low probe injection rates.

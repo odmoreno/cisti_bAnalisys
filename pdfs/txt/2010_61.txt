@@ -1,0 +1,3 @@
+Architecture for multilingual information retrieval using the Dublin Core (ISO 15836) standard
+ABSTRACT
+Nowadays, we are in the information society in which it is important to exchange knowledge that supports the research process; on the other hand, it is evident the multilingualism limitations that established in these processes. This fact makes us think and makes us see the need to create mechanisms to include everyone in the global context; in this paper is presented the current status about research on multilingual information retrieval, in addition it is presented a generic architecture for the search for resources that are in different languages.

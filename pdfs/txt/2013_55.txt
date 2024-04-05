@@ -1,0 +1,3 @@
+Action research applied to knowledge management through soft systems methodology
+ABSTRACT
+The soft systems methodology proposed by Checkland and based on the action research approach, has been widely used on information systems discipline to improve problematical situations with highly human content, therefore, it can be considered in knowledge management researches to overcome the previously mentioned issues. This paper shows the use of the soft systems methodology on a research that tries to incorporate knowledge management on quality management at an environmental studies laboratory, and why we choose to apply it.

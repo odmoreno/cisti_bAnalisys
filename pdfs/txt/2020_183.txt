@@ -1,0 +1,3 @@
+ACCEPT – Web Applications for visualization and analytics of shop floor data
+ABSTRACT
+In the current context of Industry 4.0 and the metrological control of prepackaged products, it is intended that the shop floor data can be automatically collected and that different types of digital devices have access to the same data ubiquitously. It was intended to develop and to integrate Web applications on the ACCEPT system, a system that allows the collection, storage, visualization and analysis of shop floor data. This article describes the development process of the ACCEPT Quality Hub and ACCEPT Analytics applications and their integration in this system.

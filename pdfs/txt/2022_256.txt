@@ -1,0 +1,3 @@
+O efeito do capital intelectual na performance das empresas cotadas Ibéricas
+ABSTRACT
+This paper aims to study the effect of intellectual capital on the performance of 97 listed companies in the Iberian Peninsula from 2015 to 2019. To this end, the Generalized Method of Moments (GMM)-system proposed by [1] was employed. The results show that the listed companies performance is positively influenced by intellectual capital. However, managers and shareholders have different perspectives on the importance of human capital in companies. For managers, this has a positive effect on performance, but for shareholders it has a negative effect.

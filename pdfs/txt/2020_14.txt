@@ -1,0 +1,3 @@
+Design of a state observer type Luenberger: used in a cantiliever beam
+ABSTRACT
+This research paper presents the study of a Luenberger-type state observer, in the case of a cantilever beam. The interest is focused on identifying the main displacements in the beam, from an applied excitation force at the base and the end, considering the initial conditions of the complete system. Therefore, depending on the use of a single measurement sensor, which corresponds to the angular velocity sensor, it is possible to estimate the following parameters corresponding to the vertical displacement, displacement speed and the angle of inclination of the beam in cantilever.

@@ -1,0 +1,3 @@
+Platform to develop applications to support care providing
+ABSTRACT
+Integrated care is essential to meet the needs related to the ageing of the population. In particular, integrated care allows a holistic view of the patients and, therefore, a better care. This paper proposes a Platform of Services to develop complex applications of information management to support the integration of health care and social care.

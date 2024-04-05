@@ -1,0 +1,3 @@
+Recognition of static or dynamic LIBRAS words in complex background environments
+ABSTRACT
+The present article seeks to present a viable methodology for the recognition of static and dynamic expressions of the Brazilian sign language, LIBRAS, in environments whose background is complex. For this, the Keras library, which is part of TensorFlow, was used as a training tool and the OpenCV library, together with MediaPipe for the recognition of incoming frames. Concluding, therefore, with the use of perceptron neural networks for machine learning.

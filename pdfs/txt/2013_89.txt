@@ -1,0 +1,3 @@
+Regional Digital Index: Assessment of Portuguese regions in the Information Society
+ABSTRACT
+In order to develop effective policies for the development of the Information Society, with principles based on territorial cohesion, it is essential to know the existence and extent of regional asymmetries that may be occurring in the construction and consolidation of the Information Society in Portugal. This article proposes a model that involves the construction of a composite index (Regional Digital Index) obtained by weighting 73 indicators, which pursues that goal. They are also presented and discussed results of their application.

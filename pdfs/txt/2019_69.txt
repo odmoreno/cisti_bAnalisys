@@ -1,0 +1,3 @@
+Social Innovation from Knowledge Management
+ABSTRACT
+Knowledge produced from the interconnection of weather and climate information can be used to prevent risks of material damage and incidents caused by natural events such as precipitation. This article presents the report of the application of a knowledge management approach in which the knowledge created through the connection of rainfall with other climatological information is used and disseminated by a social innovation solution based on software for flood alerts.

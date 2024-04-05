@@ -1,0 +1,3 @@
+Zombies Firms in Ecuador: The Case of Communication Firms
+ABSTRACT
+In this work, the presence of zombie companies in Ecuadorian communication companies in the period 2015-2020 is studied. To do this, companies were classified as zombies if they had three years of negative equity. In addition, it was analyzed whether the zombie company was related to the capital structure. This was determined through three ratios: debt-equity (DT), short-term debt-assets (DCP) and long-term debt-assets (DLP). Through a logit regression, it was determined that an increase in these variables is associated with a greater probability of being a zombie, so the managers of these companies must maintain reasonable ratios so that the companies have a correct financial situation.

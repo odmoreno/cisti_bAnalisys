@@ -1,0 +1,3 @@
+Design and Implementation of IaaS Automation Processes in Cloud Environments
+ABSTRACT
+With the exponential growth of services hosted in digital environments and consecutively with their increasing criticality, there is a constant search for platforms that provide agility, flexibility and low complexity, delivering development environments faster than ever. The present work studies and discusses the implementation of a closed-source IaaS platform, vRealize, and the methods used to allow the integration of non-native modules in it, which gives it critical automation mechanisms to the operation. With the artifacts developed, it is possible to estimate a reduction in the delivery time of virtual computing environments from hours to a few seconds or minutes.

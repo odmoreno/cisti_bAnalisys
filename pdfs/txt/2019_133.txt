@@ -1,0 +1,3 @@
+Bridge Strengthening by Conversion to Tied-Arch Using Dragonfly Algorithm
+ABSTRACT
+Dragonfly algorithm is a metaheuristic that mimics the behavior of dragonflies in nature that has shown excellent performance for numerous optimization problems. The main inspiration of the algorithm originates in the behavior of static and dynamic swarms of dragonflies in nature. Two essential phases of optimization, exploration and exploitation are designed modeling the social interaction of dragonflies in navigation, the search for food and avoiding enemies when they accumulate dynamically or statistically. In the present work the problem of bridge reinforcement is addressed, for this case the dragonfly algorithm will be used to solve this problem.

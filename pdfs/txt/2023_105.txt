@@ -1,0 +1,3 @@
+Business Intelligence Over and Above Apache Superset
+ABSTRACT
+This study looks for an alternative to the platforms that are most frequently utilized in business intelligence developments. In order to do this, a literature review on each subject typically addressed during the development of a BI platform was performed. Since it was determined that Apache Superset would be the appropriate platform, experiments are currently being developed to evaluate the platform’s viability.

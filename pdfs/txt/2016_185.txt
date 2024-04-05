@@ -1,0 +1,3 @@
+sprintDoc: Concept for an agile documentation tool
+ABSTRACT
+Documentation is often neglected in agile software projects, even if software developers perceive a need for good documentation. One reason can be found in improper documentation tools. This paper provides an overview of the central conceptual ideas for an agile documentation tool.

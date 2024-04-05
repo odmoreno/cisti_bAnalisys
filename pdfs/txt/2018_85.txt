@@ -1,0 +1,3 @@
+A mobile environment for informal learning science
+ABSTRACT
+This article presents some technical requirements that served as the basis for the design of a mobile application that is intended to be defined as an `informal learning environment of science', and which is developed in prototype to be tested in a science museum involved with scientific instruments of the 18th and 19th centuries.

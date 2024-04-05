@@ -1,0 +1,3 @@
+A new level set based segmentation method for the four cardiac chambers
+ABSTRACT
+Ultrasonography is one of the safest methods in medical imaging, however the segmentation of such images still is a difficult task. A robust segmentation of the heart cavities and a 3D view are needed to better understand the congenital malformations and defects in children hearts. In this work we propose an automatic segmentation method based on geometric models to extract the boundaries of the four heart cavities, by an algorithm that uses the phase symmetry. The performance of the proposed method is quantitatively compared with three alternative level set functions, the watershed segmentation and the contours drawn by a pediatrician.

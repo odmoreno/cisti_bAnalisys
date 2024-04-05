@@ -1,0 +1,3 @@
+Usability of the Cape Verdean government websites
+ABSTRACT
+Cape Verde has been experiencing in the past few years, notorious progresses on the development of Information and Communication Technologies, especially in e-government and on the democratization of Internet access. In this context, usability is of paramount importance. This paper analyses the usability of the Cape Verdean government websites, by identifying the existing problems and by proposing corrective measures. Such analysis is performed using a sample of 10 government websites and using focus group and usability tests for each one of these websites.

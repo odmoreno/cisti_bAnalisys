@@ -1,0 +1,3 @@
+Definition of cybersecurity businness framework based on ADM-TOGAF
+ABSTRACT
+In this paper a set of activities and steps that are required to implement a framework enterprise cybersecurity is proposed, for which, is taken as a reference to Method of Architectural Description ADM-TOGAF and its integration with SABSA methodology enterprise Security, which define a set of iterative phases adapted cybersecurity standards defined in NIST COBIT 5 frames, and the ISO 27001 and ISO standard 27032. In addition the results obtained after the application of the framework are presented to local business context.

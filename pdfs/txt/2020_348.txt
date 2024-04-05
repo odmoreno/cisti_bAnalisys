@@ -1,0 +1,3 @@
+Web Accessibility Toolbar: Allyxe (Accessibility for Everyone)
+ABSTRACT
+While accessing all the content found on the web, many people may face different barriers or obstacles to achieve it. In this work, we present the development of a web accessibility toolbar which allows you to personalize websites and how you interact with their content, through a configuration panel that offers different options. Currently, there are several tools to achieve this same purpose, however, most of them focus on personalizing websites and not on how you interact with site content. In addition, the use of this bar on a functioning website is described.

@@ -1,0 +1,3 @@
+Authorization services of the eVida platform
+ABSTRACT
+This article focuses on the eVida platform developed to provide innovative products and services in health and quality of life domains to support the integration of formal and informal care at the community level. In addition to a brief description of the services architecture that supports eVida platform, the article discusses the options taken for the implementation of the authorization services.

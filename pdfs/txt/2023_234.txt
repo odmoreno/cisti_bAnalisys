@@ -1,0 +1,3 @@
+Optimization of vehicle routing in the distribution of electronic voting machines for elections
+ABSTRACT
+Optimizing the variables involved in the transport and distribution of a good is a complex task present in many types of business. This study presents a solution to define optimized routes for the delivery of electronic voting machines to polling places in the Federal District (Brazil) for an election. The challenge was characterized as a Vehicle Routing Problem (VRP) and the solution based on the open source software OptaPlanner.

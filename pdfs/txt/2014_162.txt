@@ -1,0 +1,3 @@
+Geospatial recommender system for the location of health services
+ABSTRACT
+In this work, a geospatial application focused on locating health care centers within a certain range of distance is presented. The proposed approach includes several integration technologies such as location services, mobile devices, social networks, ontologies, and historical statistics about vehicular traffic.

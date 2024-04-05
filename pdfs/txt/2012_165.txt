@@ -1,0 +1,3 @@
+MOW: Augmented Reality game to learn words in different languages: Case study: Learning English names of animals in elementary school
+ABSTRACT
+Recent digital games have been developed not only for entertainment purposes, but also to promote learning. This paper presents MOW (Matching Objects and Words), which is an Augmented Reality (AR) game for learning words in different languages. Experimental tests were performed with Portuguese children during English classes. We have compared the results from using MOW along with traditional teaching methods. The results indicate that children who used the Augmented Reality games had a superior learning progress than those who used only traditional methods.

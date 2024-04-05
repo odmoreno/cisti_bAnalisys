@@ -1,0 +1,3 @@
+Adoption of reverse auctions in public e-procurement: The case of Portugal
+ABSTRACT
+This study focuses on the adoption and use of electronic Reverse Auctions (eRA) for public procurement in Portugal, between 2013 and 2014. With this objective, we collected and analysed 8646 contract notices of public works, supplies and services for open and restricted procedures. Conclusions were drawn regarding its distribution in terms of Contracting Authorities, their organization and etymology, contracts' objects, types of purchase, type of procedure used, prices, and supporting technology. The study demonstrates that an eRA took place in 0.7% of the procedures, consistent and in line with the results advanced by the European authorities.

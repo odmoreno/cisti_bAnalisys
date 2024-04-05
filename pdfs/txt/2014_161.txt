@@ -1,0 +1,3 @@
+Assessment of satellite-image fusion using Fast haar Wavelet transform and Contourlet
+ABSTRACT
+This paper aims to show an outline of Contourlet and Wavelet transforms, the main characteristics of them and subsequently exposed methodological form that was used in the development of experimental procedures were performed, finally presents the results obtained with the application of method of image fusion technique using satellite ARSIS for Contourlet and fast transform Wavelet Haar (FHWT).

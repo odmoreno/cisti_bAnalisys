@@ -1,0 +1,3 @@
+A data mining approach to predict undergraduate students' performance
+ABSTRACT
+This paper presents a methodology based on random forest algorithm to predict the undergraduate academic performance of students from a polytechnic institution. The approach followed enabled to select 11 explanatory variables, starting from an initial set of around fifty, which allow to obtain a good predictive performance (R2=0.79). These variables reveal crucial aspects for the definition of management strategies focused on promoting academic success.

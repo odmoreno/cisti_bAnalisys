@@ -1,0 +1,3 @@
+Optimization of GPS tracks
+ABSTRACT
+This article is the result of a study on the optimization of GPS tracks applied to projects that can benefit from this kind of tracks. Accordingly, the methods used to obtain optimized repositories of tracks are presented here. An analysis of the efficiency and execution times of the comparison algorithms in which different optimizations are used is also done here. It is discussed to which extent the decreasing of the number of points in a track damages the quality of the solution reached. It is concluded that, within a certain range of optimization, this process has advantages given that it reduces algorithm execution time and keeps track comparison quality within rather reasonable levels.

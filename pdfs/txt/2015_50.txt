@@ -1,0 +1,3 @@
+The set covering problem solved by the binary teaching-learning-based optimization algorithm
+ABSTRACT
+The Set Covering Problem (SCP) is a representation of a kind of combinatorial optimization problem which has been applied in several problems in the real world. In this work is used the binary version of Teaching-Learning-Based Optimization algorithm (TLBO), which works with two phases known as teacher and learner phases in this way emulates the behaviour into a classroom, besides this problem is solved with eight different transfer functions and five discretization methods all of them altogether to solve The Set Covering Problem from the OR-Library.

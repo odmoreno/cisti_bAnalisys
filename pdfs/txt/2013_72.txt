@@ -1,0 +1,3 @@
+Fuzzy model for Organizational maturity evaluation
+ABSTRACT
+This paper aims at presenting a fuzzy computational tool that performs assessment of the organization maturity with regard to the management process. The maturity of a company is related to the capacity to reap the benefits obtained by this new form of management. A fuzzy evaluation is proposed to provide flexibility in the diagnosis of the maturity degree and also to create the Organizational Transformation Index. This index express a relative measure on the effort applied and results achieved during the incorporation of the processes business management, supporting the organization in the process of deployment.

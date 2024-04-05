@@ -1,0 +1,3 @@
+Spatio-temporal dinamic of geographic object by means of trajectories in spatial database
+ABSTRACT
+The research project will define a continuous trajectories representation model for moving region objects into spatial databases. Dynamic geo-objects means changes through time in geographic position, shape or internal structure, these changes generate trajectories to which will be added contextual and movement semantic to enrich the raw trajectories that characterizes the movement in the database.

@@ -1,0 +1,3 @@
+Hybrid algorithms for solving Sudokus
+ABSTRACT
+The aim of the Sudoku puzzle is filling with digits from 1 to 9 into each cell of a square matrix with 9 rows and 9 columns, divided into 9 3 × 3 regions, so that each column, row, and region contains have different values. This paper reports recent results for solving Sudokus achieved by combining metaheuristics and AC3 which is a filtering technique coming from the constraint programming domain.

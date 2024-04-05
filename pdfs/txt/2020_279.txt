@@ -1,0 +1,3 @@
+Information system (IS) success – integrative framework
+ABSTRACT
+This article introduces an integrative framework of the information system (IS) success. The success of information systems is one of the most studied topics in IS research; however, there are many different views on this topic, which makes understanding complicated. There are three main questions related to IS success evaluation - how, when, and who, should evaluate IS success. As the response to these questions, we introduce a novel view on this topic by an integrative framework that consolidates knowledge about IS success covering three points of view: 1) time dimension, 2) assignment of stakeholders, and 3) success metrics.

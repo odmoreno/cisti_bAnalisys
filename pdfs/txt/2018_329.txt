@@ -1,0 +1,3 @@
+Usability and eye tracking: Analysis of the home pages of international universities: Do they clearly show the objetives of the institution?
+ABSTRACT
+The definition of contents of web pages should be governed by the principles of interaction design and the objectives pursued. The objective of this study is to evaluate the usability degree of the home pages of nine international universities using eye-tracking technology. In a complementary way, and in the search for triangulation, the Thinking Aloud technique and a Usability Test will be used. The results indicate that the pages of the universities, have not been designed according to usability criteria and not thinking about the audiences they are targeting.

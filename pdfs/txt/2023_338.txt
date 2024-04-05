@@ -1,0 +1,3 @@
+Hierarchical Clustering and Calibration Functions
+ABSTRACT
+We propose a novel approach applicable to hieararchical clustering for determining optimal clusterings. Starting from a dendrogram (representing a maximal chain of clusters) an optimal clustering is determined such that two criteria, entropy and calibration, are optimized. Experimental work suggest that our approach produced quality clusterings as the values of their silhouette indicates.

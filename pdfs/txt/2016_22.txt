@@ -1,0 +1,3 @@
+Comparison of MCDM methods with users' evaluation
+ABSTRACT
+This paper responds to requirement to improve the orientation between offered SW, as ITIL tools. There are really a lot of amount thus offered tools and very often leads to poor implementation of ITIL on the basis of incorrectly chosen tools. Main objective of this paper is to provide an overview about possibilities of choosing a suitable tool. Simultaneously, the research described in this paper will serve for further work on creating a methodology for evaluation of ITIL tools.

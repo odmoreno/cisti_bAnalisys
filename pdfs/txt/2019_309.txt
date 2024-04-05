@@ -1,0 +1,3 @@
+Detection model of similar datasets
+ABSTRACT
+The number of datasets that are represented in open data formats is increasing. However, despite of the fact that many of them also have the same subject, they do not follow the same representation schemes, which derives from a problem of data use by users and developers, who find difficulties to compare data from differents sources due to the heterogeneity of the schemes. This article proposes a detection model of similar datasets, as a previous step to the unification of their representation schemes.

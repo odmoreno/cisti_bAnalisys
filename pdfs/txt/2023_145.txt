@@ -1,0 +1,3 @@
+Management of Software Projects in Degree Projects using an Agile Methodology
+ABSTRACT
+The development of software projects addressed in degree work in higher education, demand the use of methods or techniques supported by software engineering, agile methodologies are accepted in recognition of their characterization and the trend of use at a national level. world; methodologies oriented to business environments causing difficulties to be applied in academic spaces. Refers to and describes an agile methodology as an alternative to solve this problem.

@@ -1,0 +1,3 @@
+Implementation of prototype of natural language interface to database
+ABSTRACT
+In the present investigation we pretend to make a Spanish natural language translator to SQL using both the database schema and domain information, which is entered through a CSV file. For that end, the system uses prepositions, articles and main adverbs of Spanish language as part of their analysis and an approximation algorithm is used, it means, according to the words that are understood for the user input, the system will try to generate an SQL statement. Therefore, the problem wanted to be solved with this research is the difficulty that non-technical users have when doing queries to a database, implementing, for that reason, an interface in natural language.

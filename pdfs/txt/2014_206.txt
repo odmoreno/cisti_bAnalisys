@@ -1,0 +1,3 @@
+Federated network infrastructure applied to ultra-genetic sequencing
+ABSTRACT
+The joint use of Supercomputing and Cloud Computing (HPCC: High Performance Cloud Computing) still not being properly applied in sectors of government and industry. Based on both technologies, the FI4VDI project, which aims to create a network of border federated infrastructure for the generation of virtualization services jobs is presented. The applicability of the genetic network ultrasecuenciación is proposed in order to provide significant support geneticists in the study of genetic diseases.

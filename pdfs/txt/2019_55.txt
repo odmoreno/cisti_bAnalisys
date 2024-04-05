@@ -1,0 +1,3 @@
+Use of computational vision and UAVs in livestock: a Literature review
+ABSTRACT
+New technologies have been developed with the objective of supporting the activity of livestock. Within these technologies, the computational vision stands out by defining techniques and developing tools in order to allow automatic analysis of images, such as those captured by UAVs (Unmanned Aerial Vehicles). These can be used for different purposes in livestock precision such as identification and counting of the animals. This paper presents the results of a literature review about the use of UAVs and computational vision to support livestock activities with the objective of identifying, cataloging and classifying the existing works in this context.

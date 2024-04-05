@@ -1,0 +1,3 @@
+Hierarchical Structure of Texts: : Algorithm shows the Semantic Object, its characteristics, and functions
+ABSTRACT
+This article discusses the importance of hierarchy in the text for a full understanding. Natural language processing algorithms may be used to identify primary and secondary ideas, semantic objects, and their features and functions in texts. By following these steps from general concepts to more specific ones depending on the complexity and size of the text as well as its purpose, such algorithms allow for deeper analysis of textual content. However, full comprehension still requires human skills such as making inferences and interpreting figurative language.

@@ -1,0 +1,3 @@
+Push technology for the World Bike Tour
+ABSTRACT
+In this article we present an innovative application that was developed for the initiative “26 days tour around the globe”, an event that was part of the World Bike Tour São Paulo 2011. The application uses Google Maps, Google Earth and server-push technology to represent in real time Web the virtual position of 12 stationary bikes that were used to produce clean energy for the event. Because a huge number of concurrent accesses were expected, the application was developed in such a way that most processing is made in the client side. The application has global geographic coverage and was developed in a very short period using open source technologies.

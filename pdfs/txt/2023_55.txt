@@ -1,0 +1,3 @@
+Managing Knowledge as a Service (KaaS) for Glass Containers’ Product Quality
+ABSTRACT
+Context: Glass Containers’ International Manufacturing. Objective: KaaS to improve the production quality. Method: Interviews, focus group discussions, validation by 22 experts, content analysis and systemic review of $48.8 \%$ of the bibliography of 332 references. Results: A conceptual advance was achieved in the design of the prototype of the final architecture for the proposed technological solution. Conclusions: The digitization of the company from its business architecture facilitates the democratization of knowledge evidenced in the case study.

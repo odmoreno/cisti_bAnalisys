@@ -1,0 +1,3 @@
+Elgg social network software readjustment to mathematics education: A study case
+ABSTRACT
+By its nature, the mathematics teaching is one of the most difficult to perform in learning environments supported on Internet. This paper proposes the extension of Elgg social network software architecture for the use of web 2.0 services in mathematics education, and displays the results of this application in two experiences in higher education at the University of Cauca (Colombia).

@@ -1,0 +1,3 @@
+PhanSound: An entertainment audiogame for the sighted and visually impaired
+ABSTRACT
+There is a great lack of accessible entertainment options for low vision and blind people, especially in the gaming scene. Considering this gap, this paper proposes the development of a memory game that has audio as its main form of communication with the player, in other words, an audiogame. The product created is an iOS application that uses spatial audio and VoiceOver technologies as tools to promote accessibility, both for people with visual impairments and for sighted people. The app was tested with 18 sighted people and 1 blind person, the results are presented in this paper.

@@ -1,0 +1,3 @@
+Gestalt framework in the design of interfaces for mobile devices: Theoretical approach
+ABSTRACT
+The present work supports a conceptual Framework that includes a constructive - evaluative model with visual references, metrics and usability tests, based on user experience parameters applied through Gestalt principles. We believe this framework may reduce errors in the prototype tests, during the development of Interfaces for mobile applications.

@@ -1,0 +1,3 @@
+Capturing mental models to meet users expectations
+ABSTRACT
+User centered design implies knowledge of the future user's needs within the design phase of the product. A correspondence between both conceptual and mental models ensures a smooth operation in the expected manner that entails mastering all the functionality ensuring user satisfaction. Therefore, consideration of the user's mental model is crucial in designing a system consistent with user expectations. In this paper we present a tool to capture mental models by means of an In Vehicle Information System (IVIS). Through a collaborative approach the application enables IVIS users to design their own layered architecture while the data is simultaneously stored for further evaluation.

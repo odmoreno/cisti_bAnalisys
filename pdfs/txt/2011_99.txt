@@ -1,0 +1,3 @@
+WebRun
+ABSTRACT
+Promoting a healthy lifestyle, including the practice of sport activities, is a very topical subject. In this paper, we present a project related to a game that allows two or more players to take part in competitive running using a simulator consisting of physical equipment, a fixed bike, a controller and a supervisor program. The main goal is the promotion of sports through computer games.

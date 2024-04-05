@@ -1,0 +1,3 @@
+B2B solution for Latin American Market
+ABSTRACT
+The paper presents research results combined between public university and private enterprise. The contribution is an eCommerce solution available in a corporate portal that provides reverse auction services in the field of B2B. The portal www.almejor.com is ecommerce channel that facilitates effective and efficient business processes to its users. We describe technical aspects of analysis, design, development, implementation and testing. The paper presents progress made.

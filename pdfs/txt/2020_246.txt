@@ -1,0 +1,3 @@
+“BDEXCEL” strategy in the learning of higher education students
+ABSTRACT
+The objective of the study was to determine the application of the “BDEXCEL” strategy in the learning of students in the experimental group of higher education, using the Excel program as a practical tool, with the support of information and communication technology. The type of study was applied, quasi-experimental design. The sample was 30 students from the control group developing traditional classes and the experimental group 30 students using the "BDEXCEL" strategy. The results show that there is a significant difference between both groups, being p = 0.394 according to the U-Mann-Whitney, an advantage that is evident in the experimental group.

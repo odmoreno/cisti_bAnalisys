@@ -1,0 +1,3 @@
+The use of challenge based learning in mobile application development
+ABSTRACT
+Social innovation focuses on the creative ability to solve problems in the community reality. On the other hand, mobile applications empower citizens by creating interaction channels with various industries. Challenge based learning is a collaborative methodology that enables the development of mobile applications, whose main focus is on accepting and solving challenges, performing actions, sharing experiences, and entering into a global discussion on important issues. To exemplify the use of CBL, the process of developing the SciHub application is described, which is a project network, where users can create, follow and receive notifications about them.

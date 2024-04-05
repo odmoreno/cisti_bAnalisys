@@ -1,0 +1,3 @@
+Information audit based on ontology
+ABSTRACT
+Information Audit use methods and CAATTS (Computer-Assisted Audit Techniques) to capture, analyze and evaluate organizational information assets, in regular or continuous basis. However, does not exist a widespread adoption of CAATTs and the CAATTs normally does not use a kind of model that allows to capture the structure and semantic of information as part of the data capture process to audit. Based on this problem, this article focuses on the domain Ontology and Metadata used in Data Governance concepts and Data Lineage for its application to Audit Information.

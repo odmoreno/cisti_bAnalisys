@@ -1,0 +1,3 @@
+Modelo de Portal para Innovación Abierta Portal Model for Open Innovation
+ABSTRACT
+Innovation, is generated when knowledge and technology respond to the needs or requirements demanded. Knowing this, different types of resources and technologies are available to various fields. In the case of open innovation, these resources can be found in the inner or outer of the organization or institution environment, or they could belong to someone interested in solving the problem or obtaining a solution, in this order of ideas, this proposal will develop a model of open innovation portal to be implemented and managed at the Francisco José de Caldas District University in Bogotá - Colombia in Web platform format..

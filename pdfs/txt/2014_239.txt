@@ -1,0 +1,3 @@
+Data analysis from internships and complementar activities for identifying gaps in pedagogical projects on courses of the Information Technology area
+ABSTRACT
+The Complementary Activities are requirements of Brazilian Ministry of Education, as well as Internships, has aim to extend formation of undergraduate students. These activities are mandatory and represents at least, 20% of course load. However, these data can provide information to support identification of undergraduate course gaps. This article introduces an analytical model approach, supported by Complementary Activities and Internships databases to identify gaps in the Information Technology Syllabus. The results of this model also can support projects to extra class activities for the IT courses.

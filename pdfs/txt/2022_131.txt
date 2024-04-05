@@ -1,0 +1,3 @@
+A Study on User Experience of Smart Glasses for Higher Education Students
+ABSTRACT
+This paper reports a study on the User experience (UX) of STEM (e.g., Science, Technology, Engineering, and Mathematics) students using smart glasses and an interactive Augmented Reality (AR) educational app. The results show that the AR app provides a good UX, despite the presence of some form factor issues. Students’ usability ratings for both the AR app and the smart glasses, are positively correlated with the students’ perceived learning. The results of this study can be used as a guideline to design and develop further immersive e-learning technologies.

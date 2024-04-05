@@ -1,0 +1,3 @@
+DETI-interact: Interacting with public displays through mobile phones
+ABSTRACT
+This work describes the necessary steps in the development of DETI interact: an information system for the exhibition of informative content from the Department of Electronics, Telecommunications, and Informatics of the University of Aveiro. This system enables users to interact with the contents displayed in a large screen in the lobby of the department through an Android mobile device.

@@ -1,0 +1,3 @@
+Indoor positioning systems: 3D virtual model visualization and design process of their assessment using mixed methods: Case study: World heritatge buildings and spatial skills for architecture students
+ABSTRACT
+The main objective of this paper is to explain an indoor positioning system and 3D visualization using mobile technologies and virtual reality methods. With our proposal we aim to improve the comprehension of historical World Heritage buildings by using advanced visual technologies during the visit as for example wearable devices. We will design a mixed method to assess them and the user's experience, in our case the Architecture and Building Engineering degree students, in order to improve their spatial skills of this type of emblematic architectural projects.

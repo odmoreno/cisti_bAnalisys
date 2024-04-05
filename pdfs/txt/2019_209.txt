@@ -1,0 +1,3 @@
+Graph of Significant Terms for Source Code
+ABSTRACT
+When developers are tasked to modify source code of unknown systems, they have to employ considerable time and effort in activities for understanding the system implementation and locate units of source code. This work proposes a graph that supports the localization of directories which hold significant terms based on their frequency, using criteria of organization of source code directories. Popular open source projects were analyzed, the results show relevant features of visualization and information.

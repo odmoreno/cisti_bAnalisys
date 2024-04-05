@@ -1,0 +1,3 @@
+MEGUA and the five R's: Databases of parameterized exercises
+ABSTRACT
+This paper describes how databases of parameterized exercises can help in the development of support materials to classes and evaluation. These databases are created in the context of project MEGUA using the software package with the same name.

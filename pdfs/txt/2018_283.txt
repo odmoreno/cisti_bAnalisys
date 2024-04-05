@@ -1,0 +1,3 @@
+Data mining to correlating re-analysis data and meteorological stations: Case study: Northern Chile and areas bordering
+ABSTRACT
+This article describes the result of a data mining process in which correlation techniques are applied on climatological records, and seeks to obtain the relationship between re-analysis data and data obtained from local meteorological stations. As a case study, data are used on the climate of the Tarapacá region, located in northern Chile, as well areas bordering Peru, Bolivia and Argentina.

@@ -1,0 +1,3 @@
+Tools for defect causal analysis: A systematic literatura review
+ABSTRACT
+Defect causal analysis (DCA) is a tool used by organizations to identify causes of defect in order to identify action that will prevent them for occurring in the future. Nevertheless, we argue that DCA is not correctly applied in software development organizations. The goal of this study is to identify the tools that are currently being used in the software industry for conducting DCA. We expect this will provide a starting point to improve the DCA process used in software development. In this context we have performed a systematic literature review of the available tools for DCA. An analysis of the results shows that the causality concept included in these tools can be improved.

@@ -1,0 +1,3 @@
+Using Random Forest classifiers to detect duplicate gazetteer records
+ABSTRACT
+This paper presents an approach for detecting duplicate records in the context of digital gazetteers, using a state-of-the-art machine learning technique. It reports on a thorough evaluation of a machine learning approach designed for the task of classifying pairs of gazetteer records as either duplicates or not, built by using Random Forests and leveraging on different combinations of similarity scores for the feature vectors. Experimental results show that using feature vectors that combine multiple similarity scores, derived from place names, semantic relationships, place types and geospatial footprints, leads to an accuracy of 97.45%.

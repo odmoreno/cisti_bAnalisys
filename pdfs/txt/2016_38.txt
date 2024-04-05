@@ -1,0 +1,3 @@
+Using information technologies in self-defense education
+ABSTRACT
+This article is focused on possibilities of an implementation of information technologies in a learning of self-defense. The self-defense is a field which is more and more necessary in our life. During our research, we tried to find out if it is possible to connect information technologies with learning of self-defense for more effective results. We used VICON system for visualization of body motion and in the following steps we looked for differences between untrained and trained subjects. The result was a detection of significant differences and mistakes in self-defense techniques. In the future we will implement this finding to the training.

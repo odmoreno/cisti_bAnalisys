@@ -1,0 +1,3 @@
+Teaching with videos on YouTube: Case study of the subject technical and editing still image
+ABSTRACT
+This paper documents the design and implementation of a virtual course titled Technical and Still Picture Editing for students of Audiovisual Communication and Advertising at the University of Malaga. Besides working with digital educational material developing video lessons uploaded to YouTube as a methodological innovation was introduced.

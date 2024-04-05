@@ -1,0 +1,3 @@
+Detection of physical violence through audio
+ABSTRACT
+Our work aims to study and develop the best data augmentations for training deep learning models using Self Supervised Learning in the audio context. We will develop this work through research applied to the context of physical violence detection through audio, by means of portable devices, such as smartphones.

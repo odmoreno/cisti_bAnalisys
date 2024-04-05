@@ -1,0 +1,3 @@
+Knowledge management and concept maps applied to software process improvement
+ABSTRACT
+This paper shows how knowledge management and conceptual maps can be used in the replication of knowledge among an organization of software production and its affiliates. The model of knowledge management and analysis of its effectiveness are presented in a case study.

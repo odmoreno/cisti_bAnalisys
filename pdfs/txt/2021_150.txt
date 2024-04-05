@@ -1,0 +1,3 @@
+Study on Dengue cases using Data Analysis techniques: A case study in the state of Pernambuco, Brazil
+ABSTRACT
+This work presents a preliminary study on dengue cases in the state of Pernambuco, Brazil, in the year 2020 and was carried out based on the statistical information available on the Information System for Notifiable Diseases (SINAN) and Recife City Hall. For this study, data analysis techniques and tools were used in order to generate useful information, facilitate the visualization of data through graphs and find insigths that can be used to assist decision making by public health managers.

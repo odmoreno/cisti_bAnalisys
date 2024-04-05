@@ -1,0 +1,3 @@
+AmarganA: A spelling game of the Portuguese language for use in mobile devices
+ABSTRACT
+Due to the growing use of smartphones it is possible to observe a discussion on the benefits and problems faced by teachers in this new digital age. Using such devices, in favor of the teaching-learning process, it seems of great value and has been widely discussed and even encouraged by various organizations such as UNESCO. In this context, this paper presents the application called AmarganA, a game to help the teaching-learning process of the Portuguese Language Spelling. The game has been tested by 10 children of elementary school. Preliminar results show that the game can promote learning of the Portuguese language and stimulate creativity.

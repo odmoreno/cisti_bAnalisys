@@ -1,0 +1,3 @@
+Web-based Virtual Reality with A-Frame
+ABSTRACT
+Virtual Reality has become an accessible technology but tools to create Virtual Reality experiences are only now becoming accessible to the general public. This work evaluates the development effort of creating a virtual tour based on 360° photos using the web-based VR framework A-Frame. To evaluate the framework we implemented a virtual tour with common interactive features and analysed the development process. We found that A-Frame can be a viable framework to develop VR experiences but there are still aspects that could be improved to reduce the required development effort.

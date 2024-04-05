@@ -1,0 +1,3 @@
+MiProJOC: A software tool support for teaching and assessment of knowledge
+ABSTRACT
+The combination of traditional teaching methods with innovative teaching mechanisms generates a positive effect on learning of any subject. In addition to the theoretical and practical studies in higher education, has developed a tool called MiProJOC gameplay. The tool can also be used to assess knowledge in scholarship and student independent work. MiProJOC is designed to facilitate the maintenance of a repository of questions from different areas, different game modes to define and present the statistical results from the use of the game.

@@ -1,0 +1,3 @@
+AR-based virtual musical instruments using SMC tracking
+ABSTRACT
+We describe a real-time computer vision application that creates sound from virtual musical instruments by tracking hand and finger movements with a color-based Sequential Monte Carlo algorithm. We show how the combination of real-time hand tracking, virtual MIDI SoundFont technology, and computer graphics, can be used for producing powerful yet inexpensive augmented reality environments.

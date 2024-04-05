@@ -1,0 +1,3 @@
+Digital television application for product promotion in Ecuadorian context
+ABSTRACT
+Currently the promotion of products and services are very diverse in television broadcasts, the viewer is forced to watch the commercials if he wants to continue watching his show. This paper proposes the development of an interactive application for digital terrestrial television using GINGA-NCL programming language and ISDB-TB standard focused on the promotion of food dishes, which allows the viewer not to be a simple viewer, but also interact with the application, navigating through the menus; by means of the remote control with the color buttons and navigation keys.

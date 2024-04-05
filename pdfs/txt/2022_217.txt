@@ -1,0 +1,3 @@
+Computational participation in programming language learning in higher education: a multi-case study
+ABSTRACT
+Learning to program involves a variety of cognitive activities and mental representations. Given the problem´s complexity and the intention to apprehend the particularity and peculiarity of student’s experience in learning programming informal and non-formal contexts, this research adopts a qualitative approach to characterize the complex interrelationship between computational participation and the learning process of programming, without isolating it from the natural context in which it develops, seeking to achieve its understanding from the observation of multiple cases.

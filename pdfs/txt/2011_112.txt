@@ -1,0 +1,3 @@
+Mobile websites evaluation
+ABSTRACT
+Mobile devices are changing our everyday lives due to development in equipment and software that operates them. The web targeted for these devices must also follow this trend by following a set of best practices. The aim of this paper is to present the state of the art on the mobile Web and show what is more significant in the evaluation of sites for mobile web, highlighting, in particular, each element of the Mobile Internet and analyzing the various existing instruments for assessing whether the best practices are being applied or not. Finally, it presents a study on the various existing instruments and proposes a new assessment tool.

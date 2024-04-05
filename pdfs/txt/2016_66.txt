@@ -1,0 +1,3 @@
+An binary black hole algorithm to solve the set covering problem
+ABSTRACT
+The Set Covering Problem (SCP) is one of the most representative combinatorial optimization problems and it has multiple applications in different situations of engineering, sciences and some other disciplines. It aims to find a set of solutions that meet the needs defined in the constraints having lowest possible cost. In this paper we used an existing binary algorithm inspired by Binary Black Holes (BBH), to solve multiple instances of the problem with known benchmarks obtained from the OR-library. The presented method emulates the behavior of these celestial bodies using a rotation operator to bring good solutions.

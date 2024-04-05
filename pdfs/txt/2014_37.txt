@@ -1,0 +1,3 @@
+Determining software process capability in conformity to the process assessment model NMX-I-15504 applied to the reference model NMX-I-059 supported by the AURAP tool
+ABSTRACT
+The NMX-I-059-NYCE-2011 is a Mexican initiative to support Small and Medium Enterprises (SMEs) to achieve higher levels of software process capability in conformity to the process assessment model NMX-I-15504-2010. AURAP is a proposal in the absence of tools that integrate both standards and support self-assessment requirements process and attributes process. The functions that provide knowledge into the current state of processes and/or to determine the level of capability for are presented.

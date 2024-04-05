@@ -1,0 +1,3 @@
+Forecasting real estate prices in Portugal : A data science approach
+ABSTRACT
+The real estate market is vital from an economic and social perspective. It is why it is essential to understand its behaviour. In this context, our work aims to analyze the prices' evolution and understand what the main components are impacting the price. To understand the evolution and predict prices, we perform a time series analysis, including ARIMA. To understand the most relevant components, we perform a regression analysis. In this analysis, we used several approaches. We have collected our data from INE and PORDATA, the Databases of Contemporary Portugal, to construct the models and forecast house prices in Portugal.

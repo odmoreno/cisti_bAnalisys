@@ -1,0 +1,3 @@
+DEPROVAL: Tool for defining the validation process in small software organizations
+ABSTRACT
+In this article, we present a tool for defining the software validation process. The tool is implemented based on metamodel validation software based on the CMMI model. The tool enables small software organizations that have different difficulties such as: applying the models to improve their organization, lack of resources and trained personnel and knowledge test, to establish the validation process of its products through this tool.

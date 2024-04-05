@@ -1,0 +1,3 @@
+Web typography: New and old challenges
+ABSTRACT
+The present paper demonstrate how the basic principles of typography can be applied to the web. Will be presented the technological developments that have opened new paths for the designer's work, especially when we use new fonts and try to improve legibility for the web.

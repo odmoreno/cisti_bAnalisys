@@ -1,0 +1,3 @@
+Analysis of requirements for design of support tools for integral learning of chemistry
+ABSTRACT
+It is currently available on the Internet a lot of teaching materials and virtual learning environments that can be useful for learning chemistry. These tools support learning from one of two main perspectives: i) communication and ii) information. In this work it´s presented a series of design ideas to support the development of applications that support the independent learning of chemistry from a comprehensive approach.

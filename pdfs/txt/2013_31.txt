@@ -1,0 +1,3 @@
+Gamification for productive interaction: Reading and working with the gamification debate in education
+ABSTRACT
+We examine the gamification debate of recent years and we propose an alternative, heuristic definition for gamification in learning situations. After considering several critiques of the gamification concept, we privilege in our definition `interaction' over `motivation', `simple gameplay' over `game mechanics', and we highlight the diverse and changing behaviors of user/players. We re-define gamification in learning contexts as `simple gameplay to support productive interaction for expected types of learners and instructors'. We argue that this definition offers a lowest common denominator to inform gamification in education.

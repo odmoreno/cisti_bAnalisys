@@ -1,0 +1,3 @@
+Criteria for ERP selection using an AHP approach
+ABSTRACT
+Information systems are a foundation key element of modern organizations. Quite often, chief executive officers and managers have to decide about the acquisition of new software solution based in an appropriated set of criteria. Analytic Hierarchy Process (AHP) is one technique used to support that kind of decisions. This paper proposes the application of AHP method to the selection of ERP (Enterprise Resource Planning) systems, identifying the set of criteria to be used. A set of criteria was retrieved from the scientific literature and validated through a survey-based approach.

@@ -1,0 +1,3 @@
+Comparative analysis of virtual worlds
+ABSTRACT
+This paper presents a comparative analysis between a set of virtual worlds in order to facilitate the process of selecting a virtual world to serve as a platform for application development. Based on exhaustive research in the area, we selected a set of criteria, based on the work of Mannien in 2004 and Robbins in 2009. After this identification we applied the Quantitative Evaluation Framework (QEF) developed by Squire in 2007 with the aim of assessing quantitatively the platforms under consideration. The results showed that Second Life, OpenSim and Active Worlds are platforms that offer more services and tools for developing applications with quality.

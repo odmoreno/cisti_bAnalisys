@@ -1,0 +1,3 @@
+Health information systems introduction
+ABSTRACT
+The significant number of publications describing unsuccessful cases in the introduction of health information systems makes it advisable to analyze the factors that may be contributing to such failures. However, the very notion of success is not equally assumed in all publications. Based in a literature review, we argue that the introduction of systems must be based in an eclectic combination of knowledge fields, adopting methodologies that strengthen the role of organizational culture and human resources in this project, as a whole. On the other hand, we argue that the introduction of systems should be oriented by a previously defined matrix of factors, against which the success can be measured.

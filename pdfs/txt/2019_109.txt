@@ -1,0 +1,3 @@
+The Procedure for Processing Images from a Low-cost UAV
+ABSTRACT
+Remote sensing methods have been used successfully to monitor changes in the landscape. At present, unmanned aerial vehicles (UAVs) are also increasingly used. The article shows how to use the middle-class drone, specifically DJI Phantom 3 with a built-in camera, to monitor and document changes in the vicinity of small water bodies where a part of the shore is poorly accessible or totally unavailable. The obtained data can be further processed by conventional digital image processing methods such as image classification, highlighting through spectral indexes, or even visually comparing.

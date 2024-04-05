@@ -1,0 +1,3 @@
+Face recognition model applied to the missing people problem
+ABSTRACT
+In Brazil there is a large number of people who remain missing, and a solution for the location of these people may be in the use of various camera systems that are currently used by the public, especially in main cities. We propose to evaluate the efficiency of a model of face recognition using basically two phases: training and recognition. Thus we have constituted an image database that simulates the CNDP and then apply the model. We used a total of 500 pictures and 10 hours of video. The work revealed a success rate of 69% in house still images, 60% in video, and below 40% with the use of accessories.

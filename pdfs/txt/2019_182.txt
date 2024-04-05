@@ -1,0 +1,3 @@
+Metrics and Techniques for Early Detection in Communication Networks
+ABSTRACT
+Nowadays, communication networks have a high relevance in any field. Because of this, it is necessary to maintain them working properly and with an adequate security level. In many fields, and in anomaly detection in communication networks in particular, it results really convenient the use of early detection methods. Therefore, adequate metrics must be defined to allow the correct evaluation of methods applied in relation to time delay in the detection. In this thesis the definition of time-aware metrics for early detection anomaly techniques evaluation.

@@ -1,0 +1,3 @@
+Glaucoma detection by morphological analysis of multifocal ERG records
+ABSTRACT
+This work deals with a detailed morphological analysis of various Multifocal Electroretinographic (mfERG) records from a number of control subjects and other affected by glaucoma. We study the variation in the morphology of these signals, according to its topographic origin in the retina, and glaucomatous records are compared with healthy records from the same topographic position. The purpose of the study is to early detection of signs of glaucoma in the affected retina, making use of thirteen parameters to characterize record's waveforms in detail.

@@ -1,0 +1,3 @@
+Ontology research task for use of intelligent agents
+ABSTRACT
+Task ontology comprises a set of primitive representation of the structure of the task, domain independent. A task of investigation can be applied in a number of areas. In turn, an intelligent agent is a computational artifact that perceives their environment through sensors and act on it through actuators. At the moment, it's not trivial to perform junction of ontologies of tasks with intelligent agents. Some aspects of the implementation of the ontology represented were performed in Protégé.

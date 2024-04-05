@@ -1,0 +1,3 @@
+Flappy crab project: Development of a digital educational game for teaching Music
+ABSTRACT
+This article proposes to approach the problematic of the introduction of strategies of gamification by means of technological didactic objects, succinctly describing the development of a digital educational game conceived with the objective of working areas such as auditory memory and the discrimination of heights, Simultaneous approach to the symbology proper to musical spelling. Based on the implementation of this game in pedagogical contexts, a study was carried out with the purpose of inferring or validating the thesis that the use of them adds value to the teaching and learning process. The results of which are presented herein.

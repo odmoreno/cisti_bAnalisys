@@ -1,0 +1,3 @@
+Efficient Transport Logistics : An Approach for Urban Freight Transport in Austria
+ABSTRACT
+To alleviate traffic congestion that results from the growth of e-commerce we propose an approach in the city of Linz, Austria by relying on shared distribution centers from different companies. We develop two algorithms to find out the optimal location for the hubs and calculate the shortest path between locations. Results showed that in an urban environment, the implementation of hubs results in a reduction of the number of delivery vehicles. It reduces driving distances from hub to the customers, and also benefits the drivers that need to return home every day.

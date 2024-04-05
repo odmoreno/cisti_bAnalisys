@@ -1,0 +1,3 @@
+Using binary fruit fly algorithm for solving the set covering problem
+ABSTRACT
+Many practical applications are used in set covering problems (SCP), in this research, we used to solve SCP: the binary Fruit Fly Optimization algorithms. This algorithm is divided in four phases: initiation, smell based search local vision based search and global vision based search. The metaheuristic is based by the knowledge from the foraging behavior of fruit-flies in finding food. The algorithm used a probability vector to improve the exploration. The tests were performed with eight different transfer functions and an elitist selection method. The test results show the effectiveness of the algorithm proposed.

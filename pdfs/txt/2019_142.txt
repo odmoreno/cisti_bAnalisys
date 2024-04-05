@@ -1,0 +1,3 @@
+Cloud Computing and Affective Computer Approach on development programming skills
+ABSTRACT
+This article shows a thesis doctoral proposal; it is development on the framework of Educational Doctoral Program of Valencia University; this research is focus on affective computer on the process to development technological skills on the resolution of programming problems of software engineering. In the same way the use of cloud computing tools as supplementary elements on the teaching and learn computational paradigms is proposed.

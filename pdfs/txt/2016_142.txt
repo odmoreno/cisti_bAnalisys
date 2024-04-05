@@ -1,0 +1,3 @@
+Usability evaluation of an entertainment platform by people with intellectual disabilities
+ABSTRACT
+In this paper it is presented a usability evaluation of an entertainment platform, well-known, YouTube. The main aim is to study how people with intellectual disabilities interact with the layout and uses their search field option. We intended to observe and analyze performance and satisfaction but also if the interface can give them autonomy on the search option. The results show that participants had a good experience with the interface, however cannot be autonomy with the search option.

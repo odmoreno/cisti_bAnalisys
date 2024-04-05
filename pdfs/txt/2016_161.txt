@@ -1,0 +1,3 @@
+Internet-of-Things: Strategic research agenda evolution
+ABSTRACT
+The aim of European Research Cluster on the Internet of Things, established in 2007, is to address the large potential for Internet of Things-based capabilities in Europe and to coordinate the convergence of ongoing activities. This organization regularly publishes Strategic Research Agendas with short, medium and long term forecasts of development and research topics. The aim of this paper is to study these agendas and make an identification of topics, in order to understand its evolution over time, that in terms of areas that have already been researched (or the research has already started) as well as those not yet explored.

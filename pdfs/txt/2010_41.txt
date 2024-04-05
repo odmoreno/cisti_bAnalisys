@@ -1,0 +1,3 @@
+Contracts evaluation of software and services acquisition in outsourcing
+ABSTRACT
+Contract plays an important role while outsourcing relationship exists. If an organization decides to acquire software and services products, the contract is a fundamental mechanism to ensure that expectations are realized. This paper describes a contract evaluation method for Software and Services Acquisition Organizations, which allows minimizing the causes of failure in the relationship between acquirer and supplier.

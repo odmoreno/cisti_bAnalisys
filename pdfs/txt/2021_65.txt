@@ -1,0 +1,3 @@
+Augmentative Alternative Communication System in educational inclusion
+ABSTRACT
+Social inclusion and the different challenges faced by children with hearing disabilities from early childhood are due to a not very inclusive education. It is necessary to develop various tools and technologies that allow and guarantee integration. This article shows a systematic review about alternative augmentative communication systems (SAAC) for children, which aims to develop a Virtual Learning Object (OVA) aimed at teachers, to strengthen their skills in Colombian Sign Language (LSC), according to the curriculum for various grades of schooling, which allow strengthening the use of information and communication technologies (ICT) in educational inclusion.

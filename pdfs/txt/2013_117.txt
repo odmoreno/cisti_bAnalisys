@@ -1,0 +1,3 @@
+A model-based approach for test cases generation
+ABSTRACT
+The analytical methods based on evaluation models of interactive systems were proposed as an alternative to user testing in the last stages of the software development due to its costs. However, the use of isolated behavioral models of the system limits the results of the analytical methods. An example of these limitations relates to the fact that they are unable to identify implementation issues that will impact on usability. With the introduction of model-based testing we are enable to test if the implemented software meets the specified model. This paper presents an model-based approach for test cases generation from the static analysis of source code.

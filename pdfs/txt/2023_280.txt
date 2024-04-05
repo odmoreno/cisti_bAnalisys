@@ -1,0 +1,3 @@
+Machine learning applications in tourism - case study from Colombia and its post-conflict areas
+ABSTRACT
+Tourism sector is one of the most important in countries’ economy, and the use of artificial intelligence is a key to enhance its development. Colombia has great tourist attractions, however, it was framed by conflict situations that prevent about exploiting its potential in areas that after the signing of the peace accords have found growth. In this study, Machine Learning algorithms will be used to make predictions about tourism in the most affected departments or states by the conflict (Antioquia, Caquetá, Santander and Magdalena), based on the results of internal spending’s survey on tourism, carried out in 2020 by the National Department of Statistics.

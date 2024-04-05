@@ -1,0 +1,3 @@
+Minimum cost Eulerian cycles in road networks
+ABSTRACT
+Graph theory may be applied to several fields of study; mobility planning is one of them. This manuscript presents the procedures carried out for the research of the optimal route for a vehicle to traverse every street on a road network, a problem also known as the Chinese Postman Problem. Rather than merely discussing the mathematical resolution method, authors have developed an end-to-end tool that goes from obtaining real-world road network data to computing the optimum route for traversing it. This tool is intended for planning a 3D mapping vehicle data collection strategy.

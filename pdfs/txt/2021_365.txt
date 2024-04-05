@@ -1,0 +1,3 @@
+Early Detection of Business Failure by Selecting Attributes
+ABSTRACT
+Financial ratios are the most historically used attribute types for predicting business failure when using supervised learning. The high dimension of the data set affects the performance of the algorithms used for classification. In this article, using data mining, we present a method for the early detection of business failure, which uses variants of decomposition, classification, and validation as mechanisms to select a subset of attributes. Also, the implementation of the method in the R language and the results obtained by the algorithm in the selection of the attributes for a data set are indicated, the results of which are comparable with the literature.

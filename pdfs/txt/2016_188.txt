@@ -1,0 +1,3 @@
+Monitoring systems for parallel distributed data management systems
+ABSTRACT
+Usually, a Big Data system has a monitoring system for performance evaluation and error prevention. Although, there are some disadvantages in the way that these tools display the information and its targeted approach to physical components. The main goal is to study visual and interaction mechanisms that allow the representation of monitoring data in grid computing environments, providing the end-user information which can contribute objectively to the system analysis. This paper has the purpose to present the state of the art, carries out an intermediate evaluation of the current work and present the proposed solution.

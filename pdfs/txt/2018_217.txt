@@ -1,0 +1,3 @@
+A framework for IS project success analysis: A proposal
+ABSTRACT
+For many years, there has been a great concern among Information Systems (IS) academics and practitioners about the low success rate of projects in this area. Considering that project success is undoubtedly related to many factors, this paper focuses on one of them by discussing the ambiguity in its definition. To contribute to the solution of this problem, a framework called Project Success Analysis (PSA) is presented. This framework has been applied in 24 studies of the implementation of Enterprise Resource Planning (ERP) systems in Small and Medium-sized Enterprises (SMEs) to understand how authors are defining the term (project success) in that field of study.

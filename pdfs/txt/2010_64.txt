@@ -1,0 +1,3 @@
+Ontology search centered in concepts
+ABSTRACT
+One of the phases in the process of developing an ontology involves the search and reuse of existing ontologies. Although currently there are specific tools for the search of ontologies on the Web, they present a limitation which relates to the fact that limit their searches only to the terms entered by the user, not taking into account the possibility of a concept may be represented by more than one term. In this paper we propose a method to overcome this limitation by extending the terms entered by the user to the concepts they represent.

@@ -1,0 +1,3 @@
+Plataforms for digital heritage management
+ABSTRACT
+This research work addresses the Digital Mourning and the Digital Heritage Management concepts. It tries to explain what is Digital Heritage and what are its constituents. It also provides a Survey on the platforms and systems for Digital Heritage Management currently available undertaking a detailed comparison between the different platforms.

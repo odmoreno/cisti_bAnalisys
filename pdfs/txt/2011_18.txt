@@ -1,0 +1,3 @@
+Multimedia Smart Process (MSP)
+ABSTRACT
+Traditional development processes do not include dynamic and creative aspects that exist in multimedia development environments. In these domains, creativity, design and animation are non-functional requirements that have great relevance in the final product and are often not considered in the implementation of traditional software. In this article, we make a comparison of the main traditional development processes and their suitability to the domains of multimedia software, proposing as an alternative Multimedia Smart Process (MSP).

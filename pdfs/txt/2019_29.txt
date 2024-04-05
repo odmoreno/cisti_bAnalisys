@@ -1,0 +1,3 @@
+Model to evaluate Quality of Experience to IPTV service
+ABSTRACT
+Evaluating IPTV's quality of experience has become essential to providers, because they need to offer quality of service to their users. Multiple authors have proposed models to evaluate quality of experience based on indirect methods; this approach has advantages over traditional methods based on subjective tests and objective methods. Based on the above, we present a model to evaluate quality of experience for the IPTV service, using three test scenarios, and applying indirect methods. Additionally, we analyse performance by comparing the results delivered by our proposed model to the results of subjective tests, PSNR and SSIM.

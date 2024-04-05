@@ -1,0 +1,3 @@
+Integrated development and evaluation of innovative AAL services — A Living Lab approach
+ABSTRACT
+The paper aims to systematize the work associated with the consolidation of the geographically distributed Living Lab for the development of Ambient Assisted Living (AAL) systems and services. The paper presents the developed methodological approach, the general architecture that supports the development of AAL applications, the implemented physical infrastructure and also an instantiation of the existing infrastructure for the implementation of a telerehabilitation service.

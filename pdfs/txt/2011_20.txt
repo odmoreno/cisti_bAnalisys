@@ -1,0 +1,3 @@
+Meet and greet programming using graphical languages and tangible interfaces
+ABSTRACT
+Younger students are very often scared from programming, because of its complexity, before they even understand what it is or which purpose it serves. Using characteristics from different types of graphical languages and a tangible interface, Botbeans tries to present programming in a more casual and less complex way while keeping student's motivation high. This paper presents how different graphical languages were combined in order to build a simple and intuitive language with a tangible interface for students with low computer skills and that don't know what programming is, but have curiosity to try it.

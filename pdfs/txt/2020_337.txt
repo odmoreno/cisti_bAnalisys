@@ -1,0 +1,3 @@
+Usability of open source LMS platforms in academia: benchmarking from the active learning approach
+ABSTRACT
+This study describes the fundamental usability characteristics of the most popular Learning Management Systems (LMS) in academia, such as ease of use, consistency, and confidence that generated in users, as measured by the standard SUS test (System Usability Scale, for its acronym in English). It has been possible to identify a single study in Spain that compares in terms of usability the most popular open source LMS in the academy, that is, Moodle and Sakai LMS are studied from the perspective of expert knowledge of two implementations: one in Costa Rica, namely, at the Universidad Latina and the other at the Universidad Nacional de la Plata, in Argentina.

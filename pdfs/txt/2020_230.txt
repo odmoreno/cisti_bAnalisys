@@ -1,0 +1,3 @@
+Comparative Study of the Maturity Models C2M e MR-MPS-SW
+ABSTRACT
+Research efforts have been increasingly necessary to understand how organizations should deal with the various maturity models, given the heterogeneity of the characteristics of these models. In this context, this work aims to propose a mapping between MR-MPS-SW and C2M models. The proposed mapping was reviewed and evaluated by five experts with experience in software process improvement. This mapping allowed us to identify that 82.2 % of C2M practices has some type of coverage for the expected MR-MPS-SW results. Finally, it is possible to see that the models here mapped are not conflicting, but rather complementary, with C2M being partially adherent to MR-MPSsw.

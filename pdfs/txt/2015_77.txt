@@ -1,0 +1,3 @@
+Using parameterized calculus questions for learning and assessment
+ABSTRACT
+We have implemented a Web application reusing questions from two computer systems, true/false questions from PmatE (Projeto Matemática Ensino) and multiple choice questions from Megua (Mathematics Exercise Generator, University of Aveiro). Our application implements a Bayesian user model for diagnosing student knowledge in the topics covered. In this article we propose the use of this system for both learning and assessment in a calculus course, encouraging the students to work during the semester without increasing the work load for teachers.

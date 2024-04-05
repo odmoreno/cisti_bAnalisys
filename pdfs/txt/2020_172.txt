@@ -1,0 +1,3 @@
+Local Discovery Service for OPC-UA Devices
+ABSTRACT
+This article presents the contribution of the Polytechnic Institute of Castelo Branco (IPCB) within the scope of PPS1 of the PRODUTECH SIF program - Solutions for the Future Industry, in terms of the definition of modules for scalability, adaptation, plug-and-play, with interoperability between processes and technologies inter/intra industrial plants. More specifically, its contribution for the definition, implementation and evaluation of OPC-UA device discovery services. Adopting the CompactRIO platform developed on PPS2 as a physical basis for a Smartbox, its development was extended during the present task with a view to incorporating and validating the adopted service discovery mechanisms in the program.

@@ -1,0 +1,3 @@
+Classification of Patients Diagnosed with ALS Through Spectral Parameters : Comparison between automatic classifiers and visual methos
+ABSTRACT
+This work presents methods of discrimination between patients diagnosed with bulbar Amyotrophic Lateral Sclerosis (ALS) and healthy speakers, based on the extraction of parameters from the voice signal spectrum. Testes using k-cross-validation achieved a maximum accuracy in the test fold of 80% and 82.4% with a Linear Discriminant Analysis classifier and a Support Vector Classifier, respectively. The results obtained are in line with those proposed in the previous study when considering the spectral slope at high frequencies.

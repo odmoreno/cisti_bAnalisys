@@ -1,0 +1,3 @@
+Modelling to analyze multidisciplinary phenomena and connect the mathematics of secondary Ȅ university: The influenza a epidemic (H1N1)as a social, economic and health concern
+ABSTRACT
+The idea of this paper is to show the power of modelling activities to analyze multidisciplinary phenomena and to bridge the gap between secondary and university mathematics. For that, we are using a methodology emerged from the anthropological theory of the didactic whose result is the design of a teaching device called study and research path. This device uses exhaustively the ICT like a facilitator (GeoGebra/wxMaxima) and like an interactive learning environment (Moodle).

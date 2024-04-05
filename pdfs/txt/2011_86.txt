@@ -1,0 +1,3 @@
+Sky computing
+ABSTRACT
+Increasing the IT infrastructure without worrying about constraints like location, power, heating/cooling and other has overcome the best expectations from just a few years ago. Yet, the Cloud wide spawn has opened a new window of development by combining groups of Clouds: Sky Computing. The Clouds in the Sky essentially blend efforts. How to manage these Clouds and to deploy applications becomes an upcoming challenge. A good example is the use of High Performance Computing on the Cloud, which would significantly drop costs and would encourage low budget projects.

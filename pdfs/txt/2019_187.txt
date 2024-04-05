@@ -1,0 +1,3 @@
+Code Generator from Mockups
+ABSTRACT
+The automation of tasks is increasingly a current practice in the organizational environment, and this practice reduces the need for manpower and often reduces the errors associated with the human factor. In the present document a solution will be presented to automatically generate the source code of a mockup, having as input an image corresponding to the prototype. In the development of this project techniques of Deep Learning will be used, especially Convolutional Neural Networks for the detection and classification of objects in images. The developed solution provides the code base of a mockup in less than 60 seconds, with an average error rate 15.85%.

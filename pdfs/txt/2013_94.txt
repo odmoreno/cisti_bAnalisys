@@ -1,0 +1,3 @@
+PASSAROLA: High-order exercise generation system
+ABSTRACT
+In order to be robust and achieve multi-domain coverage, exercise generation systems usually work with answers of simple types (e.g. multiple-choice, Boolean, integer, or file comparison). In this paper we describe an exercise generation system Passarola, a simple, yet powerful, language that anyone with no computer science background, can use to develop exercises, that include a collection of heterogeneous objects, and allows the usage of complex elements. Its main characteristic features are the use of simple reusable templates, simple and rich types, rich notation and syntax (LaTeX based) for questions, solutions, and answers, transformations and calculations, external calculators.

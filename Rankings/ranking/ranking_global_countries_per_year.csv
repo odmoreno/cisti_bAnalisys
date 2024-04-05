@@ -1,0 +1,85 @@
+id,name,region,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,total
+portugal,Portugal,Europe,69,131,79,110,87,127,105,142,132,180,122,172,144,177,1777
+brazil,Brazil,South America,12,14,28,32,43,54,48,107,42,57,54,68,61,103,723
+ecuador,Ecuador,South America,2,0,0,0,3,15,39,74,98,79,70,47,78,53,558
+españa,España,Europe,35,38,55,32,52,39,39,44,32,38,49,31,35,24,543
+colombia,Colombia,South America,2,2,6,8,20,18,17,24,29,31,56,15,12,17,257
+peru,Peru,South America,0,0,0,0,0,3,7,4,4,5,14,32,30,21,120
+spain,Spain,Europe,7,9,10,8,7,14,8,8,9,7,3,3,5,2,100
+mexico,Mexico,North America,0,2,3,7,12,4,4,15,9,3,10,10,9,6,94
+chile,Chile,South America,0,0,6,0,5,11,17,2,13,12,11,8,5,2,92
+argentina,Argentina,South America,2,0,1,1,2,5,8,4,9,7,8,2,7,1,57
+unitedstates,United States,North America,0,0,1,2,1,0,7,1,0,2,0,2,3,8,27
+unitedkingdom,United Kingdom,Europe,3,1,1,0,0,0,1,2,0,2,2,0,2,5,19
+canada,Canada,North America,0,0,1,0,0,0,1,2,1,0,6,5,1,2,19
+germany,Germany,Europe,1,2,2,1,3,2,1,1,1,0,3,0,1,1,19
+panama,Panama,Central America,1,0,0,0,0,2,1,1,2,0,1,2,3,5,18
+costarica,Costa Rica,Central America,0,0,2,0,0,0,0,0,0,3,5,2,3,3,18
+czechrepublic,Czech Republic,Europe,0,0,0,0,0,0,2,2,0,0,7,0,0,5,16
+turkey,Turkey,Asia,0,0,1,1,4,0,2,2,0,1,2,0,0,1,14
+romania,Romania,Europe,0,0,0,3,2,0,0,2,0,0,0,0,0,6,13
+france,France,Europe,0,1,0,1,1,0,1,1,1,0,1,1,1,2,11
+paraguay,Paraguay,South America,1,0,0,0,0,0,0,0,0,0,2,0,3,4,10
+malaysia,Malaysia,Asia,0,0,0,1,0,3,0,0,0,1,1,1,0,2,9
+lithuania,Lithuania,Europe,0,0,0,0,0,0,0,0,0,0,0,0,0,8,8
+italy,Italy,Europe,0,0,3,0,1,1,0,0,0,0,1,0,1,1,8
+ireland,Ireland,Europe,0,0,1,0,2,0,0,1,0,0,0,0,1,3,8
+uruguay,Uruguay,South America,2,1,3,0,0,0,0,0,0,1,1,0,0,0,8
+austria,Austria,Europe,0,0,0,0,0,0,0,0,0,0,2,1,1,3,7
+russian,Russian,Europe,0,0,0,0,0,0,1,2,1,1,0,1,1,0,7
+bolivia,Bolivia,South America,1,0,0,0,0,1,1,0,0,1,0,0,3,0,7
+poland,Poland,Europe,0,0,0,0,1,2,0,0,0,0,1,2,1,0,7
+india,India,Asia,0,0,1,0,0,0,2,2,0,0,0,1,0,0,6
+southafrica,South Africa,Africa,1,0,0,0,1,0,0,0,0,1,0,0,0,2,5
+saudiarabia,Saudi Arabia,Middle East,0,0,0,0,2,1,0,0,0,0,0,0,1,1,5
+estonia,Estonia,Europe,0,0,2,0,2,0,0,0,0,0,0,0,1,0,5
+venezuela,Venezuela,South America,0,0,0,1,0,0,0,2,0,0,1,0,1,0,5
+australia,Australia,Oceania,0,0,1,0,1,0,0,0,0,0,1,2,0,0,5
+finland,Finland,Europe,0,0,0,0,0,0,1,0,0,0,3,1,0,0,5
+croatia,Croatia,Europe,0,0,0,0,2,1,0,0,0,0,1,1,0,0,5
+cuba,Cuba,North America,2,1,0,0,1,0,0,0,0,0,1,0,0,0,5
+switzerland,Switzerland,Europe,0,0,0,0,0,0,0,1,0,0,0,0,1,2,4
+indonesia,Indonesia,Asia,0,0,0,0,1,0,0,0,0,0,0,0,0,3,4
+hungary,Hungary,Europe,0,0,0,0,1,0,1,0,0,0,0,1,1,0,4
+senegal,Senegal,Africa,0,0,0,0,0,0,0,0,0,1,2,0,1,0,4
+slovakia,Slovakia,Europe,0,0,0,0,1,0,1,1,0,0,0,0,1,0,4
+caboverde,Cabo Verde,Africa,0,1,0,0,0,0,0,1,1,0,1,0,0,0,4
+denmark,Denmark,Europe,1,1,0,0,0,0,2,0,0,0,0,0,0,0,4
+unitedarabemirates,United Arab Emirates,Middle East,0,0,1,0,0,0,0,0,0,0,0,0,1,1,3
+sweden,Sweden,Europe,0,0,0,0,0,1,0,0,0,0,0,1,1,0,3
+latvia,Latvia,Europe,0,0,0,0,0,0,0,1,1,0,0,0,1,0,3
+burkinafaso,Burkina Faso,Africa,0,0,0,0,0,0,0,0,0,0,1,2,0,0,3
+england,England,Europe,0,0,0,0,0,0,0,1,1,1,0,0,0,0,3
+japan,Japan,Asia,0,0,0,0,1,0,0,1,1,0,0,0,0,0,3
+china,China,Asia,0,0,0,0,0,1,1,1,0,0,0,0,0,0,3
+taiwan,Taiwan,Asia,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2
+puertorico,Puerto Rico,Central America,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+elsalvador,El Salvador,Central America,0,0,0,0,0,0,0,1,0,0,0,1,0,0,2
+pakistan,Pakistan,Asia,0,0,0,0,0,0,0,0,1,1,0,0,0,0,2
+guatemala,Guatemala,Central America,1,0,0,0,0,0,0,0,0,1,0,0,0,0,2
+algeria,Algeria,Africa,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2
+belgium,Belgium,Europe,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2
+norway,Norway,Europe,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+iran,Iran,Middle East,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+srilanka,Sri Lanka,Asia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+jordan,Jordan,Asia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+libia,Libia,Africa,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+northernireland,Northern Ireland,Europe,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+albania,Albania,Europe,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+serbia,Serbia,Europe,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+bulgaria,Bulgaria,Europe,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+georgia,Georgia,Asia,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+iraq,Iraq,Middle East,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+angola,Angola,Africa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+dominicanrepublic,Dominican Republic,North America,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+mongolia,Mongolia,Asia,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+greece,Greece,Europe,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+montenegro,Montenegro,Europe,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+bosniaandherzegovina,Bosnia and Herzegovina,Europe,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+morocco,Morocco,Africa,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+andorra,Andorra,Europe,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+scotland,Scotland,Europe,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+tunisia,Tunisia,Africa,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+thailand,Thailand,Asia,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+southkorea,South Korea,Asia,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+netherlands,Netherlands,Europe,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1

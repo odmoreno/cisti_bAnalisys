@@ -1,0 +1,3 @@
+Evaluation of Embodied Conversational Agents
+ABSTRACT
+This paper proposes a platform which allows to evaluate the performance of an Embodied Conversational Agent and the influence of several distinct multimedia elements. Using the “Imitation Game” as described by Alan Turing as a starting point and motivation, the platform allows the configuration of several features which influence the Virtual environment. Through a series of user tests and surveys that are performed using the platform, it is possible to gather data that helps measure the efficiency of each feature.

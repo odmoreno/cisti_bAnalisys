@@ -1,0 +1,3 @@
+Could the Topology of Virtual Processors Affect the Performance of a BSD-family OS Running in a VM?
+ABSTRACT
+Virtual machines are an essential technology in distributed and pervasive systems. One of its configurable parameters is the topology of the virtual processing system, which can potentially impact its performance. In this work, we verify how different virtual processing topologies affect the performance of VMs running BSD OSes. We conclude that in some types of application the topology does not affect the VM performance, while in others it does, and that the performance impact also depends on the OS adopted by the VM.

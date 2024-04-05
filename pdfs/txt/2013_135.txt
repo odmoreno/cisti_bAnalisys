@@ -1,0 +1,3 @@
+Augmented Reality in Occupacional Therapy
+ABSTRACT
+Computer technologies have been applied in several professional practice areas, including Occupational Therapy. These constitute a new treatment modality. The goal of this paper is to present the results of the use of an Augmented Reality tool applied to an upper limb rehabilitation program in Occupational Therapy sessions. For this study we selected Duchenne Muscular Dystrophy patients with physical and functional limited abilities.

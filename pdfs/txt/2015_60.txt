@@ -1,0 +1,3 @@
+On the robustness of SNPs filtering using computational intelligence
+ABSTRACT
+This work uses a filter based on neural networks to verify the mismatches in two Arabidopsis thaliana germplasm. Aiming to demonstrate the robustness and adaptability of the filter it will be applied in a reuse model context. The neural network filter previously defined and performed using the genome of an animal of the species Bos Taurus is used maintaining the main parameterization pre-defined to identify the SNPs on the mismatches detected in the reassembled germplasm. The experiments with the adapted filter in the new genome indicate that the quality and level of SNPs detection are preserved despite of the lack of a training process for this specific data.

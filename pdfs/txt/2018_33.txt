@@ -1,0 +1,3 @@
+SimEmp: A game simulation in management teaching
+ABSTRACT
+The use of new teaching methodologies that follow the development of the society and information and communication technologies can be a powerful tool in teaching management. This paper presents the Business Simulator (SimEmp) that makes learning easier. It improves the skills acquisition in the area of business science and, in the form of a game, it allows to simulate the real context of enterprises environment. With business simulation students get more useful knowledge and skills in academic education and that it has the potential to improve students' ability to retain learning.

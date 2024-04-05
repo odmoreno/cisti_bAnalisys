@@ -1,0 +1,3 @@
+Barriers to implement electronic health records
+ABSTRACT
+The aim of implementing Electronic Health Record (EHR) is to replace the use of handwritten medical records in patient care. Despite of the benefits of EHR implementation, still there are still limitations. The aim of this study is to identify the barriers that impact the EHR implementation in health. A systematic review was conducted in order to identify the barriers. As a result 156 articles were identified and finally were selected 9 primary articles and 8 articles based on systematic review of the literature. A list of barriers were identified and categorized. Financial, technological, security, and organizational aspects are the most important limitations.

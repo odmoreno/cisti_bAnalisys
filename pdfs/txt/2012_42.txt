@@ -1,0 +1,3 @@
+A GIS Web with integration of sheet and soil databases of the Brazilian Cerrado
+ABSTRACT
+New challenges for the management of environmental data require interoperability, integration and the sharing of data. This article presents a SIG Web based on service oriented architecture for the integration of data bases related to data on soil and sheet collected in the Brazilian biomass. In the architecture proposed for the development of the SIG, the concept of ontology was used to support the problem of semantic heterogeneity in distinct databases.

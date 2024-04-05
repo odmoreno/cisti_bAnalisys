@@ -1,0 +1,3 @@
+Test virtual learning environments for teaching network for the deaf
+ABSTRACT
+The aim of this study is to analyze the importance of teaching computer networks for deaf, through virtual learning environments. In this sense, test and verify that the settings available in the market include the needs of the deaf, in order to assist the learning of computer networks.

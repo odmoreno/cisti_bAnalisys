@@ -1,0 +1,3 @@
+On the Design of a Platform for Traceability in the Fishery and Aquaculture Value Chain
+ABSTRACT
+Food Traceability is a customer's and other value chain operator's call, driven by increasing product quality demands and customers' awareness. Traceability in fisheries and aquaculture value chain is related to the geographical origin and location of products, but also to the continuous measurement of products transport and storage conditions. This paper follows the methodology that is being carried out in the ValorMar R&D project in order to conceptualize and design the overall integrated traceability platform architecture and services API.

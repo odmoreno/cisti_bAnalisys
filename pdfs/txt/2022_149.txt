@@ -1,0 +1,3 @@
+System for reminiscence therapy based on Telegram and Deep Learning
+ABSTRACT
+In this work is shown a preliminary development of a chatbot integrated in Telegram which can simulate a reminiscence therapy session. For this purpose, uses a deep learning system capable of generating questions related to the images supplied by the chatbot.

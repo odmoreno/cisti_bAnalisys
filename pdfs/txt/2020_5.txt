@@ -1,0 +1,3 @@
+Factors for the development of mHealth apps : Process perspective
+ABSTRACT
+Since the emergence of mobile apps, research has been conducted on the feasibility and benefits of mHealth services. However, there is no clear framework to guide development teams in best practices for building mHealth apps. In this paper we present and discuss the 55 Factors of the Perspective Process of a model that aims to support project teams in the development of mHealth apps aligned with institutional health needs and priorities. As an example of the viability of the model, the discussion is based on its application in the Regional Hospital of Cusco, Peru.

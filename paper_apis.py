@@ -87,6 +87,8 @@ def search_in_pyalex(doi):
         data['found'] = True
     except Exception as e:
         print(f"Paper with DOI {doi} not found. {e}")
+        data['found'] = False
+
     return data
 
 
@@ -101,6 +103,21 @@ def search_paper_doi(id):
         fail_message(e)
         print(f"Paper with ID {id} not found. {e}")
     return doi
+
+
+def convert_utf8(original_dict):
+    # Encode keys and values into UTF-8 format
+    utf8_dict = {}
+    for key, value in original_dict.items():
+        if isinstance(key, str):
+            key = key.encode('utf-8')
+        if isinstance(value, str):
+            value = value.encode('utf-8')
+        utf8_dict[key] = value
+
+    # Print the UTF-8 encoded dictionary
+    print(utf8_dict)
+    return utf8_dict
 
 def get_paper_refs(doi):
     sch = SemanticScholar()
@@ -214,7 +231,7 @@ def get_countries_dict():
     country_dict = {item["country"].lower(): item for item in paises}
     save_generic( 'data/paises.json', country_dict)
 
-def pyalex_test(_doi = '10.23919/CISTI.2017.7975672'):
+def pyalex_test(_doi = '10.1109/CISTI.2014.6877095'):
     linkdoi = 'https://doi.org/' + _doi
     #https://link.springer.com/chapter/10.1007/978-3-031-04826-5_1
     paperPyAlex = pyalex.Works()[linkdoi]

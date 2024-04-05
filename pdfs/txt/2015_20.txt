@@ -1,0 +1,3 @@
+Using a MDD approach to develop software systems
+ABSTRACT
+Modern software systems are becoming increasingly complex as customers demand richer functionality delivered in ever shorter timescales. In this context, the model-oriented approach presents a significant potential in dealing with such problems. This work aims at increasing the development productivity of software systems through the MDA.

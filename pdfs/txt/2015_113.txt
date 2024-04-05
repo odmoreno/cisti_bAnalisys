@@ -1,0 +1,3 @@
+Facebook vs moodle: Surveying university students on the use of learning management systems to support learning activities outside the classroom
+ABSTRACT
+Learning management systems and social networks on Web have been tools most used by students in higher education institutions as learning support tools outside of the classroom. In this paper, we present the results from a survey conducted at a Portuguese university to 159 students in Computer Science and Psychology about the purposes and reasons for the use of Moodle and Facebook. We conclude, among other conclusions, that they complement each other: while the first is mostly used for formal communication with teachers, the second is mostly used for informal communication with peers.

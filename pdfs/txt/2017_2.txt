@@ -1,0 +1,3 @@
+Processing of biomedical signal with neural network Adaline
+ABSTRACT
+This article presents the development of a support system for the physician in the diagnosis of mental illness; the system is based on an Adaline neural network for the processing of biomedical signals from 4 types of ocular movements in order to extract their information and interpret the action potential of each eye movement under study.

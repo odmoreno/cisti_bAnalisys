@@ -1,0 +1,3 @@
+Towards intention-driven Semantic Web Service Architecture
+ABSTRACT
+This paper presents a framework that adds intentional information to semantically annotated Service-Oriented-Architecture (SOA). This approach explicitly defines two atomic actions, which can be performed over resources in a stateless manner, in this case, instances of concepts and relations of ontology. In this paper a framework for Semantic Web Service discovery and composition is proposed based on the atomic actions, which aims at increasing the general performance of service discovery and composition, as well as to provide an easier way for users to express their service requests.

@@ -1,0 +1,3 @@
+Implementation of the ABM Strategy
+ABSTRACT
+Currently, one of the terms that has captured the attention in the marketing area has been Account Based Marketing (ABM). Also, companies in Portugal are seeking to improve their processes using this strategy. In this context and because it is still a weak researched subject, this paper intends to contribute to the knowledge of the usefulness of the ABM strategy. Concerning this situation, it’s assumed that by implementing the ABM strategy, the company will be more efficient, being more aligned with the needs of their customers, and, thus, may be in a more advantageous position within this relationship. And so, it is advanced that ABM makes the company closer to the market and therefore more successful.

@@ -1,0 +1,3 @@
+Sentiment analysis on a corpus of texts written by primary school children
+ABSTRACT
+This paper describes the making of the e-Culturas corpus from written texts by 10-11-year-old-children. These texts have been written from the memory of some event in which the kid has felt fear, hapiness or sadness. The purpose of the corpus in this report is the training of an automatic classifier for these sentiments. The results of the evaluation of the classifier are hopeful, in spite of being in a preliminary development status. We think that they show that the methodology used for the making of the corpus is suitable, and specific techniques can perform at a level good enough to be useful within the e-Culturas web platform.

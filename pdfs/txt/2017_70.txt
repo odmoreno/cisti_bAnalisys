@@ -1,0 +1,3 @@
+OpenStreetMap: An analysis of the evolution of geographic data in Brazil
+ABSTRACT
+OpenStreetMap is a collaborative mapping tool that was created in 2004 by computer student, Steve Coast. The initial idea of the project targeted mapping the United Kingdom region exclusively, however, researchers from other countries became interested and were added as well. Since thousands of users insert new data into the instrument, on an ongoing basis, the quality of that data raises concern. The main objective of this paper is to perform an analysis on the evolution of geographic data in Brazil, inserted into this platform, between 2007 and 2015.

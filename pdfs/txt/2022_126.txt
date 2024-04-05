@@ -1,0 +1,3 @@
+The Development of an Arabic Online Fashion Marketplace
+ABSTRACT
+The development of an online fashion marketplace adapted to the Arabic language, where the reading direction is inverse to Western languages, require challenges that need to be efficiently solved. This paper addresses to a case study of the development of a fashion marketplace for a big economic group in the Middle East, where all contents presented will respect the language rules of the Arabic and English languages. The marketplace is now online and is already a success story in Kuwait, where there the expectation that, in the very near future, it will achieve similar success in the neighbouring countries.

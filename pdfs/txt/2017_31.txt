@@ -1,0 +1,3 @@
+Reference-free system for automated human translation quality estimation
+ABSTRACT
+In this study the plausibility of automated human translation quality estimation is investigated to tackle the slowness, expensiveness and inconsistency of human evaluation. A reference free approach using machine learning is advanced to address four research questions. The methodology characteristic of this approach is then presented in detail. Finally, the author reports the latest progress of the project and some preliminary findings.

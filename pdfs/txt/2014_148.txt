@@ -1,0 +1,3 @@
+Methodology applied problem-based learning in teaching HCI: A case study in usability evaluation of an online course
+ABSTRACT
+Problem-based Learning (PBL) is an instructional approach that uses a real problem to focus, motivate and facilitate learning relevant to the future performance of student conceptual, procedural and attitudinal knowledge as professional life. This paper presents and discusses the implementation of PBL teaching model in Human Computer Interaction (HCI), specifically in teaching usability evaluation of an online course. The model was applied to three classes of the HCI course, involving 16 students, a Brazilian University and 82 users. The results are presented in this work.

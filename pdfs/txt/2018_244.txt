@@ -1,0 +1,3 @@
+Educational robotics: A teaching and learning experience in children with disorders of the autistic spectrum
+ABSTRACT
+The autistic spectrum disorder of high cognitive functioning is a chronic dysfunction that presents communication and attention problems in educational processes. The development of computational tools that combine hardware and software supports this type of difficulty. This article shows the development and implementation of an educational tool, based on robotics and augmented reality, that integrates Hardware and Software to become an alternative for the development of communication skills.

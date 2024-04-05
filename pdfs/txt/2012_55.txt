@@ -1,0 +1,3 @@
+Iberia 2.0: A way to leverage Web 2.0 in organizations
+ABSTRACT
+The Internet and specially the Web 2.0, when combined with the organizations business processes and used in their e-business initiatives, may bring an enormous set of competitive advantages. Despite the slow pass at which the organizations are incorporating Web 2.0 in their business initiatives, these actions are still being made without following any methodology or set of guidelines, thus resulting in inconstant return of investment. With this in mind, we present a project that, by analyzing and studying several case studies, aims on achieving a methodology or a set of guidelines that allow organizations to better plan and execute their Web 2.0 business initiatives.

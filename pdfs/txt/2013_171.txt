@@ -1,0 +1,3 @@
+A study of strategic performance measurement systems: Characteristics and outcomes
+ABSTRACT
+This large-scale study of 1,990 responses from practitioners in a wide range of industries developed and tested a model of relationships among strategic performance measurement systems (SPMS) characteristics and outcomes. Using path analysis and stepwise regression, we found that two SPMS characteristics (design purpose and information technology use), together with system effectiveness, explain close to 50% of the SPMS impact on business results.

@@ -1,0 +1,3 @@
+WorkerTutor: Design and implementation of a virtual tutor to labor self-promotion of Spanish workers in Europe
+ABSTRACT
+This article outlines the process of design and implementation of a virtual tutor to the labour insertion called WorkerTutor. This intelligent communications management tool offered, in 2014, counselling in order to obtain employment to more than 5300 young Spaniards who were living in Germany, France, United Kingdom and Switzerland.

@@ -1,0 +1,3 @@
+Design Thinking for bridging the digital divide in education
+ABSTRACT
+The digital era offers new opportunities to bring education closer to communities traditionally excluded from educational systems; however, until the digital divide is not overcome, citizens will experience limitations for the appropriation of technology for educational purposes. In this sense, this paper offers a methodological proposal inspired by Design Thinking, for the design of e-learning systems that facilitate overcoming the digital divide in education and contribute to the digital inclusion of contemporary citizens.

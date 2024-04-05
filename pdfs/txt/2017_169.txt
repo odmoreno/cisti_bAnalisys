@@ -1,0 +1,3 @@
+A text mining based strategy for understanding the process of orientation in scientific data repositories
+ABSTRACT
+Academic genealogy allows us to understand the guiding-oriented relationship, and to analyze how the knowledge diffuses through the counselor, especially in postgraduate programs, where most of the students intend to remain in the academic environment. Given this, this is an important means to analyze this relationship in several areas of knowledge. In this work, the data of orientations and supervisions coming from Lattes curricula related to the area of computer science are used, obtaining an overview of the genealogy of this group, and also, to produce genealogical trees, allowing to analyze how the knowledge has been propagated.

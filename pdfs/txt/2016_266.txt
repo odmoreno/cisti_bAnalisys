@@ -1,0 +1,3 @@
+Designing digital games for learning: A conceptual framework for novice game designers
+ABSTRACT
+This paper aims to introduce a conceptual framework that has been constructed as a guide towards the development digital games for learning. The framework introduces Heuristic Evaluation based on the literature on productivity and playtesting heuristics to evaluate games and offers a new framework for design a game.

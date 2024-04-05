@@ -1,0 +1,3 @@
+A software for selection of eggs using digital image processing with customization between profits and quality
+ABSTRACT
+In the industry there is a strong requirement of automatic methods of quality control, and digital image processing match this need very well, it allows a high degree of accuracy and low cost, identify whether a product meets the quality requirements set by the consumer. Therefore, this project presents a tool for selection of eggs for consumption, with the possibility of customization between losses and quality.

@@ -1,0 +1,3 @@
+A wiki based system to produce high quality teaching materials
+ABSTRACT
+In this article, we describe a wiki based system which promotes student participation in the production of high quality collaborative teaching materials. To this end, the MediaWiki platform has been modified so that it is able to perform an automatic evaluation of their contributions. To assess the quality of each contribution, the time that they remain in the system has been used as a heuristic. The result is an easy to use tool which facilitates the incorporation of an easy to assess academic activity into most courses. This tool both fosters collaborative learning and yields a continuous improvement of teaching materials.

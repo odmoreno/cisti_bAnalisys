@@ -1,0 +1,3 @@
+Computer programming as a tool to improve mathematic skills in basic education
+ABSTRACT
+Nowadays, technology is present everywhere and accessible to almost everyone. Young people regularly have access to some sort of device such as a tablet, computer or smartphone. In this type of population, there is a natural attraction for technology that can be used by the school to encourage the learning of computer programming. We believe that the same technology can have a key role in learning other subjects such as mathematics. In this thesis we propose to address such problem by creating programming exercises that explore specific topics in mathematics and analyse if this approach has a real benefit in a real context.

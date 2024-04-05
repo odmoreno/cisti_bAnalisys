@@ -1,0 +1,3 @@
+Game Analytics Platform to assist in the Game Design process
+ABSTRACT
+In the game design process, the task of generating ideas and making game mechanics fun is very challenging. In software engineering, end-user satisfaction is difficult to achieve, and in a game, the challenge is much greater. This work proposes a platform that shows the data collected from the player so that, through previously defined metrics, the game designer can have information to support decision making and then make improvements in the game design of the game analyzed.

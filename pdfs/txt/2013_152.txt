@@ -1,0 +1,3 @@
+Project-based learning for error handling in IPv4 packets
+ABSTRACT
+The context of the European Space of Higher implies new Telecommunication Engineers trained in technical knowledge and professional skills. Problem-Based Learning and Project-Based Learning (PBL) are appropriate to achieve an effective learning of these skills. This paper presents a design of project-based learning course in Telecommunications Engineering degree from the University of Extremadura. We explain the stages of project development.

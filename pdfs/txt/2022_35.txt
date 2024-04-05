@@ -1,0 +1,3 @@
+Proposal for a Scientific Collaboration Recommender System Based on Soft-Computing Techniques
+ABSTRACT
+This article presents a proposal for the recommendation of scientific collaborations for researchers and research groups using the methodology for knowledge discovery in databases and an inference procedure based on fuzzy relations. Each phase of the methodology is presented, from information gathering to the generation of recommendations considering that a collaboration can have different motives and interests and for this purpose it is proposed to use two defined criteria: bibliometric affinity and semantic affinity. To validate the inference procedure, an experiment between research groups from two universities in different countries is presented.

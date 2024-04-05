@@ -1,0 +1,3 @@
+Compositor: A tool for connectors generation
+ABSTRACT
+Current work presents the tool COMPOSITOR (supported by FEDER TIN2008-05932) which has been developed for connectors generation. Generated connectors implement the coordination and composition model presented by authors in [1]. This model is based on using a connector defined by the client of a server component which uses contracts to set the non-functional requirements wanted, such as quality of service (QoS), synchronization, etc. In addition, the connector uses server domain ontology for semantic run-time adaptation when the server is updated or replaced.

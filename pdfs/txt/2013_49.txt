@@ -1,0 +1,3 @@
+Usability testing of a Brain-Computer Interface
+ABSTRACT
+This paper describes a usability test of a Brain-Computer Interfaces based on ISO 9241-11 [5] to measure effectiveness, efficiency and user satisfaction. We developed an application that automated the tests, collecting data such as the amount of errors while the user tries to perform tasks and if the task was completed. Tests were performed with 10 potential end users and all the results are also presented and discussed.

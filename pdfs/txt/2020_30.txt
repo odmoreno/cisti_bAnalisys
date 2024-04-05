@@ -1,0 +1,3 @@
+Prediction of Attendance at Medical Appointments Based on Machine Learning
+ABSTRACT
+A recurring problem in the area of public health is the high rate of patients who do not attend scheduled medical examinations and consultations. Absenteeism from previously scheduled appointments compromises the effectiveness of medical care and generates a series of problems in the public health system, such as long waiting lines for care, lack of resources to meet demand and high financial loss, by paying a professional who will be idle due to the absence of patients. Thus, this study aims to explore different models of machine learning in order to help predict whether the patient will attend the scheduled appointment or not.

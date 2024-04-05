@@ -1,0 +1,3 @@
+AsPIn: A Moodle Plugin for Introductory Programming Teaching
+ABSTRACT
+The high failure rate of introductory programming courses is a challenge present in Brazil and in several universities in the world, including the University of Brasília with the subject Introduction to Computer Science. In this context, this paper presents the AsPIn plugin, developed for Moodle Virtual Learning Environment, which uses the student's profile to display messages and guidelines and to customize the content available in the course page. The plugin was evaluated at University of Brasília in Brazil in the Math class. The validation performed by the Mathematics students showed good results.

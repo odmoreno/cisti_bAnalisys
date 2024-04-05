@@ -1,0 +1,3 @@
+A Hybrid Automatic Elasticity Solution for the IaaS Layer based on Dynamic Thresholds and Time Series
+ABSTRACT
+Currently, the most popular auto-elastic solutions at cloud computing providers are rule-based solutions with fixed thresholds. However, these solutions struggle with two main pain key points: reactive nature and hard configuration issues. In this paper, we propose a hybrid auto-scaling approach that overcomes the deficiencies of the solutions based on rules with fixed thresholds. The proposed auto-scaling consists is a hybrid approach, consisting of a set of self-adaptive predictions and reactive component-based dynamic thresholds.

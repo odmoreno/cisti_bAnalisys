@@ -1,0 +1,3 @@
+Multifunctional SaaS Framework
+ABSTRACT
+The Multifunctional SaaS Framework (from portuguese FSM) is a research project in which the main goal is to develop multi-platform SaaS applications in the cloud to support customer needs based on different contexts and business areas. This paper presents the FSM packages architecture and relationships among the main software components. The FSM is developed using Laravel technology. Moreover, three instantiation and validation scenarios for SaaS platforms based on the FSM are presented: Knowledge Management Systems; Decision Support Systems; and Event Management Systems.

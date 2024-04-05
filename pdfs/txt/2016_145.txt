@@ -1,0 +1,3 @@
+Acceptance of the intended use of the cash mobile
+ABSTRACT
+The development of information technologies and user access to mobile telephony is changing the way that banking transactions are made. An initiative that banking institutions have made available to users is the Mobile Cash. However, its mass is determined by a number of factors. This article presents an empirical study of the variables affecting the adoption of Mobile Cash. Technology acceptance models are reviewed and selected and adapts the TAM model including the study variables: Perceived Usefulness, Security and intended use. The results of a customer survey two banks show safety issues as a barrier to the massification of mobile Cash.

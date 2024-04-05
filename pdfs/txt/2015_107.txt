@@ -1,0 +1,3 @@
+A methodology for playful learning application development
+ABSTRACT
+After a contextualization of games for children, as educational tool, this paper presents an approach to playful learning application development using colored Petri nets (colored Petri net - CPN) and connecting them to a 3D application server. At the end of the article the authors present an analysis of the results, showing the interaction between the user and the game's content.

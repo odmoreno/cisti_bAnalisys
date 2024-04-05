@@ -1,0 +1,3 @@
+Automated production of audiovisual informative content
+ABSTRACT
+With the growing rush for media immediacy on the digital era and the exponential development of the information society, audio-visual content is increasingly becoming more widespread and therefore popular as a distribution format. This paper proposes a software solution to automatically generate informative audio-visual content, to meet the current demands and needs for automation.

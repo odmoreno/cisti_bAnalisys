@@ -1,0 +1,3 @@
+Software call for tenders: Metrics based on speech acts
+ABSTRACT
+Outsourcing is a world wide trend that has also reached Software Industry, thus private and public organizations call for software providers to compete for a solution. The process begins with a public notice containing software requirements, economic and methodological conditions. Usually these calls are grouped into public and private Web sites that can accumulate a several calls which are difficult to analyze in a short time. In this paper we propose a set of metrics based on speech acts to reflect basic features of the call that could help providers from software industry to make a decision on those that best fit their profile in the market.

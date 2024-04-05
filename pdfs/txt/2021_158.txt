@@ -1,0 +1,3 @@
+Machine Learning in coastal incident detection, identification and classification with UAVs
+ABSTRACT
+Coastal areas enable the development of economic activities, such as fishing and tourism. The occurrence of maritime incidents can, however, jeopardize these activities. Water pollution, accidents with vessels or falling cliffs are some of these incidents. A proactive surveillance and monitoring of threats by maritime authorities is important. This text proposes a system, installed in a UAV, based on machine learning, and aiming to detect, identify and classify maritime incidents in coastal areas in real time, contributing to a more effective coastal surveillance.

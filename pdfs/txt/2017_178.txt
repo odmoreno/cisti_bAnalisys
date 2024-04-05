@@ -1,0 +1,3 @@
+Proof of concept think! EHR platform
+ABSTRACT
+This document presents a detailed description of the development and results obtained during the Proof of Concept about the Think! EHR platform, which is marketed by the Marand d.o.o (Marand) company.

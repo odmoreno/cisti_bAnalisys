@@ -1,0 +1,3 @@
+Khronosaurus, an adventure in time
+ABSTRACT
+This paper describes the process of creation, validation and user testing of a computer game for players from 12 to 16 years old. The game has as protagonist a dinosaur from the Cretaceous period, and the aim is to find its natural habitat before extinction. The game was created as a didactic application, allowing the player to learn with fun. The implementation of the performance of the player model, with intelligent adaptive difficulty, showed that the degree of difficulty of the game was shaping up to the player, ie, if the player had a good performance the degree of difficulty increased, and vice versa. There was a high acceptance by the players, which led them to want to replay the game.

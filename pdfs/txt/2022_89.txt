@@ -1,0 +1,3 @@
+Impact of quantum computing on current technologies
+ABSTRACT
+Quantum computing has become a highly discussed topic both in industry and academia, this technology is receiving a lot of attention and financial support from both governments and companies. What is sought is to build a quantum computer capable of being used in different practical applications, which would constitute a feat that would mark the beginning of a new era, the quantum era. Thanks to scientists and researchers we can get an idea of the improved impact of quantum computing on the technologies we use and the future

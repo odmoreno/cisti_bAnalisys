@@ -1,0 +1,3 @@
+Voice Pathologies : The Most Comum Features and Classification Tools
+ABSTRACT
+Speech pathologies are quite common in society, however the exams that exist are invasive, making them uncomfortable for patients and depending on the experience of the clinician who performs the assessment. Hence the need to develop non-invasive methods, which allow objective and efficient analysis. Taking this need into account in this work, the most promising list of features and classifiers was identified. As features, jitter, shimmer, HNR, LPC, PLP, and MFCC were identified and as classifiers CNN, RNN and LSTM. This study intends to develop a device to support medical decision, however this article already presents the system interface.

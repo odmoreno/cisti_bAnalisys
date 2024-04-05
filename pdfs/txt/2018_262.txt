@@ -1,0 +1,3 @@
+Exploring the variables that explain the intention to continue using Smartphone
+ABSTRACT
+The use of smartphones has been increasing in Brazil and Chile, becoming a fundamental part of the life of its users. In this context, the purpose of this study is to understand the factors that influence the intention to continue using the smartphone using the Unified Theory of Acceptance and Use of Technology version 2 as a basis. A survey was conducted on 388 smartphone users in Brazil and Chile. These data were analyzed with the modeling of structural equations. The results indicate that the intention to continue using smartphone is explained in 51% by the variables habit, performance expectation, facilitating conditions and hedonic motivation.

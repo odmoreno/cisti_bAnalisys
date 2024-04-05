@@ -1,0 +1,3 @@
+Learning action sequences for decision-making in home automation systems
+ABSTRACT
+Knowing the behavior habits of the individuals can contribute to decision making in human-centered environments. This work presents a learning model within the IntelliDomo project, a system which is able to learn the individuals' habits and make decisions in order to automatically generate production rules that anticipate the users' frequent and periodic activities. The learning layer incorporates new features such as the detection of action sequences, since users' habits can be better defined if they are related to chained actions, creating action-action relationships.

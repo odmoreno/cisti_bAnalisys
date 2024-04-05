@@ -1,0 +1,3 @@
+Conceptual model and process applied in management auditic with focus in social responsibility through open source tools
+ABSTRACT
+The scientific novelty of this research lies in the integrating conception of the management audit, the social responsibility approach and its relationships expressed in a conceptual model that defines lines of action for management, which is operationalized through the methodological and practical construction of a management audit procedure with a social responsibility approach that allows the identification and management of indicators associated with the social behavior of an organization. This research was supported with the use of open source tools.

@@ -1,0 +1,3 @@
+A model for websites quality assessment
+ABSTRACT
+Websites quality is strategically important for organizations and for the satisfaction of their clients. In this paper we propose a high-level structure for a global quality evaluation of a website. This structure is based in three main dimensions (contents, services, technical), characteristics, sub-characteristics and attributes, that will substantiate the development of broad websites quality evaluation, comparison and improvement methodologies, according to particular sectors of activity.

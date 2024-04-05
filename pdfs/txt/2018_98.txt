@@ -1,0 +1,3 @@
+Model of datasets unification from different open data portals
+ABSTRACT
+Increasingly, datasets are represented in linked open data format. Instead, content reusers, when trying to develop useful applications for several open data portals, do not find homogeneous representation schemas for same topics' data. This article proposes a semantic model for unification of datasets schemas and resources representation, in order to favour its reuse.

@@ -1,0 +1,3 @@
+Multi-touch as a Natural User Interface for elders: A survey
+ABSTRACT
+The use of traditional input devices such as keyboards and mice can become a huge obstacle for older adults in interacting with computer systems. Using Natural User Interfaces (NUI's), more specifically using gestures or movements on a multi-touch device, can be a good alternative to overcome these dificulties. This paper analyses the state of the art and identifies a set of criteria relevant to classify the projects in this area. The resulting classification enables us to recognize research opportunities on Natural User Interfaces, and namely multi-touch interfaces for elderly.

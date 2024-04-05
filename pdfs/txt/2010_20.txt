@@ -1,0 +1,3 @@
+The trajectories of study and research as products of didactical engineering: REI en ingeniería didáctica
+ABSTRACT
+The paper we are presenting is still in an experimental phase and it is being developed in a workshop for mathematical problems. We try to create teaching and learning sequences of the mathematical activity using a new didactical device, which is currently investigated and tested, that can be considered as a product of Didactical Engineering (Trajectory of Study and Research, hereinafter TSR), where the mathematical modelling and the computer tool have a strong role, specially in institutional settings such as schools of engineering, where we develop our work.

@@ -1,0 +1,3 @@
+Application fuzzy logic in criminality problem against woman in Brazil
+ABSTRACT
+Relational databases queries are simple and the structured language SQL facilitates this kind of processing. SQL is very useful but it does not realize queries if qualitative words are used: expressions as high, low, very, little, among others, are not exact and SQL (quantitative language) does not can process it. In this way, this work proposes to use fuzzy logic to respond subjective queries. A dataset with homicides against woman data in Brazil, between the years 2003-2013, was used and qualitative queries to this dataset were answered using a fuzzy methodology.

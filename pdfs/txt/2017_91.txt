@@ -1,0 +1,3 @@
+Implementing a process asset library focused on IT service capacity management
+ABSTRACT
+Improving the quality in organizations is carried out through improving their processes. So, it is of vital importance to maintain the knowledge of these processes (assets). One way of doing it is using a process asset library (PAL), although there are some problems when defining effective PALs. In this paper, a new practical approach and a brief case study (focused on IT capacity management) are presented.

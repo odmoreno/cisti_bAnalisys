@@ -1,0 +1,3 @@
+The educational robotic platform LSMaker EV1: Standardization vs customization
+ABSTRACT
+In this paper we present the new version of the LSMaker Robot, an educational platform designed by La Salle - Ramon Llull University to be used as facilitator of acquisition of concepts in all engineering curricula and, at the same time, a new companion as a robotic classmate. The new version of the LSMaker, named LSMaker EV1, changes from a full customized to an open source Arduino-based hardware. So the paper describes the challenges faced by the original LSMaker, studied the advantages and disadvantages of standardization in front of customization, and gives a description of the new proposed platform.

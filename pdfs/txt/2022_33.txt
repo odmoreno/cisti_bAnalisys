@@ -1,0 +1,3 @@
+Learning by Doing in Financial Auditing with SimEmp Application
+ABSTRACT
+Financial auditing teaching presents challenges that range from testing to technical knowledge in financial and management accounting and in taxation to knowledge related to financial audit procedures, namely materiality, control tests, analytical procedures and detailed substantive procedures. The biggest challenge is to understand the professionals’ official reports. In this work, the SimEmp – Avaliação (Auditing) application is presented as a way to demand the development of appropriate skills and competences in an auditor. In this sense, the application is structured and organized with the aim of student contact the main topics of financial audit.

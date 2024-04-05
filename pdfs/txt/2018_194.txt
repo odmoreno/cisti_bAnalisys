@@ -1,0 +1,3 @@
+Interface with Ubidots for a fire alarm system using WiFi
+ABSTRACT
+The product that is presented is a fire detection system based on small wireless devices that have been the sensors. In this work, a fire alarm system will be developed that will include several hardware elements: a circuit that will act as a wireless sensor, a sensor that will act as coordinator of the sensor network and communication bridge with the application in Ubidots. Regarding the software, an application will be developed for the sensor that will control the values of the temperature and smoke sensors.

@@ -1,0 +1,3 @@
+Learning assessment in Higher Education: A methodological approach
+ABSTRACT
+In recent years the European Higher Education Area (EHEA) and digital technologies have changed the way in which teaching is delivered and learning is assessed. In this paper, we propose a methodology for evaluating the following: learning, using the results obtained by students using the SIENA SOCIAL tool; problem solving, using simulators; and finally, continuous evaluation.

@@ -1,0 +1,3 @@
+Interplay between human-computer interaction and software engineering
+ABSTRACT
+The challenge to transfer HCI suggested values, and practices to Software Engineering (SE) processes is not only persisting, but also systemic. Notable contributions from both fields have attempted to isolate and close the gaps between the HCI and SE, with the goal of making software products most usable. Using a scoping study approach, this article reviews notable contributions on the discourse and identifies the gaps, and shows areas that require more research attentions.

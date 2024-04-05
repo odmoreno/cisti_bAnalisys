@@ -1,0 +1,3 @@
+E-sharing: Development and use of learning objects repository
+ABSTRACT
+In the new learning environments, built width digital technologies, the need to promote quality of education resources, commonly known as Learning Objects, which can support formal and informal distance learning, emerge as one of the biggest challenge that educational institutions will have to face. Due to the fact that is expensive, the reuse and sharing became very important issue. This article presents a Learning Object Repository which aims to store, to disseminate and maintain accessible Learning Objects.

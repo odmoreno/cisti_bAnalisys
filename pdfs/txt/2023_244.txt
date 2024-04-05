@@ -1,0 +1,3 @@
+AASI: Sensor Activation Algorithm with Interaction for Low-Cost Microcontrollers
+ABSTRACT
+The Internet of Things assists in remote patient monitoring, bringing healthcare benefits. Monitoring can involve multiple sensors, such as heart rate and blood oxygenation sensors. However, it is a challenge to guarantee accurate and real-time readings on low-cost microcontrollers. This work proposes a solution that manages several sensors in low-cost microcontrollers, guaranteeing the accuracy of the readings and reducing the time of anomaly detection and decision-making. The experiments suggest that the proposed algorithm guarantees the accuracy of the readings and reduces the time of anomaly detection and decision-making.

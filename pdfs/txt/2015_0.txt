@@ -1,0 +1,3 @@
+Racing based approach for Metaheuristics parameter tuning
+ABSTRACT
+Metaheuristics are very useful to achieve good solutions in reasonable execution times. Sometimes they even obtain optimal solutions. However, to achieve near-optimal solutions, the appropriate tuning of parameters is required. This paper presents a Racing based learning module proposal for an autonomous parameter tuning of Metaheuristics. After a literature review on Metaheuristics parameter tuning and Racing approaches, the learning module is presented. A computational study for the resolution of the Scheduling problem is also presented. Comparing the preliminary obtained results with previous published results allow to conclude about the effectiveness and efficiency of this proposal.

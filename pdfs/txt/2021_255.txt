@@ -1,0 +1,3 @@
+Dependability and Sensitivity Analysis in Dense Data Center Networks
+ABSTRACT
+The design, implementation, and maintenance of data center networks must meet numerous dependability requirements to guarantee the quality of service at a high level of reliability. This paper investigates dependability metrics and performs sensitivity analysis for data center networks with different redundancy levels. Our approach is based on hierarchical modeling in which we use reliability block diagrams. We applied the parametric sensitivity analysis technique in the proposed experiments to assess how sensitive the availability is concerning the model components' failure and repair times.

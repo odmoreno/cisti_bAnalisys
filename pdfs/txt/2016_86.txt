@@ -1,0 +1,3 @@
+Solutions analysis of authentication and authorization for service oriented architectures
+ABSTRACT
+The Service Oriented Architecture (SOA) brings benefits such as loose coupling and interoperability being widely used for integrating applications within a company. This feature makes the SOA architecture is used for the modernization of legacy systems that seeing being analyzed in the Information Technology Centre (CPD) at the University of Brasilia (UNB). However, such characteristic brings security problems. This article presents a systematic mapping about the authentication and authorization mechanisms in SOA and raises research questions, as well as some protocols used.

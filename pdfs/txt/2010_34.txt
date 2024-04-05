@@ -1,0 +1,3 @@
+A case study related to the control of IT services in a small enterprise
+ABSTRACT
+This paper shows a case study related to the implementation of the financial management process in a small enterprise whose core business is not Information Technology (IT). A brief description of ITIL v3 financial management process is presented. Then, the target enterprise and its IT infrastructure are described. Finally, it shows how it has begun to implement the financial management process through IT costs accounting of the previous year, which makes the baseline, to make the IT budget for the current year.

@@ -1,0 +1,3 @@
+Neuroscience applied to the text and images analysis
+ABSTRACT
+This paper gives an overview of the evolution from neuroscience to social, humanistic and communication sciences and their application to the analysis of texts and images, through the use of various computer linguistic programs and the impact of Eye-Tracking technologies focused in web design and academic social media platforms.

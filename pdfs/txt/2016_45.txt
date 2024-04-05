@@ -1,0 +1,3 @@
+Training primary caregivers of dependent people through the use of ICT
+ABSTRACT
+Life expectancy has increased in most industrialized countries and the number of older adults is projected to grow. Older people have a high prevalence of chronic mental and physical Non-communicable diseases (NCDs) (E.g. diabetes, osteoarthritis, heart failure, Alzheimer and Parkinson) with functional implications that lead to dependency. Thus, older people will require sometimes long-time interventions although not necessarily permanent from caregivers. A web-solution aimed to primary caregivers is here presented-that can be available from every place and time-to manage dependent people and/or elderly dependent.

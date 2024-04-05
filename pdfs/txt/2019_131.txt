@@ -1,0 +1,3 @@
+Modelling of Stability of Wireless Sensor Network Control Systems in case of uncertainty
+ABSTRACT
+Main factor of Sensor network control system is to provide system optimal functionality support method that take in account all its industrial and economic criteria. In this paper stochastic modelling method of the stability of Sensor network control system (SCS) is observed. The process of deterministic and stochastic modelling of SCS stability is considered in the conditions of uncertainty using benchmarking and dynamic programming method by Bellman.

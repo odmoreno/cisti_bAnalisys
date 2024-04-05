@@ -1,0 +1,3 @@
+Economic growth and internet access in developing countries: The case of South America
+ABSTRACT
+The objective of this paper is to analyze the effect of internet access on the economic growth in ten countries of South America in the period 1996-2016. For that, a panel data model was used in addition of some covariates (some of them instrumental variables). Results show the existence of a positive correlation between access to the internet and the variation of GDP (when considering instrumental variables, it is shown greater robustness in the model).

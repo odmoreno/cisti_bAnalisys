@@ -1,0 +1,3 @@
+Statistical Analysis of the Units of Action in Facial Expressions for Emotion Recognition
+ABSTRACT
+In this article, the statistical behavior of the activation intensities of the action units that represent the micro-expressions of the facial expressions for four main emotions, happiness, anger, sadness, and surprise, is analyzed. Based on the results obtained, the distribution of each unit of action is modeled through probability density functions, which will allow the creation of an infinity of random samples, which contribute to emotion evaluation processes and especially to artificial intelligence techniques that require a high number of samples for their training processes.

@@ -1,0 +1,3 @@
+Low-Code Development Platforms: A Descriptive Study
+ABSTRACT
+Driven by the existing gap between developers’ vision and the domains requirement, there is a growing trend on the application of Low-Code Development platforms. To understand the state-of-the-art, key concepts, factors and variables that encompass the thematic of Low-Code Development platforms are studied and presented in this study.

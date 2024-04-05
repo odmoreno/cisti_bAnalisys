@@ -1,0 +1,3 @@
+An Intelligent Device Public Parks Cleaner: The Robot Garbot 4.0
+ABSTRACT
+This paper goal is to describe the stages and results of development of an intelligent device park cleaner a prototype named Garbot 4.0. This robot was builted in the context of Fourth Laureate Award for Excellence in Robotic Engineering, realized in 2017, with the theme of “Environment and Sustainability”, The proposal of competition and of the Garbot 4.0 is the cleaning and maintaining parks. The results are very promise, so far, with results of functions of Garbot 4.0 was successfully realized in arena of tests, validating all main specifications. The results presented in this paper details all the stages, materials, functions and technical description of the Garbot 4.0.

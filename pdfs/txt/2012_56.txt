@@ -1,0 +1,3 @@
+AVIP service portal of UNED
+ABSTRACT
+This paper discusses the progress in the management interface and access to AVIP (Audiovisual technology over IP) of UNED (National University of Distance Education). The new Website ensures more accessible and easier access to services. This Site is focused on the Virtual Classroom Videoconferencing, Virtual Classroom Webconferencing and Digital repository (Campus Channel).

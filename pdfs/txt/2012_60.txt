@@ -1,0 +1,3 @@
+A semantic search engine: Olympic women: Web semántica: “Mujer Olímpica”
+ABSTRACT
+This Project aims to promote women's sports through technology platforms such as Web 3.0. To do this, a semantic search algorithm has been developed to search for news about achievements of Spanish female athletes, in Olympic and Paralympic disciplines. All collected pieces of news are processed for later viewing in a web platform.

@@ -1,0 +1,3 @@
+MMCbEEES: Maturity model in the e-Learning teaching environment adapted to the EHEA
+ABSTRACT
+Today, maturity models are frequently used to evaluate different processes within organizations and in particular those related to Information Technology (IT). Thus, maturity models are applied to IT Governance, such as it defined in COBIT framework, a reference model in this area. Given the wide acceptance of these models, and proven its effectiveness, we propose in this work the use these models to measure the maturity of processes related to teaching in eLearning environment, in particular those related to the EHEA, by proposing a particular model, MMCbEEES, it described throughout the paper.

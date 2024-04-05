@@ -1,0 +1,3 @@
+Processing of the results from educational forum of the virtual courses in order to analyze them: Making automatic reports from the log files
+ABSTRACT
+Methodology eLearning improves educational and promotes to share and collaborate. This work presents a way to analyze and automate log files from the educational forums in a course of virtual learning systems. We have developed a piece of software to process the logs files. Text reports and database files are produced. Then it is possible to study them and to obtain conclusions about the work of our students in this context.

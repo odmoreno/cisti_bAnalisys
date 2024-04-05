@@ -1,0 +1,3 @@
+Applying the UTAUT model in Engineering Higher Education: Teacher's technology adoption
+ABSTRACT
+Many research theories try to explain the adoption/rejection of technology by the users. One of them focuses on the study of the acceptance and the intention of its use and it is named Unified Theory of Acceptance and Use of Technology (UTAUT). The main goal of this article is to model the verification of the adequacy of UTAUT to the use of information technologies (IT) in pedagogical processes in Higher Education (HE). A research methodology centered on the analysis of the use of the e-learning platform in the Instituto Superior de Engenharia do Porto (ISEP) has been developed in order to validate the factors in that context.

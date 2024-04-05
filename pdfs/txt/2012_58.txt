@@ -1,0 +1,3 @@
+iFarm — Business model for online tracking of farms
+ABSTRACT
+This paper presents the iFarm project, which seeks to provide an interactive experience of support and monitoring small and medium-sized farms, including small animals growth. In this sense, it is presented and discussed a business model suitable to the iFarm concept, based in the models of e-commerce B2B and B2C. We also describe the information system to support this business model, as well as the planning for its construction and development. Finally, some directions for further developments of the iFarm concept are introduced.

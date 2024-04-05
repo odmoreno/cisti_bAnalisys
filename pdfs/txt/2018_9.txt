@@ -1,0 +1,3 @@
+Evaluation of BPM tools open source/freeware
+ABSTRACT
+In recent decades, Due the diversity of BPM tools (commercial or open source/freeware solutions), the appropriate selection of a tool by an organization becomes increasingly difficult. This paper defines a framework to guide the evaluation of BPM tools open source/freeware, which focuses into the BPM lifecycle and includes a set of technological criteria. This evaluation framework has been used to classify the implementation of a case study in the selection BPM tools. The result of this paper presents a comparative analysis between the BPM tools to help the organizations in the decision-making and to justify the adoption of a BPM tool.

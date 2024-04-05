@@ -1,0 +1,3 @@
+Solid dosing system for feeding dogs with remote communication module
+ABSTRACT
+Currently families usually have a dog at home, which means taking care of their welfare, mainly in food. The problem arises when caregivers can not be home for several days. This paper show the development of a metering cylinder system that provides one serving of 40g. The device has an elaborate structure in AISI 304, with a storage of food in acrylic. The dosing mechanism is set to amount and frequency of dosing, using a controller. Additional mobile communication module, which informs the user the feed level in the tank and if the dog has not eaten joined.

@@ -1,0 +1,3 @@
+Internet of Things challenges
+ABSTRACT
+The last years have been characterized by impressive growth of the Internet, and consequently by the increased number of users. This growth has been following the evolution of the Web, in the begin the Web 1.0 known as Web of Information connections until the present day with the Web 4.0, the Web of Intelligence connections, and the fast development of wireless communication technologies, embedded sensors, real-time localization and wireless sensor networks (WSN), leading to the Internet of Things (IoT). IoT opens an unprecedented window of opportunity for organizations, creating new sources of value for the business, for those who are betting on improving their processes agility and data capabilities.

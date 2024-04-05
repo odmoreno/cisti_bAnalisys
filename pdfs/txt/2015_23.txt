@@ -1,0 +1,3 @@
+R24móvel — 24 Hour dietary recall mobile application
+ABSTRACT
+This article aims to present the application R24Móvel, for nutritionists, which was developed for tablets with Android operating systems, and to discuss issues related to the development of this application. The article will show the application structure, functionality and actuation area, as well as the relevance of the application within the field of nutrition, automating one of the most important dietary food intake assessments, the 24h recall.

@@ -1,0 +1,3 @@
+Method for sorting and grouping computers based on computational profile applied to forensic expert evidence
+ABSTRACT
+This paper presents a method for grouping and computer triage at the time of disc duplication. Although the method is directed to judicial experts of computer science, the same can also be able to be used by professionals of other areas, it may also be used by professionals in other fields of digital investigation. The results indicate that the method can be used effectively in certain circumstances, reducing the time, effort and therefore the amount of data to be verified in the analysis stage.

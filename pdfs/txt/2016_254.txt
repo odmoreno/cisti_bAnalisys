@@ -1,0 +1,3 @@
+Web accessibility challenges and perspectives: A systematic literature review
+ABSTRACT
+With this paper we intend to present a systematic literature review on Web accessibility. During this research project, 782 papers were identified and by following a set of inclusion criteria, 38 stood out and were extensively analyzed. On this context we approach a set of Web accessibility critical issues, such as: guidelines, standards and regulations; mobile accessibility; organizations and user perspectives on the topic. During the full scope of this document we adopt a positive position, always focused on presenting solutions to ensure websites accessibility.
