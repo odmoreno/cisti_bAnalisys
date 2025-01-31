@@ -4,3 +4,9 @@
 /__pycache__
 /pdfs/Data.zip
 /pdfs/Data
+
+/data/*.json
+!/data/papers.json
+
+/Rankings/*.json
+!/Rankings/authors.json
