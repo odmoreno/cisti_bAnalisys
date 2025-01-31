@@ -5,8 +5,15 @@
 /pdfs/Data.zip
 /pdfs/Data
 
-/data/*.json
-!/data/papers.json
+/Data/*.json
+/Data/*.csv
+/GetData/Data/*.json
+!/GetData/Data/papers.json
 
 /Rankings/*.json
+/Rankings/ranking/*.json
+/Rankings/ranking/*.csv
+/Rankings/coauthor/*.csv
+
+
 !/Rankings/authors.json
