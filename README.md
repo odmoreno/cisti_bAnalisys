@@ -6,3 +6,5 @@ git remote add origin https://git.cti.espol.edu.ec/oscar.moreno/cisti_bibliometr
 git branch -M main
 git push -uf origin main
 ```
+
+cambios realizados
